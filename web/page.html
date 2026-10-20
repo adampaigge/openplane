@@ -3,7 +3,7 @@
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%9B%A9%EF%B8%8F%3C/text%3E%3C/svg%3E">
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700;800;900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=JetBrains+Mono:wght@400;600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600&display=swap">
 <style>
 /* Layout: an assembly manual. Paper "manual page" on the left, the folding 3D model on the right, timeline under both, long-form notes below. Dark hangar chrome, paper stays paper. */
 :root{
@@ -13,7 +13,7 @@
   --valley:#c4302a; --mountain:#2a5bb0; --roll:#2b8a57;
   --stage:#0e1524;
   --f-display:"Inter Tight","Noto Sans","Segoe UI",system-ui,sans-serif;
-  --f-body:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --f-body:"Inter Tight","Noto Sans","Segoe UI",system-ui,sans-serif;
   --f-mono:"JetBrains Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
   color-scheme:dark;
 }
@@ -413,6 +413,7 @@ a.pbtn[aria-disabled="true"]{opacity:.45;cursor:not-allowed;pointer-events:none}
 .qphase td{font-size:14px;line-height:1.45}
 .qphase td:first-child{width:22%}
 @media (max-width:700px){.qretire{margin-left:0}.qphase{padding:16px 14px}.qphase table,.qphase tbody,.qphase tr,.qphase td{display:block;width:auto!important}.qphase thead{display:none}.qphase tr{padding:12px 14px;border-bottom:1px solid var(--line)}.qphase tr:last-child{border-bottom:0}.qphase td{border:0;padding:4px 0}.qphase td[data-l]::before{content:attr(data-l);display:block;font-family:var(--f-mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-top:6px}}
+section p,section li,.mtext,.sub,.truth p{letter-spacing:-.005em}
 </style>
 
 <div class="flagband" aria-label="Flags of the world: a project for anyone, anywhere"><div class="flagtrack" id="flagTrack"></div></div>
@@ -1233,7 +1234,7 @@ async function paintBoard(n){
   if(!ids.length){ // notes card instead
     c.save(); c.translate(px0+120,120); c.rotate(-0.02); c.fillStyle='#fbf8f1'; c.shadowColor='rgba(0,0,0,.35)'; c.shadowBlur=18; c.shadowOffsetY=6; c.fillRect(0,0,680,520); c.shadowColor='transparent';
     c.fillStyle='#1b1d21'; c.font='700 30px "Inter Tight", system-ui, sans-serif'; c.fillText(n===1?T('Cut list'):T('Notes'),36,60);
-    c.font='400 22px Georgia, serif'; let y=110; (n===1 ? [`${M.parts.length} ${T('unique blanks')}`, `${totBlanks} ${T('blanks in all')}`, T('Deburr every edge and hole'), T('Mark folds with felt pen, never a scribe')] : st.sub.slice(0,6).map(s=>T(s))).forEach(t=>{
+    c.font='400 22px "Inter Tight", system-ui, sans-serif'; let y=110; (n===1 ? [`${M.parts.length} ${T('unique blanks')}`, `${totBlanks} ${T('blanks in all')}`, T('Deburr every edge and hole'), T('Mark folds with felt pen, never a scribe')] : st.sub.slice(0,6).map(s=>T(s))).forEach(t=>{
       const ws=t.split(' '); let line='• '; ws.forEach(w=>{ if(c.measureText(line+w).width>600){ c.fillText(line,36,y); y+=30; line='  '; } line+=w+' '; }); c.fillText(line,36,y); y+=40; if(y>500) return; });
     c.fillStyle='#d33'; c.beginPath(); c.arc(340,14,11,0,7); c.fill(); c.restore();
   }

@@ -603,7 +603,8 @@ async function loadTR(l){
   for(const base of I18N_BASES){ try{ const r=await fetch(base+l+'.json'); if(!r.ok) continue; const d=await r.json();
       for(const k in d){ TR[l][k]=d[k].t; TRSRC[l][k]=d[k].reviewed?'reviewed':'machine'; } break; }catch(e){} }
 }
-function T(s){ if(!s||LANG==='en') return s; const d=TR[LANG]; if(d && d[s]!=null) return d[s]; if(d && /[A-Za-z]{3}/.test(s)){ pending.add(s); if(!trTimer && !trBusy) trTimer=setTimeout(fillFromBrowser,300); } return s; }
+function T(s){ return unitText(T0(s)); }
+function T0(s){ if(!s||LANG==='en') return s; const d=TR[LANG]; if(d && d[s]!=null) return d[s]; if(d && /[A-Za-z]{3}/.test(s)){ pending.add(s); if(!trTimer && !trBusy) trTimer=setTimeout(fillFromBrowser,300); } return s; }
 function trNote(msg){ const n=document.getElementById('trNote'); if(!n) return; n.hidden=!msg; n.innerHTML=msg||''; }
 function noteFor(lang){
   if(lang==='en') return '';
@@ -666,10 +667,48 @@ const uStress = mpa => imp()? fmt(mpa*0.145038,1)+' ksi' : fmt(mpa,0)+' MPa';
 const uForce = n => imp()? fmt(n*0.224809,0)+' lbf' : fmt(n,0)+' N';
 const uVol = l => imp()? fmt(l*0.264172,1)+' US gal' : fmt(l,0)+' L';
 const uSpd = kt => fmt(kt,0)+' kt'+(imp()? ' ('+fmt(kt*1.15078,0)+' mph)' : ' ('+fmt(kt*1.852,0)+' km/h)');
-function unitText(str){ if(!str || !imp()) return str;
-  return String(str).replace(/(\d+) [x×] (\d+) mm/g,(m,a,b)=>fmt(a/25.4,1)+' × '+fmt(b/25.4,1)+' in').replace(/(\d[\d,]*(?:\.\d+)?)\s?mm\b/g,(m,n)=>{ const v=parseFloat(n.replace(/,/g,'')); return uLen(v); })
-    .replace(/(\d[\d,]*(?:\.\d+)?)\s?kg\b/g,(m,n)=>uMass(parseFloat(n.replace(/,/g,''))))
-    .replace(/(\d[\d,]*(?:\.\d+)?)\s?L\b/g,(m,n)=>uVol(parseFloat(n.replace(/,/g,'')))); }
+// Convert every measurement in a sentence to the chosen system. Metric mode converts imperial
+// values; imperial mode converts metric ones, so applying it twice changes nothing. Codes that look
+// like measurements are left alone: tyre sizes (21 x 8.00-6), threads (1/4-28), AN/MS numbers, drill #s.
+const FRAC = s=>{ const m=String(s).match(/^(?:(\d+)[- ])?(\d+)\/(\d+)$/); return m ? (+(m[1]||0)) + m[2]/m[3] : parseFloat(String(s).replace(/,/g,'')); };
+const NUM = String.raw`(?<![\w.\/])(?<!\w-)(\d+\/\d+|\d[\d,]*(?:\.\d+)?|\.\d+)`, NUM2 = String.raw`(\d+\/\d+|\d[\d,]*(?:\.\d+)?|\.\d+)`;
+function mmTxt(mm){ return mm>=1000 ? fmt(mm/1000, mm%1000===0?0:2)+' m' : mm<10 ? fmt(mm, mm<1?2:1)+' mm' : fmt(mm,0)+' mm'; }
+function inTxt(inch){ if(inch>=24 && Math.abs(inch/12-Math.round(inch/12*4)/4)<1e-6) return fmt(inch/12,inch%12?2:0)+' ft';
+  for(const [f,s] of [[1/16,'1/16'],[1/8,'1/8'],[3/16,'3/16'],[1/4,'1/4'],[5/16,'5/16'],[3/8,'3/8'],[1/2,'1/2'],[5/8,'5/8'],[3/4,'3/4']]) if(Math.abs(inch-f)<0.004) return s+' in';
+  return fmt(inch, inch<1?3:inch<10?2:1)+' in'; }
+function toMetric(s){
+  return s
+    .replace(new RegExp(NUM+String.raw`\s?(?:–|-)\s?`+NUM2+String.raw`\s?(?:in|inch|inches)\b(?![-\w])`,'g'),(m,a,b)=>mmTxt(FRAC(a)*25.4).replace(/ mm$/,'')+'–'+mmTxt(FRAC(b)*25.4))
+    .replace(/inch-pound torque wrench/g,'N·m torque wrench')
+    .replace(new RegExp(NUM+String.raw`\s?(?:x|×)\s?`+NUM2+String.raw`\s?ft\b(?!\/)`,'g'),(m,a,b)=>fmt(FRAC(a)*0.3048,2)+' × '+fmt(FRAC(b)*0.3048,2)+' m')
+    .replace(new RegExp(NUM+String.raw`\s?(?:x|×)\s?`+NUM2+String.raw`\s?(?:in|inch|inches)\b(?!-)`,'g'),(m,a,b)=>{ const A=FRAC(a)*25.4,B=FRAC(b)*25.4; const t=mmTxt(Math.max(A,B)).split(' ')[1]; const f=v=>t==='m'?fmt(v/1000,2):fmt(v,v<10?1:0); return f(A)+' × '+f(B)+' '+t; })
+    .replace(new RegExp(NUM+String.raw`\s?ft\b(?![\/-])`,'g'),(m,a)=>mmTxt(FRAC(a)*304.8))
+    .replace(new RegExp(NUM+String.raw`\s?(?:in|inch|inches)\b(?![-\w])`,'g'),(m,a)=>mmTxt(FRAC(a)*25.4))
+    .replace(new RegExp(NUM+String.raw`\s?(?:–|-|to)\s?`+NUM2+String.raw`\s?psi\b`,'g'),(m,a,b)=>fmt(FRAC(a)*0.0689476,1)+'–'+fmt(FRAC(b)*0.0689476,1)+' bar')
+    .replace(new RegExp(NUM+String.raw`\s?psi\b`,'g'),(m,a)=>fmt(FRAC(a)*0.0689476,1)+' bar')
+    .replace(new RegExp(NUM+String.raw`\s?(?:US )?gal\b`,'g'),(m,a)=>fmt(FRAC(a)*3.78541,1)+' L')
+    .replace(new RegExp(NUM+String.raw`\s?lbf\b`,'g'),(m,a)=>fmt(FRAC(a)*4.44822,0)+' N')
+    .replace(new RegExp(NUM+String.raw`\s?lbs?\b(?!\/)`,'g'),(m,a)=>fmt(FRAC(a)*0.453592,FRAC(a)<10?1:0)+' kg')
+    .replace(new RegExp(NUM+String.raw`\s?hp\b(?!\/)`,'g'),(m,a)=>fmt(FRAC(a)*0.7457,0)+' kW');
+}
+function toImperial(s){
+  return s
+    .replace(new RegExp(NUM+String.raw`\s?(?:–|-)\s?`+NUM2+String.raw`\s?mm\b`,'g'),(m,a,b)=>inTxt(FRAC(a)/25.4).replace(/ in$/,'')+'–'+inTxt(FRAC(b)/25.4))
+    .replace(new RegExp(NUM+String.raw`\s?(?:x|×)\s?`+NUM2+String.raw`\s?mm\b`,'g'),(m,a,b)=>inTxt(FRAC(a)/25.4).replace(/ (in|ft)$/,'')+' × '+inTxt(FRAC(b)/25.4))
+    .replace(new RegExp(NUM+String.raw`\s?(?:x|×)\s?`+NUM2+String.raw`\s?m\b(?![²\/])`,'g'),(m,a,b)=>fmt(FRAC(a)*3.28084,1)+' × '+fmt(FRAC(b)*3.28084,1)+' ft')
+    .replace(new RegExp(NUM+String.raw`\s?mm\b`,'g'),(m,a)=>inTxt(FRAC(a)/25.4))
+    .replace(new RegExp(NUM+String.raw`\s?km\b(?!\/)`,'g'),(m,a)=>fmt(FRAC(a)*0.621371,0)+' mi')
+    .replace(new RegExp(NUM+String.raw`\s?m\b(?![²\/·])`,'g'),(m,a)=>{ const ft=FRAC(a)*3.28084; return ft<3 ? inTxt(FRAC(a)*39.3701) : fmt(ft, ft<20?1:0)+' ft'; })
+    .replace(new RegExp(NUM+String.raw`\s?kg\b(?!\/)`,'g'),(m,a)=>fmt(FRAC(a)*2.20462,FRAC(a)<5?1:0)+' lb')
+    .replace(new RegExp(NUM+String.raw`\s?L\b`,'g'),(m,a)=>fmt(FRAC(a)*0.264172,1)+' US gal')
+    .replace(new RegExp(NUM+String.raw`\s?(?:–|-)\s?`+NUM2+String.raw`\s?bar\b`,'g'),(m,a,b)=>fmt(FRAC(a)*14.5038,0)+'–'+fmt(FRAC(b)*14.5038,0)+' psi')
+    .replace(new RegExp(NUM+String.raw`\s?bar\b`,'g'),(m,a)=>fmt(FRAC(a)*14.5038,0)+' psi')
+    .replace(new RegExp(NUM+String.raw`\s?MPa\b`,'g'),(m,a)=>fmt(FRAC(a)*0.145038,1)+' ksi')
+    .replace(new RegExp(NUM+String.raw`\s?kN\b`,'g'),(m,a)=>fmt(FRAC(a)*224.809,0)+' lbf')
+    .replace(new RegExp(NUM+String.raw`\s?kW\b`,'g'),(m,a)=>fmt(FRAC(a)*1.34102,0)+' hp')
+    .replace(/N·m torque wrench/g,'inch-pound torque wrench');
+}
+function unitText(str){ if(!str) return str; const s=String(str); return imp() ? toImperial(s) : toMetric(s); }
 
 let cgSel=null;
 function drawCG(lab){
@@ -709,9 +748,9 @@ function renderArticle(){
     [T('Fuel'), uVol(H.header_l)+' + '+uVol(H.aux_l), T('header tank + aux tank, both in the cabin')],
     [T('Endurance'), fmt(H.endurance,1)+'–'+fmt(H.endurance_both,1)+' h', (imp()? fmt(H.fuel_flow*0.264,1)+' US gal/h' : fmt(H.fuel_flow,1)+' L/h')+' · '+T('no reserve')],
     [T('Range'), uRange(H.range)+'–'+uRange(H.range_both), T('still air, 75 % power')],
-    [T('Wing loading'), imp()? fmt(H.WS*0.2048,2)+' lb/ft²' : fmt(H.WS,1)+' kg/m²', imp()? fmt(H.PW*2.205,1)+' lb/hp' : fmt(H.PW,1)+' kg/hp'],
+    [T('Wing loading'), imp()? fmt(H.WS*0.2048,2)+' lb/ft²' : fmt(H.WS,1)+' kg/m²', imp()? fmt(H.PW*2.205,1)+' lb/hp' : fmt(H.PW/0.7457,1)+' kg/kW'],
     [T('Static margin'), fmt(H.SM_min,1)+'–'+fmt(H.SM_max,1)+' %', 'NP '+fmt(H.hn,1)+' % MAC'],
-    [T('Engine and prop'), 'Half-VW 37 hp', unitText(fmt(H.prop_d_in)+' x '+fmt(H.prop_p_in)+' in')+' '+T('laminated wood, CC0 model')],
+    [T('Engine and prop'), unitText('Half-VW 37 hp'), unitText(fmt(H.prop_d_in)+' x '+fmt(H.prop_p_in)+' in')+' '+T('laminated wood, CC0 model')],
     [T('Undercarriage'), unitText('21 x 8.00-6'), T('tundra tyres at 10–12 psi, 8 in tailwheel')],
     [T('Parts'), fmt(H.nblanks)+' '+T('blanks'), fmt(H.nparts)+' '+T('unique')+' · '+fmt(H.rivets)+' '+T('rivets')+' · '+fmt(H.hw_total)+' '+T('bolts')],
   ];
@@ -737,9 +776,9 @@ function renderArticle(){
   document.getElementById('tEst').textContent = T('CLmax, drag, propeller efficiency and the neutral point are handbook estimates. Measure stall speed and CG limits in flight test. The 35 kt SSDR stall limit is met with flaps:')+' '+uSpd(H.Vs0)+' ('+T('clean')+' '+uSpd(H.Vs)+').';
   const ms = v=>`<span class="${v<0.25?'ms-low':'ms-ok'}">+${fmt(v,2)}</span>`;
   document.querySelector('#stT tbody').innerHTML = [
-    [T('Main spar: lipped C, 3 × 0.020 in laminated')+', '+uLen(H.h_ms), uStress(H.ms_sig), uStress(H.ms_cc)+' '+T('crippling'), ms(H.ms_MS)],
+    [T('Main spar: lipped C, three layers of 0.020 in')+', '+uLen(H.h_ms), uStress(H.ms_sig), uStress(H.ms_cc)+' '+T('crippling'), ms(H.ms_MS)],
     [T('Main spar web shear, limit'), uStress(H.ms_tau), uStress(H.ms_taucr)+' '+T('buckling'), ms(H.ms_MSs)],
-    [T('Rear spar: lipped C, 2 × 0.020 in')+', '+uLen(H.h_rs), uStress(H.rs_sig), uStress(H.rs_cc)+' '+T('crippling'), ms(H.rs_MS)],
+    [T('Rear spar: lipped C, two layers of 0.020 in')+', '+uLen(H.h_rs), uStress(H.rs_sig), uStress(H.rs_cc)+' '+T('crippling'), ms(H.rs_MS)],
     [T('Lift strut, tension'), uForce(H.strut_T), '0.85 Ftu', ms(H.strut_MSt)],
     [T('Lift strut, −2 g buckling (with jury strut)'), uForce(H.strut_C), uForce(H.strut_Pcr)+' Euler', ms(H.strut_MSb)],
   ].map(r=>`<tr><td>${r[0]}</td><td class="n">${r[1]}</td><td class="n">${r[2]}</td><td>${r[3]}</td></tr>`).join('');
@@ -888,7 +927,7 @@ function tubeSVG(d){
   return `<div class="tdraw"><svg viewBox="0 0 ${W} 74" role="img" aria-label="${d.label}">${body}${ends}
   <path d="M24 50v12M496 50v12M24 56h472" stroke="#17191f" stroke-width="1"/><path d="M24 56l8-3v6zM496 56l-8-3v6z" fill="#17191f"/>
   <rect x="${W/2-80}" y="48" width="160" height="16" fill="#fbf8f1"/><text x="${W/2}" y="60" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12" fill="#17191f">${uLen(d.len)}${imp()?'':' ('+fmt(d.len/25.4,1)+' in)'}</text></svg>
-  <div class="cap" style="display:flex;justify-content:space-between;gap:8px;font-family:var(--f-mono);font-size:11px;color:#5b5a55"><b style="color:#17191f">${d.label}</b><span>${unitText(d.note)}</span></div></div>`;
+  <div class="cap" style="display:flex;justify-content:space-between;gap:8px;font-family:var(--f-mono);font-size:11px;color:#5b5a55"><b style="color:#17191f">${unitText(d.label)}</b><span>${unitText(d.note)}</span></div></div>`;
 }
 
 // ------------------------------------------------ manual page
@@ -924,7 +963,7 @@ function renderManual(n){
   diagEl.innerHTML = ids.map(id=>{ const p=partById[id];
     let xs=[],ys=[]; p.panels.forEach(f=>f.poly.forEach(q=>{xs.push(q[0]);ys.push(q[1]);}));
     const w0=Math.max(...xs)-Math.min(...xs), h0=Math.max(...ys)-Math.min(...ys); const wide = Math.max(w0,h0)/Math.min(w0,h0) > 4 && !big;
-    return `<div class="diag${wide?' wide':''}" data-id="${id}" tabindex="0" title="${p.name}">${creaseSVG(p, (big||wide)?520:240, big?300:(wide?60:150), {holes:!showAll})}<div class="cap"><b>${id}</b><span>×${p.qty}</span></div>${big?`<div class="cap"><span>${p.name}</span><span>${p.material}</span></div>`:''}</div>`; }).join('');
+    return `<div class="diag${wide?' wide':''}" data-id="${id}" tabindex="0" title="${p.name}">${creaseSVG(p, (big||wide)?520:240, big?300:(wide?60:150), {holes:!showAll})}<div class="cap"><b>${id}</b><span>×${p.qty}</span></div>${big?`<div class="cap"><span>${T(p.name)}</span><span>${unitText(p.material)}</span></div>`:''}</div>`; }).join('');
   diagEl.querySelectorAll('.diag').forEach(d=>{
     const go=()=>{ diagEl.querySelectorAll('.diag').forEach(x=>x.classList.toggle('on',x===d)); focusPart(d.dataset.id); };
     d.addEventListener('click',go); d.addEventListener('keydown',e=>{ if(e.key==='Enter'||e.key===' '){e.preventDefault();go();} });
@@ -1477,14 +1516,14 @@ function pickAt(e){
   ray.setFromCamera(v,camera); const hits=ray.intersectObjects(pickables.filter(m=>{ let o=m; while(o){ if(!o.visible) return false; o=o.parent; } return true; }), false);
   if(!hits.length){ return; }
   const id=hits[0].object.userData.part; const p=partById[id];
-  if(p){ pickEl.innerHTML=`<span class="id">${p.id}</span>${p.name}<small>${p.material} · ×${p.qty} · ${fmt(p.mass)} g each · step ${p.step}${p.note?' · '+p.note:''}</small>`; flash(id); }
+  if(p){ pickEl.innerHTML=`<span class="id">${p.id}</span>${T(p.name)}<small>${unitText(p.material)} · ×${p.qty} · ${imp()? fmt(p.mass/28.3495,1)+' oz' : fmt(p.mass)+' g'} each · step ${p.step}${p.note?' · '+T(p.note):''}</small>`; flash(id); }
   else { const hwHit = String(id).includes(' · '); pickEl.innerHTML=`<span class="id">${hwHit?'hardware':'bought'}</span>${id}`; }
 }
 let flashId=null, flashT=0;
 function flash(id){ flashId=id; flashT=performance.now(); }
 function focusPart(id){
   const o=objById[id]; if(!o) return; const p=o.p;
-  pickEl.innerHTML=`<span class="id">${p.id}</span>${p.name}<small>${p.material} · ×${p.qty} · ${fmt(p.mass)} g each${p.note?' · '+p.note:''}</small>`;
+  pickEl.innerHTML=`<span class="id">${p.id}</span>${T(p.name)}<small>${unitText(p.material)} · ×${p.qty} · ${imp()? fmt(p.mass/28.3495,1)+' oz' : fmt(p.mass)+' g'} each${p.note?' · '+T(p.note):''}</small>`;
   flash(id);
   if(cur===1 && layMats[id]){ const L=layMats[id]; goalT.set(L.cx*0.001 - 4.5, 0, -1.5); }
   else { const box=new THREE.Box3(); o.inst.forEach(g=>{ if(g.visible){ g.updateMatrixWorld(true); box.union(new THREE.Box3().setFromObject(g)); } }); if(!box.isEmpty()){ goalT.copy(box.getCenter(new THREE.Vector3())); goalR=Math.max(1.2, box.getSize(new THREE.Vector3()).length()*1.25); } }
@@ -1598,6 +1637,6 @@ function loop(now){
 let start=1; try{ const s=+localStorage.getItem('ori1-step'); if(s>=N0&&s<=NS) start=s; }catch(e){}
 resize(); applyBg(); go(start,false); sph.r=goalR; sph.th=goalTh; sph.ph=goalPh; tgt.copy(goalT);
 requestAnimationFrame(loop);
-window.__ori = {cam:(x,y,z,r,th,ph)=>{goalT.set(x,y,z); goalR=r; goalTh=th; goalPh=ph; return 1;}, red:()=>{primObjs.forEach(o=>{ if(o.userData.b.step===16) o.traverse(m=>{ if(m.isMesh) m.material=new THREE.MeshBasicMaterial({color:0xff0000}); }); }); return 1;}, prims:()=>JSON.stringify(primObjs.filter(o=>o.userData.b.step===16).map(o=>[o.userData.b.name,o.visible,o.position.toArray().map(Math.round)])), dbg:()=>JSON.stringify({t:goalT,r:goalR,th:goalTh,ph:goalPh,a:camera.aspect}), go, setView, get cur(){return cur;}, get anim(){return anim;}};
+window.__ori = {ut:(s,sys)=>{ const o=UNITS.sys; UNITS.sys=sys; const r=unitText(s); UNITS.sys=o; return r; }, cam:(x,y,z,r,th,ph)=>{goalT.set(x,y,z); goalR=r; goalTh=th; goalPh=ph; return 1;}, red:()=>{primObjs.forEach(o=>{ if(o.userData.b.step===16) o.traverse(m=>{ if(m.isMesh) m.material=new THREE.MeshBasicMaterial({color:0xff0000}); }); }); return 1;}, prims:()=>JSON.stringify(primObjs.filter(o=>o.userData.b.step===16).map(o=>[o.userData.b.name,o.visible,o.position.toArray().map(Math.round)])), dbg:()=>JSON.stringify({t:goalT,r:goalR,th:goalTh,ph:goalPh,a:camera.aspect}), go, setView, get cur(){return cur;}, get anim(){return anim;}};
 })();
 </script>

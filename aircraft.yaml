@@ -1,0 +1,92 @@
+# OpenPlane: the aircraft as code.
+#
+# This file is the design. Change a number, push, and the build regenerates every flat
+# pattern (DXF), crease pattern (SVG), the 3D model, the mass and balance, performance,
+# first-pass structure checks, the bill of materials and the website.
+#
+# Units: millimetres, kilograms, degrees, litres. Frames:
+#   wing panel: x aft from the leading edge, y outboard from the root rib, z up
+#   aircraft:   x aft (wing LE = 0), y right, z up (wing chord line = 0)
+
+name: OpenPlane
+version: 0.9.0
+
+# ------------------------------------------------------------------ wing
+wing:
+  airfoil: "4415"          # NACA 4-digit, faceted aft of 15 % chord, rolled nose
+  chord: 1400.0            # constant chord: every rib is identical
+  panel: 3600.0            # each wing panel (fits a 12 ft strip for the spar)
+  dihedral: 1.5
+  incidence: 2.0
+  x_ms: 420.0              # main spar web, front face (30 % chord)
+  x_rs: 1008.0             # rear spar web, rear face (72 % chord)
+  x_cs: 1020.0             # control-surface leading edge
+  rib_pitch: 300.0
+  bays: [[0, 1200], [1200, 2400], [2400, 3600]]
+  flap: [5.0, 1795.0]
+  aileron: [1805.0, 3595.0]
+  cap_b: 40.0              # spar cap width
+  lip: 12.0                # spar cap lip: the crease that stops the cap buckling
+
+# ------------------------------------------------------------------ sheet
+# One aluminium stock for everything: 6061-T6 0.020 in. Thicker parts are nested
+# laminations of it; the number of layers is ceil(t / 0.5 - 0.3).
+sheet:
+  gauge: 0.5
+  t_skin_u: 0.5
+  t_skin_l: 0.5
+  t_rib: 0.5
+  t_ms: 1.5                # main spar: 3 layers
+  t_rs: 1.0                # rear spar: 2 layers
+  t_cs: 0.5
+
+# ------------------------------------------------------------------ fuselage
+fuselage:
+  cabin_half: 350.0        # cabin half-width = wing root offset
+  x_fw: -650.0             # firewall
+  x_cab_end: 1150.0
+  x_tail: 4340.0
+  z_top: -60.0
+  z_bot: -1050.0
+  chamfer: 80.0
+  z_fw_top: -360.0
+  x_ws_top: -30.0
+  tail_scale: 0.14         # tailcone frustum: end section / cabin section
+  axis0: -515.0
+  axis1: -484.0
+
+# ------------------------------------------------------------------ tail
+tail:
+  x_stab_le: 3800.0
+  stab_semispan: 1300.0
+  stab_root: 110.0
+  x_stab_spar: 4340.0
+  x_elev: 4360.0
+  elev_chord: 360.0
+  elev_span: [200.0, 1300.0]
+  z_stab: -420.0
+  x_fin_le: 3820.0
+  fin_top: 680.0
+  fin_root: -380.0
+  x_rud: 4360.0
+  rud_chord: 400.0
+  rud_bot: -559.0
+
+# ------------------------------------------------------------------ loading
+loading:
+  mtow: 300.0              # UK SSDR limit
+  pilot_x: 380.0
+  pilot_z: -650.0
+  header_tank_l: 18.0      # usable, behind the firewall
+  header_tank_x: -570.0
+  aux_tank_l: 20.0         # high behind the seat
+  aux_tank_x: 865.0
+  fuel_density: 0.72
+  pilots: [55, 75, 100]
+
+# ------------------------------------------------------------------ propeller
+propeller:
+  diameter_in: 54.0
+  pitch_in: 24.0
+  hub_dia: 160.0
+  hub_thickness: 110.0

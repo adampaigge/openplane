@@ -1,0 +1,74 @@
+# Every push to main rebuilds the aircraft from aircraft.yaml.
+# 1. check: refold every flat pattern and compare it with the 3D part (fails the build if > 0.01 mm)
+# 2. build: DXF/SVG cut files, nests, 3D model, mass and balance, performance, BOM, report, website
+# 3. publish: the built site goes to the `live` branch (copies of the page elsewhere load
+#    live.js from it through jsDelivr) and to GitHub Pages.
+name: build
+
+on:
+  push:
+    branches: [main]
+    paths-ignore: ["**.md"]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: build-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Refold check
+        run: python run.py check
+      - name: Build
+        run: python run.py
+        env:
+          OPENPLANE_REPO: ${{ github.repository }}
+      - name: Summary
+        run: python src/summary.py >> "$GITHUB_STEP_SUMMARY"
+        env:
+          PYTHONPATH: src
+      - uses: actions/upload-artifact@v4
+        with:
+          name: openplane-cut-files
+          path: out/
+      - name: Publish to the live branch
+        if: github.event_name != 'pull_request'
+        run: |
+          cd site
+          git init -q -b live
+          git add -A
+          git -c user.name="openplane-build" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -qm "Build of ${GITHUB_SHA::7}: $(git -C .. log -1 --format=%s 2>/dev/null || echo main)"
+          git push -qf "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" live
+          curl -fsS "https://purge.jsdelivr.net/gh/${{ github.repository }}@live/live.js" || true
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request'
+        with:
+          path: site
+
+  pages:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

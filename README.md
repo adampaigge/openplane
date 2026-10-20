@@ -39,6 +39,7 @@ Builds are reproducible: an unchanged part produces a byte-identical DXF, so a d
 | File | What it does |
 |---|---|
 | `aircraft.yaml` | The design parameters |
+| `qualification.yaml` | The test programme: phases, tests and pass criteria, which use live numbers from the build |
 | `src/geom.py` | Airfoils, the `Part` class, and unfolding: each part is planar 3D faces joined by straight hinges |
 | `src/parts.py` | Every part: spars, ribs, skins, control surfaces, fuselage, tail, cowl, fittings, linkage, glazing, stands |
 | `src/check.py` | Refolds every flat pattern and compares it with the 3D part. CI fails above 0.01 mm |

@@ -1,0 +1,127 @@
+# OpenPlane qualification programme: what has to be shown, how, and what passing looks like.
+# Pass criteria use live values from the build: {stress:ms_cc} becomes the main-spar crippling
+# allowable, {speed:Vs0} the predicted flap stall, and so on, in the reader's units.
+# Costs are rough GBP ranges for materials, hire and consumables, not labour.
+# This is an engineering test plan modelled on BCAR Section S practice. It is not a regulatory approval route:
+# UK SSDR aircraft need no airworthiness approval, so the evidence is for the builder, the inspector and the public.
+
+intro: >-
+  Every number on this site is a calculation. This is the plan for turning them into evidence: cheap coupon
+  tests first, then components, then the whole wing, then the ground and finally the air. Each phase retires
+  a specific risk before money is spent on the next. Results go back into the repository, and measured values
+  replace the estimates in aircraft.yaml.
+
+phases:
+  - id: A
+    title: Coupons and processes
+    when: Weeks 1–4
+    cost: [400, 900]
+    retires: [Bend radius and springback, Rivet strength in thin sheet, The laminate acting as one section]
+    tests:
+      - name: Fold coupons
+        method: Fold 20 strips of 0.51 mm 6061-T6 at a 0.8 mm nose radius, across and along the grain. Inspect every bend under a 10× loupe.
+        pass: No cracks, and springback within 2° of prediction.
+      - name: Bend deduction
+        method: Fold a 300 mm offcut of a rib and of a spar from the real DXFs and measure every flange.
+        pass: Every flange within ±0.5 mm of the drawing.
+      - name: Rivet joints
+        method: Single-lap shear and pull-through on one and two layers of 0.51 mm sheet with 3.2 mm blind rivets, 10 of each.
+        pass: Mean strength at or above the value used in design, scatter under 10 %.
+      - name: Laminated channel crippling
+        method: Crush 300 mm lengths of three-layer lipped channel, riveted at design pitch, five samples.
+        pass: Crippling stress at least {stress:ms_cc}, the design allowable. Layers must not separate before failure.
+
+  - id: B
+    title: Components
+    when: Months 2–3
+    cost: [1500, 3000]
+    retires: [Spar strength, Strut and fitting strength, Control-circuit strength]
+    tests:
+      - name: Main spar section
+        method: 2 m section in four-point bending, loaded in steps to 1.5 × the +4 g limit bending moment.
+        pass: Holds ultimate load for 3 s. Peak cap stress {stress:ms_sig} against an allowable of {stress:ms_cc}.
+      - name: Rear spar section
+        method: As above, including the reversed load case at −2 g.
+        pass: Holds ultimate load for 3 s in both directions.
+      - name: Strut and fittings
+        method: Pull a complete strut with its clevises and tangs to ultimate tension, then buckle a second at −2 g with the jury strut fitted.
+        pass: Holds {force:strut_T} in tension and {force:strut_C} in compression with no failure.
+      - name: Horns, bellcranks and brackets
+        method: Load each linkage part to 1.5 × the BCAR Section S pilot loads at the stick and pedals.
+        pass: No yield at limit load, no failure at ultimate.
+      - name: Engine mount
+        method: Static load to the Section S forward, side and vertical limit loads, then ultimate.
+        pass: No permanent set at limit, no failure at ultimate.
+
+  - id: C
+    title: Wing and airframe
+    when: Month 4
+    cost: [800, 1500]
+    retires: [Whole-wing strength and stiffness, Control-system free play, Empty mass and balance]
+    tests:
+      - name: Wing proof load
+        method: Inverted wing on its fittings, sandbags laid out to the spanwise lift distribution, to +4 g limit and then −2 g. Measure tip deflection at each step.
+        pass: No permanent set after unloading. Deflection within 15 % of prediction.
+      - name: Wing torsion
+        method: Measure twist under a known torque at the tip rib.
+        pass: Torsional stiffness recorded; it feeds the flutter estimate in phase D.
+      - name: Control system
+        method: Check stops, free play, friction and cable tension, then load every circuit to the pilot limit loads.
+        pass: Free play under 1° at each surface, and full travel with no binding under load.
+      - name: Weigh and balance
+        method: Three platform scales in the level attitude.
+        pass: Empty mass at or below {mass:empty} plus 3 %, and every loading case inside the CG range.
+
+  - id: D
+    title: Ground
+    when: Month 5
+    cost: [500, 1500]
+    retires: [Flutter, Engine and propeller, Fuel feed]
+    tests:
+      - name: Ground vibration test
+        method: Tap or shaker test for wing bending and torsion, aileron, elevator and rudder modes. Confirm the mass balance of every control surface.
+        pass: Estimated flutter speed at least 1.2 × the design dive speed of {speed:Vd}.
+      - name: Engine and propeller
+        method: One hour of progressive ground running, with cylinder head and exhaust temperatures logged.
+        pass: Temperatures inside the engine maker's limits, static rpm 2,900–3,100, no abnormal vibration.
+      - name: Fuel feed
+        method: Measure gravity flow from each tank, with the aircraft at its steepest climb attitude plus margin.
+        pass: At least 1.5 × the full-power fuel flow from either tank.
+      - name: Taxi tests
+        method: Low-speed taxi, then fast taxi with the tail up, on the intended test field.
+        pass: Straight tracking, effective brakes and rudder, no shimmy.
+
+  - id: E
+    title: Flight test
+    when: Months 6–9
+    cost: [1000, 3000]
+    retires: [Stall speed and handling, Stability across the CG range, Performance, Speed envelope]
+    tests:
+      - name: First flights
+        method: Mid CG, calm air, long field, circuit height only, an experienced test pilot.
+        pass: Controllable in all axes with trim available. Engine temperatures stable.
+      - name: Stall speeds
+        method: Approach the stall in 1 kt steps, flaps up and down, at forward and aft CG.
+        pass: Flap stall at or below 35 kt CAS, the SSDR limit; predicted {speed:Vs0}. Gentle stall, no wing drop.
+      - name: CG range
+        method: Move the CG from forward to aft in steps, checking stick-free stability at each.
+        pass: Positive stability at the aft limit; predicted minimum static margin {pct:SM_min}.
+      - name: Performance
+        method: Sawtooth climbs, level speeds and glides.
+        pass: Measured climb, cruise and glide recorded against the predictions on the numbers tab.
+      - name: Speed envelope
+        method: Build up towards Vne in 5 kt steps, watching for buzz or flutter at every step.
+        pass: No flutter or buzz up to {speed:Vne}.
+
+  - id: F
+    title: Publish
+    when: Month 10
+    cost: [0, 300]
+    retires: [Unknowns for the next builder]
+    tests:
+      - name: Test reports
+        method: Every result, photo and failure goes into the repository.
+        pass: Measured values replace estimates in aircraft.yaml, and the build manual is revised.
+      - name: Inspection
+        method: A BMAA or LAA inspector reviews the aircraft and the evidence.
+        pass: Inspector sign-off before the aircraft is flown by anyone else.

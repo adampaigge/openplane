@@ -30,6 +30,12 @@ def extract():
     s.update(b["name"] for b in M["bought"])
     for b in M["bomx"]:
         s.update([b["item"], b.get("note", ""), b["cat"]])
+    Q = yaml.safe_load(open(ROOT / "qualification.yaml", encoding="utf8"))
+    s.add(Q["intro"])
+    for ph in Q["phases"]:
+        s.update([ph["title"], ph["when"], *ph["retires"]])
+        for t in ph["tests"]:
+            s.update([t["name"], t["method"], t["pass"]])
     page = open(ROOT / "web" / "page.html", encoding="utf8").read()
     s.update(x.strip() for x in re.findall(r"data-i18n[^>]*>([^<]+)<", page))
     s.update(re.findall(r"T\('((?:[^'\\]|\\.)*)'\)", page))

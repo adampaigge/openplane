@@ -397,6 +397,22 @@ a.pbtn[aria-disabled="true"]{opacity:.45;cursor:not-allowed;pointer-events:none}
 .pick{border-left:1px solid color-mix(in srgb,var(--fg) 12%,transparent)!important;border-inline-start:1px solid color-mix(in srgb,var(--fg) 12%,transparent)!important}
 #cgT tr.sel[aria-selected="true"] td:first-child{box-shadow:none}
 .trnote a{color:inherit;text-decoration:underline}
+
+.qsum{margin-bottom:28px}
+.qphases{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:18px;counter-reset:none}
+.qphase{max-width:none!important;font-family:var(--f-display);position:relative;background:var(--chrome);border:1px solid var(--line);border-radius:var(--r);padding:22px 22px 18px}
+.qphase+.qphase::before{content:"";position:absolute;left:46px;top:-19px;height:18px;border-left:2px dashed var(--line)}
+.qhead{display:flex;gap:16px;align-items:center;margin-bottom:12px}
+.qid{flex:none;width:48px;height:48px;border-radius:50%;display:grid;place-items:center;background:var(--cyan);color:var(--cyan-ink);font:800 22px var(--f-display)}
+.qhead h3{margin:0;font-family:var(--f-display);font-weight:800;font-size:clamp(20px,2vw,28px);letter-spacing:-.03em}
+.qmeta{font-family:var(--f-mono);font-size:12px;color:var(--muted);margin-top:4px}
+.qretire{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 14px 64px}
+.qretire span{font-family:var(--f-display);font-size:12.5px;border:1px solid var(--line);border-radius:999px;padding:4px 10px;color:var(--muted)}
+.qretire span::before{content:"✓ ";color:var(--ok)}
+.qphase .tbl{border-radius:12px}
+.qphase td{font-size:14px;line-height:1.45}
+.qphase td:first-child{width:22%}
+@media (max-width:700px){.qretire{margin-left:0}.qphase{padding:16px 14px}.qphase table,.qphase tbody,.qphase tr,.qphase td{display:block;width:auto!important}.qphase thead{display:none}.qphase tr{padding:12px 14px;border-bottom:1px solid var(--line)}.qphase tr:last-child{border-bottom:0}.qphase td{border:0;padding:4px 0}.qphase td[data-l]::before{content:attr(data-l);display:block;font-family:var(--f-mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-top:6px}}
 </style>
 
 <div class="flagband" aria-label="Flags of the world: a project for anyone, anywhere"><div class="flagtrack" id="flagTrack"></div></div>
@@ -489,6 +505,7 @@ a.pbtn[aria-disabled="true"]{opacity:.45;cursor:not-allowed;pointer-events:none}
     <button role="tab" data-tab="cost" aria-selected="true" data-i18n>Cost</button>
     <button role="tab" data-tab="bom" aria-selected="false" data-i18n>Bill of materials</button>
     <button role="tab" data-tab="numbers" aria-selected="false" data-i18n>The numbers</button>
+    <button role="tab" data-tab="qual" aria-selected="false" data-i18n>Test programme</button>
   </div>
 
 
@@ -546,6 +563,15 @@ a.pbtn[aria-disabled="true"]{opacity:.45;cursor:not-allowed;pointer-events:none}
     <p class="small" data-i18n>A UK SSDR aircraft needs no airworthiness approval, so all the responsibility is the builder's. Proof-load the wing with sandbags to +4 g and have a BMAA or LAA inspector look at it before it flies. Elsewhere, check your national microlight rules.</p>
   </section>
 
+  <section class="tabpane" id="tab-qual" hidden>
+    <div class="kicker">07 — <span data-i18n>Qualification</span></div>
+    <h2 data-i18n>How it gets proven</h2>
+    <p class="big" id="qIntro"></p>
+    <dl class="spec qsum" id="qSum"></dl>
+    <ol class="qphases" id="qPhases"></ol>
+    <p class="small" data-i18n>An engineering test plan modelled on BCAR Section S practice, not a regulatory approval route. Costs are rough ranges for materials, hire and consumables, not labour, and exclude the airframe itself. The plan lives in qualification.yaml in the repository, and its pass criteria use the live numbers from the build.</p>
+  </section>
+
 </article>
 
 <footer>
@@ -578,6 +604,7 @@ window.addEventListener('error', function(e){ try{ var s=document.getElementById
 <script type="application/json" id="manifest">/*MANIFEST*/</script>
 <script type="application/json" id="flags">/*FLAGS*/</script>
 <script type="application/json" id="langs">/*LANGS*/</script>
+<script type="application/json" id="qual">/*QUAL*/</script>
 <script>
 (function(){
 "use strict";
@@ -714,6 +741,25 @@ function toImperial(s){
 }
 function unitText(str){ if(!str) return str; const s=String(str); return imp() ? toImperial(s) : toMetric(s); }
 
+
+// ------------------------------------------------ qualification programme (from qualification.yaml)
+const QUAL = JSON.parse(document.getElementById('qual').textContent);
+function qFill(s){ return T(s).replace(/\{(\w+):(\w+)\}/g,(m,k,key)=>{ const v=H[key]; if(v==null) return m;
+  return k==='stress'?uStress(v) : k==='force'?uForce(v) : k==='speed'?uSpd(v) : k==='mass'?uMass(v) : k==='pct'?fmt(v,1)+' %' : String(v); }); }
+function renderQual(){
+  if(!QUAL || !QUAL.phases) return;
+  document.getElementById('qIntro').textContent = T(QUAL.intro);
+  const lo=QUAL.phases.reduce((a,p)=>a+p.cost[0],0), hi=QUAL.phases.reduce((a,p)=>a+p.cost[1],0), nt=QUAL.phases.reduce((a,p)=>a+p.tests.length,0);
+  const conv=g=>{ const v=price(g,false); const r=v>2000?100:v>200?50:10; return Math.round(v/r)*r; };
+  document.getElementById('qSum').innerHTML=[[T('Phases'),QUAL.phases.length,QUAL.phases.map(p=>p.id).join(' → ')],[T('Tests'),nt,T('each with a pass criterion')],[T('Duration'),T('About 10 months'),T('part-time, alongside the build')],[T('Test budget'),money(conv(lo))+'–'+money(conv(hi)),T('materials and hire, rough')]]
+    .map(s=>`<div><dt>${s[0]}</dt><dd>${s[1]}</dd><small>${s[2]}</small></div>`).join('');
+  document.getElementById('qPhases').innerHTML = QUAL.phases.map(ph=>`<li class="qphase">
+    <div class="qhead"><span class="qid">${ph.id}</span><div><h3>${T(ph.title)}</h3><div class="qmeta">${T(ph.when)} · ${money(conv(ph.cost[0]))}–${money(conv(ph.cost[1]))}</div></div></div>
+    <div class="qretire">${ph.retires.map(r=>`<span>${T(r)}</span>`).join('')}</div>
+    <div class="tbl"><table><thead><tr><th>${T('Test')}</th><th>${T('Method')}</th><th>${T('Pass when')}</th></tr></thead><tbody>
+      ${ph.tests.map(t=>`<tr><td><b>${T(t.name)}</b></td><td data-l="${T('Method')}">${qFill(t.method)}</td><td data-l="${T('Pass when')}">${qFill(t.pass)}</td></tr>`).join('')}
+    </tbody></table></div></li>`).join('');
+}
 let cgSel=null;
 function drawCG(lab){
   const c=H.cg_cases[cgSel]; const lo=20, hi=45, X=v=>((v-lo)/(hi-lo)*100).toFixed(2)+'%';
@@ -793,6 +839,7 @@ function renderArticle(){
   document.getElementById('costNote').textContent = (CUR.mode==='local' ? `Local-price estimate in ${CUR.code}. ` : CUR.code==='GBP' ? 'UK retail prices, including 20 % VAT. ' : `UK retail prices (inc. 20 % VAT) converted to ${CUR.code}. `) +
     'Sheet is priced from the nested stock sheets at a UK aero retailer\'s list price, so it includes the waste. Buying a stock-holder\'s bulk 8 × 4 ft sheet, or using a second-hand engine, brings the total down a lot.';
   drawBom();
+  renderQual();
 }
 let bomCat=null;
 function drawBom(){ const cats=[...new Set(M.bomx.map(b=>b.cat))]; if(!bomCat) bomCat=cats[0]; const tabs=document.getElementById('bomTabs'), tb=document.querySelector('#bomT tbody');

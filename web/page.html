@@ -1011,15 +1011,9 @@ const trestles = new THREE.Group(); scene.add(trestles);
   hangar.userData.members = hangar.children.filter(c=>c.userData && c.userData.n);
   // door track header over the open front
   const hd=new THREE.Mesh(new THREE.BoxGeometry(0.25,HW*2,0.35),steel); hd.position.set(X0+0.1,0,FZ+EAVE-0.15); hd.userData.n=new THREE.Vector3(-1,0,0.3).normalize(); hangar.add(hd);
-  // workbench, bending brake and sheet rack along the back wall
-  const wood=new THREE.MeshStandardMaterial({color:0xa07a4f,roughness:0.8}), dark=new THREE.MeshStandardMaterial({color:0x33383f,roughness:0.6,metalness:0.4});
-  const bench=new THREE.Mesh(new THREE.BoxGeometry(0.8,3.2,0.06),wood); bench.position.set(X1-0.6,-3.6,FZ+0.9); hangar.add(bench);
-  [[-0.3,-1.2],[0.3,-1.2],[-0.3,1.2],[0.3,1.2]].forEach(([dx,dy])=>{ const l=new THREE.Mesh(new THREE.BoxGeometry(0.06,0.06,0.9),dark); l.position.set(X1-0.6+dx,-3.6+dy,FZ+0.45); hangar.add(l); });
-  const brake=new THREE.Mesh(new THREE.BoxGeometry(0.25,1.2,0.18),new THREE.MeshStandardMaterial({color:0x2d6a4f,metalness:0.5,roughness:0.5})); brake.position.set(X1-0.65,-3.6,FZ+1.02); hangar.add(brake);
-  const vise=new THREE.Mesh(new THREE.BoxGeometry(0.2,0.25,0.15),dark); vise.position.set(X1-0.55,-4.9,FZ+1.0); hangar.add(vise);
+  // sheet rack along the back wall (the bench, tool chest and board are the workshop below)
   const sheet=new THREE.MeshStandardMaterial({color:0xd5dbe2,metalness:0.7,roughness:0.3});
   for(let i=0;i<6;i++){ const sh=new THREE.Mesh(new THREE.BoxGeometry(0.01,2.44,1.22),sheet); sh.position.set(X1-0.25-i*0.03,2.6,FZ+0.62); sh.rotation.y=-0.12; hangar.add(sh); }
-  const board=new THREE.Mesh(new THREE.BoxGeometry(0.03,2.4,1.0),new THREE.MeshStandardMaterial({color:0xc9b48a})); board.position.set(X1-0.08,-3.6,FZ+1.9); hangar.add(board);
   // lights
   [[0,-3],[0,3],[4,-3],[4,3]].forEach(([x,y])=>{ const l=new THREE.PointLight(0xfff2dc,0.35,14,1.5); l.position.set(x,y,FZ+EAVE-0.2); hangar.add(l);
     const f=new THREE.Mesh(new THREE.BoxGeometry(1.2,0.12,0.05),new THREE.MeshBasicMaterial({color:0xfff7e6})); f.position.copy(l.position); f.userData.n=new THREE.Vector3(0,Math.sign(y)*0.45,1).normalize(); hangar.add(f); });
@@ -1033,6 +1027,146 @@ const trestles = new THREE.Group(); scene.add(trestles);
     g.position.set(2.0+0.7, sg*(0.35+yy), 0); trestles.add(g); }));
   trestles.visible=false;
 })();
+
+
+// ------------------------------------------------ workshop: bench, tool chest, and a board that follows the build
+// Easter egg: the pegboard shows this step's tools as a shadow board, the drawings for this step are
+// pinned beside them, and the tools themselves are laid out on the bench.
+const shop = new THREE.Group(); hangar.add(shop);
+const SHOP = {FZ:-1.515, WALL:7.6, Y0:-5.2, Y1:-2.0};
+const SM = {
+  wood: new THREE.MeshStandardMaterial({color:0xb48c5e, roughness:0.75}),
+  woodDark: new THREE.MeshStandardMaterial({color:0x8a6a45, roughness:0.8}),
+  frame: new THREE.MeshStandardMaterial({color:0x2a2f35, roughness:0.5, metalness:0.55}),
+  chest: new THREE.MeshStandardMaterial({color:0x23272d, roughness:0.38, metalness:0.45}),
+  drawer: new THREE.MeshStandardMaterial({color:0x30353c, roughness:0.32, metalness:0.5}),
+  accent: new THREE.MeshStandardMaterial({color:0xff5b24, roughness:0.45, metalness:0.2}),
+  alu: new THREE.MeshStandardMaterial({color:0xc9ced4, roughness:0.28, metalness:0.85}),
+  rubber: new THREE.MeshStandardMaterial({color:0x15171a, roughness:0.9}),
+  green: new THREE.MeshStandardMaterial({color:0x2f6b52, roughness:0.45, metalness:0.45}),
+  blue: new THREE.MeshStandardMaterial({color:0x3b5878, roughness:0.45, metalness:0.5}),
+  yellow: new THREE.MeshStandardMaterial({color:0xe4b62f, roughness:0.5}),
+  copper: new THREE.MeshStandardMaterial({color:0xb87333, roughness:0.35, metalness:0.8}),
+  red: new THREE.MeshStandardMaterial({color:0xb3261e, roughness:0.5}),
+  sand: new THREE.MeshStandardMaterial({color:0xb9a27a, roughness:1}),
+};
+function sbox(w,d,h,m,x,y,z,g){ const o=new THREE.Mesh(new THREE.BoxGeometry(w,d,h),m); o.position.set(x,y,z); (g||shop).add(o); return o; }
+function scyl(r,len,m,x,y,z,axis,g,seg){ const o=new THREE.Mesh(new THREE.CylinderGeometry(r,r,len,seg||20),m); o.position.set(x,y,z);
+  if(axis==='x') o.rotation.z=Math.PI/2; else if(axis==='z') o.rotation.x=Math.PI/2; (g||shop).add(o); return o; }
+(function buildShop(){
+  const {FZ,WALL}=SHOP, bx=WALL-0.42, by=-3.6, top=FZ+0.9;
+  // bench: 40 mm laminated top with a front apron, steel frame, lower shelf
+  sbox(0.78,3.2,0.04,SM.wood,bx,by,top-0.02);
+  sbox(0.03,3.2,0.09,SM.woodDark,bx-0.39,by,top-0.065);
+  [[-0.34,-1.55],[0.34,-1.55],[-0.34,1.55],[0.34,1.55]].forEach(([dx,dy])=>sbox(0.045,0.045,0.86,SM.frame,bx+dx,by+dy,FZ+0.43));
+  [-1.55,1.55].forEach(dy=>sbox(0.68,0.04,0.04,SM.frame,bx,by+dy,FZ+0.2));
+  sbox(0.04,3.1,0.04,SM.frame,bx-0.34,by,FZ+0.2); sbox(0.04,3.1,0.04,SM.frame,bx+0.34,by,FZ+0.2);
+  sbox(0.68,3.06,0.02,SM.woodDark,bx,by,FZ+0.23);
+  // engineer's vise at the left end
+  const vy=SHOP.Y0+0.28;
+  sbox(0.16,0.14,0.04,SM.blue,bx-0.28,vy,top+0.02); sbox(0.12,0.16,0.1,SM.blue,bx-0.3,vy,top+0.09);
+  sbox(0.03,0.18,0.08,SM.blue,bx-0.38,vy,top+0.12); sbox(0.03,0.18,0.08,SM.blue,bx-0.22,vy,top+0.12);
+  scyl(0.012,0.16,SM.alu,bx-0.47,vy,top+0.1,'x'); scyl(0.006,0.16,SM.alu,bx-0.55,vy,top+0.1,'y');
+  // bending brake (green) bolted to the right end
+  const g=new THREE.Group(); shop.add(g); const ky=SHOP.Y1-0.62;
+  sbox(0.12,1.02,0.035,SM.green,bx-0.2,ky,top+0.018,g); sbox(0.07,1.02,0.06,SM.green,bx-0.2,ky,top+0.065,g);
+  const leaf=sbox(0.1,1.0,0.016,SM.green,bx-0.31,ky,top+0.03,g); leaf.rotation.y=0.35;
+  [-0.45,0.45].forEach(d=>{ scyl(0.012,0.32,SM.alu,bx-0.42,ky+d,top+0.12,'x',g); sbox(0.03,0.03,0.12,SM.green,bx-0.2,ky+d,top+0.13,g); });
+  // tool chest: charcoal body, orange drawer pulls, castors
+  const cx=WALL-0.27, cy=SHOP.Y1+0.62, cw=0.68, cd=0.46, base=FZ+0.12, H=0.92;
+  sbox(cd,cw,H,SM.chest,cx,cy,base+H/2);
+  sbox(cd+0.02,cw+0.02,0.025,SM.rubber,cx,cy,base+H+0.0125);
+  const fronts=[0.075,0.075,0.09,0.11,0.13,0.17,0.2]; let z=base+H-0.02;
+  fronts.forEach(h=>{ z-=h; sbox(0.012,cw-0.04,h-0.012,SM.drawer,cx-cd/2-0.004,cy,z+h/2); sbox(0.016,cw*0.62,0.012,SM.accent,cx-cd/2-0.014,cy,z+h-0.028); z-=0.006; });
+  [[-1,-1],[-1,1],[1,-1],[1,1]].forEach(([a,b])=>{ scyl(0.035,0.03,SM.rubber,cx+a*(cd/2-0.06),cy+b*(cw/2-0.06),FZ+0.04,'y'); sbox(0.05,0.05,0.06,SM.frame,cx+a*(cd/2-0.06),cy+b*(cw/2-0.06),FZ+0.1); });
+  sbox(0.025,0.4,0.025,SM.alu,cx,cy+cw/2+0.03,base+H-0.08); [-0.18,0.18].forEach(d=>sbox(0.02,0.04,0.02,SM.alu,cx+d,cy+cw/2+0.015,base+H-0.08));
+})();
+// the board: pegboard + pinned drawings, painted on a canvas and rebuilt for every step
+const boardCv=document.createElement('canvas'); boardCv.width=2048; boardCv.height=768;
+const boardTex=new THREE.CanvasTexture(boardCv); boardTex.anisotropy=4; if('colorSpace' in boardTex) boardTex.colorSpace=THREE.SRGBColorSpace; else boardTex.encoding=THREE.sRGBEncoding;
+const boardMesh=new THREE.Mesh(new THREE.PlaneGeometry(3.2,1.2), new THREE.MeshStandardMaterial({map:boardTex, roughness:0.9}));
+boardMesh.matrixAutoUpdate=false;
+boardMesh.matrix.makeBasis(new THREE.Vector3(0,-1,0), new THREE.Vector3(0,0,1), new THREE.Vector3(-1,0,0)).setPosition(SHOP.WALL-0.015,-3.6,SHOP.FZ+1.82);
+shop.add(boardMesh); sbox(0.03,3.28,0.04,SM.woodDark,SHOP.WALL-0.02,-3.6,SHOP.FZ+1.2); sbox(0.03,3.28,0.04,SM.woodDark,SHOP.WALL-0.02,-3.6,SHOP.FZ+2.44);
+const svgImg = (svg)=>new Promise(res=>{ const im=new Image(); im.onload=()=>res(im); im.onerror=()=>res(null); im.src='data:image/svg+xml;charset=utf-8,'+encodeURIComponent(svg); });
+let boardToken=0;
+async function paintBoard(n){
+  const tok=++boardToken, st=stepN(n), c=boardCv.getContext('2d'), W=boardCv.width, H=boardCv.height;
+  // pegboard
+  c.fillStyle='#c7ae84'; c.fillRect(0,0,W,H);
+  const grd=c.createLinearGradient(0,0,0,H); grd.addColorStop(0,'rgba(255,255,255,.08)'); grd.addColorStop(1,'rgba(0,0,0,.12)'); c.fillStyle=grd; c.fillRect(0,0,W,H);
+  c.fillStyle='rgba(60,42,20,.55)'; for(let x=16;x<W;x+=32) for(let y=16;y<H;y+=32){ c.beginPath(); c.arc(x,y,3.2,0,7); c.fill(); }
+  // masking-tape label with the step
+  c.save(); c.translate(40,34); c.rotate(-0.012); c.fillStyle='rgba(240,228,190,.95)'; c.fillRect(0,0,760,64);
+  c.fillStyle='#22201c'; c.font='700 34px "Inter Tight", system-ui, sans-serif'; c.fillText(`STEP ${n} · ${T(st.title).toUpperCase()}`.slice(0,44),18,44); c.restore();
+  // shadow board: one painted outline + icon per tool for this step
+  const tools=st.tools.slice(0,8), cols=4, tw=250, th=190, ox=40, oy=130;
+  const icons=await Promise.all(tools.map(k=>svgImg(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="240" height="240" fill="none" stroke="#1b1d21" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">${IC[k]||''}</svg>`)));
+  if(tok!==boardToken) return;
+  tools.forEach((k,i)=>{ const x=ox+(i%cols)*tw, y=oy+Math.floor(i/cols)*(th+110);
+    c.fillStyle='rgba(255,91,36,.16)'; c.strokeStyle='rgba(255,91,36,.85)'; c.lineWidth=3; c.setLineDash([10,7]);
+    c.beginPath(); c.roundRect ? c.roundRect(x,y,tw-30,th,18) : c.rect(x,y,tw-30,th); c.fill(); c.stroke(); c.setLineDash([]);
+    c.fillStyle='#3c2a14'; [x+30,x+tw-60].forEach(px=>{ c.beginPath(); c.arc(px,y+14,6,0,7); c.fill(); });
+    if(icons[i]) c.drawImage(icons[i], x+(tw-30)/2-70, y+28, 140, 140);
+    c.fillStyle='#1b1d21'; c.font='600 22px "Inter Tight", system-ui, sans-serif';
+    const words=T(M.tools[k]).split(/[,(]/)[0].trim().split(' '); let line='', ly=y+th+30;
+    words.forEach(w=>{ if(c.measureText(line+w).width>tw-36){ c.fillText(line,x,ly); line=''; ly+=26; } line+=w+' '; }); c.fillText(line,x,ly); });
+  // pinned drawings for this step
+  const ids=(n===1? [] : st.parts).slice(0,4);
+  const sheets=await Promise.all(ids.map(id=>svgImg(creaseSVG(partById[id], 420, 300))));
+  if(tok!==boardToken) return;
+  const px0=1080, spots=[[px0,90,-0.03],[px0+470,110,0.025],[px0+20,420,0.02],[px0+480,430,-0.02]];
+  if(!ids.length){ // notes card instead
+    c.save(); c.translate(px0+120,120); c.rotate(-0.02); c.fillStyle='#fbf8f1'; c.shadowColor='rgba(0,0,0,.35)'; c.shadowBlur=18; c.shadowOffsetY=6; c.fillRect(0,0,680,520); c.shadowColor='transparent';
+    c.fillStyle='#1b1d21'; c.font='700 30px "Inter Tight", system-ui, sans-serif'; c.fillText(n===1?T('Cut list'):T('Notes'),36,60);
+    c.font='400 22px Georgia, serif'; let y=110; (n===1 ? [`${M.parts.length} ${T('unique blanks')}`, `${totBlanks} ${T('blanks in all')}`, T('Deburr every edge and hole'), T('Mark folds with felt pen, never a scribe')] : st.sub.slice(0,6).map(s=>T(s))).forEach(t=>{
+      const ws=t.split(' '); let line='• '; ws.forEach(w=>{ if(c.measureText(line+w).width>600){ c.fillText(line,36,y); y+=30; line='  '; } line+=w+' '; }); c.fillText(line,36,y); y+=40; if(y>500) return; });
+    c.fillStyle='#d33'; c.beginPath(); c.arc(340,14,11,0,7); c.fill(); c.restore();
+  }
+  ids.forEach((id,i)=>{ const im=sheets[i]; if(!im) return; const [x,y,r]=spots[i];
+    c.save(); c.translate(x,y); c.rotate(r); c.shadowColor='rgba(0,0,0,.35)'; c.shadowBlur=16; c.shadowOffsetY=6;
+    c.fillStyle='#fbf8f1'; c.fillRect(0,0,440,300); c.shadowColor='transparent';
+    const s=Math.min(400/im.width, 230/im.height); c.drawImage(im, 220-im.width*s/2, 20+(230-im.height*s)/2, im.width*s, im.height*s);
+    c.fillStyle='#1b1d21'; c.font='700 22px "JetBrains Mono", monospace'; c.fillText(id,18,285); c.font='400 18px "JetBrains Mono", monospace'; c.fillText('×'+partById[id].qty,380,285);
+    c.fillStyle=['#d33','#1f6feb','#2e8b57','#e3a008'][i%4]; c.beginPath(); c.arc(220,10,10,0,7); c.fill(); c.restore(); });
+  boardTex.needsUpdate=true;
+}
+// the same tools, laid out on the bench
+const benchTools=new THREE.Group(); shop.add(benchTools);
+function toolProxy(k){
+  const g=new THREE.Group(), A=SM;
+  const B=(w,d,h,m,x,y,z)=>sbox(w,d,h,m,x,y,z,g), C=(r,l,m,x,y,z,ax)=>scyl(r,l,m,x,y,z,ax,g,14);
+  switch(k){
+    case 'drill': B(0.2,0.06,0.07,A.accent,0,0,0.12); B(0.05,0.05,0.12,A.rubber,0.04,0,0.05); B(0.09,0.07,0.03,A.rubber,0.04,0,0.015); C(0.016,0.05,A.alu,-0.12,0,0.12,'x'); break;
+    case 'puller': C(0.012,0.12,A.alu,-0.09,0,0.03,'x'); B(0.03,0.025,0.03,A.red,0,0,0.03); [-0.012,0.012].forEach(d=>{ const h=B(0.24,0.018,0.012,A.red,0.12,d*4,0.015); h.rotation.z=d*6; }); break;
+    case 'cleco': for(let i=0;i<14;i++){ const a=i*2.4, r=0.03+0.012*(i%3); C(0.006,0.03,A.copper,Math.cos(a)*r,Math.sin(a)*r,0.015,'z'); } B(0.14,0.02,0.012,A.red,0.12,0.05,0.006); break;
+    case 'snips': [0.25,-0.25].forEach(a=>{ const s=B(0.2,0.016,0.012,A.yellow,0,0,0.006); s.rotation.z=a; }); B(0.06,0.012,0.012,A.alu,-0.11,0,0.006); break;
+    case 'deburr': C(0.012,0.11,A.accent,0,0,0.012,'x'); C(0.003,0.05,A.alu,-0.08,0,0.012,'x'); B(0.18,0.025,0.006,A.alu,0.02,0.06,0.003); break;
+    case 'mark': B(0.6,0.03,0.003,A.alu,0,0,0.0015); const sq=B(0.3,0.03,0.004,A.alu,0.1,0.12,0.002); B(0.03,0.2,0.004,A.alu,-0.05,0.21,0.002); C(0.006,0.13,A.rubber,0.05,-0.06,0.006,'x'); break;
+    case 'spanner': for(let i=0;i<5;i++){ const s=B(0.16+i*0.03,0.016,0.005,A.alu,0,-0.06+i*0.03,0.003); } C(0.01,0.38,A.alu,0.05,0.11,0.01,'x'); break;
+    case 'safety': [0.2,-0.2].forEach(a=>{ const s=B(0.16,0.014,0.01,A.red,0,0,0.005); s.rotation.z=a; }); C(0.02,0.012,A.alu,0.08,0.07,0.006,'z'); break;
+    case 'level': B(0.6,0.025,0.06,A.yellow,0,0,0.03); const cone=new THREE.Mesh(new THREE.ConeGeometry(0.014,0.05,14),A.copper); cone.position.set(0.1,0.08,0.025); g.add(cone); break;
+    case 'tube': C(0.025,0.02,A.blue,0,0,0.025,'y'); B(0.3,0.012,0.08,A.alu,0.05,0.09,0.04); break;
+    case 'ream': for(let i=0;i<3;i++) C(0.004+i*0.0015,0.12,A.alu,0,i*0.03,0.006,'x'); break;
+    case 'prime': [0,0.08].forEach(d=>C(0.03,0.18,d?A.green:A.accent,0,d,0.09,'z')); B(0.12,0.08,0.03,A.blue,0.1,-0.06,0.015); break;
+    case 'nico': [0.03,-0.03].forEach(d=>C(0.01,0.42,A.red,0,d,0.01,'x')); B(0.08,0.06,0.02,A.alu,-0.22,0,0.01); break;
+    case 'plastic': for(let i=0;i<5;i++) C(0.003+i*0.001,0.06,A.alu,0,i*0.02,0.004,'x'); break;
+    case 'dup': B(0.12,0.02,0.01,A.alu,0,0,0.005); B(0.12,0.02,0.01,A.alu,0,0.012,0.012); break;
+    case 'scales': B(0.3,0.3,0.03,A.rubber,0,0,0.015); B(0.08,0.05,0.02,A.blue,0,-0.12,0.04); break;
+    case 'sand': B(0.3,0.18,0.1,A.sand,0,0,0.05); B(0.3,0.18,0.1,A.sand,0.05,0.04,0.15); break;
+    case 'roll': C(0.0375,0.8,A.alu,0,0,0.04,'x'); B(0.05,0.03,0.08,A.yellow,0.2,0,0.04); break;
+    case 'vise': case 'brake': return null;   // fixtures already on the bench
+    default: B(0.1,0.06,0.04,A.frame,0,0,0.02);
+  }
+  return g;
+}
+function layBench(n){
+  benchTools.clear(); const st=stepN(n); const ks=st.tools.filter(k=>k!=='vise'&&k!=='brake').slice(0,7);
+  const top=SHOP.FZ+0.9, y0=SHOP.Y0+0.65, span=(SHOP.Y1-1.2)-y0;
+  ks.forEach((k,i)=>{ const g=toolProxy(k); if(!g) return; const y=y0+span*(ks.length>1? i/(ks.length-1) : 0.5);
+    g.position.set(SHOP.WALL-0.45+(i%2?0.12:-0.08), y, top); g.rotation.z=(i%2?0.35:-0.25)+Math.PI/2; benchTools.add(g); });
+}
+function updateShop(n){ layBench(n); paintBoard(n); }
 
 // per-part geometry
 const partObjs = []; // {p, inst:[group], panels:[[obj per panel]], geoms}
@@ -1365,7 +1499,7 @@ function go(n, animate){
   cur = Math.max(N0, Math.min(NS, n));
   stepsEl.querySelectorAll('button').forEach(b=>{ const k=+b.dataset.n; b.setAttribute('aria-current', k===cur?'step':'false'); b.classList.toggle('done', k<cur); b.querySelector('.bar').style.transform = k<cur?'':'scaleX(0)';
     if(k===cur){ const sl=stepsEl; const x=b.offsetLeft - sl.clientWidth/2 + b.offsetWidth/2; sl.scrollTo({left:Math.max(0,x), behavior: matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'}); } });
-  renderManual(cur); counters(cur); setMaterialsFor(cur); placeStatic(cur);
+  renderManual(cur); counters(cur); setMaterialsFor(cur); placeStatic(cur); updateShop(cur);
   if(cur===17 && !xray) setXray(true); else if(cur!==17 && xray && autoX) setXray(false);
   autoX = (cur===17);
   anim=null;

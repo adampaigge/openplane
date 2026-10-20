@@ -636,11 +636,14 @@ async function setLang(l){ if(!LANGS[l]) l='en'; pending.clear(); if(trTimer){ c
 // ------------------------------------------------ flags of the world, in no particular order
 function buildFlags(){
   const F=JSON.parse(document.getElementById('flags').textContent); const codes=Object.keys(F);
-  for(let i=codes.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [codes[i],codes[j]]=[codes[j],codes[i]]; }
+  // unbiased Fisher–Yates shuffle with the browser's cryptographic RNG: a fresh order on every load
+  const rnd=n=>{ const a=new Uint32Array(1), lim=Math.floor(0x100000000/n)*n; let x; do{ crypto.getRandomValues(a); x=a[0]; }while(x>=lim); return x%n; };
+  for(let i=codes.length-1;i>0;i--){ const j=rnd(i+1); [codes[i],codes[j]]=[codes[j],codes[i]]; }
   let dn=null; try{ dn=new Intl.DisplayNames([LANG],{type:'region'}); }catch(e){}
   const html=codes.map(c=>{ let n=c; try{ n=dn?dn.of(c):c; }catch(e){} return `<img src="data:image/svg+xml;charset=utf-8,${encodeURIComponent(F[c])}" alt="${n}" title="${n}" width="36" height="24" loading="lazy" decoding="async">`; }).join('');
   const tr=document.getElementById('flagTrack'); tr.innerHTML=`<div class="flagset">${html}</div><div class="flagset" aria-hidden="true">${html}</div>`;
   tr.style.setProperty('--flag-dur', (codes.length*0.9)+'s');
+  tr.style.animationDelay = (-rnd(1000)/1000*codes.length*0.9)+'s';   // start the ticker at a random point too
 }
 
 const STEPS = M.steps;

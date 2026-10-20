@@ -1011,9 +1011,6 @@ const trestles = new THREE.Group(); scene.add(trestles);
   hangar.userData.members = hangar.children.filter(c=>c.userData && c.userData.n);
   // door track header over the open front
   const hd=new THREE.Mesh(new THREE.BoxGeometry(0.25,HW*2,0.35),steel); hd.position.set(X0+0.1,0,FZ+EAVE-0.15); hd.userData.n=new THREE.Vector3(-1,0,0.3).normalize(); hangar.add(hd);
-  // sheet rack along the back wall (the bench, tool chest and board are the workshop below)
-  const sheet=new THREE.MeshStandardMaterial({color:0xd5dbe2,metalness:0.7,roughness:0.3});
-  for(let i=0;i<6;i++){ const sh=new THREE.Mesh(new THREE.BoxGeometry(0.01,2.44,1.22),sheet); sh.position.set(X1-0.25-i*0.03,2.6,FZ+0.62); sh.rotation.y=-0.12; hangar.add(sh); }
   // lights
   [[0,-3],[0,3],[4,-3],[4,3]].forEach(([x,y])=>{ const l=new THREE.PointLight(0xfff2dc,0.35,14,1.5); l.position.set(x,y,FZ+EAVE-0.2); hangar.add(l);
     const f=new THREE.Mesh(new THREE.BoxGeometry(1.2,0.12,0.05),new THREE.MeshBasicMaterial({color:0xfff7e6})); f.position.copy(l.position); f.userData.n=new THREE.Vector3(0,Math.sign(y)*0.45,1).normalize(); hangar.add(f); });
@@ -1081,6 +1078,23 @@ function scyl(r,len,m,x,y,z,axis,g,seg){ const o=new THREE.Mesh(new THREE.Cylind
   [[-1,-1],[-1,1],[1,-1],[1,1]].forEach(([a,b])=>{ scyl(0.035,0.03,SM.rubber,cx+a*(cd/2-0.06),cy+b*(cw/2-0.06),FZ+0.04,'y'); sbox(0.05,0.05,0.06,SM.frame,cx+a*(cd/2-0.06),cy+b*(cw/2-0.06),FZ+0.1); });
   sbox(0.025,0.4,0.025,SM.alu,cx,cy+cw/2+0.03,base+H-0.08); [-0.18,0.18].forEach(d=>sbox(0.02,0.04,0.02,SM.alu,cx+d,cy+cw/2+0.015,base+H-0.08));
 })();
+// sheet rack: 8 x 4 ft stock of 6061-T6 0.020 in standing on edge; it empties once the blanks are cut
+const rack=new THREE.Group(), stock=new THREE.Group(); shop.add(rack); shop.add(stock);
+(function(){ const {FZ,WALL}=SHOP, ry=2.6, lean=0.16;
+  const sheetM=new THREE.MeshStandardMaterial({color:0xdfe4ea, roughness:0.32, metalness:0.25});
+  const filmM=new THREE.MeshStandardMaterial({color:0xb7cde0, roughness:0.7});
+  sbox(0.42,2.7,0.06,SM.frame,WALL-0.26,ry,FZ+0.03,rack);                     // base channel
+  sbox(0.06,2.7,0.02,SM.rubber,WALL-0.26,ry,FZ+0.07,rack);                    // rubber strip the edges stand on
+  [ry-1.3,ry+1.3].forEach(y=>{ const up=sbox(0.05,0.05,1.4,SM.frame,WALL-0.12,y,FZ+0.7,rack); up.rotation.y=lean; // uprights, leaning to the wall
+    sbox(0.36,0.05,0.04,SM.frame,WALL-0.3,y,FZ+0.1,rack); });                 // front stops
+  sbox(0.05,2.7,0.05,SM.frame,WALL-0.02,ry,FZ+1.38,rack);                     // top rail
+  for(let i=0;i<8;i++){ const g=new THREE.Group(); g.position.set(WALL-0.36+i*0.016, ry, FZ+0.08); g.rotation.y=lean;
+    sbox(0.005,2.44,1.22,sheetM,0,0,0.61,g); if(i===0) sbox(0.001,2.3,1.08,filmM,-0.004,0,0.63,g); stock.add(g); }
+  // offcuts left after cutting
+  const off=new THREE.Group(); off.userData.offcuts=true; stock.add(off);
+  [[0.7,0.5],[0.45,0.9],[0.3,0.6]].forEach(([w,h],i)=>{ const g=new THREE.Group(); g.position.set(WALL-0.34+i*0.02, ry-0.6+i*0.5, FZ+0.08); g.rotation.y=lean; sbox(0.005,w,h,sheetM,0,0,h/2,g); off.add(g); });
+})();
+function updateStock(n){ stock.children.forEach(g=>{ g.visible = g.userData.offcuts ? n>1 : n<=1; }); }
 // the board: pegboard + pinned drawings, painted on a canvas and rebuilt for every step
 const boardCv=document.createElement('canvas'); boardCv.width=2048; boardCv.height=768;
 const boardTex=new THREE.CanvasTexture(boardCv); boardTex.anisotropy=4; if('colorSpace' in boardTex) boardTex.colorSpace=THREE.SRGBColorSpace; else boardTex.encoding=THREE.sRGBEncoding;
@@ -1166,7 +1180,7 @@ function layBench(n){
   ks.forEach((k,i)=>{ const g=toolProxy(k); if(!g) return; const y=y0+span*(ks.length>1? i/(ks.length-1) : 0.5);
     g.position.set(SHOP.WALL-0.45+(i%2?0.12:-0.08), y, top); g.rotation.z=(i%2?0.35:-0.25)+Math.PI/2; benchTools.add(g); });
 }
-function updateShop(n){ layBench(n); paintBoard(n); }
+function updateShop(n){ layBench(n); paintBoard(n); updateStock(n); }
 
 // per-part geometry
 const partObjs = []; // {p, inst:[group], panels:[[obj per panel]], geoms}

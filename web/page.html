@@ -789,7 +789,7 @@ function renderArticle(){
   const cats=[...new Set(M.bomx.map(b=>b.cat))];
   let tot=0; const rows=cats.map(c=>{ const v=M.bomx.filter(b=>b.cat===c).reduce((a,b)=>a+price(b.gbp_total||0,b.us),0); tot+=v; return `<tr><td>${T(c)}</td><td class="n r">${money(v)}</td></tr>`; });
   document.querySelector('#costT tbody').innerHTML = rows.join('') + `<tr><td><b>Total</b></td><td class="n r"><b>${money(tot)}</b></td></tr>`;
-  document.getElementById('costNote').textContent = (CUR.mode==='local' ? `Local-price estimate in ${CUR.code}. ` : `UK retail prices (inc. 20 % VAT) converted to ${CUR.code}. `) +
+  document.getElementById('costNote').textContent = (CUR.mode==='local' ? `Local-price estimate in ${CUR.code}. ` : CUR.code==='GBP' ? 'UK retail prices, including 20 % VAT. ' : `UK retail prices (inc. 20 % VAT) converted to ${CUR.code}. `) +
     'Sheet is priced from the nested stock sheets at a UK aero retailer\'s list price, so it includes the waste. Buying a stock-holder\'s bulk 8 × 4 ft sheet, or using a second-hand engine, brings the total down a lot.';
   drawBom();
 }
@@ -822,11 +822,12 @@ document.querySelectorAll('.tabbar [role=tab]').forEach(t=>t.addEventListener('c
   document.querySelectorAll('.tabpane').forEach(p=>p.hidden = p.id!=='tab-'+t.dataset.tab); }));
 const curSel=document.getElementById('curSel'), unitSel=document.getElementById('unitSel'), modeSel=document.getElementById('priceMode');
 curSel.innerHTML = Object.keys(FX).map(c=>`<option value="${c}">${c}</option>`).join('');
-try{ CUR.code = localStorage.getItem('ori1-cur') || guessCurrency(); UNITS.sys = localStorage.getItem('ori1-units') || ((navigator.language||'').toLowerCase()==='en-us'?'imperial':'metric'); CUR.mode = localStorage.getItem('ori1-pmode') || 'convert'; }catch(e){ CUR.code=guessCurrency(); }
+try{ CUR.code = localStorage.getItem('ori1-cur') || guessCurrency(); UNITS.sys = localStorage.getItem('ori1-units') || ((navigator.language||'').toLowerCase()==='en-us'?'imperial':'metric'); }catch(e){ CUR.code=guessCurrency(); }
+CUR.mode = CUR.code==='GBP' ? 'convert' : 'local';   // a UK price with UK VAT is only useful in pounds
 curSel.value=CUR.code; unitSel.value=UNITS.sys; modeSel.value=CUR.mode;
-function persist(){ try{ localStorage.setItem('ori1-cur',CUR.code); localStorage.setItem('ori1-units',UNITS.sys); localStorage.setItem('ori1-pmode',CUR.mode); }catch(e){} }
-curSel.onchange=()=>{ CUR.code=curSel.value; persist(); renderArticle(); };
-modeSel.onchange=()=>{ CUR.mode=modeSel.value; persist(); renderArticle(); };
+function persist(){ try{ localStorage.setItem('ori1-cur',CUR.code); localStorage.setItem('ori1-units',UNITS.sys); localStorage.removeItem('ori1-pmode'); }catch(e){} }
+curSel.onchange=()=>{ CUR.code=curSel.value; CUR.mode = CUR.code==='GBP' ? 'convert' : 'local'; modeSel.value=CUR.mode; persist(); renderArticle(); };
+modeSel.onchange=()=>{ CUR.mode=modeSel.value; renderArticle(); };   // a manual choice lasts for this visit only
 unitSel.onchange=()=>{ UNITS.sys=unitSel.value; persist(); renderArticle(); if(typeof renderManual==='function' && typeof cur!=='undefined') renderManual(cur); };
 const langSel=document.getElementById('langSel'); langSel.innerHTML=Object.entries(LANGS).map(([k,v])=>`<option value="${k}">${v.name}</option>`).join('');
 let _l='en'; try{ _l=localStorage.getItem('op-lang')||'en'; }catch(e){} langSel.value=LANGS[_l]?_l:'en';

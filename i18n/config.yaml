@@ -1,14 +1,100 @@
-# Languages offered on the website. `name` is shown in the menu; `english` is what the
-# translator is told. Add a language here and the next build translates everything into it.
+# Languages offered on the website. The menu shows each language's own name (from the browser).
+# `english` is what the translator is told; `rtl` marks right-to-left scripts.
+# Add a language here and the next build translates everything into it.
 source: en
 languages:
-  zh: {name: "中文", english: "Simplified Chinese"}
-  hi: {name: "हिन्दी", english: "Hindi"}
-  es: {name: "Español", english: "Spanish"}
-  fr: {name: "Français", english: "French"}
-  ar: {name: "العربية", english: "Modern Standard Arabic", rtl: true}
-  bn: {name: "বাংলা", english: "Bengali"}
-  pt: {name: "Português", english: "Portuguese"}
-  ru: {name: "Русский", english: "Russian"}
-  ja: {name: "日本語", english: "Japanese"}
-  de: {name: "Deutsch", english: "German"}
+  es: {english: "Spanish"}
+  fr: {english: "French"}
+  ar: {english: "Modern Standard Arabic", rtl: true}
+  pt: {english: "Portuguese"}
+  zh: {english: "Simplified Chinese"}
+  zh-Hant: {english: "Traditional Chinese"}
+  hi: {english: "Hindi"}
+  bn: {english: "Bengali"}
+  ru: {english: "Russian"}
+  ja: {english: "Japanese"}
+  de: {english: "German"}
+  id: {english: "Indonesian"}
+  ur: {english: "Urdu", rtl: true}
+  tr: {english: "Turkish"}
+  vi: {english: "Vietnamese"}
+  ko: {english: "Korean"}
+  it: {english: "Italian"}
+  fa: {english: "Persian", rtl: true}
+  sw: {english: "Swahili"}
+  th: {english: "Thai"}
+  pl: {english: "Polish"}
+  uk: {english: "Ukrainian"}
+  nl: {english: "Dutch"}
+  ro: {english: "Romanian"}
+  ms: {english: "Malay"}
+  fil: {english: "Filipino"}
+  am: {english: "Amharic"}
+  my: {english: "Burmese"}
+  ne: {english: "Nepali"}
+  si: {english: "Sinhala"}
+  km: {english: "Khmer"}
+  lo: {english: "Lao"}
+  uz: {english: "Uzbek (Latin script)"}
+  az: {english: "Azerbaijani"}
+  el: {english: "Greek"}
+  cs: {english: "Czech"}
+  hu: {english: "Hungarian"}
+  sv: {english: "Swedish"}
+  he: {english: "Hebrew", rtl: true}
+  sr: {english: "Serbian (Cyrillic)"}
+  hr: {english: "Croatian"}
+  bs: {english: "Bosnian"}
+  bg: {english: "Bulgarian"}
+  sk: {english: "Slovak"}
+  sl: {english: "Slovenian"}
+  da: {english: "Danish"}
+  fi: {english: "Finnish"}
+  nb: {english: "Norwegian Bokmål"}
+  is: {english: "Icelandic"}
+  et: {english: "Estonian"}
+  lv: {english: "Latvian"}
+  lt: {english: "Lithuanian"}
+  ka: {english: "Georgian"}
+  hy: {english: "Armenian"}
+  be: {english: "Belarusian"}
+  mk: {english: "Macedonian"}
+  sq: {english: "Albanian"}
+  mt: {english: "Maltese"}
+  ca: {english: "Catalan"}
+  mn: {english: "Mongolian (Cyrillic)"}
+  af: {english: "Afrikaans"}
+  so: {english: "Somali"}
+  ht: {english: "Haitian Creole"}
+
+# Clicking a flag picks the country's main language. Where that language isn't offered yet
+# (mostly languages with too little technical text for a reliable translation), it uses this one instead.
+fallback:
+  sm: en
+  to: en
+  tkl: en
+  tvl: en
+  pau: en
+  bi: en
+  tpi: en
+  dz: en
+  ak: en
+  st: en
+  sn: en
+  dv: en
+  rw: en
+  ti: en
+  sg: fr
+  rn: fr
+  bm: fr
+  wo: fr
+  mg: fr
+  ha: fr
+  gn: es
+  pap: nl
+  kl: da
+  fo: da
+  ky: ru
+  tg: ru
+  tk: ru
+  no: nb

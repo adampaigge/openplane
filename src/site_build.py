@@ -44,6 +44,7 @@ def main():
                 .replace("/*MANIFEST*/", json.dumps(paths))
                 .replace("/*FLAGS*/", json.dumps(flags).replace("</", "<\\/"))
                 .replace("/*LANGS*/", json.dumps(langs, ensure_ascii=False))
+                .replace("/*REGIONS*/", open(ROOT / "web" / "regions.json", encoding="utf8").read())
                 .replace("/*QUAL*/", json.dumps(yaml.safe_load(open(ROOT / "qualification.yaml", encoding="utf8")), ensure_ascii=False).replace("</", "<\\/"))
                 .replace("/*META*/", json.dumps(meta))
                 .replace("__OPENPLANE_REPO__", repo))

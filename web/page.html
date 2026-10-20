@@ -414,6 +414,7 @@ a.pbtn[aria-disabled="true"]{opacity:.45;cursor:not-allowed;pointer-events:none}
 .qphase td:first-child{width:22%}
 @media (max-width:700px){.qretire{margin-left:0}.qphase{padding:16px 14px}.qphase table,.qphase tbody,.qphase tr,.qphase td{display:block;width:auto!important}.qphase thead{display:none}.qphase tr{padding:12px 14px;border-bottom:1px solid var(--line)}.qphase tr:last-child{border-bottom:0}.qphase td{border:0;padding:4px 0}.qphase td[data-l]::before{content:attr(data-l);display:block;font-family:var(--f-mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-top:6px}}
 section p,section li,.mtext,.sub,.truth p{letter-spacing:-.005em}
+.flagzoom figcaption small{display:block;text-align:center;font-family:var(--f-mono);font-size:14px;font-weight:500;letter-spacing:.08em;color:var(--muted);margin-top:8px}
 </style>
 
 <div class="flagband" aria-label="Flags of the world: a project for anyone, anywhere"><div class="flagtrack" id="flagTrack"></div></div>
@@ -516,7 +517,7 @@ section p,section li,.mtext,.sub,.truth p{letter-spacing:-.005em}
     <h2 data-i18n>What it costs</h2>
     <p id="costNote"></p>
     <div class="tbl"><table id="costT"><thead><tr><th>Category</th><th class="r">Amount</th></tr></thead><tbody></tbody></table></div>
-    <p class="small">Exchange rates are 19 October 2026 closes (Pound Sterling Live). "Local-price estimate" takes VAT off the UK price, applies about 20 % off US-made aircraft hardware, aero sheet and the engine kit when buying in the US, then adds a typical local sales tax: US shown before sales tax, EU 21 %, Japan 10 %, Australia 10 % GST, Canada 13 % HST. Treat these as rough guides, not quotes.</p>
+    <p class="small"><span data-i18n>The local-price estimate takes UK VAT off the UK price, converts it at the day's exchange rate, takes about 20 % off US-made hardware, sheet and the engine kit when buying in the US, then adds the country's typical standard VAT, GST or sales tax. It leaves out import duty and shipping. Treat these as rough guides, not quotes.</span> <span id="fxDate"></span></p>
   </section>
 
   <section class="tabpane" id="tab-bom" hidden>
@@ -606,6 +607,7 @@ window.addEventListener('error', function(e){ try{ var s=document.getElementById
 <script type="application/json" id="flags">/*FLAGS*/</script>
 <script type="application/json" id="langs">/*LANGS*/</script>
 <script type="application/json" id="qual">/*QUAL*/</script>
+<script type="application/json" id="regions">/*REGIONS*/</script>
 <script>
 (function(){
 "use strict";
@@ -623,7 +625,14 @@ const partById = {}; M.parts.forEach(p=>partById[p.id]=p);
 // with a pull request). Lines not in the file yet are filled by the browser's own on-device
 // translator where it has one (desktop Chrome); otherwise they stay in English.
 const LCFG = JSON.parse(document.getElementById('langs').textContent);
-const LANGS = Object.assign({en:{name:'English'}}, LCFG.languages);
+const LANGS = (()=>{ const out={en:{name:'English'}};
+  const auto=c=>{ try{ const n=new Intl.DisplayNames([c],{type:'language'}).of(c); return n ? n.charAt(0).toLocaleUpperCase(c)+n.slice(1) : c; }catch(e){ return c; } };
+  Object.entries(LCFG.languages).map(([c,v])=>[c,Object.assign({name:auto(c)},v)]).sort((a,b)=>a[1].name.localeCompare(b[1].name)).forEach(([c,v])=>out[c]=v);
+  return out; })();
+// the language a flag stands for: the country's most likely language (CLDR, via the browser), or its configured fallback
+function langForRegion(cc){ let l='en', s=''; try{ const L=new Intl.Locale('und-'+cc).maximize(); l=L.language; s=L.script||''; }catch(e){}
+  if(l==='zh') l = s==='Hant' ? 'zh-Hant' : 'zh';
+  if(LANGS[l]) return l; const f=(LCFG.fallback||{})[l]; return (f && LANGS[f]) ? f : 'en'; }
 let LANG='en'; const TR={}, TRSRC={}; const pending=new Set(); let trTimer=null, trBusy=false, browserTr=null, browserTrLang=null, loadingLang=null;
 const I18N_BASES = (LIVE && META.repo ? [`https://cdn.jsdelivr.net/gh/${META.repo}@live/i18n/`] : []).concat(['i18n/']);
 async function loadTR(l){
@@ -633,7 +642,11 @@ async function loadTR(l){
       for(const k in d){ TR[l][k]=d[k].t; TRSRC[l][k]=d[k].reviewed?'reviewed':'machine'; } break; }catch(e){} }
 }
 function T(s){ return unitText(T0(s)); }
-function T0(s){ if(!s||LANG==='en') return s; const d=TR[LANG]; if(d && d[s]!=null) return d[s]; if(d && /[A-Za-z]{3}/.test(s)){ pending.add(s); if(!trTimer && !trBusy) trTimer=setTimeout(fillFromBrowser,300); } return s; }
+const FLAT_RX=/^(\d+) x (\d+) mm flat, (\d+) folds, (\d+) pilot holes(?:; (\d+) parts x (\d+) laminated layers)?$/;
+function T0(s){ if(!s||LANG==='en') return s;
+  const fm = typeof s==='string' && s.match(FLAT_RX);
+  if(fm){ let r=T0('{w} x {h} mm flat, {f} folds, {p} pilot holes').replace('{w}',fm[1]).replace('{h}',fm[2]).replace('{f}',fm[3]).replace('{p}',fm[4]);
+    if(fm[5]) r+=T0('; {n} parts x {l} laminated layers').replace('{n}',fm[5]).replace('{l}',fm[6]); return r; } const d=TR[LANG]; if(d && d[s]!=null) return d[s]; if(d && /[A-Za-z]{3}/.test(s)){ pending.add(s); if(!trTimer && !trBusy) trTimer=setTimeout(fillFromBrowser,300); } return s; }
 function trNote(msg){ const n=document.getElementById('trNote'); if(!n) return; n.hidden=!msg; n.innerHTML=msg||''; }
 function noteFor(lang){
   if(lang==='en') return '';
@@ -661,7 +674,7 @@ async function setLang(l){ if(!LANGS[l]) l='en'; pending.clear(); if(trTimer){ c
   try{ localStorage.setItem('op-lang',l); }catch(e){}
   await loadTR(l); LANG=l;
   document.documentElement.lang=l; document.documentElement.dir = LANGS[l].rtl?'rtl':'ltr';
-  trNote(noteFor(l)); rerenderText(); buildFlags(); }
+  trNote(noteFor(l)); if(typeof fillCurrencies==='function') fillCurrencies(); rerenderText(); buildFlags(); }
 // ------------------------------------------------ flags of the world, in no particular order
 function buildFlags(){
   const F=JSON.parse(document.getElementById('flags').textContent); const codes=Object.keys(F);
@@ -669,7 +682,7 @@ function buildFlags(){
   const rnd=n=>{ const a=new Uint32Array(1), lim=Math.floor(0x100000000/n)*n; let x; do{ crypto.getRandomValues(a); x=a[0]; }while(x>=lim); return x%n; };
   for(let i=codes.length-1;i>0;i--){ const j=rnd(i+1); [codes[i],codes[j]]=[codes[j],codes[i]]; }
   let dn=null; try{ dn=new Intl.DisplayNames([LANG],{type:'region'}); }catch(e){}
-  const html=codes.map(c=>{ let n=c; try{ n=dn?dn.of(c):c; }catch(e){} return `<img src="data:image/svg+xml;charset=utf-8,${encodeURIComponent(F[c])}" alt="${n}" title="${n}" width="36" height="24" loading="lazy" decoding="async">`; }).join('');
+  const html=codes.map(c=>{ let n=c; try{ n=dn?dn.of(c):c; }catch(e){} return `<img data-cc="${c}" src="data:image/svg+xml;charset=utf-8,${encodeURIComponent(F[c])}" alt="${n}" title="${n}" width="36" height="24" loading="lazy" decoding="async">`; }).join('');
   const tr=document.getElementById('flagTrack'); tr.innerHTML=`<div class="flagset">${html}</div><div class="flagset" aria-hidden="true">${html}</div>`;
   tr.style.setProperty('--flag-dur', (codes.length*0.9)+'s');
   tr.style.animationDelay = (-rnd(1000)/1000*codes.length*0.9)+'s';   // start the ticker at a random point too
@@ -682,14 +695,20 @@ const totBlanks = STEPS.reduce((a,s)=>a+s.blanks,0);
 
 // ------------------------------------------------ units + currency
 const UNITS = {sys:'metric'};
-const FX = {GBP:1, USD:1.3329, EUR:1.1873, JPY:210.647, AUD:1.9129, CAD:1.8824};   // GBP closes, 19 Oct 2026
-const TAX = {GBP:0.20, USD:0, EUR:0.21, JPY:0.10, AUD:0.10, CAD:0.13};
-const CUR = {code:'GBP', mode:'convert'};
-function guessCurrency(){ const l=(navigator.language||'en-GB'); const L=l.toLowerCase();
-  if(L.startsWith('en-us')) return 'USD'; if(L.startsWith('en-au')) return 'AUD'; if(L.endsWith('-ca')) return 'CAD'; if(L.startsWith('ja')) return 'JPY';
-  if(/^(de|fr|es|it|nl|pt|fi|el|sk|sl|et|lv|lt|ga|mt)/.test(L) || /-(ie|at|be)$/.test(L)) return 'EUR'; return 'GBP'; }
-function price(gbp, us){ let v = gbp; if(CUR.mode==='local'){ v = gbp/1.2 * FX[CUR.code] * ((CUR.code==='USD' && us)?0.8:1) * (1+TAX[CUR.code]); } else v = gbp*FX[CUR.code]; return v; }
-function money(v){ try{ return new Intl.NumberFormat(navigator.language||'en-GB',{style:'currency',currency:CUR.code,maximumFractionDigits: v<10&&CUR.code!=='JPY'?2:0}).format(v); }catch(e){ return CUR.code+' '+fmt(v); } }
+const RG = JSON.parse(document.getElementById('regions').textContent);
+const FX = RG.fx.rates;
+const CUR = {code:'GBP', mode:'convert', region:'GB'};
+const CUR_HOME = {EUR:'DE',USD:'US',XOF:'SN',XAF:'CM',XCD:'LC',AUD:'AU',NZD:'NZ',GBP:'GB',DKK:'DK',NOK:'NO',CHF:'CH',XPF:'PF',XCG:'CW',MAD:'MA',ILS:'IL',ZAR:'ZA',SHP:'SH',INR:'IN'};
+const US_MARKET = new Set(['US','PR','GU','VI','AS','MP','UM']);
+const regionCurrency = cc => (RG.regions[cc]||['GBP',20])[0];
+const regionTax = cc => (RG.regions[cc]||['GBP',20])[1];
+function homeRegion(cur){ if(RG.regions[CUR.region] && RG.regions[CUR.region][0]===cur) return CUR.region; return CUR_HOME[cur] || Object.keys(RG.regions).find(c=>RG.regions[c][0]===cur) || 'GB'; }
+function guessRegion(){ const l=(navigator.languages&&navigator.languages[0]) || navigator.language || 'en-GB';
+  try{ const r=new Intl.Locale(l).maximize().region; if(r && RG.regions[r]) return r; }catch(e){} return 'GB'; }
+function regionName(cc){ try{ return new Intl.DisplayNames([LANG||'en'],{type:'region'}).of(cc); }catch(e){ return cc; } }
+// UK retail incl. VAT -> ex-VAT -> local currency -> (US-made items ~20 % cheaper in the US market) -> local VAT/GST/sales tax
+function price(gbp, us){ if(CUR.mode==='local'){ return gbp/1.2 * FX[CUR.code] * ((us && US_MARKET.has(CUR.region))?0.8:1) * (1+regionTax(CUR.region)/100); } return gbp*FX[CUR.code]; }
+function money(v){ try{ return new Intl.NumberFormat(navigator.language||'en-GB',{style:'currency',currency:CUR.code,maximumFractionDigits: v<10?2:0}).format(v); }catch(e){ return CUR.code+' '+fmt(v); } }
 const imp = ()=>UNITS.sys==='imperial';
 const uLen = mm => imp() ? (mm>=1000? fmt(mm/304.8,2)+' ft' : fmt(mm/25.4, mm<100?2:1)+' in') : (mm>=1000? fmt(mm/1000,2)+' m' : fmt(mm,0)+' mm');
 const uMass = kg => imp()? fmt(kg*2.20462,0)+' lb' : fmt(kg,0)+' kg';
@@ -837,10 +856,11 @@ function renderArticle(){
   const cats=[...new Set(M.bomx.map(b=>b.cat))];
   let tot=0; const rows=cats.map(c=>{ const v=M.bomx.filter(b=>b.cat===c).reduce((a,b)=>a+price(b.gbp_total||0,b.us),0); tot+=v; return `<tr><td>${T(c)}</td><td class="n r">${money(v)}</td></tr>`; });
   document.querySelector('#costT tbody').innerHTML = rows.join('') + `<tr><td><b>Total</b></td><td class="n r"><b>${money(tot)}</b></td></tr>`;
-  document.getElementById('costNote').textContent = (CUR.mode==='local' ? `Local-price estimate in ${CUR.code}. ` : CUR.code==='GBP' ? 'UK retail prices, including 20 % VAT. ' : `UK retail prices (inc. 20 % VAT) converted to ${CUR.code}. `) +
+  document.getElementById('costNote').textContent = (CUR.mode==='local' ? T(regionTax(CUR.region)>0 ? 'Local-price estimate for {country}, in {currency}, including {tax} % VAT, GST or sales tax.' : 'Local-price estimate for {country}, in {currency}, before any local sales tax.').replace('{country}',regionName(CUR.region)).replace('{currency}',CUR.code).replace('{tax}',fmt(regionTax(CUR.region),1).replace(/[.,]0$/,''))+' ' : CUR.code==='GBP' ? 'UK retail prices, including 20 % VAT. ' : `UK retail prices (inc. 20 % VAT) converted to ${CUR.code}. `) +
     'Sheet is priced from the nested stock sheets at a UK aero retailer\'s list price, so it includes the waste. Buying a stock-holder\'s bulk 8 × 4 ft sheet, or using a second-hand engine, brings the total down a lot.';
   drawBom();
   renderQual();
+  document.getElementById('fxDate').textContent = T('Exchange rates: {date}, base GBP.').replace('{date}', RG.fx.date);
 }
 let bomCat=null;
 function drawBom(){ const cats=[...new Set(M.bomx.map(b=>b.cat))]; if(!bomCat) bomCat=cats[0]; const tabs=document.getElementById('bomTabs'), tb=document.querySelector('#bomT tbody');
@@ -870,13 +890,23 @@ document.getElementById('bomCsv').addEventListener('click',()=>exportBOM(documen
 document.querySelectorAll('.tabbar [role=tab]').forEach(t=>t.addEventListener('click',()=>{ document.querySelectorAll('.tabbar [role=tab]').forEach(x=>x.setAttribute('aria-selected',String(x===t)));
   document.querySelectorAll('.tabpane').forEach(p=>p.hidden = p.id!=='tab-'+t.dataset.tab); }));
 const curSel=document.getElementById('curSel'), unitSel=document.getElementById('unitSel'), modeSel=document.getElementById('priceMode');
-curSel.innerHTML = Object.keys(FX).map(c=>`<option value="${c}">${c}</option>`).join('');
-try{ CUR.code = localStorage.getItem('ori1-cur') || guessCurrency(); UNITS.sys = localStorage.getItem('ori1-units') || ((navigator.language||'').toLowerCase()==='en-us'?'imperial':'metric'); }catch(e){ CUR.code=guessCurrency(); }
+function fillCurrencies(){ let dn=null; try{ dn=new Intl.DisplayNames([LANG||'en'],{type:'currency'}); }catch(e){}
+  const curs=[...new Set(['GBP',...Object.values(RG.regions).map(r=>r[0])])].filter(c=>FX[c]).sort();
+  curSel.innerHTML = curs.map(c=>{ let n=''; try{ n=dn?dn.of(c):''; }catch(e){} return `<option value="${c}">${c}${n&&n!==c?' · '+n:''}</option>`; }).join(''); curSel.value=CUR.code; }
+let _saved={}; try{ _saved={region:localStorage.getItem('op-region'), cur:localStorage.getItem('ori1-cur'), units:localStorage.getItem('ori1-units')}; }catch(e){}
+CUR.region = (_saved.region && RG.regions[_saved.region]) ? _saved.region : guessRegion();
+CUR.code = (_saved.cur && FX[_saved.cur]) ? _saved.cur : regionCurrency(CUR.region);
+if(regionCurrency(CUR.region)!==CUR.code) CUR.region=homeRegion(CUR.code);
 CUR.mode = CUR.code==='GBP' ? 'convert' : 'local';   // a UK price with UK VAT is only useful in pounds
-curSel.value=CUR.code; unitSel.value=UNITS.sys; modeSel.value=CUR.mode;
-function persist(){ try{ localStorage.setItem('ori1-cur',CUR.code); localStorage.setItem('ori1-units',UNITS.sys); localStorage.removeItem('ori1-pmode'); }catch(e){} }
-curSel.onchange=()=>{ CUR.code=curSel.value; CUR.mode = CUR.code==='GBP' ? 'convert' : 'local'; modeSel.value=CUR.mode; persist(); renderArticle(); };
+UNITS.sys = _saved.units || (RG.imperial.includes(CUR.region)?'imperial':'metric');
+fillCurrencies(); unitSel.value=UNITS.sys; modeSel.value=CUR.mode;
+function persist(){ try{ localStorage.setItem('ori1-cur',CUR.code); localStorage.setItem('op-region',CUR.region); localStorage.setItem('ori1-units',UNITS.sys); localStorage.removeItem('ori1-pmode'); }catch(e){} }
+curSel.onchange=()=>{ CUR.code=curSel.value; CUR.region=homeRegion(CUR.code); CUR.mode = CUR.code==='GBP' ? 'convert' : 'local'; modeSel.value=CUR.mode; persist(); renderArticle(); };
 modeSel.onchange=()=>{ CUR.mode=modeSel.value; renderArticle(); };   // a manual choice lasts for this visit only
+// a flag sets everything for its country: language, currency, local price estimate and units
+function applyRegion(cc){ if(!RG.regions[cc]) return; CUR.region=cc; CUR.code=regionCurrency(cc); CUR.mode=CUR.code==='GBP'?'convert':'local';
+  UNITS.sys = RG.imperial.includes(cc)?'imperial':'metric'; unitSel.value=UNITS.sys; modeSel.value=CUR.mode; curSel.value=CUR.code; persist();
+  const l=langForRegion(cc); langSel.value=l; setLang(l); }
 unitSel.onchange=()=>{ UNITS.sys=unitSel.value; persist(); renderArticle(); if(typeof renderManual==='function' && typeof cur!=='undefined') renderManual(cur); };
 const langSel=document.getElementById('langSel'); langSel.innerHTML=Object.entries(LANGS).map(([k,v])=>`<option value="${k}">${v.name}</option>`).join('');
 let _l='en'; try{ _l=localStorage.getItem('op-lang')||'en'; }catch(e){} langSel.value=LANGS[_l]?_l:'en';
@@ -889,7 +919,8 @@ document.getElementById('flagTrack').addEventListener('click',e=>{
   const im=e.target.closest('img'); if(!im) return;
   const r=im.getBoundingClientRect();
   const ov=document.createElement('div'); ov.className='flagzoom'; ov.setAttribute('role','dialog'); ov.setAttribute('aria-label',im.alt);
-  ov.innerHTML=`<figure><img src="${im.src}" alt=""><figcaption>${im.alt}</figcaption></figure>`;
+  const cc=im.dataset.cc; applyRegion(cc); const lc=langForRegion(cc), ln=LANGS[lc]; let cn=im.alt; try{ cn=new Intl.DisplayNames([lc],{type:'region'}).of(cc); }catch(e){}
+  ov.innerHTML=`<figure><img src="${im.src}" alt=""><figcaption>${cn}<small>${ln?ln.name:''} · ${regionCurrency(cc)}</small></figcaption></figure>`;
   document.body.appendChild(ov);
   const big=ov.querySelector('img'); const b=big.getBoundingClientRect();
   const from=`translate(${(r.left+r.width/2)-(b.left+b.width/2)}px,${(r.top+r.height/2)-(b.top+b.height/2)}px) scale(${r.width/b.width})`;
@@ -980,7 +1011,7 @@ function tubeSVG(d){
   return `<div class="tdraw"><svg viewBox="0 0 ${W} 74" role="img" aria-label="${d.label}">${body}${ends}
   <path d="M24 50v12M496 50v12M24 56h472" stroke="#17191f" stroke-width="1"/><path d="M24 56l8-3v6zM496 56l-8-3v6z" fill="#17191f"/>
   <rect x="${W/2-80}" y="48" width="160" height="16" fill="#fbf8f1"/><text x="${W/2}" y="60" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12" fill="#17191f">${uLen(d.len)}</text></svg>
-  <div class="cap" style="display:flex;justify-content:space-between;gap:8px;font-family:var(--f-mono);font-size:11px;color:#5b5a55"><b style="color:#17191f">${unitText(d.label)}</b><span>${unitText(d.note)}</span></div></div>`;
+  <div class="cap" style="display:flex;justify-content:space-between;gap:8px;font-family:var(--f-mono);font-size:11px;color:#5b5a55"><b style="color:#17191f">${T(d.label)}</b><span>${T(d.note)}</span></div></div>`;
 }
 
 // ------------------------------------------------ manual page

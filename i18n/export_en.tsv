@@ -1,0 +1,794 @@
+0	1 m hand bending brake (or hardwood bending blocks in a vise)
+1	1/8 in Clecos (300) + Cleco pliers
+2	1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)
+3	1/8 in domed aluminium blind rivet, grip -2 (1.6-3.2 mm)
+4	1/8 in hole duplicator
+5	1/8 in stainless/Monel blind rivet (fire-zone)
+6	2 m section in four-point bending, loaded in steps to 1.5 × the +4 g limit bending moment.
+7	2 x AN4 at the tail post
+8	2 x AN5 holes at the top, axle boss at the bottom
+9	4 x 1.79 m wing, 2 x 1.0 m elevators, 1.24 m rudder, door
+10	4130 fittings
+11	75 mm tube + ratchet strap (nose roller)
+12	; {n} parts x {l} laminated layers
+13	A BMAA or LAA inspector reviews the aircraft and the evidence.
+14	A UK SSDR aircraft needs no airworthiness approval, so all the responsibility is the builder's. Proof-load the wing with sandbags to +4 g and have a BMAA or LAA inspector look at it before it flies. Elsewhere, check your national microlight rules.
+15	A concept design, published for study. It is not an approved design, and nothing here is airworthiness advice.
+16	A single-seat microlight anyone can build. Every sheet part is a flat blank with straight folds, cut from one gauge of aluminium.
+17	A4-1 blind rivet
+18	A4-2 blind rivet
+19	A4-SS blind rivet
+20	ALT instrument
+21	AN3 bolt (10-32), AN365-1032 nut, AN960-10 washers
+22	AN3 bolt, AN365-1032 nut
+23	AN3 bolt, AN365-1032 nut, rod end between the plates
+24	AN3 bolt, AN365-1032 nut, through 3/16 in rod end
+25	AN3 each end
+26	AN4 bolt (1/4-28), AN365-428 nut, 2 x AN960-416 washers
+27	AN4 bolt, AN310-4 + cotter (pivot)
+28	AN4 bolt, AN310-4 castle nut + cotter
+29	AN4 bolt, AN365-428 nut
+30	AN4 bolt, AN365-428 nut, AN970-4 washer each side
+31	AN5 bolt (5/16-24), AN365-524 nut, AN970-5 large washers
+32	AN5 bolt + rubber isolator (Lord-type) + AN365-524
+33	AN5 bolt, AN310-5 castellated nut, MS24665 cotter
+34	AN5 bolt, AN365-524 nut
+35	AN5 clevis pin (bolt), AN310-5 castellated nut, MS24665 cotter
+36	AN5 prop bolt, AN310-5 + safety wire (per prop maker)
+37	ASI instrument
+38	About 10 months
+39	Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)
+40	Aileron / flap skin (identical x4)
+41	Aileron / flap spar (identical x4)
+42	Aileron and flap horns (K-HN), 1 per surface
+43	Aileron link (cabin) x2
+44	Aileron link (cabin) x2: 6061-T6 3/8 x 0.035 in
+45	Aileron pushrod (arch) x2
+46	Aileron pushrod (arch) x2: 6061-T6 3/8 x 0.035 in
+47	Aileron pushrod (wing) x2
+48	Aileron pushrod (wing) x2: 6061-T6 1/2 x 0.035 in
+49	Aileron torque tube
+50	Ailerons: a short link from the torque-tube arm to the arch-foot bellcrank, a pushrod up the rear-arch leg to the arch-top bellcrank, then out through the rib lightening holes to the outboard bellcrank, which drives the K-HN horn on the aileron. Flaps: overhead lever, a short rod to the centre-section torque-tube arms, then pushrods to the flap bellcranks and K-HN horns.
+51	All 52 ribs are the same two blanks. The pilot holes locate them, so no jig is needed.
+52	All six faces aim at one vanishing point, so each face is flat and every crease is straight.
+53	All the glazing is flat sheet: no forming and no moulds.
+54	Allowable
+55	An engineering test plan modelled on BCAR Section S practice, not a regulatory approval route. Costs are rough ranges for materials, hire and consumables, not labour, and exclude the airframe itself. The plan lives in qualification.yaml in the repository, and its pass criteria use the live numbers from the build.
+56	Approach the stall in 1 kt steps, flaps up and down, at forward and aft CG.
+57	Arch over the pilot. Spar-root fittings bolt to its top corners, strut fittings to its feet. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.
+58	As above, including the reversed load case at −2 g.
+59	At least 1.5 × the full-power fuel flow from either tank.
+60	Aux fuel tank 20 L (rotomoulded), high behind the seat, gravity feed
+61	Aux tank 20 L behind the seat + selector valve + line
+62	Aux tank filler (through the left cabin side, behind the door)
+63	Aviation snips (straight, left, right)
+64	Axle bolt AN6 + castellated nut AN310-6 + cotter MS24665
+65	Back-drill #40 through the rib and spar-cap pilot holes, using the hole duplicator where you can't reach from inside. Cleco as you go.
+66	Back-drill through the rib flanges and spar caps. Do the nose last, working from the spar forward.
+67	Baggage locker behind the seat (net, 5 kg max)
+68	Battery + radio + antenna
+69	Battery 12 V LiFePO4 in vented box (under the seat)
+70	Bellcrank arms in the cabin, 2 per bellcrank; Bellcrank arms in the wings, 2 per bellcrank
+71	Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each
+72	Bellcrank pivots in the cabin (K-BC pair through its K-CV bracket); Bellcrank pivots in the wings (K-BC pair through its K-CV bracket)
+73	Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)
+74	Bellcranks: each is a pair of K-BC plates, 16 mm apart, on an AN4 pivot through a folded K-CV bracket. The rod ends sit between the plates on AN3 bolts. Five per side: aileron arch-foot, arch-top and outboard (at the rear spar); flap torque-tube arm and flap bellcrank.
+75	Bench vise with soft jaws
+76	Bend deduction
+77	Bend on the brake: each channel is four 90° bends. Bend the two flanges first, then the two lips. Set the nose radius to 1 mm (about 2t for 0.020 in) and overbend about 2° for springback. Check every bend with a square.
+78	Bend radius and springback
+79	Best climb
+80	Bill of materials
+81	Blanks
+82	Blind-rivet puller (hand or pneumatic)
+83	Bolt each main-gear spring leg through the floor doubler under the front arch: 2 x AN5 each, large washers both sides.
+84	Bolt in the four harness anchors.
+85	Bolt on the propeller and spinner. Torque to the prop maker's figure, then safety-wire.
+86	Bolt the 4130 engine mount through the firewall (4 x AN4) with large washers on the back.
+87	Bolt the four root clevises to the arch tops and the four strut-foot clevises to the arch feet with AN4 bolts.
+88	Bolt the stabiliser halves to the tailcone side doublers, 4 x AN4 each. Bolt the fin spar to the tail post, 3 x AN4.
+89	Bolt the tailwheel spring to the tail post (2 x AN4). Fit the fork and the two steering springs to the rudder horn.
+90	Bolt the tang pairs either side of each spar web at the root (4 x AN3), and the strut-top clevises under the spars at the 2.4 m rib.
+91	Bolts to the spar web with 4 x AN3 and reaches inboard past the spar end to the arch-top clevis pin.
+92	Both sides are the same blank, mirrored. The openings have 50 mm corner radii because square corners start cracks.
+93	Both tanks, up to MTOW
+94	Bottom + both chamfers + side flanges from one sheet: converging creases, still developable (frustum).
+95	Bottom extends between the elevator halves.
+96	Bought / fabricated items going on
+97	Bought assemblies
+98	Box-pleat hood 45°, nose bowl converging creases
+99	Brake drum
+100	Build each section upside down on a straight edge: bulkheads Clecoed into the belly, then the sides, then the top.
+101	Build up towards Vne in 5 kt steps, watching for buzz or flutter at every step.
+102	CG range
+103	CHT/EGT instrument
+104	CLmax, drag, propeller efficiency and the neutral point are handbook estimates. Measure stall speed and CG limits in flight test. The 35 kt SSDR stall limit is met with flaps:
+105	Cabin roof (centre lower skin)
+106	Cabin side (x2, mirrored): door/window opening + front window
+107	Cabin sides and seat
+108	Carries flap/aileron hinges and rear strut fitting. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.
+109	Case
+110	Centre-section trailing-edge fairing (fixed, between the flaps)
+111	Centre-section upper skin
+112	Check stops, free play, friction and cable tension, then load every circuit to the pilot limit loads.
+113	Check the cap angle every 500 mm with a square. Sight along the spar for twist.
+114	Check twist by sighting a level across bulkheads 1 and 5. Then join the two sections at bulkhead 3.
+115	Clean and prime. Steel fittings rust under paint if they aren't primed.
+116	Clecos
+117	Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each
+118	Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each; Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each
+119	Clevis, 4130 0.063in (U, two folds)
+120	Clevis: two 90° bends at 3t radius
+121	Click to explore
+122	Clip on the strut fairings.
+123	Close the bay behind the centre-section rear spar with the W-CT trailing-edge fairing (same wedge fold as the flaps). Do it last, after the flap linkage is rigged and checked.
+124	Closes the control surface; carries hinge and mass-balance arm.
+125	Closes the control surface; carries hinge and mass-balance arm. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.
+126	Compass (on the glare shield)
+127	Components
+128	Consumables
+129	Control stick
+130	Control system
+131	Control-circuit strength
+132	Control-system free play
+133	Controllable in all axes with trim available. Engine temperatures stable.
+134	Controls, instruments and systems
+135	Controls: stick, torque tube, cables, pushrods
+136	Converging creases 44°, bulkhead flanges 96–100°
+137	Copy it, change it, build it, sell it. No permission needed.
+138	Cordless drill, #40 (2.5 mm) and #30 (3.3 mm) bits
+139	Cost
+140	Cotter pins
+141	Cotter-pin and safety-wire pliers
+142	Coupons and processes
+143	Covers the top half of the firewall. Camlocks along the firewall flange and the split line.
+144	Cowl to firewall flange and along the split line
+145	Crippling stress at least {stress:ms_cc}, the design allowable. Layers must not separate before failure.
+146	Cruise 75 %
+147	Crush 300 mm lengths of three-layer lipped channel, riveted at design pitch, five samples.
+148	Currency
+149	Cut and deburr: the stand blanks are on the same nest sheets as everything else. File every edge smooth and deburr each pilot hole on both faces. Look for burrs with your fingertip, not your eye.
+150	Cut files (DXF and nests), crease patterns, the prop model, the bill of materials and the design report.
+151	Cut lengths
+152	Cut list
+153	Cut the main struts to 2543 mm and the rear struts to 2547 mm pin-to-pin, minus the end-fitting length. All four are 6061-T6 1.75 x 0.065 in tube.
+154	Cut, deburr, mark
+155	Cylinder
+156	Deburr every edge and hole
+157	Deburr every edge with a file or deburring tool. A burr is where a fatigue crack starts.
+158	Deburr every pilot hole on both faces with a 10 mm bit turned by hand.
+159	Deburring tool, 10 mm drill bit (hole deburr), fine file
+160	Don't overtighten: nylon washers, and stop when the washer just grips.
+161	Door (left, hinged) / side window (right, fixed)
+162	Download files (.zip)
+163	Drawing
+164	Drill and cleco: clamp the gussets in place, drill through the pilot holes to #30 (3.3 mm), and put a cleco in every fourth hole as you go. Then take everything apart, deburr the holes and the faying surfaces, and put it back together on clecos.
+165	Drill press, 1/4 in and 5/16 in reamers
+166	Drill, deburr, prime, rivet the skeleton
+167	Duration
+168	Each cable end
+169	Each spar is a laminate: three nested blanks for the main spar, two for the rear. Fold every layer separately, then nest them.
+170	Each wing pins on at two points. The struts set its angle.
+171	Ears take an AN5 pin (fore-aft axis); web bolts with 2 x AN4. Bend radius 3t for normalised 4130 (Wanttaja).
+172	Electrics: 12 V LiFePO4 battery in a vented box under the seat. Run it via the master switch and fuses to the radio, with the antenna coax to a whip on the tailcone top. The mag P-lead goes through a firewall grommet. The half-VW's magneto needs no battery to run.
+173	Elevator bellcrank (under seat)
+174	Elevator cable x2
+175	Elevator cable x2: 1/8 in 7x19 galvanised
+176	Elevator cables: run one straight line each from the bellcrank to the tail-post grommet, 60 mm apart, up cable above down cable. Fit a phenolic fairlead where each line passes a bulkhead.
+177	Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)
+178	Elevator skin
+179	Elevator spar
+180	Elevators and rudder: fold them the same way as the ailerons in step 7 (pleats, then the trailing-edge fold, then the C-spar).
+181	Empty / MTOW
+182	Empty mass and balance
+183	Empty mass at or below {mass:empty} plus 3 %, and every loading case inside the CG range.
+184	Empty tanks
+185	Empty tanks, 5 kg baggage (aftmost)
+186	Endurance
+187	Engine and prop
+188	Engine and propeller
+189	Engine mount
+190	Engine mount to firewall, 4
+191	Engine mount tube (4130)
+192	Engine runs: full-power static run, mag check, then check cylinder head temperatures.
+193	Engine to mount, 4
+194	Engine, cowl, prop
+195	Epoxy primer + etch/alodine
+196	Estimated
+197	Estimated flutter speed at least 1.2 × the design dive speed of {speed:Vd}.
+198	Every crease goes on the blank before anything is folded, the same order the origami book uses.
+199	Every flange within ±0.5 mm of the drawing.
+200	Every number on this site is a calculation. This is the plan for turning them into evidence: cheap coupon tests first, then components, then the whole wing, then the ground and finally the air. Each phase retires a specific risk before money is spent on the next. Results go back into the repository, and measured values replace the estimates in aircraft.yaml.
+201	Every result, photo and failure goes into the repository.
+202	Every steel fitting is also a flat blank folded at most twice.
+203	Everything that goes into one aircraft
+204	Exact
+205	Exchange rates: {date}, base GBP.
+206	Export BOM (.csv)
+207	Extinguisher and PLB
+208	F-B1 Tailcone bulkhead x=1150
+209	F-B2 Tailcone bulkhead x=1948
+210	F-B3 Tailcone bulkhead x=2745
+211	F-B4 Tailcone bulkhead x=3542
+212	F-B5 Tailcone bulkhead x=4340 (tail post)
+213	F-CL Lower cowl (box-pleat pan to the cabin floor line)
+214	F-CU Upper cowl (hood, two 90 deg folds)
+215	F-DW Door (left, hinged) / side window (right, fixed)
+216	F-FA Front arch (main-spar frame)
+217	F-FL Floor tray with two hat pleats
+218	F-FW Firewall
+219	F-FWN Front side window (x2, mirrored)
+220	F-IP Instrument panel (glare-shield fold, side tabs)
+221	F-NF Nose ring (prop-shaft hole + two cooling inlets)
+222	F-NL Nose bowl, chin (3 converging facets)
+223	F-NU Nose bowl, upper (3 converging facets)
+224	F-RA Rear arch (rear-spar frame)
+225	F-SD Cabin side (x2, mirrored): door/window opening + front window
+226	F-ST Seat (pan + back, one sheet)
+227	F-TB1 Tailcone belly, section 1
+228	F-TB2 Tailcone belly, section 2
+229	F-TS1 Tailcone side, section 1 (x2, mirrored)
+230	F-TS2 Tailcone side, section 2 (x2, mirrored)
+231	F-TT1 Tailcone top, section 1
+232	F-TT2 Tailcone top, section 2
+233	F-WS Windscreen (cold-bent flat polycarbonate)
+234	Faceted rib: every flange is a straight brake bend, no form block or fluting needed.
+235	Fairleads and pulleys
+236	Fasteners
+237	Fin nose rib
+238	Fin skin (one wrap)
+239	Fin spar
+240	Final-drill every Cleco'd hole to #30 (3.3 mm), a few at a time, moving each Cleco to the next hole as you go.
+241	Fine felt marker, steel rule, square, MEK to clean
+242	Finish: glue carpet on top of each beam so the wing skin can't be scratched. Load each stand with 40 kg and check it doesn't rack or rock. Keep the offcuts: they are your test pieces for the spar bend in step 2.
+243	Fire extinguisher 1 kg (clip by the left seat rail)
+244	Firewall
+245	Firewall flanges
+246	First flights
+247	First-pass strength: +4 / −2 g, ×1.5 ultimate
+248	Fit each rib by its attach flange: Cleco through the pilot holes into the spar web. Nose ribs go on the front face, main ribs on the back.
+249	Fit the axles, wheels and drum brakes. Castellated nut and cotter on each axle. The 21 x 8.00-6 tundra tyres run at 10-12 psi: check pressure before every flight, they are soft by design.
+250	Fit the cabin roof and the centre-section upper skin, back-drilled through the root ribs. Use the riveting loop.
+251	Fit the camlock receptacles on the firewall flange and along the split line. Trim the cowl until it clears the cylinders by at least 10 mm.
+252	Fit the jury struts (420 mm main, 425 mm rear) from the clamp ear to the jury-top clevis under the spar, AN3 at each end. They double the strut's buckling strength.
+253	Fit the sides outside the arches, firewall flange and floor flanges. Back-drill and Cleco.
+254	Fit the stick, the aileron torque tube under the seat and the elevator bellcrank. Connect the stick to the bellcrank with a short pushrod.
+255	Five facets, chamfers matching the cabin floor. A louvre slot at the rear is the cooling-air exit.
+256	Flanges 90°, all toward the root
+257	Flanges all round fold aft; engine mount bolts through 4 doublers.
+258	Flanges follow the frustum taper (fold < 90 deg).
+259	Flanges follow the frustum taper (fold < 90 deg). Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.
+260	Flanges follow the nose taper.
+261	Flap lever (overhead, Kitfox-style)
+262	Flap pushrod (wing) x2
+263	Flap pushrod (wing) x2: 6061-T6 3/8 x 0.035 in
+264	Flap stall at or below 35 kt CAS, the SSDR limit; predicted {speed:Vs0}. Gentle stall, no wing drop.
+265	Flaps and ailerons
+266	Flat panel; the top flange folds aft as a glare shield, side tabs fold forward onto the cabin sides. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.
+267	Flat polycarbonate over the front cut-out, 20 mm lap, screws in 4.5 mm oversize holes.
+268	Flight test
+269	Floor tray with two hat pleats
+270	Floor, firewall, arches
+271	Flutter
+272	Foam tape
+273	Fold 20 strips of 0.51 mm 6061-T6 at a 0.8 mm nose radius, across and along the grain. Inspect every bend under a 10× loupe.
+274	Fold a 300 mm offcut of a rib and of a spar from the real DXFs and measure every flange.
+275	Fold a 300 mm offcut of the same strip first and measure it to confirm the bend deduction.
+276	Fold all 52 ribs before assembling any: one brake set-up does the whole batch.
+277	Fold coupons
+278	Fold each belly blank: bottom, both chamfers, then the side flanges.
+279	Fold every rib flange 90° on the brake. Because the airfoil is faceted, each flange is one straight bend.
+280	Fold the 12 clevises in the vise over a 5 mm radius block. Normalised 4130 needs at least 3t (Wanttaja).
+281	Fold the 90° top flange and the windscreen flange on each side panel. The top flange is the longeron.
+282	Fold the bulkhead flanges. They are 96–100°, not 90°, because they follow the taper.
+283	Fold the firewall flanges, all aft. It is stainless, so drill it slowly with a sharp bit and cutting oil.
+284	Fold the floor tray's two hat pleats, then the chamfers and side flanges.
+285	Fold the instrument panel (glare shield and side tabs) and rivet it to the cabin sides at x = -400 mm. Fit the ASI, altimeter, tach, CHT/EGT, radio, master and mag switches and fuel valve, and put the compass on the glare shield.
+286	Fold the ribs, Cleco them on
+287	Fold the seat: pan and back from one sheet. Rivet its front lip to the floor and lean its back on the rear arch.
+288	Fold the spars
+289	Fold the stabiliser and fin spars and their nose ribs.
+290	Fold the trailing edge over a 0.6 mm radius bar in the brake, to about 165°. Squeeze gently in soft vise jaws until the TE is straight.
+291	Fold the two V-bead pleats in valley-mountain-valley order. Stop each bead at the marks.
+292	Fold the two arches: outer and inner flanges, all aft.
+293	Fold the two caps first (90°), then the two lips. Overbend by about 2° so the 6061-T6 springs back to 90°.
+294	Fold the upper and lower cowls (four 45° creases each) and the nose-bowl halves. Rivet the nose bowls to the nose ring.
+295	Folded blanks
+296	Folds
+297	Four brake bends each
+298	Four identical surfaces from one blank. The trailing edge is a single crease, so there's no separate strip to rivet on.
+299	Four stands, 20 blanks, about 200 rivets. The cheapest place to learn to fold, drill and rivet is a part that never leaves the ground.
+300	Free play under 1° at each surface, and full travel with no binding under load.
+301	Front arch (main-spar frame)
+302	Front side window (x2, mirrored)
+303	Front side windows: screw over the cut-outs with a 20 mm lap.
+304	Frustum facets aimed at one point, so every crease is straight.
+305	Fuel
+306	Fuel allowed
+307	Fuel and payload
+308	Fuel feed
+309	Fuel filler neck + cap (through the hood, ahead of the windscreen)
+310	Fuel selector valve: HEADER / AUX / OFF
+311	Fuel system parts
+312	Fuel tank 19 L (rotomoulded polyethylene): header tank behind the firewall, ahead of the panel, Cub-style
+313	Fuel tank 19 L (rotomoulded) + lines, valve, gascolator
+314	Fuel, aux tank: a second 20 L tank strap-mounts high behind the seat, its bottom above the header tank top so it also gravity-feeds. Its line runs forward along the left roof rail to the selector; filler through the left cabin side, vent overboard under the roof. Never in the wings. Fill it only as far as the 300 kg MTOW allows: with a 100 kg pilot that is none at all. Burn the aux tank first, which keeps the CG moving forward.
+315	Fuel, header tank: the 19 L rotomoulded tank sits behind the firewall, above the pilot's shins and under the windscreen, strapped to two angles riveted to the side panels (as on a J-3 Cub). It gravity-feeds: tank outlet, selector valve (HEADER / AUX / OFF), a fire-sleeved hose through a firewall grommet, the gascolator on the firewall, then the carburettor. The tank bottom is about 200 mm above the carburettor. The filler neck comes up through the hood just ahead of the windscreen, and the vent runs forward under the hood.
+316	Gascolator (fuel strainer) on the firewall
+317	Glide L/D
+318	Ground
+319	Ground vibration test
+320	Half-VW engine
+321	Half-VW engine, dressed (carb, mag, exhaust)
+322	Hang the elevators and rudder on piano hinges. Check ±25° rudder travel clears the elevator halves.
+323	Hang the half-VW on rubber isolators (4 x AN5).
+324	Hangar
+325	Hardware
+326	Hardware for this step
+327	Harness anchors to floor and rear arch, 4
+328	Hat pleats 56°, flanges 90°
+329	Have a BMAA or LAA inspector look at it before the first flight. Do first flights in calm air, over a long field.
+330	Head
+331	Header tank full
+332	Holds ultimate load for 3 s in both directions.
+333	Holds ultimate load for 3 s. Peak cap stress {stress:ms_sig} against an allowable of {stress:ms_cc}.
+334	Holds {force:strut_T} in tension and {force:strut_C} in compression with no failure.
+335	Honesty
+336	Horn: rod end bolts through the outer hole (AN3).
+337	Horns, bellcranks and brackets
+338	How it gets proven
+339	Inspect each rivet: head seated flat, mandrel broken off flush, no gap under the head.
+340	Inspection
+341	Inspector sign-off before the aircraft is flown by anyone else.
+342	Instructions
+343	Instrument panel (glare-shield fold, side tabs)
+344	Instruments (ASI, alt, tach, CHT, compass)
+345	Inverted wing on its fittings, sandbags laid out to the spanwise lift distribution, to +4 g limit and then −2 g. Measure tip deflection at each step.
+346	Jury strut 0.75 x 0.049 in
+347	Jury strut x2 (main)
+348	Jury strut x2 (main): 6061-T6 0.75 x 0.049 in
+349	Jury strut x2 (rear)
+350	Jury strut x2 (rear): 6061-T6 0.75 x 0.049 in
+351	Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)
+352	K-BC Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)
+353	K-CV Clevis, 4130 0.063in (U, two folds)
+354	K-HD Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)
+355	K-HN Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)
+356	K-HR Rudder horn, 4130 0.063in (flat, cable each side)
+357	K-JC Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)
+358	K-TG Spar-root tang, 4130 0.063in (flat, pairs either side of web)
+359	Laminate: each channel is two blanks. Fold both separately, nest the inner one inside the outer one, and check they sit tight with no gap. If the inner one fights, take 0.5 mm off its flange edges.
+360	Laminated channel crippling
+361	Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.
+362	Landing gear and tailwheel
+363	Landing roll
+364	Language
+365	Laps 30 mm under the upper skin at 8% chord.
+366	Laser / waterjet cutting service
+367	Lay the spars on a flat table, webs vertical, 3.6 m apart for the two wings.
+368	Leans on the rear arch.
+369	Leave the protective film on. Drill the polycarbonate with plastic bits, holes 6 mm for M4 screws so it can expand.
+370	Left door front edge
+371	Licence
+372	Lift strut (main) 1.75 x 0.065 in
+373	Lift strut (rear) 1.75 x 0.065 in
+374	Lift strut, tension
+375	Lift strut, −2 g buckling (with jury strut)
+376	Lift struts and jury struts
+377	Lipped channels: four 90° brake bends each, two nested layers
+378	Load each linkage part to 1.5 × the BCAR Section S pilot loads at the stick and pedals.
+379	Low-speed taxi, then fast taxi with the tail up, on the intended test field.
+380	Lower cowl (box-pleat pan to the cabin floor line)
+381	Lower skin, bay 1
+382	Lower skin, bay 2
+383	Lower skin, bay 3
+384	Lower skins
+385	M4 pan screw, nylon washer, M4 Nyloc nut, 6 mm oversize hole in polycarbonate
+386	MEK / cleaner, Scotch-Brite, gloves
+387	Main gear leg x2
+388	Main gear leg x2: 6061-T6 bar 75 x 16 mm
+389	Main gear legs through floor doubler, 2 per leg
+390	Main gear spring leg (6061-T6 bar)
+391	Main gear: 2 spring legs + axles
+392	Main lift strut x2
+393	Main lift strut x2: 6061-T6 1.75 x 0.065 in
+394	Main rib
+395	Main rib, root/tip
+396	Main spar (lipped C, opens aft)
+397	Main spar section
+398	Main spar web shear, limit
+399	Main spar: lipped C, three layers of 0.020 in
+400	Main wheel: 21 x 8.00-6 tundra tyre at 10-12 psi
+401	Main wheels
+402	Margin
+403	Mark fold lines on the marked face: red dashed = valley, blue dash-dot = mountain. Use a fine felt marker, never a scribe (Wanttaja: scribe lines start cracks).
+404	Mark folds with felt pen, never a scribe
+405	Mark the folds: red dashed is a valley, blue dash-dot is a mountain. Felt marker on the marked face only, never a scribe.
+406	Mass
+407	Mass balance weights
+408	Mass-balance each aileron with lead on an arm ahead of the hinge until it hangs level, before it goes on the aircraft.
+409	Mass-balance horn at outboard end.
+410	Mean strength at or above the value used in design, scatter under 10 %.
+411	Measure gravity flow from each tank, with the aircraft at its steepest climb attitude plus margin.
+412	Measure twist under a known torque at the tip rib.
+413	Measured climb, cruise and glide recorded against the predictions on the numbers tab.
+414	Measured values replace estimates in aircraft.yaml, and the build manual is revised.
+415	Member
+416	Method
+417	Mid CG, calm air, long field, circuit height only, an experienced test pilot.
+418	Month 10
+419	Month 4
+420	Month 5
+421	Months 2–3
+422	Months 6–9
+423	Move the CG from forward to aft in steps, checking stick-free stability at each.
+424	Nicopress sleeve + thimble (1/8 in cable)
+425	Nicopress tool + cable cutter
+426	No cracks, and springback within 2° of prediction.
+427	No flutter or buzz up to {speed:Vne}.
+428	No permanent set after unloading. Deflection within 15 % of prediction.
+429	No permanent set at limit, no failure at ultimate.
+430	No physical part has been cut. Fold one rib and one spar offcut first to check the bend deduction.
+431	No yield at limit load, no failure at ultimate.
+432	Nose bowl, chin (3 converging facets)
+433	Nose bowl, upper (3 converging facets)
+434	Nose rib
+435	Nose rib, root/tip
+436	Nose ring (prop-shaft hole + two cooling inlets)
+437	Nose rolled over 75 mm tube
+438	Nose zone is rolled over a 75 mm tube; aft creases are soft brake hits (2-6 deg).
+439	Not analysed yet
+440	Not proven
+441	Notes
+442	One 90 degree flange stiffens the free edge. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.
+443	One hour of progressive ground running, with cylinder head and exhaust temperatures logged.
+444	One-wrap skins, sharp trailing edges
+445	Open-source aircraft
+446	Order as 12 ft strip. Lips turn the free flange edges into supported edges (k 0.43 -> ~4). Laminated: 3 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.
+447	Paint
+448	Paint, then weigh on three scales in the level attitude. Work out the empty CG and check every loading case falls inside the design range in DESIGN_REPORT.md (about 28–33 % MAC).
+449	Panel: glare-shield fold 90°, side tabs 90°
+450	Parts
+451	Pass when
+452	Performance
+453	Phases
+454	Piano hinge
+455	Piano hinge MS20001 + door latch
+456	Pilot
+457	Pilot (95th pct, for scale)
+458	Pilot, fuel and baggage share one budget: maximum take-off mass minus empty mass. Both tanks are in the cabin, never in the wings: an 18 L header tank behind the firewall and a 20 L aux tank high behind the seat, both gravity-fed through one selector. A light pilot can fill both. A heavy pilot gets the header tank or less. Burn the aux tank first.
+459	Pitot tube (left wing, ahead of the LE)
+460	Pitot-static: pitot tube under the left wing at the 1.2 m rib. Run its line inside the wing ahead of the main spar to the root and down the A-pillar to the ASI. A static port on the left cabin side feeds the altimeter and ASI. Secure everything with Adel clamps every 300 mm.
+461	Planar: no forming, drill with plastic-cutting bits, slotted holes for expansion.
+462	Plastic-cutting drill bits / step drill
+463	Positive stability at the aft limit; predicted minimum static margin {pct:SM_min}.
+464	Press or bolt a 4130 end fork into each tube end. Drill the AN5 pin hole after the final length check on the aircraft.
+465	Prime the faying surfaces: Scotch-Brite, wash, etch or alodine, then epoxy primer. Wear gloves (Wanttaja: finger oils stop primer sticking).
+466	Primer part: two nested layers folded on the brake and riveted as one. Glue carpet on the web. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.
+467	Primer: build the wing stands
+468	Proof-load the wing upside down with sandbags to +4 g limit load, spread spanwise. It must show no permanent set.
+469	Prop drive hub (flange)
+470	Propeller 54 in wood + hub
+471	Propeller 54 x 24 in, laminated wood (download the model)
+472	Propeller hub, 6
+473	Publish
+474	Pull a complete strut with its clevises and tangs to ultimate tension, then buckle a second at −2 g with the jury strut fitted.
+475	Push the AN5 root pins through. Fit castellated nuts and cotter pins.
+476	Put in the aft soft creases first.
+477	Put in the soft creases with a light brake hit, or by hand over a straight-edge.
+478	Qualification
+479	Quarter-turn camlock (Dzus) + receptacle
+480	RADIO instrument
+481	Range
+482	Ream the pin holes to 5/16 in and the bolt holes to 1/4 in and 3/16 in, through both ears at once so they line up.
+483	Rear arch (rear-spar frame)
+484	Rear lift strut x2
+485	Rear lift strut x2: 6061-T6 1.75 x 0.065 in
+486	Rear spar (lipped C, opens forward)
+487	Rear spar section
+488	Rear spar: lipped C, two layers of 0.020 in
+489	Reassemble on Clecos, then pull the rivets from the middle of each joint outward.
+490	Ribs, skin buckling, fittings, landing gear, tail loads, the engine mount and flutter. Mass-balance every control surface.
+491	Right side: fixed window over the door opening. Left side: the same blank on a piano hinge at its front edge, with a latch at the back.
+492	Rivet joints
+493	Rivet strength in thin sheet
+494	Rivet the piano hinge to the spar top, then hang the surface on the rear spar.
+495	Rivet: pull 1/8 in blind rivets, working from the middle of each row outwards and swapping clecos for rivets one at a time. A good rivet sits flat, with no gap under the head. Drill out any bad one with a #30 bit and try again: practise this on purpose at least once.
+496	Riveting loop, rivets from the main spar outward.
+497	Riveting loop, then join the tailcone to the cabin at bulkhead 1.
+498	Riveting loop.
+499	Riveting loop. The firewall takes stainless or Monel rivets: aluminium melts in a fire.
+500	Riveting loop: final-drill #30, take apart, deburr, prime, Cleco, rivet.
+501	Rivets
+502	Rivets to the rear-spar flanges. Closes the bay behind the centre-section rear spar.
+503	Rod ends
+504	Roll each skin's leading edge, then wrap it round its ribs and spar. Back-drill and use the riveting loop.
+505	Roll the eight saddle-clamp halves round a 45 mm bar, then bolt a pair round each strut at mid-length (2 x AN3 through the ears).
+506	Roll the green zone: lay the skin over a 75 mm tube and pull it round with a strap, a little at a time. Don't crease it.
+507	Root and tip ribs have their flanges facing into the panel.
+508	Rudder and elevator cables, 1 per cable, in the cabin where you can inspect them
+509	Rudder cable x2
+510	Rudder cable x2: 1/8 in 7x19 galvanised
+511	Rudder cables: pedal horn, then a pulley at the pedal, along the floor at y = ±200 mm through fairleads on both arch feet, a pulley at bulkhead 1, then one straight line each to the tail post. Because the tailcone is a frustum, a straight run between interior points never touches the skin, so no cable needs a mid-cone pulley.
+512	Rudder horn, 4130 0.063in (flat, cable each side)
+513	Rudder pedals
+514	Rudder skin
+515	Rudder spar
+516	S-BM Stand beam (lipped C, saddle on top)
+517	S-FT Stand foot (lipped C, opens up)
+518	S-GF Stand foot gusset (flat)
+519	S-GT Stand top gusset (flanged hypotenuse)
+520	S-LG Stand leg (lipped C)
+521	SSDR means no airworthiness approval is required, so all the testing is yours to do.
+522	Saddle clamps: rolled half-shells
+523	Saddle-clamp ears (one also carries the jury-strut fork), 2 per clamp; Jury strut top, through the jury clevis
+524	Safety wire
+525	Same blank both sides. 20 mm lap all round. Left one hangs on a piano hinge at its front edge.
+526	Same blank for both flaps and both ailerons: modular-origami units.
+527	Sandbags and tape measure (proof load)
+528	Sawtooth climbs, level speeds and glides.
+529	Scotch-Brite, etch/alodine, epoxy primer, spray kit, gloves
+530	Seat (pan + back, one sheet)
+531	Seat cushion + 4-pt harness
+532	Select a row to see where that case sits.
+533	Send the nest DXFs to a laser or waterjet service, or cut on a CNC router. Bolt holes come out 0.5 mm undersize; ream them later.
+534	Set dihedral to 1.5° and wash-out to 0° with a digital level on the root and tip ribs. Then pin the struts on: AN5, castellated nut, cotter pin.
+535	Set the brake nose radius to 0.8 mm, about 1.6 times the 0.51 mm sheet (Table 5-2, 'normal' radius). Never tighter.
+536	Set the travels: aileron +20/-15°, elevator +25/-20°, rudder ±25°, flaps 0/20°. Fit the stops.
+537	Single-lap shear and pull-through on one and two layers of 0.51 mm sheet with 3.2 mm blind rivets, 10 of each.
+538	Skin joints lap on a rib: the outboard skin goes under the inboard one.
+539	Slide the C-spar in and Cleco it through the flanges. Riveting loop.
+540	Soft creases 2–6°
+541	Source
+542	Span / area
+543	Spanners, sockets, inch-pound torque wrench
+544	Spar strength
+545	Spar-root pins through tang pair + arch clevis
+546	Spar-root tang, 4130 0.063in (flat, pairs either side of web)
+547	Speed envelope
+548	Spinner
+549	Stabiliser nose rib
+550	Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3
+551	Stabiliser skin (one wrap)
+552	Stabiliser spar
+553	Stability across the CG range
+554	Stall speed and handling
+555	Stall speeds
+556	Stall, flaps 20°
+557	Stand beam (lipped C, saddle on top)
+558	Stand foot (lipped C, opens up)
+559	Stand foot gusset (flat)
+560	Stand leg (lipped C)
+561	Stand the arches and firewall on the floor tray, square and plumb. Their stations are 420 mm and 1008 mm aft of the wing LE, and the firewall is at -650 mm.
+562	Stand top gusset (flanged hypotenuse)
+563	Static load to the Section S forward, side and vertical limit loads, then ultimate.
+564	Static margin
+565	Static port
+566	Status
+567	Step
+568	Stick pivot and torque-tube bearings
+569	Straight tracking, effective brakes and rudder, no shimmy.
+570	String line, digital level, plumb bob
+571	String-line the spars and check the ribs are square to them. Measure diagonals across each bay; they should match within 1 mm.
+572	Structure
+573	Strut and fitting strength
+574	Strut and fittings
+575	Strut end fork (4130)
+576	Strut end forks
+577	Strut ends, both ends of 4 struts
+578	Strut fairings
+579	Support each tip on a trestle at 1.5° dihedral until the struts are on.
+580	Systems fit-out
+581	T-EK Elevator skin
+582	T-ES Elevator spar
+583	T-FK Fin skin (one wrap)
+584	T-FR Fin nose rib
+585	T-FS Fin spar
+586	T-HK Stabiliser skin (one wrap)
+587	T-HR Stabiliser nose rib
+588	T-HS Stabiliser spar
+589	T-RK Rudder skin
+590	T-RS Rudder spar
+591	TACH instrument
+592	Tail surfaces
+593	Tailcone belly, section 1
+594	Tailcone belly, section 2
+595	Tailcone bulkhead x=1150
+596	Tailcone bulkhead x=1948
+597	Tailcone bulkhead x=2745
+598	Tailcone bulkhead x=3542
+599	Tailcone bulkhead x=4340 (tail post)
+600	Tailcone frustum
+601	Tailcone side, section 1 (x2, mirrored)
+602	Tailcone side, section 2 (x2, mirrored)
+603	Tailcone top, section 1
+604	Tailcone top, section 2
+605	Tailwheel 8 in pneumatic
+606	Tailwheel assembly, 8 in pneumatic
+607	Tailwheel fork
+608	Tailwheel spring
+609	Tailwheel spring (spring steel leaf)
+610	Tailwheel spring to tail post, 2
+611	Tailwheel spring to tail post, 2; Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3
+612	Tailwheel spring: spring-steel leaf 45 x 8 mm
+613	Tailwheel steering spring
+614	Tailwheel: a leaf spring, a steerable fork and two springs to the rudder.
+615	Take the skeleton apart. Deburr every hole on both faces.
+616	Take-off roll
+617	Tank strap angle (L)
+618	Tank strap angle (R)
+619	Tap or shaker test for wing bending and torsion, aileron, elevator and rudder modes. Confirm the mass balance of every control surface.
+620	Taxi tests
+621	Taxi tests, then fast taxi with the tail up.
+622	Temperatures inside the engine maker's limits, static rpm 2,900–3,100, no abnormal vibration.
+623	Tension each cable with its turnbuckle in the cabin, where you can see it, then safety-wire it. Nicopress every end over a thimble.
+624	Test
+625	Test budget
+626	Test programme
+627	Test reports
+628	Tests
+629	The aircraft is code: one file, aircraft.yaml, generates every part, file and figure on this page.
+630	The arches sit at the spar stations, so the wing and strut loads go straight into two folded frames.
+631	The cowl and nose bowl are flat blanks too: a box-pleated hood and a frustum, with straight creases throughout.
+632	The dot is the loading case selected in the table. The shaded band is the full CG range across all cases. The orange line is the neutral point: the CG must stay ahead of it, and the dashed gap between them is the static margin, the aircraft's pitch stability.
+633	The fold geometry. Every panel in the 3D model is produced by refolding the DXF flat pattern, and the rib-to-spar pilot holes are coordinated between parts.
+634	The laminate acting as one section
+635	The lips are what let thin laminated sheet act as a spar. Without them a free cap edge buckles at about 26 MPa. With them the cap reaches yield before it buckles.
+636	The local-price estimate takes UK VAT off the UK price, converts it at the day's exchange rate, takes about 20 % off US-made hardware, sheet and the engine kit when buying in the US, then adds the country's typical standard VAT, GST or sales tax. It leaves out import duty and shipping. Treat these as rough guides, not quotes.
+637	The numbers
+638	The pilot sits under the wing between the two arches. Header fuel is ahead of the CG and aux fuel is behind it. The aftmost case is a light pilot with empty tanks and baggage, which gives the minimum static margin:
+639	The rolled nose and the main spar together form a closed D-cell, which carries the wing's twisting loads.
+640	The skins carry no holes of their own. Drilling them from the structure means the holes can't be misaligned.
+641	The stabiliser and fin use one wrapped skin each.
+642	This is the sequence for every riveted joint from here on: Cleco, final-drill, take apart, deburr, prime, reassemble, rivet. Later steps call it the riveting loop.
+643	Three platform scales
+644	Three platform scales in the level attitude.
+645	Through tang pair + spar web at each spar root, 4 per pair
+646	Tools
+647	Top flange = longeron
+648	Top flange is the longeron: the fold is the stiffener. Openings have 50 mm corner radii (no square corners).
+649	Torsional stiffness recorded; it feeds the flutter estimate in phase D.
+650	Tube cutter, hacksaw, drill press
+651	Tube, bar and cable
+652	Turn it back over. On its three wheels it should sit about 9–11° nose-up.
+653	Turn the fuselage upside down on padded trestles.
+654	Turn the skeleton upside down. Lay bay 1's skin on it, located at the root rib, with the edge 3 mm short of the rear-spar flange edge.
+655	Turn the wing upright. Wrap the skin from the trailing-edge shroud, over the nose, and under to lap the lower skin at 8 % chord.
+656	Turnbuckle AN130 class + safety wire
+657	Two halves round the 1.75 in strut tube; the ear bolts also carry the jury-strut end.
+658	Two hat pleats (step-folds) are the floor stiffeners; no separate stringers. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.
+659	Two plates sandwich each rod end; AN4 pivot, AN3 at each arm.
+660	Ultimate
+661	Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.
+662	Undercarriage
+663	Units
+664	Unknowns for the next builder
+665	Upper cowl (hood, two 90 deg folds)
+666	Upper skin, bay 1
+667	Upper skin, bay 2
+668	Upper skin, bay 3
+669	Upper skins: roll the nose
+670	V-bead pleats + one 165° trailing-edge fold
+671	VHF antenna whip
+672	W-CL Cabin roof (centre lower skin)
+673	W-CS Aileron / flap skin (identical x4)
+674	W-CSS Aileron / flap spar (identical x4)
+675	W-CT Centre-section trailing-edge fairing (fixed, between the flaps)
+676	W-CU Centre-section upper skin
+677	W-MR Main rib
+678	W-MRe Main rib, root/tip
+679	W-MS Main spar (lipped C, opens aft)
+680	W-NR Nose rib
+681	W-NRe Nose rib, root/tip
+682	W-RS Rear spar (lipped C, opens forward)
+683	W-SL1 Lower skin, bay 1
+684	W-SL2 Lower skin, bay 2
+685	W-SL3 Lower skin, bay 3
+686	W-SU1 Upper skin, bay 1
+687	W-SU2 Upper skin, bay 2
+688	W-SU3 Upper skin, bay 3
+689	Weeks 1–4
+690	Weigh and balance
+691	Weigh, test, fly-off
+692	Weight, not tank size, sets the range
+693	What is known, and what is not
+694	What it costs
+695	Wheel hub
+696	Wheels, 21 x 8.00-6 tundra tyres, drum brakes x2
+697	Where it goes
+698	Where the balance point sits
+699	Whole aircraft
+700	Whole-wing strength and stiffness
+701	Why start here: the four stands use every skill the aircraft needs, on parts that don't fly. Get it wrong here, not on a spar. You need the stands anyway: the wings are built and parked on them until step 15.
+702	Will it fly well?
+703	Windscreen (cold-bent flat polycarbonate)
+704	Windscreen, door and side windows
+705	Windscreen, side windows, door
+706	Windscreen: flat sheet, bedded on foam tape on the firewall and windscreen flanges.
+707	Wing and airframe
+708	Wing lift uses a Schrenk distribution, with each wing pinned at the cabin arch and a V-strut at the 2.4 m rib. Gust loads are below the manoeuvre case. Laminated spars are checked as one section, which assumes rivet pitch close enough to stop the layers buckling separately.
+709	Wing loading
+710	Wing proof load
+711	Wing stands (step 0)
+712	Wing torsion
+713	Wings on
+714	With X-ray on, every run is colour-coded: orange rudder, cyan elevator, purple aileron, green flap, red fuel, white pitot, grey static, yellow 12 V, pink coax.
+715	With a helper at the tip, lift each wing until its root tangs slide into the arch-top clevises.
+716	Write the part number on every blank. Keep the blanks in step order.
+717	X-ray
+718	arch-foot bellcrank up the rear-arch leg to the arch-top bellcrank
+719	arch-top bellcrank to outboard bellcrank, through rib lightening holes
+720	aux
+721	blanks
+722	blanks in all
+723	bolts
+724	bought or welded
+725	buckling
+726	centre torque-tube arm to flap bellcrank
+727	check, then commit
+728	clean
+729	close up
+730	crease pattern
+731	crippling
+732	each with a pass criterion
+733	fabricated or bought for half-VW
+734	faying surfaces and interior
+735	finished
+736	flat blanks, one sheet gauge
+737	fold the same way
+738	fold to the marks
+739	fuel
+740	give it roundness
+741	gravity feed
+742	gust
+743	hard
+744	header
+745	header full
+746	header tank + aux tank, both in the cabin
+747	includes 15 % spares
+748	insert: the lock
+749	laminated wood, CC0 model
+750	light braking
+751	make soft creases
+752	materials and hire, rough
+753	max take-off mass
+754	mountain
+755	mountain and valley folds
+756	neutral point
+757	no reserve
+758	no sheet blanks
+759	none: over MTOW
+760	open out
+761	or a club CNC router
+762	part-time, alongside the build
+763	pilot
+764	pilot hole
+765	pin-to-pin; AN5 each end
+766	pleat
+767	practice piece
+768	public domain
+769	radio optional in SSDR
+770	reference points
+771	right angle
+772	rivets
+773	rolled zone
+774	rough build cost
+775	same angle
+776	same angle: converging creases
+777	same length
+778	short grass
+779	static margin
+780	still air, 75 % power
+781	subtotal
+782	tool, reused
+783	torque-tube arm to arch-foot bellcrank
+784	tundra tyres at 10–12 psi, 8 in tailwheel
+785	turn it over
+786	unique
+787	unique blanks
+788	useful load
+789	valley
+790	via floor pulley + 3 fairleads; Nicopress + thimble each end
+791	via pulley at bulkhead 1 + 3 fairleads; turnbuckle
+792	wingspan
+793	{w} x {h} mm flat, {f} folds, {p} pilot holes

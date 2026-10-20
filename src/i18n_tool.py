@@ -17,6 +17,8 @@ I18N = ROOT / "i18n"
 CFG = yaml.safe_load(open(I18N / "config.yaml", encoding="utf8"))
 MODEL = os.environ.get("OPENPLANE_TRANSLATE_MODEL", "claude-sonnet-5-5")
 BATCH = 40
+FLAT_RE = re.compile(r"^\d+ x \d+ mm flat, \d+ folds, \d+ pilot holes")
+FLAT_TEMPLATES = ["{w} x {h} mm flat, {f} folds, {p} pilot holes", "; {n} parts x {l} laminated layers"]
 
 
 def extract():
@@ -27,6 +29,11 @@ def extract():
         for h in st["hw"]:
             s.update([h["desc"], h.get("where", "")])
     s.update(M["tools"].values())
+    for p in M["parts"]:
+        s.update([p["name"], p.get("note", "")])
+    for st in M["steps"]:
+        for d in st.get("draw", []):
+            s.update([d["label"], d.get("note", "")])
     s.update(b["name"] for b in M["bought"])
     for b in M["bomx"]:
         s.update([b["item"], b.get("note", ""), b["cat"]])
@@ -37,9 +44,11 @@ def extract():
         for t in ph["tests"]:
             s.update([t["name"], t["method"], t["pass"]])
     page = open(ROOT / "web" / "page.html", encoding="utf8").read()
-    s.update(x.strip() for x in re.findall(r"data-i18n[^>]*>([^<]+)<", page))
-    s.update(re.findall(r"T\('((?:[^'\\]|\\.)*)'\)", page))
-    strings = sorted(x for x in s if x and re.search(r"[A-Za-z]{3}", x))
+    s.update(x.strip() for x in re.findall(r"<[a-z][^<>]*\sdata-i18n[^<>]*>([^<]+)<", page))
+    s.update(re.findall(r"T\('([^'\\\n]{1,400})'\)", page))
+    # repeated patterns are translated once, as templates, by the page (see FLAT_RE in page.html)
+    s = {x for x in s if not FLAT_RE.match(x)} | set(FLAT_TEMPLATES)
+    strings = sorted(x for x in s if x and re.search(r"[A-Za-z]{3}", x) and not re.fullmatch(r"[A-Z0-9-]{3,6}", x))
     json.dump(strings, open(I18N / "strings.json", "w", encoding="utf8"), ensure_ascii=False, indent=0)
     return strings
 
@@ -108,6 +117,35 @@ def prune(strings):
             save(lang, {k: v for k, v in d.items() if k in keep})
 
 
+def export(path=None):
+    """Numbered English lines, one per string, for translating outside the API."""
+    strings = extract()
+    out = "\n".join(f"{i}\t{s}" for i, s in enumerate(strings))
+    open(path or I18N / "export_en.tsv", "w", encoding="utf8").write(out + "\n")
+    print(f"{len(strings)} lines")
+
+
+def merge(lang, path, by="claude-opus-5-5 (in session)"):
+    """Merge a numbered translation file (index<TAB>text) into i18n/<lang>.json, validating every index."""
+    strings = json.load(open(I18N / "strings.json", encoding="utf8"))
+    d = load(lang)
+    got = {}
+    for line in open(path, encoding="utf8"):
+        line = line.rstrip("\n")
+        if not line.strip():
+            continue
+        i, _, txt = line.partition("\t")
+        got[int(i)] = txt.strip()
+    bad = [i for i in got if i >= len(strings)]
+    if bad:
+        raise SystemExit(f"{lang}: indexes out of range {bad[:5]}")
+    for i, txt in got.items():
+        if txt and not d.get(strings[i], {}).get("reviewed"):
+            d[strings[i]] = {"t": txt, "by": by, "reviewed": False}
+    save(lang, d)
+    print(f"{lang}: merged {len(got)} lines, now {sum(1 for s in strings if s in d)}/{len(strings)}")
+
+
 def status():
     strings = extract()
     for lang in CFG["languages"]:
@@ -118,4 +156,8 @@ def status():
 
 
 if __name__ == "__main__":
-    {"extract": extract, "translate": translate, "status": status}[sys.argv[1] if len(sys.argv) > 1 else "status"]()
+    cmd = sys.argv[1] if len(sys.argv) > 1 else "status"
+    if cmd == "merge":
+        merge(sys.argv[2], sys.argv[3])
+    else:
+        {"extract": extract, "translate": translate, "status": status, "export": export}[cmd]()

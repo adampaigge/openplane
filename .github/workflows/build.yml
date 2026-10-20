@@ -39,6 +39,22 @@ jobs:
         run: python run.py
         env:
           OPENPLANE_REPO: ${{ github.repository }}
+      - name: Translate new or changed text
+        # Skipped quietly if the ANTHROPIC_API_KEY secret isn't set; the site then uses the
+        # browser's own translator for missing lines.
+        run: python run.py translate
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENPLANE_REPO: ${{ github.repository }}
+      - name: Commit translations
+        if: github.event_name != 'pull_request'
+        run: |
+          git add i18n
+          if ! git diff --cached --quiet; then
+            git -c user.name="openplane-build" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -qm "Update translations [skip ci]"
+            git push -q origin HEAD:main || echo "::warning::Couldn't push translations (main moved on); the next build will redo them."
+          fi
       - name: Summary
         run: python src/summary.py >> "$GITHUB_STEP_SUMMARY"
         env:

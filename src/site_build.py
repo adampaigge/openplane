@@ -9,7 +9,7 @@ hosted elsewhere can load https://cdn.jsdelivr.net/gh/<repo>@live/live.js and tr
 """
 import datetime, glob, json, os, shutil, subprocess
 from geom import ROOT, OUT_DIR, SITE_DIR, CFG
-import i18n_seed
+import yaml
 
 
 def git(*a):
@@ -35,12 +35,12 @@ def main():
     model = open(OUT_DIR / "ori1_model.json", encoding="utf8").read()
     flags = {os.path.basename(f)[:2]: open(f, encoding="utf8").read().strip()
              for f in sorted(glob.glob(str(ROOT / "web" / "flags" / "[A-Z][A-Z].svg"))) if not f.endswith("EU.svg")}
-    seed = json.dumps(dict(keys=i18n_seed.KEYS, seed=i18n_seed.SEED), ensure_ascii=False)
+    langs = yaml.safe_load(open(ROOT / "i18n" / "config.yaml", encoding="utf8"))
     page = open(ROOT / "web" / "page.html", encoding="utf8").read()
     page = (page.replace("/*MODEL*/", model.replace("</", "<\\/"))
                 .replace("/*MANIFEST*/", json.dumps(paths))
                 .replace("/*FLAGS*/", json.dumps(flags).replace("</", "<\\/"))
-                .replace("/*SEED*/", seed)
+                .replace("/*LANGS*/", json.dumps(langs, ensure_ascii=False))
                 .replace("/*META*/", json.dumps(meta))
                 .replace("__OPENPLANE_REPO__", repo))
 
@@ -49,6 +49,11 @@ def main():
         shutil.rmtree(SITE_DIR / "files")
     shutil.copytree(OUT_DIR, SITE_DIR / "files", ignore=shutil.ignore_patterns("preview.html", "nests.json"))
     open(SITE_DIR / "index.html", "w", encoding="utf8").write(page)
+    os.makedirs(SITE_DIR / "i18n", exist_ok=True)
+    for lang in langs["languages"]:
+        src = ROOT / "i18n" / f"{lang}.json"
+        if src.exists():
+            shutil.copy(src, SITE_DIR / "i18n" / f"{lang}.json")
     open(SITE_DIR / "live.js", "w", encoding="utf8").write(
         "window.OPENPLANE_LIVE=" + json.dumps(dict(meta=meta, manifest=paths)) [:-1] + ',"model":' + model + "};\n")
     open(SITE_DIR / ".nojekyll", "w").write("")

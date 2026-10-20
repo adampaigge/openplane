@@ -61,6 +61,25 @@ Copies of the page hosted elsewhere load `https://cdn.jsdelivr.net/gh/<owner>/<r
 
 One-time setup: in the repository's Settings → Pages, set the source to **GitHub Actions**.
 
+## Translations
+
+The site offers the languages in [`i18n/config.yaml`](i18n/config.yaml). Each has a file, `i18n/<lang>.json`, with one entry per English line:
+
+```json
+"Fold the spars": {"t": "Doblar los largueros", "by": "claude-sonnet-5-5", "reviewed": false}
+```
+
+- **Machine translation in CI:** if the repository has an `ANTHROPIC_API_KEY` secret, every build translates only the new or changed lines and commits them. Lines whose English has gone are dropped.
+- **Human review:** fix a line with a pull request and set `"reviewed": true`. Machine updates never overwrite a reviewed line.
+- **Browser fallback:** lines not in the file yet are translated on the visitor's device by the browser's built-in translator where there is one (desktop Chrome), and labelled as such. Otherwise they stay in English.
+
+The page always tells readers that the English is the reference for anything safety-critical.
+
+```sh
+python src/i18n_tool.py status      # coverage per language
+python run.py translate             # translate locally (needs ANTHROPIC_API_KEY)
+```
+
 ## Status
 
 A concept design with first-pass calculations. It has not been built, load-tested or flown. See `DESIGN_REPORT.md` → "Limits of this work" before cutting metal.

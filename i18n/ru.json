@@ -1,0 +1,182 @@
+{
+ "Bill of materials": {
+  "t": "Спецификация",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Blanks": {
+  "t": "Заготовки",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Cost": {
+  "t": "Стоимость",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Currency": {
+  "t": "Валюта",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Cut lengths": {
+  "t": "Длины резки",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Download files (.zip)": {
+  "t": "Скачать файлы (.zip)",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Drawing": {
+  "t": "Чертёж",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Export BOM (.csv)": {
+  "t": "Экспорт спецификации (.csv)",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Fuel and payload": {
+  "t": "Топливо и нагрузка",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Hangar": {
+  "t": "Ангар",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Hardware": {
+  "t": "Крепёж",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Hardware for this step": {
+  "t": "Крепёж для этого шага",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Instructions": {
+  "t": "Инструкция",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Language": {
+  "t": "Язык",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Open-source aircraft": {
+  "t": "Самолёт с открытым исходным кодом",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Performance": {
+  "t": "Характеристики",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Pilot": {
+  "t": "Пилот",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Rivets": {
+  "t": "Заклёпки",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Step": {
+  "t": "Шаг",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Structure": {
+  "t": "Конструкция",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "The numbers": {
+  "t": "Цифры",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Tools": {
+  "t": "Инструменты",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Units": {
+  "t": "Единицы",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "What it costs": {
+  "t": "Сколько стоит",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Whole aircraft": {
+  "t": "Весь самолёт",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Will it fly well?": {
+  "t": "Хорошо ли он полетит?",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "X-ray": {
+  "t": "Рентген",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "flat blanks, one sheet gauge": {
+  "t": "плоские заготовки одной толщины",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "max take-off mass": {
+  "t": "максимальная взлётная масса",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "mountain": {
+  "t": "гора",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "pilot hole": {
+  "t": "направляющее отверстие",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "public domain": {
+  "t": "общественное достояние",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "rolled zone": {
+  "t": "зона гибки",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "rough build cost": {
+  "t": "примерная стоимость",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "valley": {
+  "t": "долина",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "wingspan": {
+  "t": "размах крыла",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ }
+}

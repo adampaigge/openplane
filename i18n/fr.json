@@ -1,0 +1,182 @@
+{
+ "Bill of materials": {
+  "t": "Nomenclature",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Blanks": {
+  "t": "Flans",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Cost": {
+  "t": "Coût",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Currency": {
+  "t": "Devise",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Cut lengths": {
+  "t": "Longueurs de coupe",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Download files (.zip)": {
+  "t": "Télécharger les fichiers (.zip)",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Drawing": {
+  "t": "Plan",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Export BOM (.csv)": {
+  "t": "Exporter la nomenclature (.csv)",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Fuel and payload": {
+  "t": "Carburant et charge",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Hangar": {
+  "t": "Hangar",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Hardware": {
+  "t": "Visserie",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Hardware for this step": {
+  "t": "Visserie de cette étape",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Instructions": {
+  "t": "Instructions",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Language": {
+  "t": "Langue",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Open-source aircraft": {
+  "t": "Avion open source",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Performance": {
+  "t": "Performances",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Pilot": {
+  "t": "Pilote",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Rivets": {
+  "t": "Rivets",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Step": {
+  "t": "Étape",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Structure": {
+  "t": "Structure",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "The numbers": {
+  "t": "Les chiffres",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Tools": {
+  "t": "Outils",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Units": {
+  "t": "Unités",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "What it costs": {
+  "t": "Ce qu'il coûte",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Whole aircraft": {
+  "t": "Avion entier",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Will it fly well?": {
+  "t": "Volera-t-il bien ?",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "X-ray": {
+  "t": "Rayons X",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "flat blanks, one sheet gauge": {
+  "t": "flans plats, une seule épaisseur",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "max take-off mass": {
+  "t": "masse maximale au décollage",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "mountain": {
+  "t": "montagne",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "pilot hole": {
+  "t": "avant-trou",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "public domain": {
+  "t": "domaine public",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "rolled zone": {
+  "t": "zone roulée",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "rough build cost": {
+  "t": "coût approximatif",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "valley": {
+  "t": "vallée",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "wingspan": {
+  "t": "envergure",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ }
+}

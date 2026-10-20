@@ -1,0 +1,182 @@
+{
+ "Bill of materials": {
+  "t": "सामग्री सूची",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Blanks": {
+  "t": "ब्लैंक",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Cost": {
+  "t": "लागत",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Currency": {
+  "t": "मुद्रा",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Cut lengths": {
+  "t": "काटने की लंबाई",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Download files (.zip)": {
+  "t": "फ़ाइलें डाउनलोड करें (.zip)",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Drawing": {
+  "t": "ड्रॉइंग",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Export BOM (.csv)": {
+  "t": "सामग्री सूची निर्यात करें (.csv)",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Fuel and payload": {
+  "t": "ईंधन और भार",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Hangar": {
+  "t": "हैंगर",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Hardware": {
+  "t": "हार्डवेयर",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Hardware for this step": {
+  "t": "इस चरण का हार्डवेयर",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Instructions": {
+  "t": "निर्देश",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Language": {
+  "t": "भाषा",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Open-source aircraft": {
+  "t": "ओपन-सोर्स विमान",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Performance": {
+  "t": "प्रदर्शन",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Pilot": {
+  "t": "पायलट",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Rivets": {
+  "t": "रिवेट",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Step": {
+  "t": "चरण",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Structure": {
+  "t": "संरचना",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "The numbers": {
+  "t": "आंकड़े",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Tools": {
+  "t": "औज़ार",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Units": {
+  "t": "इकाइयाँ",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "What it costs": {
+  "t": "इसकी लागत",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Whole aircraft": {
+  "t": "पूरा विमान",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Will it fly well?": {
+  "t": "क्या यह अच्छी तरह उड़ेगा?",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "X-ray": {
+  "t": "एक्स-रे",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "flat blanks, one sheet gauge": {
+  "t": "सपाट ब्लैंक, एक ही मोटाई",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "max take-off mass": {
+  "t": "अधिकतम टेक-ऑफ भार",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "mountain": {
+  "t": "पर्वत मोड़",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "pilot hole": {
+  "t": "पायलट छेद",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "public domain": {
+  "t": "सार्वजनिक डोमेन",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "rolled zone": {
+  "t": "गोल मोड़ क्षेत्र",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "rough build cost": {
+  "t": "अनुमानित लागत",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "valley": {
+  "t": "घाटी मोड़",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "wingspan": {
+  "t": "पंख फैलाव",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ }
+}

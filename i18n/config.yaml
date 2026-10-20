@@ -1,0 +1,14 @@
+# Languages offered on the website. `name` is shown in the menu; `english` is what the
+# translator is told. Add a language here and the next build translates everything into it.
+source: en
+languages:
+  zh: {name: "中文", english: "Simplified Chinese"}
+  hi: {name: "हिन्दी", english: "Hindi"}
+  es: {name: "Español", english: "Spanish"}
+  fr: {name: "Français", english: "French"}
+  ar: {name: "العربية", english: "Modern Standard Arabic", rtl: true}
+  bn: {name: "বাংলা", english: "Bengali"}
+  pt: {name: "Português", english: "Portuguese"}
+  ru: {name: "Русский", english: "Russian"}
+  ja: {name: "日本語", english: "Japanese"}
+  de: {name: "Deutsch", english: "German"}

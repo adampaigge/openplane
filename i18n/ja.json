@@ -1,0 +1,182 @@
+{
+ "Bill of materials": {
+  "t": "部品表",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Blanks": {
+  "t": "ブランク",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Cost": {
+  "t": "費用",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Currency": {
+  "t": "通貨",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Cut lengths": {
+  "t": "切断長さ",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Download files (.zip)": {
+  "t": "ファイルをダウンロード (.zip)",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Drawing": {
+  "t": "図面",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Export BOM (.csv)": {
+  "t": "部品表を書き出す (.csv)",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Fuel and payload": {
+  "t": "燃料と積載",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Hangar": {
+  "t": "格納庫",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Hardware": {
+  "t": "金具",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Hardware for this step": {
+  "t": "このステップの金具",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Instructions": {
+  "t": "説明書",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Language": {
+  "t": "言語",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Open-source aircraft": {
+  "t": "オープンソースの飛行機",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Performance": {
+  "t": "性能",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Pilot": {
+  "t": "パイロット",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Rivets": {
+  "t": "リベット",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Step": {
+  "t": "ステップ",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Structure": {
+  "t": "構造",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "The numbers": {
+  "t": "数値",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Tools": {
+  "t": "工具",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Units": {
+  "t": "単位",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "What it costs": {
+  "t": "費用",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Whole aircraft": {
+  "t": "機体全体",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "Will it fly well?": {
+  "t": "うまく飛ぶか？",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "X-ray": {
+  "t": "透視",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "flat blanks, one sheet gauge": {
+  "t": "平板ブランク、単一板厚",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "max take-off mass": {
+  "t": "最大離陸重量",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "mountain": {
+  "t": "山折り",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "pilot hole": {
+  "t": "下穴",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "public domain": {
+  "t": "パブリックドメイン",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "rolled zone": {
+  "t": "曲面部",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "rough build cost": {
+  "t": "概算費用",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "valley": {
+  "t": "谷折り",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ },
+ "wingspan": {
+  "t": "翼幅",
+  "by": "claude (hand-written UI seed)",
+  "reviewed": false
+ }
+}

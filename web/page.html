@@ -395,6 +395,7 @@ a.livebadge:hover{border-color:var(--fg)}
 a.pbtn[aria-disabled="true"]{opacity:.45;cursor:not-allowed;pointer-events:none}
 .pick{border-left:1px solid color-mix(in srgb,var(--fg) 12%,transparent)!important;border-inline-start:1px solid color-mix(in srgb,var(--fg) 12%,transparent)!important}
 #cgT tr.sel[aria-selected="true"] td:first-child{box-shadow:none}
+.trnote a{color:inherit;text-decoration:underline}
 </style>
 
 <div class="flagband" aria-label="Flags of the world: a project for anyone, anywhere"><div class="flagtrack" id="flagTrack"></div></div>
@@ -568,7 +569,7 @@ a.pbtn[aria-disabled="true"]{opacity:.45;cursor:not-allowed;pointer-events:none}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
 <script type="application/json" id="manifest">/*MANIFEST*/</script>
 <script type="application/json" id="flags">/*FLAGS*/</script>
-<script type="application/json" id="seed">/*SEED*/</script>
+<script type="application/json" id="langs">/*LANGS*/</script>
 <script>
 (function(){
 "use strict";
@@ -580,38 +581,48 @@ const H = M.H;
 const fmt = (v,d=0)=>Number(v).toLocaleString('en-GB',{minimumFractionDigits:d,maximumFractionDigits:d});
 const partById = {}; M.parts.forEach(p=>partById[p.id]=p);
 // ------------------------------------------------ languages
-const LANGS={en:['English','English'],zh:['中文','Simplified Chinese'],hi:['हिन्दी','Hindi'],es:['Español','Spanish'],fr:['Français','French'],ar:['العربية','Modern Standard Arabic'],bn:['বাংলা','Bengali'],pt:['Português','Portuguese'],ru:['Русский','Russian'],ja:['日本語','Japanese'],de:['Deutsch','German']};
-const SEEDJ=JSON.parse(document.getElementById('seed').textContent);
-let LANG='en'; const TR={}; const pending=new Set(); let trBusy=false, trOff=false, trTimer=null, samplePromise=null;
-function loadTR(l){ if(TR[l]) return; TR[l]={}; const s=SEEDJ.seed[l]; if(s) SEEDJ.keys.forEach((k,i)=>TR[l][k]=s[i]); try{ Object.assign(TR[l], JSON.parse(localStorage.getItem('op-tr-'+l)||'{}')); }catch(e){} }
-function persistTR(l){ try{ const s=SEEDJ.keys; const o={}; for(const k in TR[l]) if(!s.includes(k)) o[k]=TR[l][k]; localStorage.setItem('op-tr-'+l, JSON.stringify(o)); }catch(e){} }
-function T(s){ if(!s||LANG==='en') return s; const d=TR[LANG]; if(d[s]!=null) return d[s]; if(!trOff && /[A-Za-z]{3}/.test(s)){ pending.add(s); if(!trTimer && !trBusy) trTimer=setTimeout(flushTR,250); } return s; }
-function getSample(){ if(!samplePromise) samplePromise = (window.claude && window.claude.use) ? window.claude.use('sample').catch(()=>null) : Promise.resolve(null); return samplePromise; }
-function trNote(msg){ const n=document.getElementById('trNote'); if(!n) return; n.hidden=!msg; n.textContent=msg||''; }
-async function flushTR(){
-  trTimer=null; if(trBusy||trOff||!pending.size||LANG==='en') return;
-  trBusy=true; const lang=LANG, name=LANGS[lang][1]; const batch=[...pending].slice(0,28); batch.forEach(s=>pending.delete(s));
-  trNote('Translating into '+name+' with Claude… ('+(pending.size+batch.length)+' lines left)');
+// Translations come from i18n/<lang>.json in the repo (machine-translated by CI, fixable by anyone
+// with a pull request). Lines not in the file yet are filled by the browser's own on-device
+// translator where it has one (desktop Chrome); otherwise they stay in English.
+const LCFG = JSON.parse(document.getElementById('langs').textContent);
+const LANGS = Object.assign({en:{name:'English'}}, LCFG.languages);
+let LANG='en'; const TR={}, TRSRC={}; const pending=new Set(); let trTimer=null, trBusy=false, browserTr=null, browserTrLang=null, loadingLang=null;
+const I18N_BASES = (LIVE && META.repo ? [`https://cdn.jsdelivr.net/gh/${META.repo}@live/i18n/`] : []).concat(['i18n/']);
+async function loadTR(l){
+  if(l==='en' || TR[l]) return;
+  TR[l]={}; TRSRC[l]={};
+  for(const base of I18N_BASES){ try{ const r=await fetch(base+l+'.json'); if(!r.ok) continue; const d=await r.json();
+      for(const k in d){ TR[l][k]=d[k].t; TRSRC[l][k]=d[k].reviewed?'reviewed':'machine'; } break; }catch(e){} }
+}
+function T(s){ if(!s||LANG==='en') return s; const d=TR[LANG]; if(d && d[s]!=null) return d[s]; if(d && /[A-Za-z]{3}/.test(s)){ pending.add(s); if(!trTimer && !trBusy) trTimer=setTimeout(fillFromBrowser,300); } return s; }
+function trNote(msg){ const n=document.getElementById('trNote'); if(!n) return; n.hidden=!msg; n.innerHTML=msg||''; }
+function noteFor(lang){
+  if(lang==='en') return '';
+  const fix = META.repo ? ` <a href="https://github.com/${META.repo}/blob/main/i18n/${lang}.json" target="_blank" rel="noopener">Correct a line on GitHub</a>.` : '';
+  const n = Object.keys(TR[lang]||{}).length, b = Object.values(TRSRC[lang]||{}).filter(v=>v==='browser').length;
+  return `Machine translation, not yet checked by a person. The English text is the reference for anything safety-critical.${b?` ${b} lines were translated by your browser.`:''}${fix}`;
+}
+async function fillFromBrowser(){
+  trTimer=null; if(trBusy || !pending.size || LANG==='en') return;
+  const lang=LANG;
+  if(!('Translator' in self)){ pending.clear(); return; }
+  trBusy=true;
   try{
-    const sample=await getSample(); if(!sample) throw {code:'unavailable'};
-    const prompt=`Translate each string in the JSON array below from English into ${name}. The strings come from the build manual and website of a home-built single-seat microlight aircraft. Rules: keep part codes (for example W-MS, K-CV, F-B1, AN4, A4-3), numbers, units, currency amounts, file names and symbols exactly as written; use standard aviation and sheet-metal terms; keep the meaning precise, because people will build an aircraft from it; add nothing. Reply with only a JSON array of ${batch.length} strings in the same order.\n\n${JSON.stringify(batch)}`;
-    const out=await sample.json(prompt,{modelTier:'default'});
-    if(Array.isArray(out) && out.length===batch.length){ batch.forEach((s,i)=>{ if(typeof out[i]==='string' && out[i].trim()) TR[lang][s]=out[i]; }); persistTR(lang); }
-    else batch.forEach(s=>{ TR[lang][s]=s; });
-  }catch(e){ const c=e&&e.code; batch.forEach(s=>{ TR[lang][s]=s; });
-    if(c!=='invalid_json' && c!=='parse_error'){ trOff=true; pending.clear();
-      trNote(c==='not_granted' ? 'Translation needs your permission to use Claude. The menus are translated; the rest stays in English.' : 'Automatic translation is not available in this view. The menus are translated; the rest stays in English.'); } }
+    if(browserTrLang!==lang){ browserTr=null; const av=await Translator.availability({sourceLanguage:'en', targetLanguage:lang}); if(av==='unavailable'){ pending.clear(); trBusy=false; return; }
+      browserTr=await Translator.create({sourceLanguage:'en', targetLanguage:lang}); browserTrLang=lang; }
+    const batch=[...pending]; pending.clear();
+    for(const s of batch){ if(LANG!==lang) break; try{ TR[lang][s]=await browserTr.translate(s); TRSRC[lang][s]='browser'; }catch(e){ TR[lang][s]=s; } }
+  }catch(e){ pending.clear(); }
   trBusy=false;
-  if(lang===LANG) rerenderText();
-  if(trOff) return;
-  if(pending.size) trTimer=setTimeout(flushTR,60); else trNote(LANG==='en'?'':'Translated by Claude. The English text is the reference: check anything safety-critical against it.');
+  if(lang===LANG){ rerenderText(); trNote(noteFor(lang)); }
 }
 function applyStatic(){ document.querySelectorAll('[data-i18n]').forEach(el=>{ if(el.dataset.en==null) el.dataset.en=el.textContent.trim(); el.textContent=T(el.dataset.en); }); }
 function rerenderText(){ applyStatic(); try{ renderArticle(); }catch(e){} if(typeof window.__rerenderManual==='function') window.__rerenderManual(); }
-function setLang(l){ if(!LANGS[l]) l='en'; LANG=l; loadTR(l); pending.clear(); trOff=false; if(trTimer){ clearTimeout(trTimer); trTimer=null; }
-  document.documentElement.lang=l; document.documentElement.dir = l==='ar'?'rtl':'ltr';
+async function setLang(l){ if(!LANGS[l]) l='en'; pending.clear(); if(trTimer){ clearTimeout(trTimer); trTimer=null; }
   try{ localStorage.setItem('op-lang',l); }catch(e){}
-  trNote(''); rerenderText(); buildFlags(); }
+  await loadTR(l); LANG=l;
+  document.documentElement.lang=l; document.documentElement.dir = LANGS[l].rtl?'rtl':'ltr';
+  trNote(noteFor(l)); rerenderText(); buildFlags(); }
 // ------------------------------------------------ flags of the world, in no particular order
 function buildFlags(){
   const F=JSON.parse(document.getElementById('flags').textContent); const codes=Object.keys(F);
@@ -766,10 +777,10 @@ function persist(){ try{ localStorage.setItem('ori1-cur',CUR.code); localStorage
 curSel.onchange=()=>{ CUR.code=curSel.value; persist(); renderArticle(); };
 modeSel.onchange=()=>{ CUR.mode=modeSel.value; persist(); renderArticle(); };
 unitSel.onchange=()=>{ UNITS.sys=unitSel.value; persist(); renderArticle(); if(typeof renderManual==='function' && typeof cur!=='undefined') renderManual(cur); };
-const langSel=document.getElementById('langSel'); langSel.innerHTML=Object.entries(LANGS).map(([k,v])=>`<option value="${k}">${v[0]}</option>`).join('');
-let _l='en'; try{ _l=localStorage.getItem('op-lang')||'en'; }catch(e){} langSel.value=LANGS[_l]?_l:'en'; LANG=langSel.value; loadTR(LANG);
-document.documentElement.lang=LANG; document.documentElement.dir = LANG==='ar'?'rtl':'ltr';
+const langSel=document.getElementById('langSel'); langSel.innerHTML=Object.entries(LANGS).map(([k,v])=>`<option value="${k}">${v.name}</option>`).join('');
+let _l='en'; try{ _l=localStorage.getItem('op-lang')||'en'; }catch(e){} langSel.value=LANGS[_l]?_l:'en';
 langSel.onchange=()=>setLang(langSel.value);
+if(langSel.value!=='en') setLang(langSel.value);
 applyStatic(); buildFlags();
 
 // click a flag: it grows out of the ticker to a third of the screen, with the country's name
@@ -1397,7 +1408,7 @@ async function save(filename, dataPromise){
   catch(e){ const c=e&&e.code; dlMsg.textContent = c==='declined' ? 'Download cancelled.' : c==='rate_limited' ? 'A save prompt is already open. Finish it first.' : 'Couldn’t save '+filename+'. Try again.'; }
 }
 async function buildZip(filter){
-  const list = (LIVE && LIVE.manifest ? LIVE.manifest : JSON.parse(document.getElementById('manifest').textContent)).filter(filter||(()=>true));
+  const list = (LIVE && LIVE.manifest ? LIVE.manifest : JSON.parse(document.getElementById('manifest').textContent)).filter(filter||(f=>!f.startsWith('i18n/')));
   const zip = new JSZip(); let done=0;
   const q = list.slice(); const workers = Array.from({length:6}, async()=>{ while(q.length){ const rel=q.shift();
     let r = null; try{ r = await fetch(FILE_BASE+rel); }catch(e){} if((!r || !r.ok) && FILE_BASE!=='files/') r = await fetch('files/'+rel); if(!r.ok) throw new Error('fetch '+rel);

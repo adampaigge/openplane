@@ -929,7 +929,7 @@ function tubeSVG(d){
   const body = d.kind==='cable' ? `<path d="M30 26 C 150 18, 370 34, 490 26" fill="none" stroke="#17191f" stroke-width="1.6"/>` : `<rect x="14" y="${d.kind==='bar'?20:18}" width="492" height="${d.kind==='bar'?12:16}" rx="${d.kind==='bar'?1:8}" fill="#e9e1cf" stroke="#17191f" stroke-width="1.2"/>`;
   return `<div class="tdraw"><svg viewBox="0 0 ${W} 74" role="img" aria-label="${d.label}">${body}${ends}
   <path d="M24 50v12M496 50v12M24 56h472" stroke="#17191f" stroke-width="1"/><path d="M24 56l8-3v6zM496 56l-8-3v6z" fill="#17191f"/>
-  <rect x="${W/2-80}" y="48" width="160" height="16" fill="#fbf8f1"/><text x="${W/2}" y="60" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12" fill="#17191f">${uLen(d.len)}${imp()?'':' ('+fmt(d.len/25.4,1)+' in)'}</text></svg>
+  <rect x="${W/2-80}" y="48" width="160" height="16" fill="#fbf8f1"/><text x="${W/2}" y="60" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12" fill="#17191f">${uLen(d.len)}</text></svg>
   <div class="cap" style="display:flex;justify-content:space-between;gap:8px;font-family:var(--f-mono);font-size:11px;color:#5b5a55"><b style="color:#17191f">${unitText(d.label)}</b><span>${unitText(d.note)}</span></div></div>`;
 }
 

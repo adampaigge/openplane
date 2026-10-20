@@ -1233,6 +1233,13 @@ function layBench(n){
 }
 function updateShop(n){ layBench(n); paintBoard(n); updateStock(n); }
 
+// Mating sheets share a plane in the model (a flange lies exactly on the skin it is riveted to), which
+// makes the GPU flicker between them. Give every part a fixed depth bias instead: skins are drawn in
+// front of the structure they cover, and each part gets its own small step so no two parts tie.
+const SKIN_RE = /^(W-SU|W-SL|W-CU|W-CL|W-CS$|W-CT|F-SD|F-FL|F-TT|F-TS|F-TB|F-CU|F-CL|F-NU|F-NL|F-IP|F-WS|F-DW|F-FWN|T-HS|T-ES|T-FS|T-RS)/;
+const PART_INDEX = {}; M.parts.forEach((p,i)=>PART_INDEX[p.id]=i);
+function depthBias(id){ const k=(PART_INDEX[id]||0)%7; return SKIN_RE.test(id) ? -2 - k*0.35 : 2 + k*0.35; }
+function biasDepth(r,s,c,g,m){ m.polygonOffset=true; m.polygonOffsetFactor=this.userData.pof; m.polygonOffsetUnits=this.userData.pof*2; }
 // per-part geometry
 const partObjs = []; // {p, inst:[group], panels:[[obj per panel]], geoms}
 const pickables = [];
@@ -1265,6 +1272,7 @@ M.parts.forEach(p=>{
     const objs = p.panels.map((f,i)=>{
       const pg = new THREE.Group(); pg.matrixAutoUpdate=false;
       const mesh = new THREE.Mesh(geoms[i].g, isPC?MAT.pc:(isSS?MAT.ss:MAT.sheet)); mesh.userData.part=p.id;
+      mesh.userData.pof = depthBias(p.id); mesh.onBeforeRender = biasDepth;
       const line = new THREE.LineSegments(geoms[i].e, MAT.edge);
       pg.add(mesh); pg.add(line); g.add(pg); pickables.push(mesh);
       return {pg, mesh, line};

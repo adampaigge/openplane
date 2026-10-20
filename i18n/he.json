@@ -1,0 +1,3972 @@
+{
+ "1 m hand bending brake (or hardwood bending blocks in a vise)": {
+  "t": "מכופף פח ידני 1 m (או גושי כיפוף מעץ קשה במלחציים)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in Clecos (300) + Cleco pliers": {
+  "t": "Clecos 1/8 in (300) + צבת Cleco",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)": {
+  "t": "מסמרת עיוורת מאלומיניום עם ראש כיפתי 1/8 in, טווח אחיזה -1 (עד 1.6 mm)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in domed aluminium blind rivet, grip -2 (1.6-3.2 mm)": {
+  "t": "מסמרת עיוורת מאלומיניום עם ראש כיפתי 1/8 in, טווח אחיזה -2 (1.6-3.2 mm)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in hole duplicator": {
+  "t": "משכפל חורים 1/8 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in stainless/Monel blind rivet (fire-zone)": {
+  "t": "מסמרת עיוורת נירוסטה/Monel 1/8 in (אזור אש)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "2 m section in four-point bending, loaded in steps to 1.5 × the +4 g limit bending moment.": {
+  "t": "קטע של 2 m בכפיפה בארבע נקודות, מועמס בשלבים עד 1.5 × מומנט הכפיפה הגבולי ב-+4 g.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "2 x AN4 at the tail post": {
+  "t": "2 x AN4 בעמוד הזנב",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "2 x AN5 holes at the top, axle boss at the bottom": {
+  "t": "2 x חורי AN5 למעלה, טבור ציר למטה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "4 x 1.79 m wing, 2 x 1.0 m elevators, 1.24 m rudder, door": {
+  "t": "כנף 4 x 1.79 m, הגאים 2 x 1.0 m, הגה כיוון 1.24 m, דלת",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "4130 fittings": {
+  "t": "אביזרי חיבור 4130",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "75 mm tube + ratchet strap (nose roller)": {
+  "t": "צינור 75 mm + רצועת ראצ'ט (גליל שפת ההתקפה)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "; {n} parts x {l} laminated layers": {
+  "t": "; {n} חלקים x {l} שכבות למינציה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A BMAA or LAA inspector reviews the aircraft and the evidence.": {
+  "t": "מפקח BMAA או LAA בוחן את כלי הטיס ואת הראיות.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A UK SSDR aircraft needs no airworthiness approval, so all the responsibility is the builder's. Proof-load the wing with sandbags to +4 g and have a BMAA or LAA inspector look at it before it flies. Elsewhere, check your national microlight rules.": {
+  "t": "כלי טיס SSDR בבריטניה אינו צריך אישור כשירות אווירית, ולכן כל האחריות היא של הבונה. בצעו העמסת הוכחה לכנף בשקי חול עד +4 g ובקשו ממפקח BMAA או LAA לבדוק אותה לפני שהיא טסה. במקומות אחרים, בדקו את כללי המטוסים הקלים במדינתכם.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A concept design, published for study. It is not an approved design, and nothing here is airworthiness advice.": {
+  "t": "תכנון רעיוני, שפורסם לצורך לימוד. זה אינו תכנון מאושר, ושום דבר כאן אינו ייעוץ בנושא כשירות אווירית.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A single-seat microlight anyone can build. Every sheet part is a flat blank with straight folds, cut from one gauge of aluminium.": {
+  "t": "מטוס קל חד-מושבי שכל אחד יכול לבנות. כל חלק פח הוא גזיר שטוח עם קפלים ישרים, חתוך מעובי אחד של אלומיניום.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A4-1 blind rivet": {
+  "t": "מסמרת עיוורת A4-1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A4-2 blind rivet": {
+  "t": "מסמרת עיוורת A4-2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A4-SS blind rivet": {
+  "t": "מסמרת עיוורת A4-SS",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "ALT instrument": {
+  "t": "מכשיר ALT",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 bolt (10-32), AN365-1032 nut, AN960-10 washers": {
+  "t": "בורג AN3 (10-32), אום AN365-1032, דסקיות AN960-10",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 bolt, AN365-1032 nut": {
+  "t": "בורג AN3, אום AN365-1032",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 bolt, AN365-1032 nut, rod end between the plates": {
+  "t": "בורג AN3, אום AN365-1032, ראש מוט בין הלוחות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 bolt, AN365-1032 nut, through 3/16 in rod end": {
+  "t": "בורג AN3, אום AN365-1032, דרך ראש מוט 3/16 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 each end": {
+  "t": "AN3 בכל קצה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt (1/4-28), AN365-428 nut, 2 x AN960-416 washers": {
+  "t": "בורג AN4 (1/4-28), אום AN365-428, 2 x דסקיות AN960-416",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt, AN310-4 + cotter (pivot)": {
+  "t": "בורג AN4, AN310-4 + פין שגם (ציר)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt, AN310-4 castle nut + cotter": {
+  "t": "בורג AN4, אום כתר AN310-4 + פין שגם",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt, AN365-428 nut": {
+  "t": "בורג AN4, אום AN365-428",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt, AN365-428 nut, AN970-4 washer each side": {
+  "t": "בורג AN4, אום AN365-428, דסקית AN970-4 בכל צד",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 bolt (5/16-24), AN365-524 nut, AN970-5 large washers": {
+  "t": "בורג AN5 (5/16-24), אום AN365-524, דסקיות גדולות AN970-5",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 bolt + rubber isolator (Lord-type) + AN365-524": {
+  "t": "בורג AN5 + בולם גומי (מסוג Lord) + AN365-524",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 bolt, AN310-5 castellated nut, MS24665 cotter": {
+  "t": "בורג AN5, אום כתר AN310-5, פין שגם MS24665",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 bolt, AN365-524 nut": {
+  "t": "בורג AN5, אום AN365-524",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 clevis pin (bolt), AN310-5 castellated nut, MS24665 cotter": {
+  "t": "פין מזלג AN5 (בורג), אום כתר AN310-5, פין שגם MS24665",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 prop bolt, AN310-5 + safety wire (per prop maker)": {
+  "t": "בורג מדחף AN5, AN310-5 + חוט אבטחה (לפי יצרן המדחף)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "ASI instrument": {
+  "t": "מכשיר ASI",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "About 10 months": {
+  "t": "כ-10 חודשים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "t": "קרן מאזנת / מדף, 4130 0.063in (קפל אחד אל העור התחתון)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron / flap skin (identical x4)": {
+  "t": "עור מאזנת / מדף (זהה x4)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron / flap spar (identical x4)": {
+  "t": "קורת מאזנת / מדף (זהה x4)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron and flap horns (K-HN), 1 per surface": {
+  "t": "קרני מאזנות ומדפים (K-HN), 1 לכל משטח",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron link (cabin) x2": {
+  "t": "חוליית מאזנת (תא) x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron link (cabin) x2: 6061-T6 3/8 x 0.035 in": {
+  "t": "חוליית מאזנת (תא) x2: 6061-T6 3/8 x 0.035 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron pushrod (arch) x2": {
+  "t": "מוט דחיפה מאזנת (קשת) x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron pushrod (arch) x2: 6061-T6 3/8 x 0.035 in": {
+  "t": "מוט דחיפה מאזנת (קשת) x2: 6061-T6 3/8 x 0.035 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron pushrod (wing) x2": {
+  "t": "מוט דחיפה מאזנת (כנף) x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron pushrod (wing) x2: 6061-T6 1/2 x 0.035 in": {
+  "t": "מוט דחיפה מאזנת (כנף) x2: 6061-T6 1/2 x 0.035 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron torque tube": {
+  "t": "צינור פיתול מאזנות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ailerons: a short link from the torque-tube arm to the arch-foot bellcrank, a pushrod up the rear-arch leg to the arch-top bellcrank, then out through the rib lightening holes to the outboard bellcrank, which drives the K-HN horn on the aileron. Flaps: overhead lever, a short rod to the centre-section torque-tube arms, then pushrods to the flap bellcranks and K-HN horns.": {
+  "t": "מאזנות: חוליה קצרה מזרוע צינור הפיתול אל מנוף הזווית בכף הקשת, מוט דחיפה במעלה רגל הקשת האחורית אל מנוף הזווית בראש הקשת, ואז החוצה דרך חורי ההקלה בצלעות אל מנוף הזווית החיצוני, שמניע את קרן ה-K-HN שעל המאזנת. מדפים: ידית תקרה, מוט קצר אל זרועות צינור הפיתול של החלק המרכזי, ואז מוטות דחיפה אל מנופי הזווית של המדפים ואל קרני ה-K-HN.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "All 52 ribs are the same two blanks. The pilot holes locate them, so no jig is needed.": {
+  "t": "כל 52 הצלעות הן אותם שני גזירים. חורי ההנחיה ממקמים אותן, כך שאין צורך בתבנית.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "All six faces aim at one vanishing point, so each face is flat and every crease is straight.": {
+  "t": "כל שש הפאות מכוונות אל נקודת מגוז אחת, כך שכל פאה שטוחה וכל קפל ישר.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "All the glazing is flat sheet: no forming and no moulds.": {
+  "t": "כל הזיגוג הוא יריעה שטוחה: בלי עיצוב ובלי תבניות.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Allowable": {
+  "t": "מותר",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "An engineering test plan modelled on BCAR Section S practice, not a regulatory approval route. Costs are rough ranges for materials, hire and consumables, not labour, and exclude the airframe itself. The plan lives in qualification.yaml in the repository, and its pass criteria use the live numbers from the build.": {
+  "t": "תוכנית ניסויים הנדסית לפי נוהג BCAR Section S, לא מסלול לאישור רגולטורי. העלויות הן טווחים גסים לחומרים, השכרה ומתכלים, בלי עבודה ובלי גוף המטוס עצמו. התוכנית נמצאת ב-qualification.yaml במאגר, וקריטריוני המעבר שלה משתמשים במספרים העדכניים של הבנייה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Approach the stall in 1 kt steps, flaps up and down, at forward and aft CG.": {
+  "t": "התקרבו להזדקרות בצעדים של 1 kt, עם מדפים למעלה ולמטה, במרכז כובד קדמי ואחורי.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Arch over the pilot. Spar-root fittings bolt to its top corners, strut fittings to its feet. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "קשת מעל הטייס. אביזרי שורש הקורה מוברגים לפינותיה העליונות, אביזרי התמוכות לרגליה. מרובד: 2 שכבות מקוננות של 0.020 in, מקופלות בנפרד ומסומררות כאחת; קצצו 0.5 mm לכל שכבה פנימית משולי האוגנים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "As above, including the reversed load case at −2 g.": {
+  "t": "כנ\"ל, כולל מקרה העומס ההפוך ב-−2 g.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "At least 1.5 × the full-power fuel flow from either tank.": {
+  "t": "לפחות 1.5 × זרימת הדלק בהספק מלא מכל אחד מהמכלים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aux fuel tank 20 L (rotomoulded), high behind the seat, gravity feed": {
+  "t": "מכל עזר 20 L (יציקה סיבובית), גבוה מאחורי המושב, הזנה בכוח הכובד",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aux tank 20 L behind the seat + selector valve + line": {
+  "t": "מכל עזר 20 L מאחורי המושב + ברז בורר + צינור",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aux tank filler (through the left cabin side, behind the door)": {
+  "t": "פתח מילוי מכל העזר (דרך דופן התא השמאלית, מאחורי הדלת)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aviation snips (straight, left, right)": {
+  "t": "מספרי פח תעופתיים (ישר, שמאל, ימין)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Axle bolt AN6 + castellated nut AN310-6 + cotter MS24665": {
+  "t": "בורג ציר AN6 + אום כתר AN310-6 + פין שגם MS24665",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Back-drill #40 through the rib and spar-cap pilot holes, using the hole duplicator where you can't reach from inside. Cleco as you go.": {
+  "t": "קדחו לאחור #40 דרך חורי ההנחיה של הצלעות ושל חגורות הקורה, עם משכפל החורים היכן שאי אפשר להגיע מבפנים. הכניסו Cleco תוך כדי.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Back-drill through the rib flanges and spar caps. Do the nose last, working from the spar forward.": {
+  "t": "קדחו לאחור דרך אוגני הצלעות וחגורות הקורות. את שפת ההתקפה עשו אחרונה, מהקורה קדימה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Baggage locker behind the seat (net, 5 kg max)": {
+  "t": "תא מטען מאחורי המושב (רשת, 5 kg מקסימום)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Battery + radio + antenna": {
+  "t": "מצבר + רדיו + אנטנה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Battery 12 V LiFePO4 in vented box (under the seat)": {
+  "t": "מצבר 12 V LiFePO4 בקופסה מאווררת (מתחת למושב)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcrank arms in the cabin, 2 per bellcrank; Bellcrank arms in the wings, 2 per bellcrank": {
+  "t": "זרועות מנופי זווית בתא, 2 לכל מנוף; זרועות מנופי זווית בכנפיים, 2 לכל מנוף",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "t": "תושבות מנופי זווית בתא אל הקשת / הקורה, 2 לכל אחת; תושבות מנופי זווית בכנפיים אל הקשת / הקורה, 2 לכל אחת",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcrank pivots in the cabin (K-BC pair through its K-CV bracket); Bellcrank pivots in the wings (K-BC pair through its K-CV bracket)": {
+  "t": "צירי מנופי זווית בתא (זוג K-BC דרך תושבת K-CV); צירי מנופי זווית בכנפיים (זוג K-BC דרך תושבת K-CV)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "t": "לוח מנוף זווית, 4130 0.063in (זוגות, זרועות 55 mm)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcranks: each is a pair of K-BC plates, 16 mm apart, on an AN4 pivot through a folded K-CV bracket. The rod ends sit between the plates on AN3 bolts. Five per side: aileron arch-foot, arch-top and outboard (at the rear spar); flap torque-tube arm and flap bellcrank.": {
+  "t": "מנופי זווית: כל אחד הוא זוג לוחות K-BC במרחק 16 mm, על ציר AN4 דרך תושבת K-CV מקופלת. ראשי המוט יושבים בין הלוחות על ברגי AN3. חמישה בכל צד: מאזנת בכף הקשת, בראש הקשת והחיצוני (בקורה האחורית); זרוע צינור פיתול המדף ומנוף הזווית של המדף.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bench vise with soft jaws": {
+  "t": "מלחציים עם לסתות רכות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bend deduction": {
+  "t": "ניכוי כיפוף",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bend on the brake: each channel is four 90° bends. Bend the two flanges first, then the two lips. Set the nose radius to 1 mm (about 2t for 0.020 in) and overbend about 2° for springback. Check every bend with a square.": {
+  "t": "כופפו במכופף: כל תעלה היא ארבעה כיפופים של 90°. קודם שני האוגנים, אחר כך שתי השפתיים. קבעו את רדיוס האף ל-1 mm (בערך 2t עבור 0.020 in) וכופפו יתר בכ-2° בשביל ההחזרה הקפיצית. בדקו כל כיפוף עם זווית.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bend radius and springback": {
+  "t": "רדיוס כיפוף והחזרה קפיצית",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Best climb": {
+  "t": "טיפוס מיטבי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bill of materials": {
+  "t": "רשימת חומרים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Blanks": {
+  "t": "גזירים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Blind-rivet puller (hand or pneumatic)": {
+  "t": "מסמררת למסמרות עיוורות (ידנית או פנאומטית)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt each main-gear spring leg through the floor doubler under the front arch: 2 x AN5 each, large washers both sides.": {
+  "t": "הבריגו כל רגל קפיצית של הכן הראשי דרך מגבר הרצפה מתחת לקשת הקדמית: 2 x AN5 לכל אחת, דסקיות גדולות משני הצדדים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt in the four harness anchors.": {
+  "t": "הבריגו את ארבע נקודות העיגון של הרתמה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt on the propeller and spinner. Torque to the prop maker's figure, then safety-wire.": {
+  "t": "הבריגו את המדחף ואת החרוט. הדקו למומנט של יצרן המדחף, ואז אבטחו בחוט.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the 4130 engine mount through the firewall (4 x AN4) with large washers on the back.": {
+  "t": "הבריגו את תושבת המנוע מ-4130 דרך קיר האש (4 x AN4) עם דסקיות גדולות מאחור.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the four root clevises to the arch tops and the four strut-foot clevises to the arch feet with AN4 bolts.": {
+  "t": "הבריגו את ארבעת מזלגות השורש לראשי הקשתות ואת ארבעת מזלגות כף התמוכה לכפות הקשתות עם ברגי AN4.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the stabiliser halves to the tailcone side doublers, 4 x AN4 each. Bolt the fin spar to the tail post, 3 x AN4.": {
+  "t": "הבריגו את חצאי המייצב אל מגברי הצד של חרוט הזנב, 4 x AN4 כל אחד. הבריגו את קורת הסנפיר לעמוד הזנב, 3 x AN4.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the tailwheel spring to the tail post (2 x AN4). Fit the fork and the two steering springs to the rudder horn.": {
+  "t": "הבריגו את קפיץ גלגל הזנב לעמוד הזנב (2 x AN4). התקינו את המזלג ואת שני קפיצי ההיגוי על קרן הגה הכיוון.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the tang pairs either side of each spar web at the root (4 x AN3), and the strut-top clevises under the spars at the 2.4 m rib.": {
+  "t": "הבריגו את זוגות הלשוניות משני צדי דופן כל קורה בשורש (4 x AN3), ואת מזלגות ראש התמוכה מתחת לקורות בצלע של 2.4 m.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolts to the spar web with 4 x AN3 and reaches inboard past the spar end to the arch-top clevis pin.": {
+  "t": "מוברג לדופן הקורה עם 4 x AN3 ומגיע פנימה מעבר לקצה הקורה אל פין המזלג שבראש הקשת.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Both sides are the same blank, mirrored. The openings have 50 mm corner radii because square corners start cracks.": {
+  "t": "שני הצדדים הם אותו גזיר, בשיקוף. לפתחים רדיוסי פינה של 50 mm כי פינות ישרות מתחילות סדקים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Both tanks, up to MTOW": {
+  "t": "שני המכלים, עד MTOW",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bottom + both chamfers + side flanges from one sheet: converging creases, still developable (frustum).": {
+  "t": "תחתית + שני השיפועים + אוגני צד מיריעה אחת: קפלים מתכנסים, עדיין ניתן לפריסה (פירמידה קטומה).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bottom extends between the elevator halves.": {
+  "t": "התחתית נמשכת בין חצאי ההגה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bought / fabricated items going on": {
+  "t": "פריטים קנויים / מיוצרים שמותקנים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bought assemblies": {
+  "t": "מכלולים קנויים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Box-pleat hood 45°, nose bowl converging creases": {
+  "t": "מכסה מנוע עם קפלי קופסה 45°, קפלים מתכנסים בקערת האף",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Brake drum": {
+  "t": "תוף בלם",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Build each section upside down on a straight edge: bulkheads Clecoed into the belly, then the sides, then the top.": {
+  "t": "בנו כל קטע הפוך על סרגל ישר: מחיצות עם Cleco אל הבטן, אחר כך הצדדים, אחר כך החלק העליון.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Build up towards Vne in 5 kt steps, watching for buzz or flutter at every step.": {
+  "t": "התקדמו לעבר Vne בצעדים של 5 kt, ובכל צעד הקשיבו לזמזום או לרפרוף.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "CG range": {
+  "t": "טווח מרכז כובד",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "CHT/EGT instrument": {
+  "t": "מכשיר CHT/EGT",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "CLmax, drag, propeller efficiency and the neutral point are handbook estimates. Measure stall speed and CG limits in flight test. The 35 kt SSDR stall limit is met with flaps:": {
+  "t": "CLmax, הגרר, נצילות המדחף והנקודה הנייטרלית הם הערכות מספרי עזר. מדדו את מהירות ההזדקרות ואת גבולות מרכז הכובד בטיסת ניסוי. מגבלת ההזדקרות של SSDR, 35 kt, מושגת עם מדפים:",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cabin roof (centre lower skin)": {
+  "t": "תקרת התא (עור תחתון מרכזי)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cabin side (x2, mirrored): door/window opening + front window": {
+  "t": "דופן התא (x2, בשיקוף): פתח דלת/חלון + חלון קדמי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cabin sides and seat": {
+  "t": "דפנות התא והמושב",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Carries flap/aileron hinges and rear strut fitting. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "נושאת את צירי המדף/המאזנת ואת אביזר התמוכה האחורי. מרובד: 2 שכבות מקוננות של 0.020 in, מקופלות בנפרד ומסומררות כאחת; קצצו 0.5 mm לכל שכבה פנימית משולי האוגנים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Case": {
+  "t": "מקרה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "t": "כיסוי שפת זרימה של החלק המרכזי (קבוע, בין המדפים)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Centre-section upper skin": {
+  "t": "עור עליון של החלק המרכזי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Check stops, free play, friction and cable tension, then load every circuit to the pilot limit loads.": {
+  "t": "בדקו עוצרים, חופש, חיכוך ומתיחות כבלים, ואז העמיסו כל מעגל לעומסי הטייס הגבוליים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Check the cap angle every 500 mm with a square. Sight along the spar for twist.": {
+  "t": "בדקו את זווית החגורה כל 500 mm עם זווית. הביטו לאורך הקורה כדי לזהות פיתול.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Check twist by sighting a level across bulkheads 1 and 5. Then join the two sections at bulkhead 3.": {
+  "t": "בדקו פיתול בכיוון פלס מעל מחיצות 1 ו-5. אחר כך חברו את שני הקטעים במחיצה 3.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clean and prime. Steel fittings rust under paint if they aren't primed.": {
+  "t": "נקו ושימו פריימר. אביזרי פלדה מחלידים מתחת לצבע אם אין להם פריימר.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clecos": {
+  "t": "Clecos",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each": {
+  "t": "דפנות מזלגות לראשי הקשתות ולכפות הקשתות, 2 לכל מזלג; מזלגות ראש התמוכה ותמוכת העזר דרך חגורות הקורה, 2 לכל אחד",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each; Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "t": "דפנות מזלגות לראשי הקשתות ולכפות הקשתות, 2 לכל מזלג; מזלגות ראש התמוכה ותמוכת העזר דרך חגורות הקורה, 2 לכל אחד; תושבות מנופי זווית בתא אל הקשת / הקורה, 2 לכל אחת; תושבות מנופי זווית בכנפיים אל הקשת / הקורה, 2 לכל אחת",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clevis, 4130 0.063in (U, two folds)": {
+  "t": "מזלג, 4130 0.063in (U, שני קפלים)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clevis: two 90° bends at 3t radius": {
+  "t": "מזלג: שני כיפופים של 90° ברדיוס 3t",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Click to explore": {
+  "t": "לחצו כדי לחקור",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clip on the strut fairings.": {
+  "t": "הלבישו את כיסויי התמוכות.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Close the bay behind the centre-section rear spar with the W-CT trailing-edge fairing (same wedge fold as the flaps). Do it last, after the flap linkage is rigged and checked.": {
+  "t": "סגרו את החלל שמאחורי הקורה האחורית של החלק המרכזי בכיסוי שפת הזרימה W-CT (אותו קפל טריז כמו במדפים). עשו זאת אחרון, אחרי שמנגנון המדפים כוון ונבדק.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Closes the control surface; carries hinge and mass-balance arm.": {
+  "t": "סוגר את משטח ההיגוי; נושא את הציר ואת זרוע איזון המסה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Closes the control surface; carries hinge and mass-balance arm. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "סוגר את משטח ההיגוי; נושא את הציר ואת זרוע איזון המסה. מרובד: 2 שכבות מקוננות של 0.020 in, מקופלות בנפרד ומסומררות כאחת; קצצו 0.5 mm לכל שכבה פנימית משולי האוגנים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Compass (on the glare shield)": {
+  "t": "מצפן (על מגן הסנוור)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Components": {
+  "t": "רכיבים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Consumables": {
+  "t": "מתכלים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Control stick": {
+  "t": "מוט היגוי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Control system": {
+  "t": "מערכת היגוי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Control-circuit strength": {
+  "t": "חוזק מעגלי ההיגוי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Control-system free play": {
+  "t": "חופש במערכת ההיגוי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Controllable in all axes with trim available. Engine temperatures stable.": {
+  "t": "ניתן לשליטה בכל הצירים עם קיזוז זמין. טמפרטורות המנוע יציבות.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Controls, instruments and systems": {
+  "t": "היגוי, מכשירים ומערכות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Controls: stick, torque tube, cables, pushrods": {
+  "t": "היגוי: מוט, צינור פיתול, כבלים, מוטות דחיפה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Converging creases 44°, bulkhead flanges 96–100°": {
+  "t": "קפלים מתכנסים 44°, אוגני מחיצות 96–100°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Copy it, change it, build it, sell it. No permission needed.": {
+  "t": "העתיקו, שנו, בנו, מכרו. אין צורך ברשות.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cordless drill, #40 (2.5 mm) and #30 (3.3 mm) bits": {
+  "t": "מקדחה נטענת, מקדחים #40 (2.5 mm) ו-#30 (3.3 mm)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cost": {
+  "t": "עלות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cotter pins": {
+  "t": "פיני שגם",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cotter-pin and safety-wire pliers": {
+  "t": "צבת לפיני שגם ולחוט אבטחה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Coupons and processes": {
+  "t": "דגימות ותהליכים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Covers the top half of the firewall. Camlocks along the firewall flange and the split line.": {
+  "t": "מכסה את החצי העליון של קיר האש. סוגרי Camlock לאורך אוגן קיר האש וקו החלוקה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cowl to firewall flange and along the split line": {
+  "t": "מכסה מנוע אל אוגן קיר האש ולאורך קו החלוקה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Crippling stress at least {stress:ms_cc}, the design allowable. Layers must not separate before failure.": {
+  "t": "מאמץ קריסה מקומית לפחות {stress:ms_cc}, הערך המותר בתכנון. השכבות לא ייפרדו לפני הכשל.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cruise 75 %": {
+  "t": "שיוט 75 %",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Crush 300 mm lengths of three-layer lipped channel, riveted at design pitch, five samples.": {
+  "t": "מעכו קטעים של 300 mm מתעלה עם שפתיים בשלוש שכבות, מסומררת בפסיעת התכנון, חמש דגימות.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Currency": {
+  "t": "מטבע",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut and deburr: the stand blanks are on the same nest sheets as everything else. File every edge smooth and deburr each pilot hole on both faces. Look for burrs with your fingertip, not your eye.": {
+  "t": "חיתוך והסרת גרדים: גזירי המעמדים נמצאים על אותם גיליונות חיתוך כמו כל השאר. שייפו כל שפה חלקה והסירו גרדים מכל חור הנחיה בשני הצדדים. חפשו גרדים בקצה האצבע, לא בעין.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut files (DXF and nests), crease patterns, the prop model, the bill of materials and the design report.": {
+  "t": "קובצי חיתוך (DXF וגיליונות חיתוך), דפוסי קפלים, מודל המדחף, רשימת החומרים ודוח התכנון.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut lengths": {
+  "t": "אורכי חיתוך",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut list": {
+  "t": "רשימת חיתוך",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut the main struts to 2543 mm and the rear struts to 2547 mm pin-to-pin, minus the end-fitting length. All four are 6061-T6 1.75 x 0.065 in tube.": {
+  "t": "חתכו את התמוכות הראשיות ל-2543 mm ואת האחוריות ל-2547 mm מפין לפין, פחות אורך אביזרי הקצה. כל הארבע הן צינור 6061-T6 1.75 x 0.065 in.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut, deburr, mark": {
+  "t": "חיתוך, הסרת גרדים, סימון",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cylinder": {
+  "t": "צילינדר",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Deburr every edge and hole": {
+  "t": "הסירו גרדים מכל שפה ומכל חור",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Deburr every edge with a file or deburring tool. A burr is where a fatigue crack starts.": {
+  "t": "הסירו גרדים מכל שפה עם פצירה או כלי להסרת גרדים. גרד הוא המקום שבו מתחיל סדק עייפות.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Deburr every pilot hole on both faces with a 10 mm bit turned by hand.": {
+  "t": "הסירו גרדים מכל חור הנחיה בשני הצדדים עם מקדח 10 mm המסובב ביד.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Deburring tool, 10 mm drill bit (hole deburr), fine file": {
+  "t": "כלי להסרת גרדים, מקדח 10 mm (לחורים), פצירה עדינה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Don't overtighten: nylon washers, and stop when the washer just grips.": {
+  "t": "אל תהדקו יותר מדי: דסקיות ניילון, ועצרו ברגע שהדסקית בדיוק תופסת.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Door (left, hinged) / side window (right, fixed)": {
+  "t": "דלת (שמאל, על צירים) / חלון צד (ימין, קבוע)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Download files (.zip)": {
+  "t": "הורדת קבצים (.zip)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Drawing": {
+  "t": "שרטוט",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Drill and cleco: clamp the gussets in place, drill through the pilot holes to #30 (3.3 mm), and put a cleco in every fourth hole as you go. Then take everything apart, deburr the holes and the faying surfaces, and put it back together on clecos.": {
+  "t": "קידוח ו-Cleco: הדקו את הפלטות במקומן, קדחו דרך חורי ההנחיה ל-#30 (3.3 mm), והכניסו Cleco בכל חור רביעי תוך כדי. אחר כך פרקו הכול, הסירו גרדים מהחורים ומהמשטחים הנושקים, והרכיבו שוב על Clecos.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Drill press, 1/4 in and 5/16 in reamers": {
+  "t": "מקדחת עמוד, מרחיבים 1/4 in ו-5/16 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Drill, deburr, prime, rivet the skeleton": {
+  "t": "קידוח, הסרת גרדים, פריימר, סמרור השלד",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Duration": {
+  "t": "משך",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Each cable end": {
+  "t": "כל קצה כבל",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Each spar is a laminate: three nested blanks for the main spar, two for the rear. Fold every layer separately, then nest them.": {
+  "t": "כל קורה היא מרובד: שלושה גזירים מקוננים לקורה הראשית, שניים לאחורית. קפלו כל שכבה בנפרד, ואז קננו אותן.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Each wing pins on at two points. The struts set its angle.": {
+  "t": "כל כנף מתחברת בפינים בשתי נקודות. התמוכות קובעות את הזווית שלה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ears take an AN5 pin (fore-aft axis); web bolts with 2 x AN4. Bend radius 3t for normalised 4130 (Wanttaja).": {
+  "t": "האוזניים מקבלות פין AN5 (ציר אורך); הדופן מוברגת עם 2 x AN4. רדיוס כיפוף 3t עבור 4130 מנורמל (Wanttaja).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Electrics: 12 V LiFePO4 battery in a vented box under the seat. Run it via the master switch and fuses to the radio, with the antenna coax to a whip on the tailcone top. The mag P-lead goes through a firewall grommet. The half-VW's magneto needs no battery to run.": {
+  "t": "חשמל: מצבר 12 V LiFePO4 בקופסה מאווררת מתחת למושב. העבירו אותו דרך המתג הראשי והנתיכים אל הרדיו, עם כבל הקואקס של האנטנה אל אנטנת שוט בראש חרוט הזנב. חוט ה-P של המגנטו עובר דרך גומייה בקיר האש. המגנטו של ה-half-VW אינו צריך מצבר כדי לפעול.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator bellcrank (under seat)": {
+  "t": "מנוף זווית ההגה (מתחת למושב)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator cable x2": {
+  "t": "כבל הגה x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator cable x2: 1/8 in 7x19 galvanised": {
+  "t": "כבל הגה x2: 1/8 in 7x19 מגולוון",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator cables: run one straight line each from the bellcrank to the tail-post grommet, 60 mm apart, up cable above down cable. Fit a phenolic fairlead where each line passes a bulkhead.": {
+  "t": "כבלי ההגה: העבירו כל אחד בקו ישר אחד ממנוף הזווית אל הגומייה שבעמוד הזנב, 60 mm זה מזה, כבל ה\"למעלה\" מעל כבל ה\"למטה\". התקינו מוביל כבל פנולי בכל מקום שבו קו עובר מחיצה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "t": "קרן הגה, 4130 0.063in (דו-קצתית, על צינור הפיתול של ההגה)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator skin": {
+  "t": "עור ההגה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator spar": {
+  "t": "קורת ההגה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevators and rudder: fold them the same way as the ailerons in step 7 (pleats, then the trailing-edge fold, then the C-spar).": {
+  "t": "הגאים והגה כיוון: קפלו אותם באותה דרך כמו המאזנות בשלב 7 (קפלים, אחר כך קפל שפת הזרימה, אחר כך קורת ה-C).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty / MTOW": {
+  "t": "ריק / MTOW",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty mass and balance": {
+  "t": "מסה ריקה ואיזון",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty mass at or below {mass:empty} plus 3 %, and every loading case inside the CG range.": {
+  "t": "מסה ריקה עד {mass:empty} ועוד 3 %, וכל מקרה העמסה בתוך טווח מרכז הכובד.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty tanks": {
+  "t": "מכלים ריקים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty tanks, 5 kg baggage (aftmost)": {
+  "t": "מכלים ריקים, 5 kg מטען (האחורי ביותר)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Endurance": {
+  "t": "משך טיסה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine and prop": {
+  "t": "מנוע ומדחף",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine and propeller": {
+  "t": "מנוע ומדחף",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine mount": {
+  "t": "תושבת מנוע",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine mount to firewall, 4": {
+  "t": "תושבת מנוע לקיר האש, 4",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine mount tube (4130)": {
+  "t": "צינור תושבת המנוע (4130)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine runs: full-power static run, mag check, then check cylinder head temperatures.": {
+  "t": "הרצות מנוע: הרצה סטטית בהספק מלא, בדיקת מגנטו, ואז בדיקת טמפרטורות ראשי הצילינדרים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine to mount, 4": {
+  "t": "מנוע לתושבת, 4",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine, cowl, prop": {
+  "t": "מנוע, מכסה, מדחף",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Epoxy primer + etch/alodine": {
+  "t": "פריימר אפוקסי + צריבה/alodine",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Estimated": {
+  "t": "משוער",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Estimated flutter speed at least 1.2 × the design dive speed of {speed:Vd}.": {
+  "t": "מהירות רפרוף משוערת לפחות 1.2 × מהירות הצלילה התכנונית {speed:Vd}.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every crease goes on the blank before anything is folded, the same order the origami book uses.": {
+  "t": "כל קפל מסומן על הגזיר לפני שמקפלים משהו, באותו סדר שבו משתמש ספר האוריגמי.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every flange within ±0.5 mm of the drawing.": {
+  "t": "כל אוגן בתוך ±0.5 mm מהשרטוט.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every number on this site is a calculation. This is the plan for turning them into evidence: cheap coupon tests first, then components, then the whole wing, then the ground and finally the air. Each phase retires a specific risk before money is spent on the next. Results go back into the repository, and measured values replace the estimates in aircraft.yaml.": {
+  "t": "כל מספר באתר הזה הוא חישוב. זו התוכנית להפוך אותם לראיות: קודם ניסויי דגימות זולים, אחר כך רכיבים, אחר כך הכנף כולה, אחר כך הקרקע ולבסוף האוויר. כל שלב מסלק סיכון מסוים לפני שמוציאים כסף על הבא. התוצאות חוזרות למאגר, והערכים שנמדדו מחליפים את ההערכות ב-aircraft.yaml.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every result, photo and failure goes into the repository.": {
+  "t": "כל תוצאה, תמונה וכשל נכנסים למאגר.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every steel fitting is also a flat blank folded at most twice.": {
+  "t": "גם כל אביזר פלדה הוא גזיר שטוח שמקופל לכל היותר פעמיים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Everything that goes into one aircraft": {
+  "t": "כל מה שנכנס למטוס אחד",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Exact": {
+  "t": "מדויק",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Exchange rates: {date}, base GBP.": {
+  "t": "שערי חליפין: {date}, בסיס GBP.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Export BOM (.csv)": {
+  "t": "ייצוא רשימת חומרים (.csv)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Extinguisher and PLB": {
+  "t": "מטף ו-PLB",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B1 Tailcone bulkhead x=1150": {
+  "t": "F-B1 מחיצת חרוט זנב x=1150",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B2 Tailcone bulkhead x=1948": {
+  "t": "F-B2 מחיצת חרוט זנב x=1948",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B3 Tailcone bulkhead x=2745": {
+  "t": "F-B3 מחיצת חרוט זנב x=2745",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B4 Tailcone bulkhead x=3542": {
+  "t": "F-B4 מחיצת חרוט זנב x=3542",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B5 Tailcone bulkhead x=4340 (tail post)": {
+  "t": "F-B5 מחיצת חרוט זנב x=4340 (עמוד הזנב)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-CL Lower cowl (box-pleat pan to the cabin floor line)": {
+  "t": "F-CL מכסה מנוע תחתון (מגש עם קפלי קופסה עד קו רצפת התא)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-CU Upper cowl (hood, two 90 deg folds)": {
+  "t": "F-CU מכסה מנוע עליון (מכסה, שני קפלים של 90 deg)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-DW Door (left, hinged) / side window (right, fixed)": {
+  "t": "F-DW דלת (שמאל, על צירים) / חלון צד (ימין, קבוע)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-FA Front arch (main-spar frame)": {
+  "t": "F-FA קשת קדמית (מסגרת הקורה הראשית)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-FL Floor tray with two hat pleats": {
+  "t": "F-FL מגש רצפה עם שני קפלי כובע",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-FW Firewall": {
+  "t": "F-FW קיר אש",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-FWN Front side window (x2, mirrored)": {
+  "t": "F-FWN חלון צד קדמי (x2, בשיקוף)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-IP Instrument panel (glare-shield fold, side tabs)": {
+  "t": "F-IP לוח מכשירים (קפל מגן סנוור, לשוניות צד)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-NF Nose ring (prop-shaft hole + two cooling inlets)": {
+  "t": "F-NF טבעת אף (חור לציר המדחף + שתי כניסות קירור)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-NL Nose bowl, chin (3 converging facets)": {
+  "t": "F-NL קערת אף, סנטר (3 פאות מתכנסות)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-NU Nose bowl, upper (3 converging facets)": {
+  "t": "F-NU קערת אף, עליונה (3 פאות מתכנסות)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-RA Rear arch (rear-spar frame)": {
+  "t": "F-RA קשת אחורית (מסגרת הקורה האחורית)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-SD Cabin side (x2, mirrored): door/window opening + front window": {
+  "t": "F-SD דופן התא (x2, בשיקוף): פתח דלת/חלון + חלון קדמי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-ST Seat (pan + back, one sheet)": {
+  "t": "F-ST מושב (משטח + גב, יריעה אחת)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TB1 Tailcone belly, section 1": {
+  "t": "F-TB1 בטן חרוט הזנב, קטע 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TB2 Tailcone belly, section 2": {
+  "t": "F-TB2 בטן חרוט הזנב, קטע 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TS1 Tailcone side, section 1 (x2, mirrored)": {
+  "t": "F-TS1 צד חרוט הזנב, קטע 1 (x2, בשיקוף)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TS2 Tailcone side, section 2 (x2, mirrored)": {
+  "t": "F-TS2 צד חרוט הזנב, קטע 2 (x2, בשיקוף)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TT1 Tailcone top, section 1": {
+  "t": "F-TT1 גב חרוט הזנב, קטע 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TT2 Tailcone top, section 2": {
+  "t": "F-TT2 גב חרוט הזנב, קטע 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-WS Windscreen (cold-bent flat polycarbonate)": {
+  "t": "F-WS שמשה קדמית (פוליקרבונט שטוח מכופף בקור)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Faceted rib: every flange is a straight brake bend, no form block or fluting needed.": {
+  "t": "צלע מפואתת: כל אוגן הוא כיפוף ישר במכופף, בלי גוש תבנית ובלי חריצים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fairleads and pulleys": {
+  "t": "מובילי כבלים וגלגלות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fasteners": {
+  "t": "מחברים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fin nose rib": {
+  "t": "צלע אף של הסנפיר",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fin skin (one wrap)": {
+  "t": "עור הסנפיר (עטיפה אחת)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fin spar": {
+  "t": "קורת הסנפיר",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Final-drill every Cleco'd hole to #30 (3.3 mm), a few at a time, moving each Cleco to the next hole as you go.": {
+  "t": "קדחו סופית כל חור עם Cleco ל-#30 (3.3 mm), כמה בכל פעם, והעבירו כל Cleco לחור הבא תוך כדי.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fine felt marker, steel rule, square, MEK to clean": {
+  "t": "טוש דק, סרגל פלדה, זווית, MEK לניקוי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Finish: glue carpet on top of each beam so the wing skin can't be scratched. Load each stand with 40 kg and check it doesn't rack or rock. Keep the offcuts: they are your test pieces for the spar bend in step 2.": {
+  "t": "גימור: הדביקו שטיח על כל קורה כדי שעור הכנף לא יישרט. העמיסו על כל מעמד 40 kg ובדקו שהוא לא מתעוות ולא מתנדנד. שמרו את השאריות: הן חלקי הניסוי שלכם לכיפוף הקורה בשלב 2.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fire extinguisher 1 kg (clip by the left seat rail)": {
+  "t": "מטף 1 kg (בתפס ליד מסילת המושב השמאלית)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Firewall": {
+  "t": "קיר אש",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Firewall flanges": {
+  "t": "אוגני קיר האש",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "First flights": {
+  "t": "טיסות ראשונות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "First-pass strength: +4 / −2 g, ×1.5 ultimate": {
+  "t": "חוזק בקירוב ראשון: +4 / −2 g, ×1.5 שבירה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit each rib by its attach flange: Cleco through the pilot holes into the spar web. Nose ribs go on the front face, main ribs on the back.": {
+  "t": "התקינו כל צלע לפי אוגן החיבור שלה: Cleco דרך חורי ההנחיה אל דופן הקורה. צלעות האף בצד הקדמי, הצלעות הראשיות מאחור.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the axles, wheels and drum brakes. Castellated nut and cotter on each axle. The 21 x 8.00-6 tundra tyres run at 10-12 psi: check pressure before every flight, they are soft by design.": {
+  "t": "התקינו צירים, גלגלים ובלמי תוף. אום כתר ופין שגם על כל ציר. צמיגי ה-tundra 21 x 8.00-6 עובדים ב-10-12 psi: בדקו לחץ לפני כל טיסה, הם רכים בכוונה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the cabin roof and the centre-section upper skin, back-drilled through the root ribs. Use the riveting loop.": {
+  "t": "התקינו את תקרת התא ואת העור העליון של החלק המרכזי, קדוחים לאחור דרך צלעות השורש. השתמשו בלולאת הסמרור.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the camlock receptacles on the firewall flange and along the split line. Trim the cowl until it clears the cylinders by at least 10 mm.": {
+  "t": "התקינו את בתי ה-camlock על אוגן קיר האש ולאורך קו החלוקה. קצצו את מכסה המנוע עד שיהיה מרווח של לפחות 10 mm מהצילינדרים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the jury struts (420 mm main, 425 mm rear) from the clamp ear to the jury-top clevis under the spar, AN3 at each end. They double the strut's buckling strength.": {
+  "t": "התקינו את תמוכות העזר (ראשית 420 mm, אחורית 425 mm) מאוזן החבק אל מזלג ראש תמוכת העזר מתחת לקורה, AN3 בכל קצה. הן מכפילות את חוזק הקריסה של התמוכה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the sides outside the arches, firewall flange and floor flanges. Back-drill and Cleco.": {
+  "t": "התקינו את הצדדים מחוץ לקשתות, לאוגן קיר האש ולאוגני הרצפה. קדחו לאחור והכניסו Cleco.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the stick, the aileron torque tube under the seat and the elevator bellcrank. Connect the stick to the bellcrank with a short pushrod.": {
+  "t": "התקינו את המוט, את צינור הפיתול של המאזנות מתחת למושב ואת מנוף הזווית של ההגה. חברו את המוט למנוף הזווית במוט דחיפה קצר.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Five facets, chamfers matching the cabin floor. A louvre slot at the rear is the cooling-air exit.": {
+  "t": "חמש פאות, שיפועים תואמים לרצפת התא. חריץ תריס מאחור הוא יציאת אוויר הקירור.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges 90°, all toward the root": {
+  "t": "אוגנים 90°, כולם לכיוון השורש",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges all round fold aft; engine mount bolts through 4 doublers.": {
+  "t": "האוגנים מסביב מתקפלים אחורה; תושבת המנוע מוברגת דרך 4 מגברים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges follow the frustum taper (fold < 90 deg).": {
+  "t": "האוגנים עוקבים אחר התחדדות הפירמידה הקטומה (קפל < 90 deg).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges follow the frustum taper (fold < 90 deg). Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "האוגנים עוקבים אחר התחדדות הפירמידה הקטומה (קפל < 90 deg). מרובד: 2 שכבות מקוננות של 0.020 in, מקופלות בנפרד ומסומררות כאחת; קצצו 0.5 mm לכל שכבה פנימית משולי האוגנים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges follow the nose taper.": {
+  "t": "האוגנים עוקבים אחר התחדדות האף.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flap lever (overhead, Kitfox-style)": {
+  "t": "ידית מדפים (בתקרה, בסגנון Kitfox)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flap pushrod (wing) x2": {
+  "t": "מוט דחיפה מדף (כנף) x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flap pushrod (wing) x2: 6061-T6 3/8 x 0.035 in": {
+  "t": "מוט דחיפה מדף (כנף) x2: 6061-T6 3/8 x 0.035 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flap stall at or below 35 kt CAS, the SSDR limit; predicted {speed:Vs0}. Gentle stall, no wing drop.": {
+  "t": "הזדקרות עם מדפים ב-35 kt CAS או פחות, מגבלת SSDR; חזוי {speed:Vs0}. הזדקרות עדינה, בלי נפילת כנף.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flaps and ailerons": {
+  "t": "מדפים ומאזנות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flat panel; the top flange folds aft as a glare shield, side tabs fold forward onto the cabin sides. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "לוח שטוח; האוגן העליון מתקפל אחורה כמגן סנוור, לשוניות הצד מתקפלות קדימה אל דפנות התא. מרובד: 2 שכבות מקוננות של 0.020 in, מקופלות בנפרד ומסומררות כאחת; קצצו 0.5 mm לכל שכבה פנימית משולי האוגנים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flat polycarbonate over the front cut-out, 20 mm lap, screws in 4.5 mm oversize holes.": {
+  "t": "פוליקרבונט שטוח מעל הפתח הקדמי, חפיפה של 20 mm, ברגים בחורים מורחבים של 4.5 mm.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flight test": {
+  "t": "טיסת ניסוי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Floor tray with two hat pleats": {
+  "t": "מגש רצפה עם שני קפלי כובע",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Floor, firewall, arches": {
+  "t": "רצפה, קיר אש, קשתות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flutter": {
+  "t": "רפרוף",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Foam tape": {
+  "t": "סרט קצף",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold 20 strips of 0.51 mm 6061-T6 at a 0.8 mm nose radius, across and along the grain. Inspect every bend under a 10× loupe.": {
+  "t": "קפלו 20 רצועות 6061-T6 בעובי 0.51 mm ברדיוס אף של 0.8 mm, לרוחב ולאורך כיוון הערגול. בדקו כל כיפוף בזכוכית מגדלת 10×.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold a 300 mm offcut of a rib and of a spar from the real DXFs and measure every flange.": {
+  "t": "קפלו שארית של 300 mm מצלע ומקורה מתוך קובצי ה-DXF האמיתיים ומדדו כל אוגן.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold a 300 mm offcut of the same strip first and measure it to confirm the bend deduction.": {
+  "t": "קפלו קודם שארית של 300 mm מאותה רצועה ומדדו אותה כדי לאשר את ניכוי הכיפוף.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold all 52 ribs before assembling any: one brake set-up does the whole batch.": {
+  "t": "קפלו את כל 52 הצלעות לפני שמרכיבים אחת: כיוון אחד של המכופף מספיק לכל האצווה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold coupons": {
+  "t": "דגימות כיפוף",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold each belly blank: bottom, both chamfers, then the side flanges.": {
+  "t": "קפלו כל גזיר בטן: תחתית, שני השיפועים, ואז אוגני הצד.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold every rib flange 90° on the brake. Because the airfoil is faceted, each flange is one straight bend.": {
+  "t": "קפלו כל אוגן צלע ל-90° במכופף. מכיוון שפרופיל הכנף מפואת, כל אוגן הוא כיפוף ישר אחד.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the 12 clevises in the vise over a 5 mm radius block. Normalised 4130 needs at least 3t (Wanttaja).": {
+  "t": "קפלו את 12 המזלגות במלחציים מעל גוש ברדיוס 5 mm. 4130 מנורמל צריך לפחות 3t (Wanttaja).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the 90° top flange and the windscreen flange on each side panel. The top flange is the longeron.": {
+  "t": "קפלו את האוגן העליון של 90° ואת אוגן השמשה בכל לוח צד. האוגן העליון הוא הקורה האורכית.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the bulkhead flanges. They are 96–100°, not 90°, because they follow the taper.": {
+  "t": "קפלו את אוגני המחיצות. הם 96–100°, לא 90°, כי הם עוקבים אחר ההתחדדות.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the firewall flanges, all aft. It is stainless, so drill it slowly with a sharp bit and cutting oil.": {
+  "t": "קפלו את אוגני קיר האש, כולם אחורה. זו נירוסטה, אז קדחו לאט עם מקדח חד ושמן חיתוך.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the floor tray's two hat pleats, then the chamfers and side flanges.": {
+  "t": "קפלו את שני קפלי הכובע של מגש הרצפה, ואז את השיפועים ואת אוגני הצד.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the instrument panel (glare shield and side tabs) and rivet it to the cabin sides at x = -400 mm. Fit the ASI, altimeter, tach, CHT/EGT, radio, master and mag switches and fuel valve, and put the compass on the glare shield.": {
+  "t": "קפלו את לוח המכשירים (מגן סנוור ולשוניות צד) וסמררו אותו לדפנות התא ב-x = -400 mm. התקינו ASI, מד גובה, מד סל\"ד, CHT/EGT, רדיו, מתג ראשי ומתגי מגנטו וברז דלק, ושימו את המצפן על מגן הסנוור.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the ribs, Cleco them on": {
+  "t": "קפלו את הצלעות, חברו אותן ב-Cleco",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the seat: pan and back from one sheet. Rivet its front lip to the floor and lean its back on the rear arch.": {
+  "t": "קפלו את המושב: משטח וגב מיריעה אחת. סמררו את השפה הקדמית לרצפה והשעינו את הגב על הקשת האחורית.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the spars": {
+  "t": "קפלו את הקורות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the stabiliser and fin spars and their nose ribs.": {
+  "t": "קפלו את קורות המייצב והסנפיר ואת צלעות האף שלהן.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the trailing edge over a 0.6 mm radius bar in the brake, to about 165°. Squeeze gently in soft vise jaws until the TE is straight.": {
+  "t": "קפלו את שפת הזרימה מעל מוט ברדיוס 0.6 mm במכופף, לכ-165°. לחצו בעדינות בלסתות מלחציים רכות עד ששפת הזרימה ישרה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the two V-bead pleats in valley-mountain-valley order. Stop each bead at the marks.": {
+  "t": "קפלו את שני קפלי ה-V בסדר עמק-הר-עמק. עצרו כל קפל בסימנים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the two arches: outer and inner flanges, all aft.": {
+  "t": "קפלו את שתי הקשתות: אוגנים חיצוניים ופנימיים, כולם אחורה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the two caps first (90°), then the two lips. Overbend by about 2° so the 6061-T6 springs back to 90°.": {
+  "t": "קפלו קודם את שתי החגורות (90°), אחר כך את שתי השפתיים. כופפו יתר בכ-2° כדי שה-6061-T6 יחזור ל-90°.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the upper and lower cowls (four 45° creases each) and the nose-bowl halves. Rivet the nose bowls to the nose ring.": {
+  "t": "קפלו את מכסה המנוע העליון והתחתון (ארבעה קפלים של 45° בכל אחד) ואת חצאי קערת האף. סמררו את קערות האף לטבעת האף.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Folded blanks": {
+  "t": "גזירים מקופלים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Folds": {
+  "t": "קפלים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Four brake bends each": {
+  "t": "ארבעה כיפופים במכופף בכל אחד",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Four identical surfaces from one blank. The trailing edge is a single crease, so there's no separate strip to rivet on.": {
+  "t": "ארבעה משטחים זהים מגזיר אחד. שפת הזרימה היא קפל אחד, כך שאין רצועה נפרדת לסמרר.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Four stands, 20 blanks, about 200 rivets. The cheapest place to learn to fold, drill and rivet is a part that never leaves the ground.": {
+  "t": "ארבעה מעמדים, 20 גזירים, כ-200 מסמרות. המקום הזול ביותר ללמוד לקפל, לקדוח ולסמרר הוא חלק שלעולם לא עוזב את הקרקע.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Free play under 1° at each surface, and full travel with no binding under load.": {
+  "t": "חופש מתחת ל-1° בכל משטח, ומהלך מלא בלי היתקעות תחת עומס.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Front arch (main-spar frame)": {
+  "t": "קשת קדמית (מסגרת הקורה הראשית)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Front side window (x2, mirrored)": {
+  "t": "חלון צד קדמי (x2, בשיקוף)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Front side windows: screw over the cut-outs with a 20 mm lap.": {
+  "t": "חלונות צד קדמיים: הבריגו מעל הפתחים עם חפיפה של 20 mm.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Frustum facets aimed at one point, so every crease is straight.": {
+  "t": "פאות הפירמידה הקטומה מכוונות לנקודה אחת, כך שכל קפל ישר.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel": {
+  "t": "דלק",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel allowed": {
+  "t": "דלק מותר",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel and payload": {
+  "t": "דלק ומטען שימושי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel feed": {
+  "t": "הזנת דלק",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel filler neck + cap (through the hood, ahead of the windscreen)": {
+  "t": "צוואר מילוי דלק + פקק (דרך מכסה המנוע, לפני השמשה)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel selector valve: HEADER / AUX / OFF": {
+  "t": "ברז בורר דלק: HEADER / AUX / OFF",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel system parts": {
+  "t": "חלקי מערכת הדלק",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel tank 19 L (rotomoulded polyethylene): header tank behind the firewall, ahead of the panel, Cub-style": {
+  "t": "מכל דלק 19 L (פוליאתילן ביציקה סיבובית): מכל ראשי מאחורי קיר האש, לפני לוח המכשירים, בסגנון Cub",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel tank 19 L (rotomoulded) + lines, valve, gascolator": {
+  "t": "מכל דלק 19 L (יציקה סיבובית) + צינורות, ברז, מפריד משקעים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel, aux tank: a second 20 L tank strap-mounts high behind the seat, its bottom above the header tank top so it also gravity-feeds. Its line runs forward along the left roof rail to the selector; filler through the left cabin side, vent overboard under the roof. Never in the wings. Fill it only as far as the 300 kg MTOW allows: with a 100 kg pilot that is none at all. Burn the aux tank first, which keeps the CG moving forward.": {
+  "t": "דלק, מכל עזר: מכל שני של 20 L נקשר ברצועות גבוה מאחורי המושב, תחתיתו מעל ראש המכל הראשי כך שגם הוא מוזן בכוח הכובד. הצינור שלו רץ קדימה לאורך מסילת התקרה השמאלית אל הבורר; המילוי דרך דופן התא השמאלית, האוורור החוצה מתחת לתקרה. לעולם לא בכנפיים. מלאו אותו רק כמה ש-MTOW של 300 kg מתיר: עם טייס של 100 kg זה בכלל לא. שרפו קודם את מכל העזר, כך מרכז הכובד זז קדימה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel, header tank: the 19 L rotomoulded tank sits behind the firewall, above the pilot's shins and under the windscreen, strapped to two angles riveted to the side panels (as on a J-3 Cub). It gravity-feeds: tank outlet, selector valve (HEADER / AUX / OFF), a fire-sleeved hose through a firewall grommet, the gascolator on the firewall, then the carburettor. The tank bottom is about 200 mm above the carburettor. The filler neck comes up through the hood just ahead of the windscreen, and the vent runs forward under the hood.": {
+  "t": "דלק, מכל ראשי: המכל של 19 L ביציקה סיבובית יושב מאחורי קיר האש, מעל שוקי הטייס ומתחת לשמשה, קשור ברצועות לשתי זוויות המסומררות ללוחות הצד (כמו ב-J-3 Cub). הוא מוזן בכוח הכובד: יציאת המכל, ברז הבורר (HEADER / AUX / OFF), צינור גמיש עם שרוול חסין אש דרך גומייה בקיר האש, מפריד המשקעים על קיר האש, ואז הקרבורטור. תחתית המכל כ-200 mm מעל הקרבורטור. צוואר המילוי עולה דרך מכסה המנוע ממש לפני השמשה, והאוורור רץ קדימה מתחת למכסה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Gascolator (fuel strainer) on the firewall": {
+  "t": "מפריד משקעים (מסנן דלק) על קיר האש",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Glide L/D": {
+  "t": "יחס גלישה L/D",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ground": {
+  "t": "קרקע",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ground vibration test": {
+  "t": "ניסוי רעידות קרקעי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Half-VW engine": {
+  "t": "מנוע half-VW",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Half-VW engine, dressed (carb, mag, exhaust)": {
+  "t": "מנוע half-VW, מאובזר (קרבורטור, מגנטו, פליטה)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Hang the elevators and rudder on piano hinges. Check ±25° rudder travel clears the elevator halves.": {
+  "t": "תלו את ההגאים ואת הגה הכיוון על צירי פסנתר. בדקו שמהלך ±25° של הגה הכיוון לא נוגע בחצאי ההגה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Hang the half-VW on rubber isolators (4 x AN5).": {
+  "t": "תלו את ה-half-VW על בולמי גומי (4 x AN5).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Hangar": {
+  "t": "האנגר",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Hardware": {
+  "t": "חומרת חיבור",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Hardware for this step": {
+  "t": "חומרת חיבור לשלב הזה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Harness anchors to floor and rear arch, 4": {
+  "t": "נקודות עיגון רתמה לרצפה ולקשת האחורית, 4",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Hat pleats 56°, flanges 90°": {
+  "t": "קפלי כובע 56°, אוגנים 90°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Have a BMAA or LAA inspector look at it before the first flight. Do first flights in calm air, over a long field.": {
+  "t": "בקשו ממפקח BMAA או LAA לבדוק אותו לפני הטיסה הראשונה. בצעו טיסות ראשונות באוויר רגוע, מעל שדה ארוך.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Head": {
+  "t": "ראש",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Header tank full": {
+  "t": "מכל ראשי מלא",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Holds ultimate load for 3 s in both directions.": {
+  "t": "מחזיק עומס שבירה למשך 3 s בשני הכיוונים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Holds ultimate load for 3 s. Peak cap stress {stress:ms_sig} against an allowable of {stress:ms_cc}.": {
+  "t": "מחזיק עומס שבירה למשך 3 s. מאמץ חגורה מרבי {stress:ms_sig} מול מותר של {stress:ms_cc}.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Holds {force:strut_T} in tension and {force:strut_C} in compression with no failure.": {
+  "t": "מחזיק {force:strut_T} במתיחה ו-{force:strut_C} בלחיצה בלי כשל.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Honesty": {
+  "t": "כנות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Horn: rod end bolts through the outer hole (AN3).": {
+  "t": "קרן: ראש המוט מוברג דרך החור החיצוני (AN3).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Horns, bellcranks and brackets": {
+  "t": "קרניים, מנופי זווית ותושבות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "How it gets proven": {
+  "t": "איך זה מוכח",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Inspect each rivet: head seated flat, mandrel broken off flush, no gap under the head.": {
+  "t": "בדקו כל מסמרת: הראש יושב שטוח, הציר נשבר בגובה המשטח, אין רווח מתחת לראש.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Inspection": {
+  "t": "ביקורת",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Inspector sign-off before the aircraft is flown by anyone else.": {
+  "t": "חתימת מפקח לפני שמישהו אחר מטיס את המטוס.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Instructions": {
+  "t": "הוראות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Instrument panel (glare-shield fold, side tabs)": {
+  "t": "לוח מכשירים (קפל מגן סנוור, לשוניות צד)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Instruments (ASI, alt, tach, CHT, compass)": {
+  "t": "מכשירים (ASI, גובה, סל\"ד, CHT, מצפן)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Inverted wing on its fittings, sandbags laid out to the spanwise lift distribution, to +4 g limit and then −2 g. Measure tip deflection at each step.": {
+  "t": "כנף הפוכה על האביזרים שלה, שקי חול פרוסים לפי פיזור העילוי לאורך המוטה, עד גבול +4 g ואז −2 g. מדדו את שקיעת קצה הכנף בכל שלב.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut 0.75 x 0.049 in": {
+  "t": "תמוכת עזר 0.75 x 0.049 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut x2 (main)": {
+  "t": "תמוכת עזר x2 (ראשית)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut x2 (main): 6061-T6 0.75 x 0.049 in": {
+  "t": "תמוכת עזר x2 (ראשית): 6061-T6 0.75 x 0.049 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut x2 (rear)": {
+  "t": "תמוכת עזר x2 (אחורית)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut x2 (rear): 6061-T6 0.75 x 0.049 in": {
+  "t": "תמוכת עזר x2 (אחורית): 6061-T6 0.75 x 0.049 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "t": "חבק אוכף לתמוכת עזר, 4130 0.063in (חצי קליפה מגולגלת עם אוזניים)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-BC Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "t": "K-BC לוח מנוף זווית, 4130 0.063in (זוגות, זרועות 55 mm)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-CV Clevis, 4130 0.063in (U, two folds)": {
+  "t": "K-CV מזלג, 4130 0.063in (U, שני קפלים)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-HD Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "t": "K-HD קרן הגה, 4130 0.063in (דו-קצתית, על צינור הפיתול של ההגה)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-HN Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "t": "K-HN קרן מאזנת / מדף, 4130 0.063in (קפל אחד אל העור התחתון)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-HR Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "t": "K-HR קרן הגה כיוון, 4130 0.063in (שטוחה, כבל בכל צד)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-JC Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "t": "K-JC חבק אוכף לתמוכת עזר, 4130 0.063in (חצי קליפה מגולגלת עם אוזניים)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-TG Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "t": "K-TG לשונית שורש קורה, 4130 0.063in (שטוחה, זוגות משני צדי הדופן)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laminate: each channel is two blanks. Fold both separately, nest the inner one inside the outer one, and check they sit tight with no gap. If the inner one fights, take 0.5 mm off its flange edges.": {
+  "t": "מרובד: כל תעלה היא שני גזירים. קפלו את שניהם בנפרד, קננו את הפנימי בתוך החיצוני, ובדקו שהם יושבים צמוד בלי רווח. אם הפנימי מתנגד, הורידו 0.5 mm משולי האוגנים שלו.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laminated channel crippling": {
+  "t": "קריסה מקומית של תעלה מרובדת",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "מרובד: 2 שכבות מקוננות של 0.020 in, מקופלות בנפרד ומסומררות כאחת; קצצו 0.5 mm לכל שכבה פנימית משולי האוגנים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Landing gear and tailwheel": {
+  "t": "כן נסע וגלגל זנב",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Landing roll": {
+  "t": "ריצת נחיתה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Language": {
+  "t": "שפה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laps 30 mm under the upper skin at 8% chord.": {
+  "t": "חופף 30 mm מתחת לעור העליון ב-8% מהמיתר.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laser / waterjet cutting service": {
+  "t": "שירות חיתוך לייזר / סילון מים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lay the spars on a flat table, webs vertical, 3.6 m apart for the two wings.": {
+  "t": "הניחו את הקורות על שולחן שטוח, דפנות אנכיות, 3.6 m זו מזו לשתי הכנפיים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Leans on the rear arch.": {
+  "t": "נשען על הקשת האחורית.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Leave the protective film on. Drill the polycarbonate with plastic bits, holes 6 mm for M4 screws so it can expand.": {
+  "t": "השאירו את הניילון המגן. קדחו את הפוליקרבונט במקדחים לפלסטיק, חורים של 6 mm לברגי M4 כדי שיוכל להתרחב.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Left door front edge": {
+  "t": "השפה הקדמית של הדלת השמאלית",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Licence": {
+  "t": "רישיון",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift strut (main) 1.75 x 0.065 in": {
+  "t": "תמוכת עילוי (ראשית) 1.75 x 0.065 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift strut (rear) 1.75 x 0.065 in": {
+  "t": "תמוכת עילוי (אחורית) 1.75 x 0.065 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift strut, tension": {
+  "t": "תמוכת עילוי, מתיחה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift strut, −2 g buckling (with jury strut)": {
+  "t": "תמוכת עילוי, קריסה ב-−2 g (עם תמוכת עזר)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift struts and jury struts": {
+  "t": "תמוכות עילוי ותמוכות עזר",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lipped channels: four 90° brake bends each, two nested layers": {
+  "t": "תעלות עם שפתיים: ארבעה כיפופי 90° במכופף בכל אחת, שתי שכבות מקוננות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Load each linkage part to 1.5 × the BCAR Section S pilot loads at the stick and pedals.": {
+  "t": "העמיסו כל חלק במנגנון ל-1.5 × עומסי הטייס של BCAR Section S במוט ובדוושות.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Low-speed taxi, then fast taxi with the tail up, on the intended test field.": {
+  "t": "הסעה במהירות נמוכה, ואז הסעה מהירה עם זנב מורם, בשדה הניסוי המיועד.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower cowl (box-pleat pan to the cabin floor line)": {
+  "t": "מכסה מנוע תחתון (מגש עם קפלי קופסה עד קו רצפת התא)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower skin, bay 1": {
+  "t": "עור תחתון, תא 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower skin, bay 2": {
+  "t": "עור תחתון, תא 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower skin, bay 3": {
+  "t": "עור תחתון, תא 3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower skins": {
+  "t": "עורות תחתונים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "M4 pan screw, nylon washer, M4 Nyloc nut, 6 mm oversize hole in polycarbonate": {
+  "t": "בורג M4 עם ראש מעוגל, דסקית ניילון, אום M4 Nyloc, חור מורחב של 6 mm בפוליקרבונט",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "MEK / cleaner, Scotch-Brite, gloves": {
+  "t": "MEK / חומר ניקוי, Scotch-Brite, כפפות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear leg x2": {
+  "t": "רגל כן ראשי x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear leg x2: 6061-T6 bar 75 x 16 mm": {
+  "t": "רגל כן ראשי x2: פס 6061-T6 75 x 16 mm",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear legs through floor doubler, 2 per leg": {
+  "t": "רגלי הכן הראשי דרך מגבר הרצפה, 2 לכל רגל",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear spring leg (6061-T6 bar)": {
+  "t": "רגל קפיצית של הכן הראשי (פס 6061-T6)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear: 2 spring legs + axles": {
+  "t": "כן ראשי: 2 רגליים קפיציות + צירים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main lift strut x2": {
+  "t": "תמוכת עילוי ראשית x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "t": "תמוכת עילוי ראשית x2: 6061-T6 1.75 x 0.065 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main rib": {
+  "t": "צלע ראשית",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main rib, root/tip": {
+  "t": "צלע ראשית, שורש/קצה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main spar (lipped C, opens aft)": {
+  "t": "קורה ראשית (C עם שפתיים, פתוחה לאחור)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main spar section": {
+  "t": "חתך הקורה הראשית",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main spar web shear, limit": {
+  "t": "גזירה בדופן הקורה הראשית, גבולי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main spar: lipped C, three layers of 0.020 in": {
+  "t": "קורה ראשית: C עם שפתיים, שלוש שכבות של 0.020 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main wheel: 21 x 8.00-6 tundra tyre at 10-12 psi": {
+  "t": "גלגל ראשי: צמיג tundra 21 x 8.00-6 ב-10-12 psi",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main wheels": {
+  "t": "גלגלים ראשיים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Margin": {
+  "t": "שולי ביטחון",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mark fold lines on the marked face: red dashed = valley, blue dash-dot = mountain. Use a fine felt marker, never a scribe (Wanttaja: scribe lines start cracks).": {
+  "t": "סמנו את קווי הקיפול בצד המסומן: אדום מקווקו = עמק, כחול קו-נקודה = הר. השתמשו בטוש דק, לעולם לא במחט שרטוט (Wanttaja: שריטות מתחילות סדקים).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mark folds with felt pen, never a scribe": {
+  "t": "סמנו קפלים בטוש, לעולם לא במחט שרטוט",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mark the folds: red dashed is a valley, blue dash-dot is a mountain. Felt marker on the marked face only, never a scribe.": {
+  "t": "סמנו את הקפלים: אדום מקווקו הוא עמק, כחול קו-נקודה הוא הר. טוש רק בצד המסומן, לעולם לא מחט שרטוט.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mass": {
+  "t": "מסה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mass balance weights": {
+  "t": "משקולות איזון מסה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mass-balance each aileron with lead on an arm ahead of the hinge until it hangs level, before it goes on the aircraft.": {
+  "t": "אזנו כל מאזנת בעופרת על זרוע לפני הציר עד שהיא תלויה מאוזנת, לפני שהיא מותקנת על המטוס.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mass-balance horn at outboard end.": {
+  "t": "קרן איזון מסה בקצה החיצוני.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mean strength at or above the value used in design, scatter under 10 %.": {
+  "t": "חוזק ממוצע לפחות הערך ששימש בתכנון, פיזור מתחת ל-10 %.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Measure gravity flow from each tank, with the aircraft at its steepest climb attitude plus margin.": {
+  "t": "מדדו את זרימת הכובד מכל מכל, כשהמטוס בתנוחת הטיפוס התלולה ביותר ועוד מרווח.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Measure twist under a known torque at the tip rib.": {
+  "t": "מדדו פיתול תחת מומנט ידוע בצלע הקצה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Measured climb, cruise and glide recorded against the predictions on the numbers tab.": {
+  "t": "טיפוס, שיוט וגלישה שנמדדו, נרשמים מול התחזיות בלשונית המספרים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Measured values replace estimates in aircraft.yaml, and the build manual is revised.": {
+  "t": "הערכים שנמדדו מחליפים את ההערכות ב-aircraft.yaml, ומדריך הבנייה מתעדכן.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Member": {
+  "t": "איבר",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Method": {
+  "t": "שיטה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mid CG, calm air, long field, circuit height only, an experienced test pilot.": {
+  "t": "מרכז כובד אמצעי, אוויר רגוע, שדה ארוך, רק גובה הקפה, טייס ניסוי מנוסה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Month 10": {
+  "t": "חודש 10",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Month 4": {
+  "t": "חודש 4",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Month 5": {
+  "t": "חודש 5",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Months 2–3": {
+  "t": "חודשים 2–3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Months 6–9": {
+  "t": "חודשים 6–9",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Move the CG from forward to aft in steps, checking stick-free stability at each.": {
+  "t": "הזיזו את מרכז הכובד מקדימה לאחור בשלבים, ובכל אחד בדקו יציבות עם מוט משוחרר.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nicopress sleeve + thimble (1/8 in cable)": {
+  "t": "שרוול Nicopress + עין כבל (כבל 1/8 in)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nicopress tool + cable cutter": {
+  "t": "כלי Nicopress + חותך כבלים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No cracks, and springback within 2° of prediction.": {
+  "t": "אין סדקים, וההחזרה הקפיצית בטווח 2° מהתחזית.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No flutter or buzz up to {speed:Vne}.": {
+  "t": "אין רפרוף או זמזום עד {speed:Vne}.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No permanent set after unloading. Deflection within 15 % of prediction.": {
+  "t": "אין עיוות קבוע אחרי פריקה. שקיעה בטווח 15 % מהתחזית.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No permanent set at limit, no failure at ultimate.": {
+  "t": "אין עיוות קבוע בעומס הגבולי, אין כשל בעומס השבירה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No physical part has been cut. Fold one rib and one spar offcut first to check the bend deduction.": {
+  "t": "עוד לא נחתך שום חלק פיזי. קפלו קודם שארית של צלע ושל קורה כדי לבדוק את ניכוי הכיפוף.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No yield at limit load, no failure at ultimate.": {
+  "t": "אין כניעה בעומס הגבולי, אין כשל בעומס השבירה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose bowl, chin (3 converging facets)": {
+  "t": "קערת אף, סנטר (3 פאות מתכנסות)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose bowl, upper (3 converging facets)": {
+  "t": "קערת אף, עליונה (3 פאות מתכנסות)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose rib": {
+  "t": "צלע אף",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose rib, root/tip": {
+  "t": "צלע אף, שורש/קצה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose ring (prop-shaft hole + two cooling inlets)": {
+  "t": "טבעת אף (חור לציר המדחף + שתי כניסות קירור)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose rolled over 75 mm tube": {
+  "t": "אף מגולגל על צינור 75 mm",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose zone is rolled over a 75 mm tube; aft creases are soft brake hits (2-6 deg).": {
+  "t": "אזור האף מגולגל על צינור 75 mm; הקפלים האחוריים הם לחיצות קלות במכופף (2-6 deg).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Not analysed yet": {
+  "t": "עוד לא נותח",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Not proven": {
+  "t": "לא הוכח",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Notes": {
+  "t": "הערות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "One 90 degree flange stiffens the free edge. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "אוגן אחד של 90 מעלות מקשיח את השפה החופשית. מרובד: 2 שכבות מקוננות של 0.020 in, מקופלות בנפרד ומסומררות כאחת; קצצו 0.5 mm לכל שכבה פנימית משולי האוגנים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "One hour of progressive ground running, with cylinder head and exhaust temperatures logged.": {
+  "t": "שעה אחת של הרצה הדרגתית על הקרקע, עם רישום טמפרטורות ראשי הצילינדרים והפליטה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "One-wrap skins, sharp trailing edges": {
+  "t": "עורות בעטיפה אחת, שפות זרימה חדות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Open-source aircraft": {
+  "t": "מטוס בקוד פתוח",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Order as 12 ft strip. Lips turn the free flange edges into supported edges (k 0.43 -> ~4). Laminated: 3 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "הזמינו כרצועה של 12 ft. השפתיים הופכות את שולי האוגנים החופשיים לשוליים נתמכים (k 0.43 -> ~4). מרובד: 3 שכבות מקוננות של 0.020 in, מקופלות בנפרד ומסומררות כאחת; קצצו 0.5 mm לכל שכבה פנימית משולי האוגנים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Paint": {
+  "t": "צבע",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Paint, then weigh on three scales in the level attitude. Work out the empty CG and check every loading case falls inside the design range in DESIGN_REPORT.md (about 28–33 % MAC).": {
+  "t": "צבעו, ואז שקלו על שלושה משקלים בתנוחה מאוזנת. חשבו את מרכז הכובד הריק ובדקו שכל מקרה העמסה נופל בתוך טווח התכנון ב-DESIGN_REPORT.md (כ-28–33 % MAC).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Panel: glare-shield fold 90°, side tabs 90°": {
+  "t": "לוח: קפל מגן סנוור 90°, לשוניות צד 90°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Parts": {
+  "t": "חלקים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pass when": {
+  "t": "עובר כאשר",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Performance": {
+  "t": "ביצועים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Phases": {
+  "t": "שלבים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Piano hinge": {
+  "t": "ציר פסנתר",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Piano hinge MS20001 + door latch": {
+  "t": "ציר פסנתר MS20001 + תפס דלת",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pilot": {
+  "t": "טייס",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pilot (95th pct, for scale)": {
+  "t": "טייס (אחוזון 95, לקנה מידה)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pilot, fuel and baggage share one budget: maximum take-off mass minus empty mass. Both tanks are in the cabin, never in the wings: an 18 L header tank behind the firewall and a 20 L aux tank high behind the seat, both gravity-fed through one selector. A light pilot can fill both. A heavy pilot gets the header tank or less. Burn the aux tank first.": {
+  "t": "הטייס, הדלק והמטען חולקים תקציב אחד: מסת ההמראה המרבית פחות המסה הריקה. שני המכלים בתא, לעולם לא בכנפיים: מכל ראשי של 18 L מאחורי קיר האש ומכל עזר של 20 L גבוה מאחורי המושב, שניהם מוזנים בכוח הכובד דרך בורר אחד. טייס קל יכול למלא את שניהם. טייס כבד מקבל את המכל הראשי או פחות. שרפו קודם את מכל העזר.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pitot tube (left wing, ahead of the LE)": {
+  "t": "צינור פיטו (כנף שמאל, לפני שפת ההתקפה)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pitot-static: pitot tube under the left wing at the 1.2 m rib. Run its line inside the wing ahead of the main spar to the root and down the A-pillar to the ASI. A static port on the left cabin side feeds the altimeter and ASI. Secure everything with Adel clamps every 300 mm.": {
+  "t": "פיטו-סטטי: צינור פיטו מתחת לכנף השמאלית בצלע של 1.2 m. העבירו את הצינור שלו בתוך הכנף לפני הקורה הראשית עד השורש, ומשם במורד עמוד ה-A אל ה-ASI. פתח סטטי בדופן התא השמאלית מזין את מד הגובה ואת ה-ASI. קבעו הכול בחבקי Adel כל 300 mm.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Planar: no forming, drill with plastic-cutting bits, slotted holes for expansion.": {
+  "t": "מישורי: בלי עיצוב, קידוח במקדחים לפלסטיק, חורים מוארכים להתפשטות.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Plastic-cutting drill bits / step drill": {
+  "t": "מקדחים לפלסטיק / מקדח מדרגות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Positive stability at the aft limit; predicted minimum static margin {pct:SM_min}.": {
+  "t": "יציבות חיובית בגבול האחורי; שולי יציבות סטטית מינימליים חזויים {pct:SM_min}.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Press or bolt a 4130 end fork into each tube end. Drill the AN5 pin hole after the final length check on the aircraft.": {
+  "t": "לחצו או הבריגו מזלג קצה מ-4130 לכל קצה צינור. קדחו את חור פין ה-AN5 אחרי בדיקת האורך הסופית על המטוס.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Prime the faying surfaces: Scotch-Brite, wash, etch or alodine, then epoxy primer. Wear gloves (Wanttaja: finger oils stop primer sticking).": {
+  "t": "שימו פריימר על המשטחים הנושקים: Scotch-Brite, שטיפה, צריבה או alodine, ואז פריימר אפוקסי. לבשו כפפות (Wanttaja: שומן האצבעות מונע מהפריימר להיצמד).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Primer part: two nested layers folded on the brake and riveted as one. Glue carpet on the web. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "חלק מבוא: שתי שכבות מקוננות מקופלות במכופף ומסומררות כאחת. הדביקו שטיח על הדופן. מרובד: 2 שכבות מקוננות של 0.020 in, מקופלות בנפרד ומסומררות כאחת; קצצו 0.5 mm לכל שכבה פנימית משולי האוגנים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Primer: build the wing stands": {
+  "t": "מבוא: בנו את מעמדי הכנפיים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Proof-load the wing upside down with sandbags to +4 g limit load, spread spanwise. It must show no permanent set.": {
+  "t": "העמיסו את הכנף הפוכה בשקי חול לעומס הגבולי של +4 g, מפוזר לאורך המוטה. אסור שיופיע עיוות קבוע.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Prop drive hub (flange)": {
+  "t": "טבור הנעת המדחף (אוגן)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Propeller 54 in wood + hub": {
+  "t": "מדחף עץ 54 in + טבור",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Propeller 54 x 24 in, laminated wood (download the model)": {
+  "t": "מדחף 54 x 24 in, עץ מרובד (הורידו את המודל)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Propeller hub, 6": {
+  "t": "טבור מדחף, 6",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Publish": {
+  "t": "פרסום",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pull a complete strut with its clevises and tangs to ultimate tension, then buckle a second at −2 g with the jury strut fitted.": {
+  "t": "משכו תמוכה שלמה עם המזלגות והלשוניות שלה עד מתיחת השבירה, ואז הקריסו תמוכה שנייה ב-−2 g עם תמוכת עזר מותקנת.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Push the AN5 root pins through. Fit castellated nuts and cotter pins.": {
+  "t": "דחפו פנימה את פיני השורש AN5. התקינו אומי כתר ופיני שגם.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Put in the aft soft creases first.": {
+  "t": "עשו קודם את הקפלים הרכים האחוריים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Put in the soft creases with a light brake hit, or by hand over a straight-edge.": {
+  "t": "עשו את הקפלים הרכים בלחיצה קלה במכופף, או ביד מעל סרגל ישר.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Qualification": {
+  "t": "הסמכה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Quarter-turn camlock (Dzus) + receptacle": {
+  "t": "סוגר Camlock של רבע סיבוב (Dzus) + בית",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "RADIO instrument": {
+  "t": "מכשיר RADIO",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Range": {
+  "t": "טווח",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ream the pin holes to 5/16 in and the bolt holes to 1/4 in and 3/16 in, through both ears at once so they line up.": {
+  "t": "הרחיבו את חורי הפינים ל-5/16 in ואת חורי הברגים ל-1/4 in ול-3/16 in, דרך שתי האוזניים יחד כדי שיהיו בקו.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear arch (rear-spar frame)": {
+  "t": "קשת אחורית (מסגרת הקורה האחורית)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear lift strut x2": {
+  "t": "תמוכת עילוי אחורית x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "t": "תמוכת עילוי אחורית x2: 6061-T6 1.75 x 0.065 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear spar (lipped C, opens forward)": {
+  "t": "קורה אחורית (C עם שפתיים, פתוחה קדימה)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear spar section": {
+  "t": "חתך הקורה האחורית",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear spar: lipped C, two layers of 0.020 in": {
+  "t": "קורה אחורית: C עם שפתיים, שתי שכבות של 0.020 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Reassemble on Clecos, then pull the rivets from the middle of each joint outward.": {
+  "t": "הרכיבו שוב על Clecos, ואז משכו את המסמרות מאמצע כל מחבר החוצה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ribs, skin buckling, fittings, landing gear, tail loads, the engine mount and flutter. Mass-balance every control surface.": {
+  "t": "צלעות, קריסת עור, אביזרים, כן נסע, עומסי זנב, תושבת המנוע והרפרוף. אזנו מסה בכל משטח היגוי.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Right side: fixed window over the door opening. Left side: the same blank on a piano hinge at its front edge, with a latch at the back.": {
+  "t": "ימין: חלון קבוע מעל פתח הדלת. שמאל: אותו גזיר על ציר פסנתר בשפתו הקדמית, עם תפס מאחור.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivet joints": {
+  "t": "חיבורי מסמרות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivet strength in thin sheet": {
+  "t": "חוזק מסמרות בפח דק",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivet the piano hinge to the spar top, then hang the surface on the rear spar.": {
+  "t": "סמררו את ציר הפסנתר לראש הקורה, ואז תלו את המשטח על הקורה האחורית.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivet: pull 1/8 in blind rivets, working from the middle of each row outwards and swapping clecos for rivets one at a time. A good rivet sits flat, with no gap under the head. Drill out any bad one with a #30 bit and try again: practise this on purpose at least once.": {
+  "t": "סמרור: משכו מסמרות עיוורות 1/8 in מאמצע כל שורה החוצה, והחליפו Clecos במסמרות אחד אחד. מסמרת טובה יושבת שטוח, בלי רווח מתחת לראש. קדחו החוצה כל מסמרת גרועה במקדח #30 ונסו שוב: תרגלו את זה בכוונה לפחות פעם אחת.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop, rivets from the main spar outward.": {
+  "t": "לולאת סמרור, מסמרות מהקורה הראשית החוצה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop, then join the tailcone to the cabin at bulkhead 1.": {
+  "t": "לולאת סמרור, ואז חברו את חרוט הזנב לתא במחיצה 1.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop.": {
+  "t": "לולאת סמרור.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop. The firewall takes stainless or Monel rivets: aluminium melts in a fire.": {
+  "t": "לולאת סמרור. קיר האש מקבל מסמרות נירוסטה או Monel: אלומיניום נמס באש.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop: final-drill #30, take apart, deburr, prime, Cleco, rivet.": {
+  "t": "לולאת סמרור: קידוח סופי #30, פירוק, הסרת גרדים, פריימר, Cleco, סמרור.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivets": {
+  "t": "מסמרות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivets to the rear-spar flanges. Closes the bay behind the centre-section rear spar.": {
+  "t": "מסומרר לאוגני הקורה האחורית. סוגר את החלל שמאחורי הקורה האחורית של החלק המרכזי.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rod ends": {
+  "t": "ראשי מוט",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Roll each skin's leading edge, then wrap it round its ribs and spar. Back-drill and use the riveting loop.": {
+  "t": "גלגלו את שפת ההתקפה של כל עור, ואז עטפו אותו סביב הצלעות והקורה שלו. קדחו לאחור והשתמשו בלולאת הסמרור.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Roll the eight saddle-clamp halves round a 45 mm bar, then bolt a pair round each strut at mid-length (2 x AN3 through the ears).": {
+  "t": "גלגלו את שמונת חצאי חבקי האוכף סביב מוט של 45 mm, ואז הבריגו זוג סביב כל תמוכה באמצע אורכה (2 x AN3 דרך האוזניים).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Roll the green zone: lay the skin over a 75 mm tube and pull it round with a strap, a little at a time. Don't crease it.": {
+  "t": "גלגלו את האזור הירוק: הניחו את העור על צינור של 75 mm ומשכו אותו סביבו ברצועה, מעט בכל פעם. אל תקמטו אותו.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Root and tip ribs have their flanges facing into the panel.": {
+  "t": "לצלעות השורש והקצה האוגנים פונים אל תוך הלוח.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder and elevator cables, 1 per cable, in the cabin where you can inspect them": {
+  "t": "כבלי הגה כיוון והגה, 1 לכל כבל, בתא היכן שאפשר לבדוק אותם",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder cable x2": {
+  "t": "כבל הגה כיוון x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder cable x2: 1/8 in 7x19 galvanised": {
+  "t": "כבל הגה כיוון x2: 1/8 in 7x19 מגולוון",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder cables: pedal horn, then a pulley at the pedal, along the floor at y = ±200 mm through fairleads on both arch feet, a pulley at bulkhead 1, then one straight line each to the tail post. Because the tailcone is a frustum, a straight run between interior points never touches the skin, so no cable needs a mid-cone pulley.": {
+  "t": "כבלי הגה הכיוון: קרן הדוושה, אחר כך גלגלת בדוושה, לאורך הרצפה ב-y = ±200 mm דרך מובילים בשתי כפות הקשתות, גלגלת במחיצה 1, ואז כל אחד בקו ישר אחד אל עמוד הזנב. מכיוון שחרוט הזנב הוא פירמידה קטומה, קו ישר בין נקודות פנימיות לעולם לא נוגע בעור, כך שאף כבל לא צריך גלגלת באמצע החרוט.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "t": "קרן הגה כיוון, 4130 0.063in (שטוחה, כבל בכל צד)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder pedals": {
+  "t": "דוושות הגה כיוון",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder skin": {
+  "t": "עור הגה הכיוון",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder spar": {
+  "t": "קורת הגה הכיוון",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-BM Stand beam (lipped C, saddle on top)": {
+  "t": "S-BM קורת מעמד (C עם שפתיים, אוכף למעלה)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-FT Stand foot (lipped C, opens up)": {
+  "t": "S-FT רגלית מעמד (C עם שפתיים, פתוחה למעלה)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-GF Stand foot gusset (flat)": {
+  "t": "S-GF פלטת רגלית מעמד (שטוחה)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-GT Stand top gusset (flanged hypotenuse)": {
+  "t": "S-GT פלטה עליונה של מעמד (יתר עם אוגן)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-LG Stand leg (lipped C)": {
+  "t": "S-LG רגל מעמד (C עם שפתיים)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "SSDR means no airworthiness approval is required, so all the testing is yours to do.": {
+  "t": "SSDR פירושו שלא נדרש אישור כשירות אווירית, כך שכל הניסויים הם באחריותכם.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Saddle clamps: rolled half-shells": {
+  "t": "חבקי אוכף: חצאי קליפה מגולגלים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Saddle-clamp ears (one also carries the jury-strut fork), 2 per clamp; Jury strut top, through the jury clevis": {
+  "t": "אוזני חבק האוכף (אחת נושאת גם את מזלג תמוכת העזר), 2 לכל חבק; ראש תמוכת העזר, דרך המזלג שלה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Safety wire": {
+  "t": "חוט אבטחה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Same blank both sides. 20 mm lap all round. Left one hangs on a piano hinge at its front edge.": {
+  "t": "אותו גזיר בשני הצדדים. חפיפה של 20 mm מסביב. השמאלי תלוי על ציר פסנתר בשפתו הקדמית.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Same blank for both flaps and both ailerons: modular-origami units.": {
+  "t": "אותו גזיר לשני המדפים ולשתי המאזנות: יחידות אוריגמי מודולריות.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Sandbags and tape measure (proof load)": {
+  "t": "שקי חול וסרט מדידה (העמסת הוכחה)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Sawtooth climbs, level speeds and glides.": {
+  "t": "טיפוסי שן מסור, מהירויות טיסה ישרה וגלישות.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Scotch-Brite, etch/alodine, epoxy primer, spray kit, gloves": {
+  "t": "Scotch-Brite, צריבה/alodine, פריימר אפוקסי, ערכת ריסוס, כפפות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Seat (pan + back, one sheet)": {
+  "t": "מושב (משטח + גב, יריעה אחת)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Seat cushion + 4-pt harness": {
+  "t": "כרית מושב + רתמת 4 נקודות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Select a row to see where that case sits.": {
+  "t": "בחרו שורה כדי לראות היכן נמצא המקרה הזה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Send the nest DXFs to a laser or waterjet service, or cut on a CNC router. Bolt holes come out 0.5 mm undersize; ream them later.": {
+  "t": "שלחו את קובצי ה-DXF של גיליונות החיתוך לשירות לייזר או סילון מים, או חתכו בנתב CNC. חורי הברגים יוצאים קטנים ב-0.5 mm; הרחיבו אותם אחר כך.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Set dihedral to 1.5° and wash-out to 0° with a digital level on the root and tip ribs. Then pin the struts on: AN5, castellated nut, cotter pin.": {
+  "t": "קבעו זווית דו-פנית של 1.5° ופיתול 0° עם פלס דיגיטלי על צלעות השורש והקצה. אחר כך חברו את התמוכות בפינים: AN5, אום כתר, פין שגם.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Set the brake nose radius to 0.8 mm, about 1.6 times the 0.51 mm sheet (Table 5-2, 'normal' radius). Never tighter.": {
+  "t": "קבעו את רדיוס האף של המכופף ל-0.8 mm, כ-1.6 פעמים יריעת ה-0.51 mm (Table 5-2, רדיוס 'רגיל'). לעולם לא הדוק יותר.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Set the travels: aileron +20/-15°, elevator +25/-20°, rudder ±25°, flaps 0/20°. Fit the stops.": {
+  "t": "קבעו את המהלכים: מאזנת +20/-15°, הגה +25/-20°, הגה כיוון ±25°, מדפים 0/20°. התקינו את העוצרים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Single-lap shear and pull-through on one and two layers of 0.51 mm sheet with 3.2 mm blind rivets, 10 of each.": {
+  "t": "גזירה בחפיפה יחידה ומשיכה-דרך על שכבה אחת ושתיים של יריעת 0.51 mm עם מסמרות עיוורות של 3.2 mm, 10 מכל סוג.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Skin joints lap on a rib: the outboard skin goes under the inboard one.": {
+  "t": "מחברי העור חופפים על צלע: העור החיצוני נכנס מתחת לפנימי.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Slide the C-spar in and Cleco it through the flanges. Riveting loop.": {
+  "t": "החליקו את קורת ה-C פנימה וחברו ב-Cleco דרך האוגנים. לולאת סמרור.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Soft creases 2–6°": {
+  "t": "קפלים רכים 2–6°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Source": {
+  "t": "מקור",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Span / area": {
+  "t": "מוטה / שטח",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spanners, sockets, inch-pound torque wrench": {
+  "t": "מפתחות, בוקסות, מפתח מומנט באינץ'-ליברות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spar strength": {
+  "t": "חוזק הקורה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spar-root pins through tang pair + arch clevis": {
+  "t": "פיני שורש הקורה דרך זוג הלשוניות + מזלג הקשת",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "t": "לשונית שורש קורה, 4130 0.063in (שטוחה, זוגות משני צדי הדופן)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Speed envelope": {
+  "t": "מעטפת מהירויות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spinner": {
+  "t": "חרוט מדחף",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stabiliser nose rib": {
+  "t": "צלע אף של המייצב",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "t": "צלעות שורש המייצב אל מגברי הצד של חרוט הזנב, 4 בכל צד; קורת הסנפיר לעמוד הזנב, 3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stabiliser skin (one wrap)": {
+  "t": "עור המייצב (עטיפה אחת)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stabiliser spar": {
+  "t": "קורת המייצב",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stability across the CG range": {
+  "t": "יציבות לאורך טווח מרכז הכובד",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stall speed and handling": {
+  "t": "מהירות הזדקרות והתנהגות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stall speeds": {
+  "t": "מהירויות הזדקרות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stall, flaps 20°": {
+  "t": "הזדקרות, מדפים 20°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand beam (lipped C, saddle on top)": {
+  "t": "קורת מעמד (C עם שפתיים, אוכף למעלה)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand foot (lipped C, opens up)": {
+  "t": "רגלית מעמד (C עם שפתיים, פתוחה למעלה)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand foot gusset (flat)": {
+  "t": "פלטת רגלית מעמד (שטוחה)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand leg (lipped C)": {
+  "t": "רגל מעמד (C עם שפתיים)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand the arches and firewall on the floor tray, square and plumb. Their stations are 420 mm and 1008 mm aft of the wing LE, and the firewall is at -650 mm.": {
+  "t": "העמידו את הקשתות ואת קיר האש על מגש הרצפה, בזווית ישרה ובאנך. התחנות שלהן הן 420 mm ו-1008 mm מאחורי שפת ההתקפה של הכנף, וקיר האש ב--650 mm.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand top gusset (flanged hypotenuse)": {
+  "t": "פלטה עליונה של מעמד (יתר עם אוגן)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Static load to the Section S forward, side and vertical limit loads, then ultimate.": {
+  "t": "עומס סטטי עד העומסים הגבוליים של Section S קדימה, לצד ואנכית, ואז עומס שבירה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Static margin": {
+  "t": "שולי יציבות סטטית",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Static port": {
+  "t": "פתח סטטי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Status": {
+  "t": "מצב",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Step": {
+  "t": "שלב",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stick pivot and torque-tube bearings": {
+  "t": "ציר המוט ומיסבי צינור הפיתול",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Straight tracking, effective brakes and rudder, no shimmy.": {
+  "t": "נסיעה ישרה, בלמים והגה כיוון יעילים, בלי רטט.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "String line, digital level, plumb bob": {
+  "t": "חוט, פלס דיגיטלי, משקולת אנך",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "String-line the spars and check the ribs are square to them. Measure diagonals across each bay; they should match within 1 mm.": {
+  "t": "מתחו חוט לאורך הקורות ובדקו שהצלעות ניצבות להן. מדדו את האלכסונים של כל תא; הם צריכים להתאים בטווח 1 mm.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Structure": {
+  "t": "מבנה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut and fitting strength": {
+  "t": "חוזק התמוכה והאביזרים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut and fittings": {
+  "t": "תמוכה ואביזרים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut end fork (4130)": {
+  "t": "מזלג קצה תמוכה (4130)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut end forks": {
+  "t": "מזלגות קצה תמוכות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut ends, both ends of 4 struts": {
+  "t": "קצות תמוכות, שני הקצוות של 4 תמוכות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut fairings": {
+  "t": "כיסויי תמוכות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Support each tip on a trestle at 1.5° dihedral until the struts are on.": {
+  "t": "תמכו כל קצה כנף על חמור בזווית דו-פנית של 1.5° עד שהתמוכות מותקנות.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Systems fit-out": {
+  "t": "התקנת מערכות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-EK Elevator skin": {
+  "t": "T-EK עור ההגה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-ES Elevator spar": {
+  "t": "T-ES קורת ההגה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-FK Fin skin (one wrap)": {
+  "t": "T-FK עור הסנפיר (עטיפה אחת)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-FR Fin nose rib": {
+  "t": "T-FR צלע אף של הסנפיר",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-FS Fin spar": {
+  "t": "T-FS קורת הסנפיר",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-HK Stabiliser skin (one wrap)": {
+  "t": "T-HK עור המייצב (עטיפה אחת)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-HR Stabiliser nose rib": {
+  "t": "T-HR צלע אף של המייצב",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-HS Stabiliser spar": {
+  "t": "T-HS קורת המייצב",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-RK Rudder skin": {
+  "t": "T-RK עור הגה הכיוון",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-RS Rudder spar": {
+  "t": "T-RS קורת הגה הכיוון",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "TACH instrument": {
+  "t": "מכשיר TACH",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tail surfaces": {
+  "t": "משטחי זנב",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone belly, section 1": {
+  "t": "בטן חרוט הזנב, קטע 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone belly, section 2": {
+  "t": "בטן חרוט הזנב, קטע 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=1150": {
+  "t": "מחיצת חרוט זנב x=1150",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=1948": {
+  "t": "מחיצת חרוט זנב x=1948",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=2745": {
+  "t": "מחיצת חרוט זנב x=2745",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=3542": {
+  "t": "מחיצת חרוט זנב x=3542",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=4340 (tail post)": {
+  "t": "מחיצת חרוט זנב x=4340 (עמוד הזנב)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone frustum": {
+  "t": "חרוט הזנב כפירמידה קטומה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone side, section 1 (x2, mirrored)": {
+  "t": "צד חרוט הזנב, קטע 1 (x2, בשיקוף)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone side, section 2 (x2, mirrored)": {
+  "t": "צד חרוט הזנב, קטע 2 (x2, בשיקוף)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone top, section 1": {
+  "t": "גב חרוט הזנב, קטע 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone top, section 2": {
+  "t": "גב חרוט הזנב, קטע 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel 8 in pneumatic": {
+  "t": "גלגל זנב 8 in פנאומטי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel assembly, 8 in pneumatic": {
+  "t": "מכלול גלגל זנב, 8 in פנאומטי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel fork": {
+  "t": "מזלג גלגל הזנב",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring": {
+  "t": "קפיץ גלגל הזנב",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring (spring steel leaf)": {
+  "t": "קפיץ גלגל הזנב (עלה פלדת קפיצים)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring to tail post, 2": {
+  "t": "קפיץ גלגל הזנב לעמוד הזנב, 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring to tail post, 2; Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "t": "קפיץ גלגל הזנב לעמוד הזנב, 2; צלעות שורש המייצב אל מגברי הצד של חרוט הזנב, 4 בכל צד; קורת הסנפיר לעמוד הזנב, 3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring: spring-steel leaf 45 x 8 mm": {
+  "t": "קפיץ גלגל הזנב: עלה פלדת קפיצים 45 x 8 mm",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel steering spring": {
+  "t": "קפיץ היגוי של גלגל הזנב",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel: a leaf spring, a steerable fork and two springs to the rudder.": {
+  "t": "גלגל זנב: קפיץ עלה, מזלג מתכוונן ושני קפיצים אל הגה הכיוון.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Take the skeleton apart. Deburr every hole on both faces.": {
+  "t": "פרקו את השלד. הסירו גרדים מכל חור בשני הצדדים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Take-off roll": {
+  "t": "ריצת המראה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tank strap angle (L)": {
+  "t": "זווית רצועת המכל (ש)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tank strap angle (R)": {
+  "t": "זווית רצועת המכל (י)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tap or shaker test for wing bending and torsion, aileron, elevator and rudder modes. Confirm the mass balance of every control surface.": {
+  "t": "ניסוי הקשה או מרעיד לאופני הכפיפה והפיתול של הכנף ולאופני המאזנת, ההגה והגה הכיוון. אשרו את איזון המסה של כל משטח היגוי.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Taxi tests": {
+  "t": "ניסויי הסעה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Taxi tests, then fast taxi with the tail up.": {
+  "t": "ניסויי הסעה, ואז הסעה מהירה עם זנב מורם.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Temperatures inside the engine maker's limits, static rpm 2,900–3,100, no abnormal vibration.": {
+  "t": "טמפרטורות בתוך גבולות יצרן המנוע, סל\"ד סטטי 2,900–3,100, בלי רעידות חריגות.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tension each cable with its turnbuckle in the cabin, where you can see it, then safety-wire it. Nicopress every end over a thimble.": {
+  "t": "מתחו כל כבל במותחן שלו בתא, היכן שרואים אותו, ואז אבטחו בחוט. Nicopress לכל קצה מעל עין כבל.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Test": {
+  "t": "ניסוי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Test budget": {
+  "t": "תקציב ניסויים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Test programme": {
+  "t": "תוכנית ניסויים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Test reports": {
+  "t": "דוחות ניסוי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tests": {
+  "t": "ניסויים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The aircraft is code: one file, aircraft.yaml, generates every part, file and figure on this page.": {
+  "t": "המטוס הוא קוד: קובץ אחד, aircraft.yaml, מייצר כל חלק, קובץ ומספר בעמוד הזה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The arches sit at the spar stations, so the wing and strut loads go straight into two folded frames.": {
+  "t": "הקשתות יושבות בתחנות הקורות, כך שעומסי הכנף והתמוכות נכנסים ישר לשתי מסגרות מקופלות.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The cowl and nose bowl are flat blanks too: a box-pleated hood and a frustum, with straight creases throughout.": {
+  "t": "גם מכסה המנוע וקערת האף הם גזירים שטוחים: מכסה עם קפלי קופסה ופירמידה קטומה, עם קפלים ישרים בכל מקום.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The dot is the loading case selected in the table. The shaded band is the full CG range across all cases. The orange line is the neutral point: the CG must stay ahead of it, and the dashed gap between them is the static margin, the aircraft's pitch stability.": {
+  "t": "הנקודה היא מקרה ההעמסה שנבחר בטבלה. הרצועה המוצללת היא טווח מרכז הכובד המלא בכל המקרים. הקו הכתום הוא הנקודה הנייטרלית: מרכז הכובד חייב להישאר לפניה, והרווח המקווקו ביניהם הוא שולי היציבות הסטטית, יציבות העלרוד של המטוס.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The fold geometry. Every panel in the 3D model is produced by refolding the DXF flat pattern, and the rib-to-spar pilot holes are coordinated between parts.": {
+  "t": "גאומטריית הקפלים. כל לוח במודל התלת-ממדי נוצר מקיפול מחדש של הפריסה השטוחה ב-DXF, וחורי ההנחיה צלע-קורה מתואמים בין החלקים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The laminate acting as one section": {
+  "t": "המרובד פועל כחתך אחד",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The lips are what let thin laminated sheet act as a spar. Without them a free cap edge buckles at about 26 MPa. With them the cap reaches yield before it buckles.": {
+  "t": "השפתיים הן מה שמאפשר לפח מרובד דק לפעול כקורה. בלעדיהן שפת חגורה חופשית קורסת בכ-26 MPa. איתן החגורה מגיעה לכניעה לפני שהיא קורסת.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The local-price estimate takes UK VAT off the UK price, converts it at the day's exchange rate, takes about 20 % off US-made hardware, sheet and the engine kit when buying in the US, then adds the country's typical standard VAT, GST or sales tax. It leaves out import duty and shipping. Treat these as rough guides, not quotes.": {
+  "t": "הערכת המחיר המקומי מורידה את המע\"מ הבריטי מהמחיר הבריטי, ממירה בשער היום, מורידה כ-20 % מחומרת החיבור, הפח וערכת המנוע מתוצרת ארה\"ב כשקונים בארה\"ב, ואז מוסיפה את המע\"מ, GST או מס המכירה הסטנדרטי האופייני למדינה. היא לא כוללת מכס ומשלוח. התייחסו לזה כהערכה גסה, לא כהצעת מחיר.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The numbers": {
+  "t": "המספרים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The pilot sits under the wing between the two arches. Header fuel is ahead of the CG and aux fuel is behind it. The aftmost case is a light pilot with empty tanks and baggage, which gives the minimum static margin:": {
+  "t": "הטייס יושב מתחת לכנף בין שתי הקשתות. דלק המכל הראשי נמצא לפני מרכז הכובד ודלק העזר מאחוריו. המקרה האחורי ביותר הוא טייס קל עם מכלים ריקים ומטען, שנותן את שולי היציבות הסטטית המינימליים:",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The rolled nose and the main spar together form a closed D-cell, which carries the wing's twisting loads.": {
+  "t": "האף המגולגל והקורה הראשית יוצרים יחד תא D סגור, שנושא את עומסי הפיתול של הכנף.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The skins carry no holes of their own. Drilling them from the structure means the holes can't be misaligned.": {
+  "t": "לעורות אין חורים משלהם. קידוחם מתוך המבנה פירושו שהחורים לא יכולים להיות מוסטים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The stabiliser and fin use one wrapped skin each.": {
+  "t": "המייצב והסנפיר משתמשים כל אחד בעור עטוף אחד.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "This is the sequence for every riveted joint from here on: Cleco, final-drill, take apart, deburr, prime, reassemble, rivet. Later steps call it the riveting loop.": {
+  "t": "זה הסדר לכל חיבור מסומרר מכאן והלאה: Cleco, קידוח סופי, פירוק, הסרת גרדים, פריימר, הרכבה מחדש, סמרור. השלבים הבאים קוראים לזה לולאת הסמרור.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Three platform scales": {
+  "t": "שלושה משקלי משטח",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Three platform scales in the level attitude.": {
+  "t": "שלושה משקלי משטח בתנוחה מאוזנת.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Through tang pair + spar web at each spar root, 4 per pair": {
+  "t": "דרך זוג הלשוניות + דופן הקורה בכל שורש קורה, 4 לכל זוג",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tools": {
+  "t": "כלים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Top flange = longeron": {
+  "t": "אוגן עליון = קורה אורכית",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Top flange is the longeron: the fold is the stiffener. Openings have 50 mm corner radii (no square corners).": {
+  "t": "האוגן העליון הוא הקורה האורכית: הקפל הוא ההקשחה. לפתחים רדיוסי פינה של 50 mm (בלי פינות ישרות).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Torsional stiffness recorded; it feeds the flutter estimate in phase D.": {
+  "t": "קשיחות הפיתול נרשמת; היא מזינה את הערכת הרפרוף בשלב D.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tube cutter, hacksaw, drill press": {
+  "t": "חותך צינורות, מסור ברזל, מקדחת עמוד",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tube, bar and cable": {
+  "t": "צינור, פס וכבל",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turn it back over. On its three wheels it should sit about 9–11° nose-up.": {
+  "t": "הפכו אותו בחזרה. על שלושת הגלגלים שלו הוא אמור לעמוד עם האף למעלה בכ-9–11°.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turn the fuselage upside down on padded trestles.": {
+  "t": "הפכו את גוף המטוס על חמורים מרופדים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turn the skeleton upside down. Lay bay 1's skin on it, located at the root rib, with the edge 3 mm short of the rear-spar flange edge.": {
+  "t": "הפכו את השלד. הניחו עליו את העור של תא 1, ממוקם לפי צלע השורש, כשהשפה 3 mm לפני שפת האוגן של הקורה האחורית.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turn the wing upright. Wrap the skin from the trailing-edge shroud, over the nose, and under to lap the lower skin at 8 % chord.": {
+  "t": "הפכו את הכנף בחזרה. עטפו את העור מכיסוי שפת הזרימה, מעל האף ומתחתיו כדי לחפוף את העור התחתון ב-8 % מהמיתר.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turnbuckle AN130 class + safety wire": {
+  "t": "מותחן בדרגת AN130 + חוט אבטחה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Two halves round the 1.75 in strut tube; the ear bolts also carry the jury-strut end.": {
+  "t": "שני חצאים סביב צינור התמוכה של 1.75 in; ברגי האוזניים נושאים גם את קצה תמוכת העזר.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Two hat pleats (step-folds) are the floor stiffeners; no separate stringers. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "שני קפלי כובע (קפלי מדרגה) הם המקשיחים של הרצפה; אין מחזקים נפרדים. מרובד: 2 שכבות מקוננות של 0.020 in, מקופלות בנפרד ומסומררות כאחת; קצצו 0.5 mm לכל שכבה פנימית משולי האוגנים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Two plates sandwich each rod end; AN4 pivot, AN3 at each arm.": {
+  "t": "שני לוחות כולאים כל ראש מוט; ציר AN4, AN3 בכל זרוע.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ultimate": {
+  "t": "שבירה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
+  "t": "ב-g שלילי התמוכות נכנסות ללחיצה. תמוכות העזר מקצרות בחצי את האורך הלא-נתמך שלהן, מה שמכפיל פי ארבעה את עומס הקריסה שלהן.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Undercarriage": {
+  "t": "כן נסע",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Units": {
+  "t": "יחידות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Unknowns for the next builder": {
+  "t": "נעלמים לבונה הבא",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper cowl (hood, two 90 deg folds)": {
+  "t": "מכסה מנוע עליון (מכסה, שני קפלים של 90 deg)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper skin, bay 1": {
+  "t": "עור עליון, תא 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper skin, bay 2": {
+  "t": "עור עליון, תא 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper skin, bay 3": {
+  "t": "עור עליון, תא 3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper skins: roll the nose": {
+  "t": "עורות עליונים: גלגלו את האף",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "V-bead pleats + one 165° trailing-edge fold": {
+  "t": "קפלי V + קפל שפת זרימה אחד של 165°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "VHF antenna whip": {
+  "t": "אנטנת שוט VHF",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CL Cabin roof (centre lower skin)": {
+  "t": "W-CL תקרת התא (עור תחתון מרכזי)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CS Aileron / flap skin (identical x4)": {
+  "t": "W-CS עור מאזנת / מדף (זהה x4)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CSS Aileron / flap spar (identical x4)": {
+  "t": "W-CSS קורת מאזנת / מדף (זהה x4)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CT Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "t": "W-CT כיסוי שפת זרימה של החלק המרכזי (קבוע, בין המדפים)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CU Centre-section upper skin": {
+  "t": "W-CU עור עליון של החלק המרכזי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-MR Main rib": {
+  "t": "W-MR צלע ראשית",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-MRe Main rib, root/tip": {
+  "t": "W-MRe צלע ראשית, שורש/קצה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-MS Main spar (lipped C, opens aft)": {
+  "t": "W-MS קורה ראשית (C עם שפתיים, פתוחה לאחור)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-NR Nose rib": {
+  "t": "W-NR צלע אף",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-NRe Nose rib, root/tip": {
+  "t": "W-NRe צלע אף, שורש/קצה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-RS Rear spar (lipped C, opens forward)": {
+  "t": "W-RS קורה אחורית (C עם שפתיים, פתוחה קדימה)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SL1 Lower skin, bay 1": {
+  "t": "W-SL1 עור תחתון, תא 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SL2 Lower skin, bay 2": {
+  "t": "W-SL2 עור תחתון, תא 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SL3 Lower skin, bay 3": {
+  "t": "W-SL3 עור תחתון, תא 3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SU1 Upper skin, bay 1": {
+  "t": "W-SU1 עור עליון, תא 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SU2 Upper skin, bay 2": {
+  "t": "W-SU2 עור עליון, תא 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SU3 Upper skin, bay 3": {
+  "t": "W-SU3 עור עליון, תא 3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Weeks 1–4": {
+  "t": "שבועות 1–4",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Weigh and balance": {
+  "t": "שקילה ואיזון",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Weigh, test, fly-off": {
+  "t": "שקילה, ניסויים, טיסות הוכחה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Weight, not tank size, sets the range": {
+  "t": "המשקל, לא גודל המכל, קובע את הטווח",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "What is known, and what is not": {
+  "t": "מה ידוע, ומה לא",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "What it costs": {
+  "t": "כמה זה עולה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wheel hub": {
+  "t": "טבור גלגל",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wheels, 21 x 8.00-6 tundra tyres, drum brakes x2": {
+  "t": "גלגלים, צמיגי tundra 21 x 8.00-6, בלמי תוף x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Where it goes": {
+  "t": "לאן זה הולך",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Where the balance point sits": {
+  "t": "היכן נמצאת נקודת האיזון",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Whole aircraft": {
+  "t": "המטוס כולו",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Whole-wing strength and stiffness": {
+  "t": "חוזק וקשיחות הכנף כולה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Why start here: the four stands use every skill the aircraft needs, on parts that don't fly. Get it wrong here, not on a spar. You need the stands anyway: the wings are built and parked on them until step 15.": {
+  "t": "למה להתחיל כאן: ארבעת המעמדים דורשים כל מיומנות שהמטוס צריך, על חלקים שלא טסים. טעו כאן, לא בקורה. ממילא תצטרכו את המעמדים: הכנפיים נבנות ומונחות עליהם עד שלב 15.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Will it fly well?": {
+  "t": "האם הוא יטוס טוב?",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Windscreen (cold-bent flat polycarbonate)": {
+  "t": "שמשה קדמית (פוליקרבונט שטוח מכופף בקור)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Windscreen, door and side windows": {
+  "t": "שמשה קדמית, דלת וחלונות צד",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Windscreen, side windows, door": {
+  "t": "שמשה קדמית, חלונות צד, דלת",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Windscreen: flat sheet, bedded on foam tape on the firewall and windscreen flanges.": {
+  "t": "שמשה קדמית: יריעה שטוחה, מונחת על סרט קצף על אוגני קיר האש והשמשה.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing and airframe": {
+  "t": "כנף ומבנה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing lift uses a Schrenk distribution, with each wing pinned at the cabin arch and a V-strut at the 2.4 m rib. Gust loads are below the manoeuvre case. Laminated spars are checked as one section, which assumes rivet pitch close enough to stop the layers buckling separately.": {
+  "t": "עילוי הכנף משתמש בפיזור Schrenk, כשכל כנף מחוברת בציר בקשת התא ותמוכת V בצלע של 2.4 m. עומסי המשבים נמוכים ממקרה התמרון. הקורות המרובדות נבדקות כחתך אחד, מה שמניח פסיעת מסמרות צפופה מספיק כדי שהשכבות לא יקרסו בנפרד.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing loading": {
+  "t": "העמסת כנף",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing proof load": {
+  "t": "העמסת הוכחה לכנף",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing stands (step 0)": {
+  "t": "מעמדי כנפיים (שלב 0)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing torsion": {
+  "t": "פיתול הכנף",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wings on": {
+  "t": "כנפיים מותקנות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "With X-ray on, every run is colour-coded: orange rudder, cyan elevator, purple aileron, green flap, red fuel, white pitot, grey static, yellow 12 V, pink coax.": {
+  "t": "כשרנטגן מופעל, כל מסלול מסומן בצבע: כתום הגה כיוון, טורקיז הגה, סגול מאזנת, ירוק מדף, אדום דלק, לבן פיטו, אפור סטטי, צהוב 12 V, ורוד קואקס.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "With a helper at the tip, lift each wing until its root tangs slide into the arch-top clevises.": {
+  "t": "עם עוזר בקצה הכנף, הרימו כל כנף עד שלשוניות השורש מחליקות לתוך המזלגות שבראשי הקשתות.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Write the part number on every blank. Keep the blanks in step order.": {
+  "t": "כתבו את מספר החלק על כל גזיר. שמרו את הגזירים לפי סדר השלבים.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "X-ray": {
+  "t": "רנטגן",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "arch-foot bellcrank up the rear-arch leg to the arch-top bellcrank": {
+  "t": "מנוף הזווית בכף הקשת במעלה רגל הקשת האחורית אל מנוף הזווית בראש הקשת",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "arch-top bellcrank to outboard bellcrank, through rib lightening holes": {
+  "t": "מנוף הזווית בראש הקשת אל מנוף הזווית החיצוני, דרך חורי ההקלה בצלעות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "aux": {
+  "t": "עזר",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "blanks": {
+  "t": "גזירים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "blanks in all": {
+  "t": "גזירים בסך הכול",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "bolts": {
+  "t": "ברגים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "bought or welded": {
+  "t": "קנוי או מרותך",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "buckling": {
+  "t": "קריסה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "centre torque-tube arm to flap bellcrank": {
+  "t": "זרוע צינור הפיתול המרכזית אל מנוף הזווית של המדף",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "check, then commit": {
+  "t": "בדקו, ואז התחייבו",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "clean": {
+  "t": "נקי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "close up": {
+  "t": "סגירה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "crease pattern": {
+  "t": "דפוס קפלים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "crippling": {
+  "t": "קריסה מקומית",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "each with a pass criterion": {
+  "t": "כל אחד עם קריטריון מעבר",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "fabricated or bought for half-VW": {
+  "t": "מיוצר או קנוי עבור half-VW",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "faying surfaces and interior": {
+  "t": "משטחים נושקים ופנים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "finished": {
+  "t": "גמור",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "flat blanks, one sheet gauge": {
+  "t": "גזירים שטוחים, עובי פח אחד",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "fold the same way": {
+  "t": "קפלו באותה דרך",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "fold to the marks": {
+  "t": "קפלו עד הסימנים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "fuel": {
+  "t": "דלק",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "give it roundness": {
+  "t": "תנו לו עיגול",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "gravity feed": {
+  "t": "הזנה בכוח הכובד",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "gust": {
+  "t": "משב",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "hard": {
+  "t": "חזק",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "header": {
+  "t": "ראשי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "header full": {
+  "t": "ראשי מלא",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "header tank + aux tank, both in the cabin": {
+  "t": "מכל ראשי + מכל עזר, שניהם בתא",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "includes 15 % spares": {
+  "t": "כולל 15 % חלקי חילוף",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "insert: the lock": {
+  "t": "הכנסה: המנעול",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "laminated wood, CC0 model": {
+  "t": "עץ מרובד, מודל CC0",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "light braking": {
+  "t": "בלימה קלה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "make soft creases": {
+  "t": "עשו קפלים רכים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "materials and hire, rough": {
+  "t": "חומרים והשכרה, בגסות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "max take-off mass": {
+  "t": "מסת המראה מרבית",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "mountain": {
+  "t": "הר",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "mountain and valley folds": {
+  "t": "קפלי הר ועמק",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "neutral point": {
+  "t": "נקודה נייטרלית",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "no reserve": {
+  "t": "בלי עתודה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "no sheet blanks": {
+  "t": "בלי גזירי פח",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "none: over MTOW": {
+  "t": "אין: מעל MTOW",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "open out": {
+  "t": "פתחו",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "or a club CNC router": {
+  "t": "או נתב CNC של מועדון",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "part-time, alongside the build": {
+  "t": "במשרה חלקית, לצד הבנייה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "pilot": {
+  "t": "טייס",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "pilot hole": {
+  "t": "חור הנחיה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "pin-to-pin; AN5 each end": {
+  "t": "פין לפין; AN5 בכל קצה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "pleat": {
+  "t": "קפל",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "practice piece": {
+  "t": "חלק תרגול",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "public domain": {
+  "t": "נחלת הכלל",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "radio optional in SSDR": {
+  "t": "רדיו אופציונלי ב-SSDR",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "reference points": {
+  "t": "נקודות ייחוס",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "right angle": {
+  "t": "זווית ישרה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "rivets": {
+  "t": "מסמרות",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "rolled zone": {
+  "t": "אזור מגולגל",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "rough build cost": {
+  "t": "עלות בנייה משוערת",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "same angle": {
+  "t": "אותה זווית",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "same angle: converging creases": {
+  "t": "אותה זווית: קפלים מתכנסים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "same length": {
+  "t": "אותו אורך",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "short grass": {
+  "t": "דשא נמוך",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "static margin": {
+  "t": "שולי יציבות סטטית",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "still air, 75 % power": {
+  "t": "אוויר שקט, הספק 75 %",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "subtotal": {
+  "t": "סכום ביניים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "tool, reused": {
+  "t": "כלי, בשימוש חוזר",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "torque-tube arm to arch-foot bellcrank": {
+  "t": "זרוע צינור הפיתול אל מנוף הזווית בכף הקשת",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "tundra tyres at 10–12 psi, 8 in tailwheel": {
+  "t": "צמיגי tundra ב-10–12 psi, גלגל זנב 8 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "turn it over": {
+  "t": "הפכו אותו",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "unique": {
+  "t": "ייחודיים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "unique blanks": {
+  "t": "גזירים ייחודיים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "useful load": {
+  "t": "מטען שימושי",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "valley": {
+  "t": "עמק",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "via floor pulley + 3 fairleads; Nicopress + thimble each end": {
+  "t": "דרך גלגלת רצפה + 3 מובילים; Nicopress + עין כבל בכל קצה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "via pulley at bulkhead 1 + 3 fairleads; turnbuckle": {
+  "t": "דרך גלגלת במחיצה 1 + 3 מובילים; מותחן",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "wingspan": {
+  "t": "מוטת כנפיים",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "{w} x {h} mm flat, {f} folds, {p} pilot holes": {
+  "t": "{w} x {h} mm פרוס, {f} קפלים, {p} חורי הנחיה",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ }
+}

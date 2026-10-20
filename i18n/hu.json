@@ -1,0 +1,3972 @@
+{
+ "1 m hand bending brake (or hardwood bending blocks in a vise)": {
+  "t": "1 m-es kézi élhajlító (vagy keményfa hajlítópofák satuban)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in Clecos (300) + Cleco pliers": {
+  "t": "1/8 in Cleco (300) + Cleco-fogó",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)": {
+  "t": "1/8 in domború fejű alumínium popszegecs, -1 fogás (1.6 mm-ig)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in domed aluminium blind rivet, grip -2 (1.6-3.2 mm)": {
+  "t": "1/8 in domború fejű alumínium popszegecs, -2 fogás (1.6-3.2 mm)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in hole duplicator": {
+  "t": "1/8 in furatmásoló",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in stainless/Monel blind rivet (fire-zone)": {
+  "t": "1/8 in rozsdamentes/Monel popszegecs (tűzzóna)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "2 m section in four-point bending, loaded in steps to 1.5 × the +4 g limit bending moment.": {
+  "t": "2 m-es szakasz négypontos hajlításban, lépcsőzetesen terhelve a +4 g-s üzemi hajlítónyomaték 1.5 ×-éig.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "2 x AN4 at the tail post": {
+  "t": "2 x AN4 a faroktartó oszlopnál",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "2 x AN5 holes at the top, axle boss at the bottom": {
+  "t": "2 x AN5 furat felül, tengelyagy alul",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "4 x 1.79 m wing, 2 x 1.0 m elevators, 1.24 m rudder, door": {
+  "t": "4 x 1.79 m szárny, 2 x 1.0 m magassági kormány, 1.24 m oldalkormány, ajtó",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "4130 fittings": {
+  "t": "4130-as szerelvények",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "75 mm tube + ratchet strap (nose roller)": {
+  "t": "75 mm-es cső + racsnis heveder (orrhenger)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "; {n} parts x {l} laminated layers": {
+  "t": "; {n} alkatrész x {l} laminált réteg",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A BMAA or LAA inspector reviews the aircraft and the evidence.": {
+  "t": "Egy BMAA vagy LAA ellenőr átvizsgálja a repülőgépet és a bizonyítékokat.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A UK SSDR aircraft needs no airworthiness approval, so all the responsibility is the builder's. Proof-load the wing with sandbags to +4 g and have a BMAA or LAA inspector look at it before it flies. Elsewhere, check your national microlight rules.": {
+  "t": "Egy brit SSDR repülőgépnek nincs szüksége légialkalmassági jóváhagyásra, így minden felelősség az építőé. Terhelje próbaterheléssel a szárnyat homokzsákokkal +4 g-ig, és repülés előtt nézesse meg egy BMAA vagy LAA ellenőrrel. Máshol nézze meg az országos ultrakönnyű szabályokat.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A concept design, published for study. It is not an approved design, and nothing here is airworthiness advice.": {
+  "t": "Koncepcióterv, tanulmányozásra közzétéve. Nem jóváhagyott terv, és semmi sem minősül itt légialkalmassági tanácsnak.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A single-seat microlight anyone can build. Every sheet part is a flat blank with straight folds, cut from one gauge of aluminium.": {
+  "t": "Együléses ultrakönnyű repülőgép, amelyet bárki megépíthet. Minden lemezalkatrész sík kiterítés egyenes hajtásokkal, egyetlen vastagságú alumíniumból vágva.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A4-1 blind rivet": {
+  "t": "A4-1 popszegecs",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A4-2 blind rivet": {
+  "t": "A4-2 popszegecs",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A4-SS blind rivet": {
+  "t": "A4-SS popszegecs",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "ALT instrument": {
+  "t": "ALT műszer",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 bolt (10-32), AN365-1032 nut, AN960-10 washers": {
+  "t": "AN3 csavar (10-32), AN365-1032 anya, AN960-10 alátétek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 bolt, AN365-1032 nut": {
+  "t": "AN3 csavar, AN365-1032 anya",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 bolt, AN365-1032 nut, rod end between the plates": {
+  "t": "AN3 csavar, AN365-1032 anya, gömbcsukló a lemezek között",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 bolt, AN365-1032 nut, through 3/16 in rod end": {
+  "t": "AN3 csavar, AN365-1032 anya, 3/16 in gömbcsuklón át",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 each end": {
+  "t": "AN3 mindkét végén",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt (1/4-28), AN365-428 nut, 2 x AN960-416 washers": {
+  "t": "AN4 csavar (1/4-28), AN365-428 anya, 2 x AN960-416 alátét",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt, AN310-4 + cotter (pivot)": {
+  "t": "AN4 csavar, AN310-4 + sasszeg (forgáspont)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt, AN310-4 castle nut + cotter": {
+  "t": "AN4 csavar, AN310-4 koronás anya + sasszeg",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt, AN365-428 nut": {
+  "t": "AN4 csavar, AN365-428 anya",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt, AN365-428 nut, AN970-4 washer each side": {
+  "t": "AN4 csavar, AN365-428 anya, AN970-4 alátét mindkét oldalon",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 bolt (5/16-24), AN365-524 nut, AN970-5 large washers": {
+  "t": "AN5 csavar (5/16-24), AN365-524 anya, AN970-5 nagy alátétek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 bolt + rubber isolator (Lord-type) + AN365-524": {
+  "t": "AN5 csavar + gumi rezgéscsillapító (Lord-típusú) + AN365-524",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 bolt, AN310-5 castellated nut, MS24665 cotter": {
+  "t": "AN5 csavar, AN310-5 koronás anya, MS24665 sasszeg",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 bolt, AN365-524 nut": {
+  "t": "AN5 csavar, AN365-524 anya",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 clevis pin (bolt), AN310-5 castellated nut, MS24665 cotter": {
+  "t": "AN5 villacsap (csavar), AN310-5 koronás anya, MS24665 sasszeg",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 prop bolt, AN310-5 + safety wire (per prop maker)": {
+  "t": "AN5 légcsavarcsavar, AN310-5 + biztosítódrót (a légcsavargyártó szerint)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "ASI instrument": {
+  "t": "ASI műszer",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "About 10 months": {
+  "t": "Körülbelül 10 hónap",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "t": "Csűrő- / fékszárnykar, 4130 0.063in (egy hajtás az alsó borításra)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron / flap skin (identical x4)": {
+  "t": "Csűrő- / fékszárnyborítás (azonos x4)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron / flap spar (identical x4)": {
+  "t": "Csűrő- / fékszárnyfőtartó (azonos x4)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron and flap horns (K-HN), 1 per surface": {
+  "t": "Csűrő- és fékszárnykarok (K-HN), felületenként 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron link (cabin) x2": {
+  "t": "Csűrő összekötő (kabin) x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron link (cabin) x2: 6061-T6 3/8 x 0.035 in": {
+  "t": "Csűrő összekötő (kabin) x2: 6061-T6 3/8 x 0.035 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron pushrod (arch) x2": {
+  "t": "Csűrő tolórúd (ív) x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron pushrod (arch) x2: 6061-T6 3/8 x 0.035 in": {
+  "t": "Csűrő tolórúd (ív) x2: 6061-T6 3/8 x 0.035 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron pushrod (wing) x2": {
+  "t": "Csűrő tolórúd (szárny) x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron pushrod (wing) x2: 6061-T6 1/2 x 0.035 in": {
+  "t": "Csűrő tolórúd (szárny) x2: 6061-T6 1/2 x 0.035 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron torque tube": {
+  "t": "Csűrő torziós cső",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ailerons: a short link from the torque-tube arm to the arch-foot bellcrank, a pushrod up the rear-arch leg to the arch-top bellcrank, then out through the rib lightening holes to the outboard bellcrank, which drives the K-HN horn on the aileron. Flaps: overhead lever, a short rod to the centre-section torque-tube arms, then pushrods to the flap bellcranks and K-HN horns.": {
+  "t": "Csűrők: egy rövid összekötő a torziós cső karjától az ívtalp könyökemelőjéhez, egy tolórúd fel a hátsó ív lábán az ívtető könyökemelőjéhez, majd kifelé a bordák könnyítő furatain át a külső könyökemelőhöz, amely a csűrőn lévő K-HN kart mozgatja. Fékszárnyak: mennyezeti kar, egy rövid rúd a középszárny torziós csövének karjaihoz, majd tolórudak a fékszárny könyökemelőihez és a K-HN karokhoz.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "All 52 ribs are the same two blanks. The pilot holes locate them, so no jig is needed.": {
+  "t": "Mind az 52 borda ugyanaz a két kiterítés. A vezetőfuratok pozícionálják őket, így nincs szükség sablonra.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "All six faces aim at one vanishing point, so each face is flat and every crease is straight.": {
+  "t": "Mind a hat lap egy enyészpontra mutat, így minden lap sík és minden hajtásvonal egyenes.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "All the glazing is flat sheet: no forming and no moulds.": {
+  "t": "Minden üvegezés sík lemez: nincs formázás és nincs sablon.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Allowable": {
+  "t": "Megengedett",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "An engineering test plan modelled on BCAR Section S practice, not a regulatory approval route. Costs are rough ranges for materials, hire and consumables, not labour, and exclude the airframe itself. The plan lives in qualification.yaml in the repository, and its pass criteria use the live numbers from the build.": {
+  "t": "A BCAR Section S gyakorlatát követő mérnöki vizsgálati terv, nem hatósági jóváhagyási út. A költségek durva tartományok anyagokra, bérlésre és fogyóanyagokra, munkadíj és maga a sárkányszerkezet nélkül. A terv a tárolóban a qualification.yaml fájlban van, és megfelelési kritériumai az építés aktuális számait használják.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Approach the stall in 1 kt steps, flaps up and down, at forward and aft CG.": {
+  "t": "Közelítse az átesést 1 kt-os lépésekben, behúzott és kiengedett fékszárnnyal, elülső és hátsó súlyponthelyzetnél.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Arch over the pilot. Spar-root fittings bolt to its top corners, strut fittings to its feet. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "Ív a pilóta felett. A főtartó tőszerelvényei a felső sarkaihoz, a merevítőszerelvények a talpaihoz csavarozódnak. Laminált: 2 egymásba illesztett 0.020 in réteg, külön hajtva és egyként szegecselve; belső rétegenként vágjon le 0.5 mm-t a peremélekről.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "As above, including the reversed load case at −2 g.": {
+  "t": "Mint fent, a −2 g-s fordított terhelési esettel együtt.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "At least 1.5 × the full-power fuel flow from either tank.": {
+  "t": "Legalább a teljes teljesítményű üzemanyag-fogyasztás 1.5 ×-e bármelyik tartályból.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aux fuel tank 20 L (rotomoulded), high behind the seat, gravity feed": {
+  "t": "Kiegészítő tartály 20 L (rotációs öntésű), magasan az ülés mögött, gravitációs ellátás",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aux tank 20 L behind the seat + selector valve + line": {
+  "t": "Kiegészítő tartály 20 L az ülés mögött + választószelep + vezeték",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aux tank filler (through the left cabin side, behind the door)": {
+  "t": "Kiegészítő tartály betöltője (a kabin bal oldalán át, az ajtó mögött)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aviation snips (straight, left, right)": {
+  "t": "Repülőgépes lemezollók (egyenes, bal, jobb)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Axle bolt AN6 + castellated nut AN310-6 + cotter MS24665": {
+  "t": "Tengelycsavar AN6 + koronás anya AN310-6 + sasszeg MS24665",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Back-drill #40 through the rib and spar-cap pilot holes, using the hole duplicator where you can't reach from inside. Cleco as you go.": {
+  "t": "Fúrjon visszafelé #40-nel a bordák és az övlemezek vezetőfuratain át, a furatmásolóval ott, ahová belülről nem ér el. Haladás közben tegyen be Clecót.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Back-drill through the rib flanges and spar caps. Do the nose last, working from the spar forward.": {
+  "t": "Fúrjon visszafelé a bordaperemeken és az övlemezeken át. Az orrész legyen az utolsó, a főtartótól előre haladva.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Baggage locker behind the seat (net, 5 kg max)": {
+  "t": "Csomagtér az ülés mögött (háló, max. 5 kg)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Battery + radio + antenna": {
+  "t": "Akkumulátor + rádió + antenna",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Battery 12 V LiFePO4 in vented box (under the seat)": {
+  "t": "12 V LiFePO4 akkumulátor szellőzött dobozban (az ülés alatt)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcrank arms in the cabin, 2 per bellcrank; Bellcrank arms in the wings, 2 per bellcrank": {
+  "t": "Könyökemelő karok a kabinban, könyökemelőnként 2; könyökemelő karok a szárnyakban, könyökemelőnként 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "t": "Könyökemelő konzolok a kabinban az ívhez / főtartóhoz, 2-2; könyökemelő konzolok a szárnyakban az ívhez / főtartóhoz, 2-2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcrank pivots in the cabin (K-BC pair through its K-CV bracket); Bellcrank pivots in the wings (K-BC pair through its K-CV bracket)": {
+  "t": "Könyökemelő tengelyek a kabinban (K-BC pár a K-CV konzolon át); könyökemelő tengelyek a szárnyakban (K-BC pár a K-CV konzolon át)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "t": "Könyökemelő lemez, 4130 0.063in (párban, 55 mm-es karok)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcranks: each is a pair of K-BC plates, 16 mm apart, on an AN4 pivot through a folded K-CV bracket. The rod ends sit between the plates on AN3 bolts. Five per side: aileron arch-foot, arch-top and outboard (at the rear spar); flap torque-tube arm and flap bellcrank.": {
+  "t": "Könyökemelők: mindegyik egy pár K-BC lemez 16 mm távolságra, AN4 tengelyen egy hajtott K-CV konzolon át. A gömbcsuklók a lemezek között ülnek AN3 csavarokon. Oldalanként öt: csűrő az ívtalpnál, az ívtetőn és a külső (a hátsó főtartónál); fékszárny torziós csőkar és fékszárny könyökemelő.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bench vise with soft jaws": {
+  "t": "Satu puha pofákkal",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bend deduction": {
+  "t": "Hajlítási levonás",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bend on the brake: each channel is four 90° bends. Bend the two flanges first, then the two lips. Set the nose radius to 1 mm (about 2t for 0.020 in) and overbend about 2° for springback. Check every bend with a square.": {
+  "t": "Hajlítsa az élhajlítón: minden csatorna négy 90°-os hajlítás. Először a két perem, aztán a két szegély. Állítsa az orrsugarat 1 mm-re (kb. 2t 0.020 in-hez), és hajlítsa túl kb. 2°-kal a visszarugózás miatt. Minden hajlítást ellenőrizzen derékszöggel.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bend radius and springback": {
+  "t": "Hajlítási sugár és visszarugózás",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Best climb": {
+  "t": "Legjobb emelkedés",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bill of materials": {
+  "t": "Anyagjegyzék",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Blanks": {
+  "t": "Kiterítések",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Blind-rivet puller (hand or pneumatic)": {
+  "t": "Popszegecshúzó (kézi vagy pneumatikus)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt each main-gear spring leg through the floor doubler under the front arch: 2 x AN5 each, large washers both sides.": {
+  "t": "Csavarozza mindkét főfutó rugós szárát a padlóerősítőn át az első ív alatt: 2-2 x AN5, nagy alátétek mindkét oldalon.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt in the four harness anchors.": {
+  "t": "Csavarozza be a négy hevederrögzítőt.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt on the propeller and spinner. Torque to the prop maker's figure, then safety-wire.": {
+  "t": "Csavarozza fel a légcsavart és a kúpot. Húzza meg a légcsavargyártó nyomatékára, majd biztosítsa dróttal.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the 4130 engine mount through the firewall (4 x AN4) with large washers on the back.": {
+  "t": "Csavarozza a 4130-as motortartót a tűzfalon át (4 x AN4) nagy alátétekkel hátul.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the four root clevises to the arch tops and the four strut-foot clevises to the arch feet with AN4 bolts.": {
+  "t": "Csavarozza a négy tővillát az ívtetőkre és a négy merevítőtalp-villát az ívtalpakra AN4 csavarokkal.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the stabiliser halves to the tailcone side doublers, 4 x AN4 each. Bolt the fin spar to the tail post, 3 x AN4.": {
+  "t": "Csavarozza a vízszintes vezérsík feleit a farokkúp oldalsó erősítőihez, 4-4 x AN4. Csavarozza a függőleges vezérsík főtartóját a faroktartó oszlophoz, 3 x AN4.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the tailwheel spring to the tail post (2 x AN4). Fit the fork and the two steering springs to the rudder horn.": {
+  "t": "Csavarozza a farokkerék rugóját a faroktartó oszlophoz (2 x AN4). Szerelje a villát és a két kormányrugót az oldalkormány karjára.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the tang pairs either side of each spar web at the root (4 x AN3), and the strut-top clevises under the spars at the 2.4 m rib.": {
+  "t": "Csavarozza a fülpárokat minden főtartó gerinclemezének két oldalára a tőnél (4 x AN3), és a merevítő felső villáit a főtartók alá a 2.4 m-es bordánál.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolts to the spar web with 4 x AN3 and reaches inboard past the spar end to the arch-top clevis pin.": {
+  "t": "4 x AN3-mal a főtartó gerinclemezéhez csavarozódik, és befelé a főtartó végén túl az ívtető villacsapjáig ér.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Both sides are the same blank, mirrored. The openings have 50 mm corner radii because square corners start cracks.": {
+  "t": "Mindkét oldal ugyanaz a kiterítés, tükrözve. A nyílásoknak 50 mm-es saroksugara van, mert a szögletes sarkokból repedés indul.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Both tanks, up to MTOW": {
+  "t": "Mindkét tartály, MTOW-ig",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bottom + both chamfers + side flanges from one sheet: converging creases, still developable (frustum).": {
+  "t": "Fenék + mindkét letörés + oldalperemek egy lemezből: összetartó hajtások, még kiteríthető (csonka gúla).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bottom extends between the elevator halves.": {
+  "t": "A fenék a magassági kormány felei közé nyúlik.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bought / fabricated items going on": {
+  "t": "Beépülő vásárolt / gyártott tételek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bought assemblies": {
+  "t": "Vásárolt egységek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Box-pleat hood 45°, nose bowl converging creases": {
+  "t": "Dobozredős motorburkolat 45°, orrtál összetartó hajtásai",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Brake drum": {
+  "t": "Fékdob",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Build each section upside down on a straight edge: bulkheads Clecoed into the belly, then the sides, then the top.": {
+  "t": "Minden szakaszt fejjel lefelé építsen egyenes élen: a válaszfalak Clecóval a hasba, aztán az oldalak, aztán a tető.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Build up towards Vne in 5 kt steps, watching for buzz or flutter at every step.": {
+  "t": "Haladjon a Vne felé 5 kt-os lépésekben, minden lépésnél figyelve a zúgásra vagy flatterre.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "CG range": {
+  "t": "Súlypont-tartomány",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "CHT/EGT instrument": {
+  "t": "CHT/EGT műszer",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "CLmax, drag, propeller efficiency and the neutral point are handbook estimates. Measure stall speed and CG limits in flight test. The 35 kt SSDR stall limit is met with flaps:": {
+  "t": "A CLmax, a légellenállás, a légcsavar hatásfoka és a semleges pont kézikönyvi becslések. Az átesési sebességet és a súlyponthatárokat repülési próbán mérje. A 35 kt-os SSDR átesési határ fékszárnnyal teljesül:",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cabin roof (centre lower skin)": {
+  "t": "Kabintető (középső alsó borítás)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cabin side (x2, mirrored): door/window opening + front window": {
+  "t": "Kabinoldal (x2, tükrözve): ajtó-/ablaknyílás + első ablak",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cabin sides and seat": {
+  "t": "Kabinoldalak és ülés",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Carries flap/aileron hinges and rear strut fitting. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "A fékszárny/csűrő zsanérjait és a hátsó merevítőszerelvényt hordozza. Laminált: 2 egymásba illesztett 0.020 in réteg, külön hajtva és egyként szegecselve; belső rétegenként vágjon le 0.5 mm-t a peremélekről.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Case": {
+  "t": "Eset",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "t": "Középszárny kilépőél-burkolat (rögzített, a fékszárnyak között)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Centre-section upper skin": {
+  "t": "Középszárny felső borítás",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Check stops, free play, friction and cable tension, then load every circuit to the pilot limit loads.": {
+  "t": "Ellenőrizze az ütközőket, holtjátékot, súrlódást és kötélfeszességet, majd terheljen minden kört a pilóta üzemi terheléseire.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Check the cap angle every 500 mm with a square. Sight along the spar for twist.": {
+  "t": "Ellenőrizze az öv szögét 500 mm-enként derékszöggel. Nézzen végig a főtartón csavarodásért.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Check twist by sighting a level across bulkheads 1 and 5. Then join the two sections at bulkhead 3.": {
+  "t": "Ellenőrizze a csavarodást egy vízmértéken át az 1. és 5. válaszfalra nézve. Ezután illessze össze a két szakaszt a 3. válaszfalnál.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clean and prime. Steel fittings rust under paint if they aren't primed.": {
+  "t": "Tisztítsa meg és alapozza. Az acélszerelvények a festék alatt rozsdásodnak, ha nincsenek alapozva.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clecos": {
+  "t": "Clecók",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each": {
+  "t": "Villagerincek az ívtetőkhöz és ívtalpakhoz, villánként 2; merevítő és segédmerevítő felső villái az öveken át, 2-2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each; Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "t": "Villagerincek az ívtetőkhöz és ívtalpakhoz, villánként 2; merevítő és segédmerevítő felső villái az öveken át, 2-2; könyökemelő konzolok a kabinban az ívhez / főtartóhoz, 2-2; könyökemelő konzolok a szárnyakban az ívhez / főtartóhoz, 2-2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clevis, 4130 0.063in (U, two folds)": {
+  "t": "Villa, 4130 0.063in (U, két hajtás)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clevis: two 90° bends at 3t radius": {
+  "t": "Villa: két 90°-os hajlítás 3t sugárral",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Click to explore": {
+  "t": "Kattintson a felfedezéshez",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clip on the strut fairings.": {
+  "t": "Pattintsa fel a merevítőburkolatokat.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Close the bay behind the centre-section rear spar with the W-CT trailing-edge fairing (same wedge fold as the flaps). Do it last, after the flap linkage is rigged and checked.": {
+  "t": "Zárja le a középszárny hátsó főtartója mögötti teret a W-CT kilépőél-burkolattal (ugyanaz az ékhajtás, mint a fékszárnyaknál). Ezt csinálja utoljára, a fékszárny-mechanizmus beállítása és ellenőrzése után.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Closes the control surface; carries hinge and mass-balance arm.": {
+  "t": "Lezárja a kormányfelületet; a zsanért és a tömegkiegyenlítő kart hordozza.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Closes the control surface; carries hinge and mass-balance arm. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "Lezárja a kormányfelületet; a zsanért és a tömegkiegyenlítő kart hordozza. Laminált: 2 egymásba illesztett 0.020 in réteg, külön hajtva és egyként szegecselve; belső rétegenként vágjon le 0.5 mm-t a peremélekről.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Compass (on the glare shield)": {
+  "t": "Iránytű (a tükröződésgátló ernyőn)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Components": {
+  "t": "Alkatrészek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Consumables": {
+  "t": "Fogyóanyagok",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Control stick": {
+  "t": "Botkormány",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Control system": {
+  "t": "Kormányrendszer",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Control-circuit strength": {
+  "t": "Kormánykörök szilárdsága",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Control-system free play": {
+  "t": "Kormányrendszer holtjátéka",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Controllable in all axes with trim available. Engine temperatures stable.": {
+  "t": "Minden tengely körül kormányozható, trimm rendelkezésre áll. A motorhőmérsékletek stabilak.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Controls, instruments and systems": {
+  "t": "Kormányok, műszerek és rendszerek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Controls: stick, torque tube, cables, pushrods": {
+  "t": "Kormányok: botkormány, torziós cső, kötelek, tolórudak",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Converging creases 44°, bulkhead flanges 96–100°": {
+  "t": "Összetartó hajtások 44°, válaszfalperemek 96–100°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Copy it, change it, build it, sell it. No permission needed.": {
+  "t": "Másolja, módosítsa, építse meg, adja el. Nem kell hozzá engedély.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cordless drill, #40 (2.5 mm) and #30 (3.3 mm) bits": {
+  "t": "Akkus fúró, #40 (2.5 mm) és #30 (3.3 mm) fúrószárak",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cost": {
+  "t": "Költség",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cotter pins": {
+  "t": "Sasszegek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cotter-pin and safety-wire pliers": {
+  "t": "Fogó sasszeghez és biztosítódróthoz",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Coupons and processes": {
+  "t": "Próbatestek és folyamatok",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Covers the top half of the firewall. Camlocks along the firewall flange and the split line.": {
+  "t": "A tűzfal felső felét fedi. Camlock zárak a tűzfal pereme és az osztóvonal mentén.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cowl to firewall flange and along the split line": {
+  "t": "Motorburkolat a tűzfal pereméhez és az osztóvonal mentén",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Crippling stress at least {stress:ms_cc}, the design allowable. Layers must not separate before failure.": {
+  "t": "Lokális horpadási feszültség legalább {stress:ms_cc}, a tervezési megengedett érték. A rétegek nem válhatnak szét a tönkremenetel előtt.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cruise 75 %": {
+  "t": "Utazó 75 %",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Crush 300 mm lengths of three-layer lipped channel, riveted at design pitch, five samples.": {
+  "t": "Törjön össze 300 mm-es darabokat háromrétegű szegélyes csatornából, tervezési osztással szegecselve, öt mintát.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Currency": {
+  "t": "Pénznem",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut and deburr: the stand blanks are on the same nest sheets as everything else. File every edge smooth and deburr each pilot hole on both faces. Look for burrs with your fingertip, not your eye.": {
+  "t": "Vágás és sorjázás: az állványkiterítések ugyanazokon a vágótáblákon vannak, mint minden más. Minden élt reszeljen simára, és sorjázzon minden vezetőfuratot mindkét oldalon. A sorját az ujjbegyével keresse, ne a szemével.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut files (DXF and nests), crease patterns, the prop model, the bill of materials and the design report.": {
+  "t": "Vágófájlok (DXF és vágótáblák), hajtásminták, a légcsavarmodell, az anyagjegyzék és a tervezési jelentés.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut lengths": {
+  "t": "Vágási hosszak",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut list": {
+  "t": "Vágólista",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut the main struts to 2543 mm and the rear struts to 2547 mm pin-to-pin, minus the end-fitting length. All four are 6061-T6 1.75 x 0.065 in tube.": {
+  "t": "Vágja a fő merevítőket 2543 mm-re, a hátsókat 2547 mm-re csaptól csapig, mínusz a végszerelvények hossza. Mind a négy 6061-T6 1.75 x 0.065 in cső.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut, deburr, mark": {
+  "t": "Vágás, sorjázás, jelölés",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cylinder": {
+  "t": "Henger",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Deburr every edge and hole": {
+  "t": "Sorjázzon minden élt és furatot",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Deburr every edge with a file or deburring tool. A burr is where a fatigue crack starts.": {
+  "t": "Sorjázzon minden élt reszelővel vagy sorjázóval. A sorjánál indul a kifáradási repedés.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Deburr every pilot hole on both faces with a 10 mm bit turned by hand.": {
+  "t": "Sorjázzon minden vezetőfuratot mindkét oldalon kézzel forgatott 10 mm-es fúróval.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Deburring tool, 10 mm drill bit (hole deburr), fine file": {
+  "t": "Sorjázó, 10 mm-es fúró (furatsorjázás), finom reszelő",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Don't overtighten: nylon washers, and stop when the washer just grips.": {
+  "t": "Ne húzza túl: nejlon alátétek, és álljon meg, amint az alátét éppen fog.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Door (left, hinged) / side window (right, fixed)": {
+  "t": "Ajtó (bal, zsanéros) / oldalablak (jobb, rögzített)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Download files (.zip)": {
+  "t": "Fájlok letöltése (.zip)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Drawing": {
+  "t": "Rajz",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Drill and cleco: clamp the gussets in place, drill through the pilot holes to #30 (3.3 mm), and put a cleco in every fourth hole as you go. Then take everything apart, deburr the holes and the faying surfaces, and put it back together on clecos.": {
+  "t": "Fúrás és Cleco: szorítsa a csomólemezeket a helyükre, fúrjon a vezetőfuratokon át #30-ra (3.3 mm), és haladás közben tegyen Clecót minden negyedik furatba. Aztán szedjen szét mindent, sorjázza a furatokat és az illeszkedő felületeket, és rakja össze újra Clecókon.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Drill press, 1/4 in and 5/16 in reamers": {
+  "t": "Oszlopos fúrógép, 1/4 in és 5/16 in dörzsárak",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Drill, deburr, prime, rivet the skeleton": {
+  "t": "A váz fúrása, sorjázása, alapozása, szegecselése",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Duration": {
+  "t": "Időtartam",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Each cable end": {
+  "t": "Minden kötélvég",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Each spar is a laminate: three nested blanks for the main spar, two for the rear. Fold every layer separately, then nest them.": {
+  "t": "Minden főtartó laminált: három egymásba illesztett kiterítés a főtartóhoz, kettő a hátsóhoz. Minden réteget külön hajtson, aztán illessze egymásba őket.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Each wing pins on at two points. The struts set its angle.": {
+  "t": "Minden szárny két ponton csapszeggel rögzül. A merevítők állítják be a szögét.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ears take an AN5 pin (fore-aft axis); web bolts with 2 x AN4. Bend radius 3t for normalised 4130 (Wanttaja).": {
+  "t": "A fülek AN5 csapot fogadnak (hossztengely); a gerinc 2 x AN4-gyel csavarozódik. Hajlítási sugár 3t normalizált 4130-hoz (Wanttaja).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Electrics: 12 V LiFePO4 battery in a vented box under the seat. Run it via the master switch and fuses to the radio, with the antenna coax to a whip on the tailcone top. The mag P-lead goes through a firewall grommet. The half-VW's magneto needs no battery to run.": {
+  "t": "Elektromos rendszer: 12 V LiFePO4 akkumulátor szellőzött dobozban az ülés alatt. Vezesse a főkapcsolón és biztosítékokon át a rádióhoz, az antenna koaxkábelét a farokkúp tetején lévő ostorantennához. A mágnesgyújtó P-vezetéke tűzfalátvezetőn megy át. A half-VW mágnesgyújtójának nem kell akkumulátor a működéshez.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator bellcrank (under seat)": {
+  "t": "Magassági kormány könyökemelője (ülés alatt)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator cable x2": {
+  "t": "Magassági kormány kötele x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator cable x2: 1/8 in 7x19 galvanised": {
+  "t": "Magassági kormány kötele x2: 1/8 in 7x19 horganyzott",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator cables: run one straight line each from the bellcrank to the tail-post grommet, 60 mm apart, up cable above down cable. Fit a phenolic fairlead where each line passes a bulkhead.": {
+  "t": "Magassági kormány kötelei: mindegyiket egyetlen egyenesben vezesse a könyökemelőtől a faroktartó oszlop átvezetőjéig, 60 mm-re egymástól, a „fel” kötél a „le” kötél felett. Ahol a vonal válaszfalon halad át, tegyen be fenolgyanta kötélvezetőt.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "t": "Magassági kormány karja, 4130 0.063in (kétvégű, a magassági kormány torziós csövén)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator skin": {
+  "t": "Magassági kormány borítása",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator spar": {
+  "t": "Magassági kormány főtartója",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevators and rudder: fold them the same way as the ailerons in step 7 (pleats, then the trailing-edge fold, then the C-spar).": {
+  "t": "Magassági és oldalkormány: hajtsa ugyanúgy, mint a csűrőket a 7. lépésben (redők, aztán a kilépőél-hajtás, aztán a C-főtartó).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty / MTOW": {
+  "t": "Üres / MTOW",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty mass and balance": {
+  "t": "Üres tömeg és súlypont",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty mass at or below {mass:empty} plus 3 %, and every loading case inside the CG range.": {
+  "t": "Üres tömeg legfeljebb {mass:empty} plusz 3 %, és minden terhelési eset a súlypont-tartományon belül.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty tanks": {
+  "t": "Üres tartályok",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty tanks, 5 kg baggage (aftmost)": {
+  "t": "Üres tartályok, 5 kg csomag (leghátsó)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Endurance": {
+  "t": "Repülési idő",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine and prop": {
+  "t": "Motor és légcsavar",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine and propeller": {
+  "t": "Motor és légcsavar",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine mount": {
+  "t": "Motortartó",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine mount to firewall, 4": {
+  "t": "Motortartó a tűzfalhoz, 4",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine mount tube (4130)": {
+  "t": "Motortartó cső (4130)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine runs: full-power static run, mag check, then check cylinder head temperatures.": {
+  "t": "Motorjáratások: teljes teljesítményű statikus járatás, mágnesgyújtó-próba, aztán a hengerfej-hőmérsékletek ellenőrzése.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine to mount, 4": {
+  "t": "Motor a tartóhoz, 4",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine, cowl, prop": {
+  "t": "Motor, burkolat, légcsavar",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Epoxy primer + etch/alodine": {
+  "t": "Epoxi alapozó + maratás/alodine",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Estimated": {
+  "t": "Becsült",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Estimated flutter speed at least 1.2 × the design dive speed of {speed:Vd}.": {
+  "t": "Becsült flattersebesség legalább a {speed:Vd} tervezési zuhanósebesség 1.2 ×-e.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every crease goes on the blank before anything is folded, the same order the origami book uses.": {
+  "t": "Minden hajtásvonal felkerül a kiterítésre, mielőtt bármit hajtana, ugyanabban a sorrendben, mint az origamikönyvben.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every flange within ±0.5 mm of the drawing.": {
+  "t": "Minden perem ±0.5 mm-en belül a rajzhoz képest.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every number on this site is a calculation. This is the plan for turning them into evidence: cheap coupon tests first, then components, then the whole wing, then the ground and finally the air. Each phase retires a specific risk before money is spent on the next. Results go back into the repository, and measured values replace the estimates in aircraft.yaml.": {
+  "t": "Ezen az oldalon minden szám számítás. Ez a terv arra, hogy bizonyítékká váljanak: először olcsó próbatest-vizsgálatok, aztán alkatrészek, aztán az egész szárny, aztán a föld és végül a levegő. Minden fázis megszüntet egy konkrét kockázatot, mielőtt pénz menne a következőre. Az eredmények visszakerülnek a tárolóba, és a mért értékek felváltják a becsléseket az aircraft.yaml fájlban.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every result, photo and failure goes into the repository.": {
+  "t": "Minden eredmény, fotó és tönkremenetel bekerül a tárolóba.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every steel fitting is also a flat blank folded at most twice.": {
+  "t": "Minden acélszerelvény is sík kiterítés, legfeljebb kétszer hajtva.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Everything that goes into one aircraft": {
+  "t": "Minden, ami egy repülőgépbe kerül",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Exact": {
+  "t": "Pontos",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Exchange rates: {date}, base GBP.": {
+  "t": "Árfolyamok: {date}, alap GBP.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Export BOM (.csv)": {
+  "t": "Anyagjegyzék exportálása (.csv)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Extinguisher and PLB": {
+  "t": "Tűzoltó készülék és PLB",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B1 Tailcone bulkhead x=1150": {
+  "t": "F-B1 Farokkúp-válaszfal x=1150",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B2 Tailcone bulkhead x=1948": {
+  "t": "F-B2 Farokkúp-válaszfal x=1948",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B3 Tailcone bulkhead x=2745": {
+  "t": "F-B3 Farokkúp-válaszfal x=2745",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B4 Tailcone bulkhead x=3542": {
+  "t": "F-B4 Farokkúp-válaszfal x=3542",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B5 Tailcone bulkhead x=4340 (tail post)": {
+  "t": "F-B5 Farokkúp-válaszfal x=4340 (faroktartó oszlop)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-CL Lower cowl (box-pleat pan to the cabin floor line)": {
+  "t": "F-CL Alsó motorburkolat (dobozredős tál a kabinpadló vonaláig)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-CU Upper cowl (hood, two 90 deg folds)": {
+  "t": "F-CU Felső motorburkolat (fedél, két 90 deg hajtás)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-DW Door (left, hinged) / side window (right, fixed)": {
+  "t": "F-DW Ajtó (bal, zsanéros) / oldalablak (jobb, rögzített)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-FA Front arch (main-spar frame)": {
+  "t": "F-FA Első ív (főtartó-keret)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-FL Floor tray with two hat pleats": {
+  "t": "F-FL Padlótálca két kalapredővel",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-FW Firewall": {
+  "t": "F-FW Tűzfal",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-FWN Front side window (x2, mirrored)": {
+  "t": "F-FWN Első oldalablak (x2, tükrözve)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-IP Instrument panel (glare-shield fold, side tabs)": {
+  "t": "F-IP Műszerfal (ernyőhajtás, oldalfülek)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-NF Nose ring (prop-shaft hole + two cooling inlets)": {
+  "t": "F-NF Orrgyűrű (légcsavartengely-nyílás + két hűtőlevegő-beömlő)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-NL Nose bowl, chin (3 converging facets)": {
+  "t": "F-NL Orrtál, áll (3 összetartó lap)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-NU Nose bowl, upper (3 converging facets)": {
+  "t": "F-NU Orrtál, felső (3 összetartó lap)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-RA Rear arch (rear-spar frame)": {
+  "t": "F-RA Hátsó ív (hátsó főtartó kerete)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-SD Cabin side (x2, mirrored): door/window opening + front window": {
+  "t": "F-SD Kabinoldal (x2, tükrözve): ajtó-/ablaknyílás + első ablak",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-ST Seat (pan + back, one sheet)": {
+  "t": "F-ST Ülés (ülőlap + háttámla, egy lemez)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TB1 Tailcone belly, section 1": {
+  "t": "F-TB1 Farokkúp hasa, 1. szakasz",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TB2 Tailcone belly, section 2": {
+  "t": "F-TB2 Farokkúp hasa, 2. szakasz",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TS1 Tailcone side, section 1 (x2, mirrored)": {
+  "t": "F-TS1 Farokkúp oldala, 1. szakasz (x2, tükrözve)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TS2 Tailcone side, section 2 (x2, mirrored)": {
+  "t": "F-TS2 Farokkúp oldala, 2. szakasz (x2, tükrözve)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TT1 Tailcone top, section 1": {
+  "t": "F-TT1 Farokkúp teteje, 1. szakasz",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TT2 Tailcone top, section 2": {
+  "t": "F-TT2 Farokkúp teteje, 2. szakasz",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-WS Windscreen (cold-bent flat polycarbonate)": {
+  "t": "F-WS Szélvédő (hidegen hajlított sík polikarbonát)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Faceted rib: every flange is a straight brake bend, no form block or fluting needed.": {
+  "t": "Sokszögletű borda: minden perem egy egyenes élhajlítás, nem kell formatömb vagy redőzés.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fairleads and pulleys": {
+  "t": "Kötélvezetők és csigák",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fasteners": {
+  "t": "Kötőelemek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fin nose rib": {
+  "t": "Függőleges vezérsík orrbordája",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fin skin (one wrap)": {
+  "t": "Függőleges vezérsík borítása (egy körbefogás)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fin spar": {
+  "t": "Függőleges vezérsík főtartója",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Final-drill every Cleco'd hole to #30 (3.3 mm), a few at a time, moving each Cleco to the next hole as you go.": {
+  "t": "Fúrjon végleges méretre minden Clecós furatot #30-ra (3.3 mm), egyszerre néhányat, haladás közben minden Clecót a következő furatba téve.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fine felt marker, steel rule, square, MEK to clean": {
+  "t": "Finom filctoll, acélvonalzó, derékszög, MEK tisztításhoz",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Finish: glue carpet on top of each beam so the wing skin can't be scratched. Load each stand with 40 kg and check it doesn't rack or rock. Keep the offcuts: they are your test pieces for the spar bend in step 2.": {
+  "t": "Befejezés: ragasszon szőnyeget minden gerenda tetejére, hogy a szárnyborítás ne karcolódjon. Terheljen minden állványt 40 kg-mal, és ellenőrizze, hogy nem torzul és nem billeg. A hulladékdarabokat tartsa meg: ezek a próbadarabjai a főtartó hajlításához a 2. lépésben.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fire extinguisher 1 kg (clip by the left seat rail)": {
+  "t": "Tűzoltó készülék 1 kg (csipeszben a bal üléssín mellett)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Firewall": {
+  "t": "Tűzfal",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Firewall flanges": {
+  "t": "Tűzfalperemek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "First flights": {
+  "t": "Első repülések",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "First-pass strength: +4 / −2 g, ×1.5 ultimate": {
+  "t": "Első közelítésű szilárdság: +4 / −2 g, ×1.5 törő",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit each rib by its attach flange: Cleco through the pilot holes into the spar web. Nose ribs go on the front face, main ribs on the back.": {
+  "t": "Illesszen minden bordát a rögzítőperemével: Cleco a vezetőfuratokon át a főtartó gerinclemezébe. Az orrbordák az elülső oldalra, a fő bordák a hátsóra kerülnek.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the axles, wheels and drum brakes. Castellated nut and cotter on each axle. The 21 x 8.00-6 tundra tyres run at 10-12 psi: check pressure before every flight, they are soft by design.": {
+  "t": "Szerelje fel a tengelyeket, kerekeket és dobfékeket. Koronás anya és sasszeg minden tengelyen. A 21 x 8.00-6 tundra gumik 10-12 psi-n mennek: minden repülés előtt ellenőrizze a nyomást, szándékosan puhák.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the cabin roof and the centre-section upper skin, back-drilled through the root ribs. Use the riveting loop.": {
+  "t": "Szerelje fel a kabintetőt és a középszárny felső borítását, a tőbordákon át visszafúrva. Használja a szegecselési ciklust.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the camlock receptacles on the firewall flange and along the split line. Trim the cowl until it clears the cylinders by at least 10 mm.": {
+  "t": "Szerelje a camlock fogadóelemeket a tűzfal peremére és az osztóvonal mentén. Vágja a motorburkolatot, amíg legalább 10 mm-re nincs a hengerektől.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the jury struts (420 mm main, 425 mm rear) from the clamp ear to the jury-top clevis under the spar, AN3 at each end. They double the strut's buckling strength.": {
+  "t": "Szerelje fel a segédmerevítőket (fő 420 mm, hátsó 425 mm) a bilincs fülétől a főtartó alatti segédmerevítő-villáig, AN3 mindkét végén. Megkétszerezik a merevítő kihajlási szilárdságát.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the sides outside the arches, firewall flange and floor flanges. Back-drill and Cleco.": {
+  "t": "Illessze az oldalakat az íveken, a tűzfalperemen és a padlóperemeken kívülre. Fúrjon visszafelé és tegyen be Clecót.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the stick, the aileron torque tube under the seat and the elevator bellcrank. Connect the stick to the bellcrank with a short pushrod.": {
+  "t": "Szerelje be a botkormányt, az ülés alatti csűrő torziós csövet és a magassági kormány könyökemelőjét. Kösse össze a botkormányt a könyökemelővel egy rövid tolórúddal.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Five facets, chamfers matching the cabin floor. A louvre slot at the rear is the cooling-air exit.": {
+  "t": "Öt lap, a letörések a kabinpadlóhoz illeszkednek. Hátul egy zsalurés a hűtőlevegő kilépője.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges 90°, all toward the root": {
+  "t": "Peremek 90°, mind a tő felé",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges all round fold aft; engine mount bolts through 4 doublers.": {
+  "t": "Körös-körül a peremek hátrafelé hajlanak; a motortartó 4 erősítőn át csavarozódik.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges follow the frustum taper (fold < 90 deg).": {
+  "t": "A peremek követik a csonka gúla szűkülését (hajtás < 90 deg).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges follow the frustum taper (fold < 90 deg). Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "A peremek követik a csonka gúla szűkülését (hajtás < 90 deg). Laminált: 2 egymásba illesztett 0.020 in réteg, külön hajtva és egyként szegecselve; belső rétegenként vágjon le 0.5 mm-t a peremélekről.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges follow the nose taper.": {
+  "t": "A peremek követik az orr szűkülését.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flap lever (overhead, Kitfox-style)": {
+  "t": "Fékszárnykar (mennyezeti, Kitfox-stílusú)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flap pushrod (wing) x2": {
+  "t": "Fékszárny tolórúd (szárny) x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flap pushrod (wing) x2: 6061-T6 3/8 x 0.035 in": {
+  "t": "Fékszárny tolórúd (szárny) x2: 6061-T6 3/8 x 0.035 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flap stall at or below 35 kt CAS, the SSDR limit; predicted {speed:Vs0}. Gentle stall, no wing drop.": {
+  "t": "Átesés fékszárnnyal 35 kt CAS-on vagy alatta, az SSDR határ; előrejelzés {speed:Vs0}. Szelíd átesés, szárnybillenés nélkül.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flaps and ailerons": {
+  "t": "Fékszárnyak és csűrők",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flat panel; the top flange folds aft as a glare shield, side tabs fold forward onto the cabin sides. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "Sík panel; a felső perem hátra hajlik tükröződésgátló ernyőként, az oldalfülek előre hajlanak a kabinoldalakra. Laminált: 2 egymásba illesztett 0.020 in réteg, külön hajtva és egyként szegecselve; belső rétegenként vágjon le 0.5 mm-t a peremélekről.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flat polycarbonate over the front cut-out, 20 mm lap, screws in 4.5 mm oversize holes.": {
+  "t": "Sík polikarbonát az első kivágás felett, 20 mm átfedés, csavarok 4.5 mm-es túlméretes furatokban.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flight test": {
+  "t": "Repülési próba",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Floor tray with two hat pleats": {
+  "t": "Padlótálca két kalapredővel",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Floor, firewall, arches": {
+  "t": "Padló, tűzfal, ívek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flutter": {
+  "t": "Flatter",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Foam tape": {
+  "t": "Habszalag",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold 20 strips of 0.51 mm 6061-T6 at a 0.8 mm nose radius, across and along the grain. Inspect every bend under a 10× loupe.": {
+  "t": "Hajtson 20 db 0.51 mm-es 6061-T6 csíkot 0.8 mm-es orrsugárral, a hengerlési irányra keresztben és hosszában. Minden hajlítást vizsgáljon 10×-es nagyítóval.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold a 300 mm offcut of a rib and of a spar from the real DXFs and measure every flange.": {
+  "t": "Hajtson egy 300 mm-es borda- és főtartó-hulladékdarabot a valódi DXF-ekből, és mérjen meg minden peremet.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold a 300 mm offcut of the same strip first and measure it to confirm the bend deduction.": {
+  "t": "Először hajtson egy 300 mm-es hulladékdarabot ugyanabból a csíkból, és mérje meg a hajlítási levonás megerősítéséhez.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold all 52 ribs before assembling any: one brake set-up does the whole batch.": {
+  "t": "Hajtsa meg mind az 52 bordát, mielőtt bármelyiket összeszerelné: egyetlen élhajlító-beállítás elég az egész sorozathoz.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold coupons": {
+  "t": "Hajlítási próbatestek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold each belly blank: bottom, both chamfers, then the side flanges.": {
+  "t": "Hajtson meg minden haskiterítést: fenék, mindkét letörés, aztán az oldalperemek.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold every rib flange 90° on the brake. Because the airfoil is faceted, each flange is one straight bend.": {
+  "t": "Hajtson meg minden bordaperemet 90°-ra az élhajlítón. Mivel a profil sokszögletű, minden perem egyetlen egyenes hajlítás.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the 12 clevises in the vise over a 5 mm radius block. Normalised 4130 needs at least 3t (Wanttaja).": {
+  "t": "Hajtsa meg a 12 villát satuban egy 5 mm sugarú tömbön. A normalizált 4130-nak legalább 3t kell (Wanttaja).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the 90° top flange and the windscreen flange on each side panel. The top flange is the longeron.": {
+  "t": "Hajtsa meg a 90°-os felső peremet és a szélvédőperemet minden oldalpanelen. A felső perem a hosszmerevítő.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the bulkhead flanges. They are 96–100°, not 90°, because they follow the taper.": {
+  "t": "Hajtsa meg a válaszfalperemeket. 96–100°-osak, nem 90°-osak, mert követik a szűkülést.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the firewall flanges, all aft. It is stainless, so drill it slowly with a sharp bit and cutting oil.": {
+  "t": "Hajtsa meg a tűzfalperemeket, mind hátra. Rozsdamentes acél, ezért fúrja lassan, éles fúróval és vágóolajjal.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the floor tray's two hat pleats, then the chamfers and side flanges.": {
+  "t": "Hajtsa meg a padlótálca két kalapredőjét, aztán a letöréseket és az oldalperemeket.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the instrument panel (glare shield and side tabs) and rivet it to the cabin sides at x = -400 mm. Fit the ASI, altimeter, tach, CHT/EGT, radio, master and mag switches and fuel valve, and put the compass on the glare shield.": {
+  "t": "Hajtsa meg a műszerfalat (ernyő és oldalfülek), és szegecselje a kabinoldalakhoz x = -400 mm-nél. Szerelje be az ASI-t, magasságmérőt, fordulatszámmérőt, CHT/EGT-t, rádiót, fő- és mágneskapcsolókat és az üzemanyagcsapot, az iránytűt pedig tegye az ernyőre.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the ribs, Cleco them on": {
+  "t": "Hajtsa meg a bordákat, tegye fel őket Clecóval",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the seat: pan and back from one sheet. Rivet its front lip to the floor and lean its back on the rear arch.": {
+  "t": "Hajtsa meg az ülést: ülőlap és háttámla egy lemezből. Az első szegélyét szegecselje a padlóhoz, a háttámláját döntse a hátsó ívnek.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the spars": {
+  "t": "Hajtsa meg a főtartókat",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the stabiliser and fin spars and their nose ribs.": {
+  "t": "Hajtsa meg a vízszintes és függőleges vezérsík főtartóit és orrbordáit.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the trailing edge over a 0.6 mm radius bar in the brake, to about 165°. Squeeze gently in soft vise jaws until the TE is straight.": {
+  "t": "Hajtsa a kilépőélt egy 0.6 mm sugarú rúd körül az élhajlítóban, kb. 165°-ra. Óvatosan nyomja össze puha satupofák között, amíg a kilépőél egyenes nem lesz.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the two V-bead pleats in valley-mountain-valley order. Stop each bead at the marks.": {
+  "t": "Hajtsa meg a két V-redőt völgy-hegy-völgy sorrendben. Minden redőt a jelöléseknél állítson meg.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the two arches: outer and inner flanges, all aft.": {
+  "t": "Hajtsa meg a két ívet: külső és belső peremek, mind hátra.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the two caps first (90°), then the two lips. Overbend by about 2° so the 6061-T6 springs back to 90°.": {
+  "t": "Először a két övet hajtsa (90°), aztán a két szegélyt. Hajlítsa túl kb. 2°-kal, hogy a 6061-T6 90°-ra rugózzon vissza.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the upper and lower cowls (four 45° creases each) and the nose-bowl halves. Rivet the nose bowls to the nose ring.": {
+  "t": "Hajtsa meg a felső és alsó motorburkolatot (mindkettőn négy 45°-os hajtás) és az orrtál feleit. Szegecselje az orrtálakat az orrgyűrűhöz.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Folded blanks": {
+  "t": "Hajtott kiterítések",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Folds": {
+  "t": "Hajtások",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Four brake bends each": {
+  "t": "Mindegyiken négy élhajlítás",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Four identical surfaces from one blank. The trailing edge is a single crease, so there's no separate strip to rivet on.": {
+  "t": "Négy azonos felület egy kiterítésből. A kilépőél egyetlen hajtás, így nincs külön felszegecselendő csík.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Four stands, 20 blanks, about 200 rivets. The cheapest place to learn to fold, drill and rivet is a part that never leaves the ground.": {
+  "t": "Négy állvány, 20 kiterítés, kb. 200 szegecs. A hajtogatás, fúrás és szegecselés megtanulásának legolcsóbb helye egy alkatrész, amely sosem hagyja el a földet.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Free play under 1° at each surface, and full travel with no binding under load.": {
+  "t": "Holtjáték 1° alatt minden felületen, és teljes kitérés akadás nélkül terhelés alatt.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Front arch (main-spar frame)": {
+  "t": "Első ív (főtartó-keret)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Front side window (x2, mirrored)": {
+  "t": "Első oldalablak (x2, tükrözve)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Front side windows: screw over the cut-outs with a 20 mm lap.": {
+  "t": "Első oldalablakok: csavarozza a kivágások fölé 20 mm átfedéssel.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Frustum facets aimed at one point, so every crease is straight.": {
+  "t": "A csonka gúla lapjai egy pontra mutatnak, így minden hajtás egyenes.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel": {
+  "t": "Üzemanyag",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel allowed": {
+  "t": "Megengedett üzemanyag",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel and payload": {
+  "t": "Üzemanyag és hasznos teher",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel feed": {
+  "t": "Üzemanyag-ellátás",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel filler neck + cap (through the hood, ahead of the windscreen)": {
+  "t": "Üzemanyag-betöltő nyak + sapka (a motorburkolaton át, a szélvédő előtt)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel selector valve: HEADER / AUX / OFF": {
+  "t": "Üzemanyag-választó szelep: HEADER / AUX / OFF",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel system parts": {
+  "t": "Üzemanyagrendszer alkatrészei",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel tank 19 L (rotomoulded polyethylene): header tank behind the firewall, ahead of the panel, Cub-style": {
+  "t": "Üzemanyagtartály 19 L (rotációs öntésű polietilén): fő tartály a tűzfal mögött, a műszerfal előtt, Cub-stílusban",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel tank 19 L (rotomoulded) + lines, valve, gascolator": {
+  "t": "Üzemanyagtartály 19 L (rotációs öntésű) + vezetékek, szelep, ülepítő",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel, aux tank: a second 20 L tank strap-mounts high behind the seat, its bottom above the header tank top so it also gravity-feeds. Its line runs forward along the left roof rail to the selector; filler through the left cabin side, vent overboard under the roof. Never in the wings. Fill it only as far as the 300 kg MTOW allows: with a 100 kg pilot that is none at all. Burn the aux tank first, which keeps the CG moving forward.": {
+  "t": "Üzemanyag, kiegészítő tartály: egy második 20 L-es tartály hevederrel rögzül magasan az ülés mögött, alja a fő tartály teteje felett, így szintén gravitációsan táplál. Vezetéke előre fut a bal tetősín mentén a választóhoz; betöltés a kabin bal oldalán át, szellőzés kifelé a tető alatt. Soha nem a szárnyakban. Csak annyira töltse, amennyit a 300 kg-os MTOW enged: 100 kg-os pilótával egyáltalán nem. Először a kiegészítő tartályt fogyassza el, így a súlypont előre mozog.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel, header tank: the 19 L rotomoulded tank sits behind the firewall, above the pilot's shins and under the windscreen, strapped to two angles riveted to the side panels (as on a J-3 Cub). It gravity-feeds: tank outlet, selector valve (HEADER / AUX / OFF), a fire-sleeved hose through a firewall grommet, the gascolator on the firewall, then the carburettor. The tank bottom is about 200 mm above the carburettor. The filler neck comes up through the hood just ahead of the windscreen, and the vent runs forward under the hood.": {
+  "t": "Üzemanyag, fő tartály: a 19 L-es rotációs öntésű tartály a tűzfal mögött ül, a pilóta sípcsontja felett és a szélvédő alatt, két, az oldalpanelekhez szegecselt szögvashoz hevederezve (mint a J-3 Cubon). Gravitációsan táplál: tartálykimenet, választószelep (HEADER / AUX / OFF), tűzálló burkolatú tömlő a tűzfal átvezetőjén át, ülepítő a tűzfalon, aztán a karburátor. A tartály alja kb. 200 mm-rel a karburátor felett van. A betöltőnyak közvetlenül a szélvédő előtt jön ki a motorburkolaton, a szellőző előre fut a burkolat alatt.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Gascolator (fuel strainer) on the firewall": {
+  "t": "Ülepítő (üzemanyagszűrő) a tűzfalon",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Glide L/D": {
+  "t": "Siklószám L/D",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ground": {
+  "t": "Föld",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ground vibration test": {
+  "t": "Földi rezgésvizsgálat",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Half-VW engine": {
+  "t": "Half-VW motor",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Half-VW engine, dressed (carb, mag, exhaust)": {
+  "t": "Half-VW motor, felszerelve (karburátor, mágnesgyújtó, kipufogó)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Hang the elevators and rudder on piano hinges. Check ±25° rudder travel clears the elevator halves.": {
+  "t": "Akassza a magassági és az oldalkormányt zongorazsanérokra. Ellenőrizze, hogy az oldalkormány ±25°-os kitérése nem ér a magassági kormány feleihez.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Hang the half-VW on rubber isolators (4 x AN5).": {
+  "t": "Függessze a half-VW-t gumi rezgéscsillapítókra (4 x AN5).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Hangar": {
+  "t": "Hangár",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Hardware": {
+  "t": "Kötőelemek, apró anyagok",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Hardware for this step": {
+  "t": "Kötőelemek ehhez a lépéshez",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Harness anchors to floor and rear arch, 4": {
+  "t": "Hevederrögzítők a padlóhoz és a hátsó ívhez, 4",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Hat pleats 56°, flanges 90°": {
+  "t": "Kalapredők 56°, peremek 90°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Have a BMAA or LAA inspector look at it before the first flight. Do first flights in calm air, over a long field.": {
+  "t": "Az első repülés előtt nézesse meg egy BMAA vagy LAA ellenőrrel. Az első repüléseket nyugodt levegőben, hosszú terep felett végezze.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Head": {
+  "t": "Fej",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Header tank full": {
+  "t": "Fő tartály tele",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Holds ultimate load for 3 s in both directions.": {
+  "t": "3 s-ig tartja a törőterhelést mindkét irányban.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Holds ultimate load for 3 s. Peak cap stress {stress:ms_sig} against an allowable of {stress:ms_cc}.": {
+  "t": "3 s-ig tartja a törőterhelést. Csúcs övfeszültség {stress:ms_sig}, a megengedett {stress:ms_cc} mellett.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Holds {force:strut_T} in tension and {force:strut_C} in compression with no failure.": {
+  "t": "Tönkremenetel nélkül tart {force:strut_T} húzást és {force:strut_C} nyomást.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Honesty": {
+  "t": "Őszinteség",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Horn: rod end bolts through the outer hole (AN3).": {
+  "t": "Kar: a gömbcsukló a külső furaton át csavarozódik (AN3).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Horns, bellcranks and brackets": {
+  "t": "Karok, könyökemelők és konzolok",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "How it gets proven": {
+  "t": "Hogyan bizonyítható",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Inspect each rivet: head seated flat, mandrel broken off flush, no gap under the head.": {
+  "t": "Vizsgáljon meg minden szegecset: a fej síkban ül, a szár síkban letörve, nincs rés a fej alatt.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Inspection": {
+  "t": "Ellenőrzés",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Inspector sign-off before the aircraft is flown by anyone else.": {
+  "t": "Ellenőri jóváhagyás, mielőtt bárki más repülne a géppel.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Instructions": {
+  "t": "Útmutató",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Instrument panel (glare-shield fold, side tabs)": {
+  "t": "Műszerfal (ernyőhajtás, oldalfülek)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Instruments (ASI, alt, tach, CHT, compass)": {
+  "t": "Műszerek (ASI, magasság, fordulatszám, CHT, iránytű)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Inverted wing on its fittings, sandbags laid out to the spanwise lift distribution, to +4 g limit and then −2 g. Measure tip deflection at each step.": {
+  "t": "Fordított szárny a szerelvényein, homokzsákok a fesztáv menti felhajtóerő-eloszlás szerint elrendezve, +4 g-s üzemi határig, majd −2 g-ig. Minden lépésnél mérje a szárnyvég lehajlását.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut 0.75 x 0.049 in": {
+  "t": "Segédmerevítő 0.75 x 0.049 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut x2 (main)": {
+  "t": "Segédmerevítő x2 (fő)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut x2 (main): 6061-T6 0.75 x 0.049 in": {
+  "t": "Segédmerevítő x2 (fő): 6061-T6 0.75 x 0.049 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut x2 (rear)": {
+  "t": "Segédmerevítő x2 (hátsó)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut x2 (rear): 6061-T6 0.75 x 0.049 in": {
+  "t": "Segédmerevítő x2 (hátsó): 6061-T6 0.75 x 0.049 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "t": "Segédmerevítő nyeregbilincse, 4130 0.063in (hengerített félhéj fülekkel)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-BC Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "t": "K-BC Könyökemelő lemez, 4130 0.063in (párban, 55 mm-es karok)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-CV Clevis, 4130 0.063in (U, two folds)": {
+  "t": "K-CV Villa, 4130 0.063in (U, két hajtás)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-HD Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "t": "K-HD Magassági kormány karja, 4130 0.063in (kétvégű, a magassági kormány torziós csövén)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-HN Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "t": "K-HN Csűrő- / fékszárnykar, 4130 0.063in (egy hajtás az alsó borításra)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-HR Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "t": "K-HR Oldalkormány karja, 4130 0.063in (lapos, kötél mindkét oldalon)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-JC Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "t": "K-JC Segédmerevítő nyeregbilincse, 4130 0.063in (hengerített félhéj fülekkel)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-TG Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "t": "K-TG Főtartó tőfül, 4130 0.063in (lapos, párban a gerinc két oldalán)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laminate: each channel is two blanks. Fold both separately, nest the inner one inside the outer one, and check they sit tight with no gap. If the inner one fights, take 0.5 mm off its flange edges.": {
+  "t": "Laminált: minden csatorna két kiterítés. Hajtsa meg mindkettőt külön, illessze a belsőt a külsőbe, és ellenőrizze, hogy szorosan, rés nélkül ülnek. Ha a belső ellenáll, vegyen le 0.5 mm-t a peremeinek széléből.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laminated channel crippling": {
+  "t": "Laminált csatorna lokális horpadása",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "Laminált: 2 egymásba illesztett 0.020 in réteg, külön hajtva és egyként szegecselve; belső rétegenként vágjon le 0.5 mm-t a peremélekről.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Landing gear and tailwheel": {
+  "t": "Futómű és farokkerék",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Landing roll": {
+  "t": "Kifutási úthossz",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Language": {
+  "t": "Nyelv",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laps 30 mm under the upper skin at 8% chord.": {
+  "t": "30 mm-rel átfed a felső borítás alatt a húr 8%-ánál.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laser / waterjet cutting service": {
+  "t": "Lézer- / vízsugaras vágószolgáltatás",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lay the spars on a flat table, webs vertical, 3.6 m apart for the two wings.": {
+  "t": "Fektesse a főtartókat sík asztalra, gerinccel függőlegesen, 3.6 m-re egymástól a két szárnyhoz.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Leans on the rear arch.": {
+  "t": "A hátsó ívnek dől.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Leave the protective film on. Drill the polycarbonate with plastic bits, holes 6 mm for M4 screws so it can expand.": {
+  "t": "Hagyja rajta a védőfóliát. A polikarbonátot műanyagfúróval fúrja, 6 mm-es furatokkal az M4 csavarokhoz, hogy tágulhasson.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Left door front edge": {
+  "t": "Bal ajtó elülső éle",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Licence": {
+  "t": "Licenc",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift strut (main) 1.75 x 0.065 in": {
+  "t": "Szárnymerevítő (fő) 1.75 x 0.065 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift strut (rear) 1.75 x 0.065 in": {
+  "t": "Szárnymerevítő (hátsó) 1.75 x 0.065 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift strut, tension": {
+  "t": "Szárnymerevítő, húzás",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift strut, −2 g buckling (with jury strut)": {
+  "t": "Szárnymerevítő, −2 g-s kihajlás (segédmerevítővel)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift struts and jury struts": {
+  "t": "Szárnymerevítők és segédmerevítők",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lipped channels: four 90° brake bends each, two nested layers": {
+  "t": "Szegélyes csatornák: mindegyiken négy 90°-os élhajlítás, két egymásba illesztett réteg",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Load each linkage part to 1.5 × the BCAR Section S pilot loads at the stick and pedals.": {
+  "t": "Terheljen minden mechanizmus-alkatrészt a BCAR Section S szerinti pilótaerők 1.5 ×-ére a botkormánynál és a pedáloknál.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Low-speed taxi, then fast taxi with the tail up, on the intended test field.": {
+  "t": "Lassú gurulás, aztán gyors gurulás felemelt farokkal, a tervezett próbaterepen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower cowl (box-pleat pan to the cabin floor line)": {
+  "t": "Alsó motorburkolat (dobozredős tál a kabinpadló vonaláig)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower skin, bay 1": {
+  "t": "Alsó borítás, 1. mező",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower skin, bay 2": {
+  "t": "Alsó borítás, 2. mező",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower skin, bay 3": {
+  "t": "Alsó borítás, 3. mező",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower skins": {
+  "t": "Alsó borítások",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "M4 pan screw, nylon washer, M4 Nyloc nut, 6 mm oversize hole in polycarbonate": {
+  "t": "M4 lencsefejű csavar, nejlon alátét, M4 Nyloc anya, 6 mm-es túlméretes furat a polikarbonátban",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "MEK / cleaner, Scotch-Brite, gloves": {
+  "t": "MEK / tisztító, Scotch-Brite, kesztyű",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear leg x2": {
+  "t": "Főfutószár x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear leg x2: 6061-T6 bar 75 x 16 mm": {
+  "t": "Főfutószár x2: 6061-T6 laposrúd 75 x 16 mm",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear legs through floor doubler, 2 per leg": {
+  "t": "Főfutószárak a padlóerősítőn át, száranként 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear spring leg (6061-T6 bar)": {
+  "t": "Főfutó rugós szár (6061-T6 laposrúd)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear: 2 spring legs + axles": {
+  "t": "Főfutó: 2 rugós szár + tengelyek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main lift strut x2": {
+  "t": "Fő szárnymerevítő x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "t": "Fő szárnymerevítő x2: 6061-T6 1.75 x 0.065 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main rib": {
+  "t": "Fő borda",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main rib, root/tip": {
+  "t": "Fő borda, tő/vég",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main spar (lipped C, opens aft)": {
+  "t": "Főtartó (szegélyes C, hátra nyitott)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main spar section": {
+  "t": "Főtartó keresztmetszete",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main spar web shear, limit": {
+  "t": "Főtartó gerincének nyírása, üzemi",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main spar: lipped C, three layers of 0.020 in": {
+  "t": "Főtartó: szegélyes C, három 0.020 in réteg",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main wheel: 21 x 8.00-6 tundra tyre at 10-12 psi": {
+  "t": "Főkerék: 21 x 8.00-6 tundra gumi 10-12 psi-n",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main wheels": {
+  "t": "Főkerekek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Margin": {
+  "t": "Tartalék",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mark fold lines on the marked face: red dashed = valley, blue dash-dot = mountain. Use a fine felt marker, never a scribe (Wanttaja: scribe lines start cracks).": {
+  "t": "Jelölje a hajtásvonalakat a jelölt oldalon: piros szaggatott = völgy, kék pont-vonal = hegy. Finom filctollat használjon, soha ne karcolótűt (Wanttaja: a karcolásokból repedés indul).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mark folds with felt pen, never a scribe": {
+  "t": "Hajtásokat filctollal jelöljön, soha ne karcolótűvel",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mark the folds: red dashed is a valley, blue dash-dot is a mountain. Felt marker on the marked face only, never a scribe.": {
+  "t": "Jelölje a hajtásokat: a piros szaggatott völgy, a kék pont-vonal hegy. Filctoll csak a jelölt oldalon, soha karcolótű.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mass": {
+  "t": "Tömeg",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mass balance weights": {
+  "t": "Kiegyenlítő súlyok",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mass-balance each aileron with lead on an arm ahead of the hinge until it hangs level, before it goes on the aircraft.": {
+  "t": "Minden csűrőt egyensúlyozzon ki ólommal egy, a zsanér előtti karon, amíg vízszintesen nem lóg, mielőtt felkerül a gépre.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mass-balance horn at outboard end.": {
+  "t": "Tömegkiegyenlítő kar a külső végen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mean strength at or above the value used in design, scatter under 10 %.": {
+  "t": "Átlagos szilárdság legalább a tervezésben használt érték, szórás 10 % alatt.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Measure gravity flow from each tank, with the aircraft at its steepest climb attitude plus margin.": {
+  "t": "Mérje meg a gravitációs átfolyást minden tartályból, a géppel a legmeredekebb emelkedési helyzetben, plusz tartalék.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Measure twist under a known torque at the tip rib.": {
+  "t": "Mérje a csavarodást ismert nyomaték alatt a végbordánál.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Measured climb, cruise and glide recorded against the predictions on the numbers tab.": {
+  "t": "A mért emelkedés, utazás és siklás rögzítve a számok fülön lévő előrejelzésekkel szemben.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Measured values replace estimates in aircraft.yaml, and the build manual is revised.": {
+  "t": "A mért értékek felváltják a becsléseket az aircraft.yaml fájlban, és az építési kézikönyv frissül.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Member": {
+  "t": "Elem",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Method": {
+  "t": "Módszer",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mid CG, calm air, long field, circuit height only, an experienced test pilot.": {
+  "t": "Középső súlypont, nyugodt levegő, hosszú terep, csak iskolakör-magasság, tapasztalt berepülőpilóta.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Month 10": {
+  "t": "10. hónap",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Month 4": {
+  "t": "4. hónap",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Month 5": {
+  "t": "5. hónap",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Months 2–3": {
+  "t": "2–3. hónap",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Months 6–9": {
+  "t": "6–9. hónap",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Move the CG from forward to aft in steps, checking stick-free stability at each.": {
+  "t": "Mozgassa a súlypontot elölről hátrafelé lépésenként, mindegyiknél ellenőrizve az elengedett botkormányos stabilitást.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nicopress sleeve + thimble (1/8 in cable)": {
+  "t": "Nicopress hüvely + kötélszív (1/8 in kötél)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nicopress tool + cable cutter": {
+  "t": "Nicopress szerszám + kötélvágó",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No cracks, and springback within 2° of prediction.": {
+  "t": "Nincs repedés, és a visszarugózás az előrejelzéstől 2°-on belül.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No flutter or buzz up to {speed:Vne}.": {
+  "t": "Nincs flatter vagy zúgás {speed:Vne}-ig.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No permanent set after unloading. Deflection within 15 % of prediction.": {
+  "t": "Nincs maradó alakváltozás tehermentesítés után. Lehajlás az előrejelzés 15 %-án belül.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No permanent set at limit, no failure at ultimate.": {
+  "t": "Nincs maradó alakváltozás üzemi terhelésnél, nincs tönkremenetel törőterhelésnél.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No physical part has been cut. Fold one rib and one spar offcut first to check the bend deduction.": {
+  "t": "Még egyetlen fizikai alkatrész sincs kivágva. Először hajtson egy borda- és egy főtartó-hulladékdarabot a hajlítási levonás ellenőrzésére.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No yield at limit load, no failure at ultimate.": {
+  "t": "Nincs folyás üzemi terhelésnél, nincs tönkremenetel törőterhelésnél.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose bowl, chin (3 converging facets)": {
+  "t": "Orrtál, áll (3 összetartó lap)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose bowl, upper (3 converging facets)": {
+  "t": "Orrtál, felső (3 összetartó lap)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose rib": {
+  "t": "Orrborda",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose rib, root/tip": {
+  "t": "Orrborda, tő/vég",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose ring (prop-shaft hole + two cooling inlets)": {
+  "t": "Orrgyűrű (légcsavartengely-nyílás + két hűtőlevegő-beömlő)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose rolled over 75 mm tube": {
+  "t": "Orrész 75 mm-es cső körül hengerítve",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose zone is rolled over a 75 mm tube; aft creases are soft brake hits (2-6 deg).": {
+  "t": "Az orrzóna 75 mm-es cső körül van hengerítve; a hátsó hajtások enyhe élhajlító-nyomások (2-6 deg).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Not analysed yet": {
+  "t": "Még nincs elemezve",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Not proven": {
+  "t": "Nem bizonyított",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Notes": {
+  "t": "Megjegyzések",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "One 90 degree flange stiffens the free edge. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "Egy 90 fokos perem merevíti a szabad élt. Laminált: 2 egymásba illesztett 0.020 in réteg, külön hajtva és egyként szegecselve; belső rétegenként vágjon le 0.5 mm-t a peremélekről.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "One hour of progressive ground running, with cylinder head and exhaust temperatures logged.": {
+  "t": "Egy óra fokozatos földi járatás, a hengerfej- és kipufogó-hőmérsékletek naplózásával.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "One-wrap skins, sharp trailing edges": {
+  "t": "Egy körbefogású borítások, éles kilépőélek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Open-source aircraft": {
+  "t": "Nyílt forráskódú repülőgép",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Order as 12 ft strip. Lips turn the free flange edges into supported edges (k 0.43 -> ~4). Laminated: 3 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "12 ft-os csíkként rendelje. A szegélyek a szabad peremeket megtámasztott élekké teszik (k 0.43 -> ~4). Laminált: 3 egymásba illesztett 0.020 in réteg, külön hajtva és egyként szegecselve; belső rétegenként vágjon le 0.5 mm-t a peremélekről.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Paint": {
+  "t": "Festés",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Paint, then weigh on three scales in the level attitude. Work out the empty CG and check every loading case falls inside the design range in DESIGN_REPORT.md (about 28–33 % MAC).": {
+  "t": "Fessen, aztán mérjen három mérlegen vízszintes helyzetben. Számolja ki az üres súlypontot, és ellenőrizze, hogy minden terhelési eset a DESIGN_REPORT.md tervezési tartományán belül van (kb. 28–33 % MAC).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Panel: glare-shield fold 90°, side tabs 90°": {
+  "t": "Panel: ernyőhajtás 90°, oldalfülek 90°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Parts": {
+  "t": "Alkatrészek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pass when": {
+  "t": "Megfelel, ha",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Performance": {
+  "t": "Teljesítmény",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Phases": {
+  "t": "Fázisok",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Piano hinge": {
+  "t": "Zongorazsanér",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Piano hinge MS20001 + door latch": {
+  "t": "Zongorazsanér MS20001 + ajtózár",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pilot": {
+  "t": "Pilóta",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pilot (95th pct, for scale)": {
+  "t": "Pilóta (95. percentilis, méretaránynak)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pilot, fuel and baggage share one budget: maximum take-off mass minus empty mass. Both tanks are in the cabin, never in the wings: an 18 L header tank behind the firewall and a 20 L aux tank high behind the seat, both gravity-fed through one selector. A light pilot can fill both. A heavy pilot gets the header tank or less. Burn the aux tank first.": {
+  "t": "A pilóta, az üzemanyag és a csomag egy kereten osztozik: maximális felszálló tömeg mínusz üres tömeg. Mindkét tartály a kabinban van, soha a szárnyakban: egy 18 L-es fő tartály a tűzfal mögött és egy 20 L-es kiegészítő tartály magasan az ülés mögött, mindkettő gravitációsan egy választón át. Egy könnyű pilóta mindkettőt megtöltheti. Egy nehéz pilóta a fő tartályt vagy kevesebbet kap. Először a kiegészítő tartályt fogyassza el.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pitot tube (left wing, ahead of the LE)": {
+  "t": "Pitotcső (bal szárny, a belépőél előtt)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pitot-static: pitot tube under the left wing at the 1.2 m rib. Run its line inside the wing ahead of the main spar to the root and down the A-pillar to the ASI. A static port on the left cabin side feeds the altimeter and ASI. Secure everything with Adel clamps every 300 mm.": {
+  "t": "Pitot-statikus rendszer: pitotcső a bal szárny alatt az 1.2 m-es bordánál. Vezetékét a szárnyban, a főtartó előtt vezesse a tőig, majd le az A-oszlopon az ASI-hez. A kabin bal oldalán lévő statikus nyílás táplálja a magasságmérőt és az ASI-t. Mindent Adel-bilincsekkel rögzítsen 300 mm-enként.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Planar: no forming, drill with plastic-cutting bits, slotted holes for expansion.": {
+  "t": "Sík: nincs formázás, műanyagfúróval fúrva, hosszított furatok a tágulásnak.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Plastic-cutting drill bits / step drill": {
+  "t": "Műanyagfúrók / lépcsős fúró",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Positive stability at the aft limit; predicted minimum static margin {pct:SM_min}.": {
+  "t": "Pozitív stabilitás a hátsó határon; előrejelzett minimális statikus stabilitási tartalék {pct:SM_min}.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Press or bolt a 4130 end fork into each tube end. Drill the AN5 pin hole after the final length check on the aircraft.": {
+  "t": "Préseljen vagy csavarozzon egy 4130-as végvillát minden csővégbe. Az AN5 csap furatát a gépen végzett végső hosszellenőrzés után fúrja.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Prime the faying surfaces: Scotch-Brite, wash, etch or alodine, then epoxy primer. Wear gloves (Wanttaja: finger oils stop primer sticking).": {
+  "t": "Alapozza az illeszkedő felületeket: Scotch-Brite, mosás, maratás vagy alodine, aztán epoxi alapozó. Viseljen kesztyűt (Wanttaja: az ujjak zsírja megakadályozza az alapozó tapadását).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Primer part: two nested layers folded on the brake and riveted as one. Glue carpet on the web. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "Bevezető alkatrész: két egymásba illesztett réteg az élhajlítón hajtva és egyként szegecselve. Ragasszon szőnyeget a gerincre. Laminált: 2 egymásba illesztett 0.020 in réteg, külön hajtva és egyként szegecselve; belső rétegenként vágjon le 0.5 mm-t a peremélekről.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Primer: build the wing stands": {
+  "t": "Bevezetés: építse meg a szárnyállványokat",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Proof-load the wing upside down with sandbags to +4 g limit load, spread spanwise. It must show no permanent set.": {
+  "t": "Terhelje a szárnyat fejjel lefelé homokzsákokkal +4 g-s üzemi terhelésre, fesztáv mentén elosztva. Nem mutathat maradó alakváltozást.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Prop drive hub (flange)": {
+  "t": "Légcsavar-meghajtó agy (perem)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Propeller 54 in wood + hub": {
+  "t": "54 in-es fa légcsavar + agy",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Propeller 54 x 24 in, laminated wood (download the model)": {
+  "t": "Légcsavar 54 x 24 in, rétegelt fa (töltse le a modellt)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Propeller hub, 6": {
+  "t": "Légcsavaragy, 6",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Publish": {
+  "t": "Közzététel",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pull a complete strut with its clevises and tangs to ultimate tension, then buckle a second at −2 g with the jury strut fitted.": {
+  "t": "Húzzon egy teljes merevítőt villáival és füleivel törő húzásig, aztán hajlítson ki egy másodikat −2 g-n felszerelt segédmerevítővel.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Push the AN5 root pins through. Fit castellated nuts and cotter pins.": {
+  "t": "Tolja át az AN5 tőcsapokat. Szereljen fel koronás anyákat és sasszegeket.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Put in the aft soft creases first.": {
+  "t": "Először a hátsó lágy hajtásokat csinálja.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Put in the soft creases with a light brake hit, or by hand over a straight-edge.": {
+  "t": "A lágy hajtásokat enyhe élhajlító-nyomással vagy kézzel egy egyenes él fölött készítse.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Qualification": {
+  "t": "Minősítés",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Quarter-turn camlock (Dzus) + receptacle": {
+  "t": "Negyedfordulatos camlock zár (Dzus) + fogadóelem",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "RADIO instrument": {
+  "t": "RADIO műszer",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Range": {
+  "t": "Hatótávolság",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ream the pin holes to 5/16 in and the bolt holes to 1/4 in and 3/16 in, through both ears at once so they line up.": {
+  "t": "Dörzsölje a csapfuratokat 5/16 in-re, a csavarfuratokat 1/4 in-re és 3/16 in-re, egyszerre mindkét fülön át, hogy egy vonalba essenek.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear arch (rear-spar frame)": {
+  "t": "Hátsó ív (hátsó főtartó kerete)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear lift strut x2": {
+  "t": "Hátsó szárnymerevítő x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "t": "Hátsó szárnymerevítő x2: 6061-T6 1.75 x 0.065 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear spar (lipped C, opens forward)": {
+  "t": "Hátsó főtartó (szegélyes C, előre nyitott)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear spar section": {
+  "t": "Hátsó főtartó keresztmetszete",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear spar: lipped C, two layers of 0.020 in": {
+  "t": "Hátsó főtartó: szegélyes C, két 0.020 in réteg",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Reassemble on Clecos, then pull the rivets from the middle of each joint outward.": {
+  "t": "Rakja össze újra Clecókon, aztán húzza a szegecseket minden kötés közepétől kifelé.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ribs, skin buckling, fittings, landing gear, tail loads, the engine mount and flutter. Mass-balance every control surface.": {
+  "t": "Bordák, borításhorpadás, szerelvények, futómű, farokterhelések, a motortartó és a flatter. Minden kormányfelületet egyensúlyozzon ki.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Right side: fixed window over the door opening. Left side: the same blank on a piano hinge at its front edge, with a latch at the back.": {
+  "t": "Jobb oldal: rögzített ablak az ajtónyílás felett. Bal oldal: ugyanaz a kiterítés zongorazsanéron az elülső élén, hátul zárral.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivet joints": {
+  "t": "Szegecskötések",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivet strength in thin sheet": {
+  "t": "Szegecsszilárdság vékony lemezben",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivet the piano hinge to the spar top, then hang the surface on the rear spar.": {
+  "t": "Szegecselje a zongorazsanért a főtartó tetejére, aztán akassza a felületet a hátsó főtartóra.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivet: pull 1/8 in blind rivets, working from the middle of each row outwards and swapping clecos for rivets one at a time. A good rivet sits flat, with no gap under the head. Drill out any bad one with a #30 bit and try again: practise this on purpose at least once.": {
+  "t": "Szegecselés: húzzon 1/8 in popszegecseket minden sor közepétől kifelé, a Clecókat egyenként szegecsre cserélve. Egy jó szegecs síkban ül, rés nélkül a fej alatt. A rosszat fúrja ki #30-as fúróval és próbálja újra: gyakorolja ezt szándékosan legalább egyszer.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop, rivets from the main spar outward.": {
+  "t": "Szegecselési ciklus, szegecsek a főtartótól kifelé.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop, then join the tailcone to the cabin at bulkhead 1.": {
+  "t": "Szegecselési ciklus, aztán illessze a farokkúpot a kabinhoz az 1. válaszfalnál.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop.": {
+  "t": "Szegecselési ciklus.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop. The firewall takes stainless or Monel rivets: aluminium melts in a fire.": {
+  "t": "Szegecselési ciklus. A tűzfalba rozsdamentes vagy Monel szegecs kerül: az alumínium tűzben megolvad.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop: final-drill #30, take apart, deburr, prime, Cleco, rivet.": {
+  "t": "Szegecselési ciklus: végső fúrás #30, szétszedés, sorjázás, alapozás, Cleco, szegecselés.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivets": {
+  "t": "Szegecsek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivets to the rear-spar flanges. Closes the bay behind the centre-section rear spar.": {
+  "t": "A hátsó főtartó peremeihez szegecselődik. Lezárja a középszárny hátsó főtartója mögötti teret.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rod ends": {
+  "t": "Gömbcsuklók",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Roll each skin's leading edge, then wrap it round its ribs and spar. Back-drill and use the riveting loop.": {
+  "t": "Hengerítse minden borítás belépőélét, aztán tekerje a bordái és főtartója köré. Fúrjon visszafelé és használja a szegecselési ciklust.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Roll the eight saddle-clamp halves round a 45 mm bar, then bolt a pair round each strut at mid-length (2 x AN3 through the ears).": {
+  "t": "Hengerítse a nyolc nyeregbilincs-felet egy 45 mm-es rúd körül, aztán csavarozzon egy párt minden merevítő köré a hossza felénél (2 x AN3 a füleken át).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Roll the green zone: lay the skin over a 75 mm tube and pull it round with a strap, a little at a time. Don't crease it.": {
+  "t": "Hengerítse a zöld zónát: fektesse a borítást egy 75 mm-es csőre, és hevederrel húzza körbe, apránként. Ne törje meg.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Root and tip ribs have their flanges facing into the panel.": {
+  "t": "A tő- és végbordák peremei a panel belseje felé néznek.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder and elevator cables, 1 per cable, in the cabin where you can inspect them": {
+  "t": "Oldal- és magassági kormány kötelei, kötelenként 1, a kabinban, ahol ellenőrizhetők",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder cable x2": {
+  "t": "Oldalkormány kötele x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder cable x2: 1/8 in 7x19 galvanised": {
+  "t": "Oldalkormány kötele x2: 1/8 in 7x19 horganyzott",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder cables: pedal horn, then a pulley at the pedal, along the floor at y = ±200 mm through fairleads on both arch feet, a pulley at bulkhead 1, then one straight line each to the tail post. Because the tailcone is a frustum, a straight run between interior points never touches the skin, so no cable needs a mid-cone pulley.": {
+  "t": "Oldalkormány kötelei: pedálkar, aztán egy csiga a pedálnál, a padló mentén y = ±200 mm-nél kötélvezetőkön át mindkét ívtalpnál, egy csiga az 1. válaszfalnál, aztán mindegyik egyetlen egyenesben a faroktartó oszlopig. Mivel a farokkúp csonka gúla, a belső pontok közötti egyenes sosem éri a borítást, így egyik kötélnek sem kell csiga a kúp közepén.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "t": "Oldalkormány karja, 4130 0.063in (lapos, kötél mindkét oldalon)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder pedals": {
+  "t": "Oldalkormány-pedálok",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder skin": {
+  "t": "Oldalkormány borítása",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder spar": {
+  "t": "Oldalkormány főtartója",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-BM Stand beam (lipped C, saddle on top)": {
+  "t": "S-BM Állványgerenda (szegélyes C, nyereg felül)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-FT Stand foot (lipped C, opens up)": {
+  "t": "S-FT Állványtalp (szegélyes C, felfelé nyitott)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-GF Stand foot gusset (flat)": {
+  "t": "S-GF Állványtalp csomólemeze (lapos)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-GT Stand top gusset (flanged hypotenuse)": {
+  "t": "S-GT Állvány felső csomólemeze (peremes átfogó)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-LG Stand leg (lipped C)": {
+  "t": "S-LG Állványláb (szegélyes C)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "SSDR means no airworthiness approval is required, so all the testing is yours to do.": {
+  "t": "Az SSDR azt jelenti, hogy nem kell légialkalmassági jóváhagyás, így minden vizsgálat az ön dolga.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Saddle clamps: rolled half-shells": {
+  "t": "Nyeregbilincsek: hengerített félhéjak",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Saddle-clamp ears (one also carries the jury-strut fork), 2 per clamp; Jury strut top, through the jury clevis": {
+  "t": "Nyeregbilincs-fülek (az egyik a segédmerevítő villáját is hordozza), bilincsenként 2; segédmerevítő teteje, a villáján át",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Safety wire": {
+  "t": "Biztosítódrót",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Same blank both sides. 20 mm lap all round. Left one hangs on a piano hinge at its front edge.": {
+  "t": "Ugyanaz a kiterítés mindkét oldalon. Körös-körül 20 mm átfedés. A bal oldali az elülső élén zongorazsanéron lóg.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Same blank for both flaps and both ailerons: modular-origami units.": {
+  "t": "Ugyanaz a kiterítés mindkét fékszárnyhoz és mindkét csűrőhöz: moduláris origamiegységek.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Sandbags and tape measure (proof load)": {
+  "t": "Homokzsákok és mérőszalag (próbaterhelés)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Sawtooth climbs, level speeds and glides.": {
+  "t": "Fűrészfog-emelkedések, vízszintes sebességek és siklások.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Scotch-Brite, etch/alodine, epoxy primer, spray kit, gloves": {
+  "t": "Scotch-Brite, maratás/alodine, epoxi alapozó, szórókészlet, kesztyű",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Seat (pan + back, one sheet)": {
+  "t": "Ülés (ülőlap + háttámla, egy lemez)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Seat cushion + 4-pt harness": {
+  "t": "Üléspárna + 4 pontos heveder",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Select a row to see where that case sits.": {
+  "t": "Válasszon ki egy sort, hogy lássa, hol van az az eset.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Send the nest DXFs to a laser or waterjet service, or cut on a CNC router. Bolt holes come out 0.5 mm undersize; ream them later.": {
+  "t": "Küldje a vágótábla-DXF-eket lézeres vagy vízsugaras szolgáltatónak, vagy vágja CNC-marón. A csavarfuratok 0.5 mm-rel kisebbek lesznek; később dörzsölje fel őket.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Set dihedral to 1.5° and wash-out to 0° with a digital level on the root and tip ribs. Then pin the struts on: AN5, castellated nut, cotter pin.": {
+  "t": "Állítsa a V-állást 1.5°-ra és az elcsavarást 0°-ra digitális vízmértékkel a tő- és végbordán. Aztán csapozza fel a merevítőket: AN5, koronás anya, sasszeg.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Set the brake nose radius to 0.8 mm, about 1.6 times the 0.51 mm sheet (Table 5-2, 'normal' radius). Never tighter.": {
+  "t": "Állítsa az élhajlító orrsugarát 0.8 mm-re, kb. a 0.51 mm-es lemez 1.6-szorosára (Table 5-2, 'normál' sugár). Soha ne élesebbre.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Set the travels: aileron +20/-15°, elevator +25/-20°, rudder ±25°, flaps 0/20°. Fit the stops.": {
+  "t": "Állítsa be a kitéréseket: csűrő +20/-15°, magassági kormány +25/-20°, oldalkormány ±25°, fékszárny 0/20°. Szerelje fel az ütközőket.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Single-lap shear and pull-through on one and two layers of 0.51 mm sheet with 3.2 mm blind rivets, 10 of each.": {
+  "t": "Egynyírású átlapolt nyírás és átszakadás egy és két réteg 0.51 mm-es lemezen 3.2 mm-es popszegecsekkel, mindegyikből 10.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Skin joints lap on a rib: the outboard skin goes under the inboard one.": {
+  "t": "A borításillesztések bordán fednek át: a külső borítás a belső alá megy.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Slide the C-spar in and Cleco it through the flanges. Riveting loop.": {
+  "t": "Csúsztassa be a C-főtartót és Clecózza a peremeken át. Szegecselési ciklus.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Soft creases 2–6°": {
+  "t": "Lágy hajtások 2–6°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Source": {
+  "t": "Forrás",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Span / area": {
+  "t": "Fesztáv / felület",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spanners, sockets, inch-pound torque wrench": {
+  "t": "Villáskulcsok, dugókulcsok, hüvelyk-font nyomatékkulcs",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spar strength": {
+  "t": "Főtartó szilárdsága",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spar-root pins through tang pair + arch clevis": {
+  "t": "Főtartó tőcsapjai a fülpáron + ívvillán át",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "t": "Főtartó tőfül, 4130 0.063in (lapos, párban a gerinc két oldalán)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Speed envelope": {
+  "t": "Sebességburkoló",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spinner": {
+  "t": "Légcsavarkúp",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stabiliser nose rib": {
+  "t": "Vízszintes vezérsík orrbordája",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "t": "Vízszintes vezérsík tőbordái a farokkúp oldalsó erősítőihez, oldalanként 4; függőleges vezérsík főtartója a faroktartó oszlophoz, 3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stabiliser skin (one wrap)": {
+  "t": "Vízszintes vezérsík borítása (egy körbefogás)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stabiliser spar": {
+  "t": "Vízszintes vezérsík főtartója",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stability across the CG range": {
+  "t": "Stabilitás a teljes súlypont-tartományban",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stall speed and handling": {
+  "t": "Átesési sebesség és kezelhetőség",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stall speeds": {
+  "t": "Átesési sebességek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stall, flaps 20°": {
+  "t": "Átesés, fékszárny 20°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand beam (lipped C, saddle on top)": {
+  "t": "Állványgerenda (szegélyes C, nyereg felül)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand foot (lipped C, opens up)": {
+  "t": "Állványtalp (szegélyes C, felfelé nyitott)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand foot gusset (flat)": {
+  "t": "Állványtalp csomólemeze (lapos)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand leg (lipped C)": {
+  "t": "Állványláb (szegélyes C)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand the arches and firewall on the floor tray, square and plumb. Their stations are 420 mm and 1008 mm aft of the wing LE, and the firewall is at -650 mm.": {
+  "t": "Állítsa az íveket és a tűzfalat a padlótálcára, derékszögben és függőlegesen. Helyük 420 mm és 1008 mm a szárny belépőéle mögött, a tűzfal -650 mm-nél van.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand top gusset (flanged hypotenuse)": {
+  "t": "Állvány felső csomólemeze (peremes átfogó)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Static load to the Section S forward, side and vertical limit loads, then ultimate.": {
+  "t": "Statikus terhelés a Section S előre, oldalra és függőlegesen ható üzemi terheléseire, aztán törőre.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Static margin": {
+  "t": "Statikus stabilitási tartalék",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Static port": {
+  "t": "Statikus nyílás",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Status": {
+  "t": "Állapot",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Step": {
+  "t": "Lépés",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stick pivot and torque-tube bearings": {
+  "t": "Botkormány tengelye és torziós cső csapágyai",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Straight tracking, effective brakes and rudder, no shimmy.": {
+  "t": "Egyenes futás, hatékony fékek és oldalkormány, nincs szitálás.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "String line, digital level, plumb bob": {
+  "t": "Zsinór, digitális vízmérték, függőón",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "String-line the spars and check the ribs are square to them. Measure diagonals across each bay; they should match within 1 mm.": {
+  "t": "Feszítsen zsinórt a főtartók mentén, és ellenőrizze, hogy a bordák merőlegesek rájuk. Mérje meg minden mező átlóit; 1 mm-en belül egyezniük kell.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Structure": {
+  "t": "Szerkezet",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut and fitting strength": {
+  "t": "Merevítő és szerelvények szilárdsága",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut and fittings": {
+  "t": "Merevítő és szerelvények",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut end fork (4130)": {
+  "t": "Merevítő végvilla (4130)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut end forks": {
+  "t": "Merevítő végvillák",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut ends, both ends of 4 struts": {
+  "t": "Merevítővégek, 4 merevítő mindkét vége",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut fairings": {
+  "t": "Merevítőburkolatok",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Support each tip on a trestle at 1.5° dihedral until the struts are on.": {
+  "t": "Támassza alá minden szárnyvéget bakon 1.5°-os V-állásnál, amíg a merevítők fel nem kerülnek.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Systems fit-out": {
+  "t": "Rendszerek beszerelése",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-EK Elevator skin": {
+  "t": "T-EK Magassági kormány borítása",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-ES Elevator spar": {
+  "t": "T-ES Magassági kormány főtartója",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-FK Fin skin (one wrap)": {
+  "t": "T-FK Függőleges vezérsík borítása (egy körbefogás)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-FR Fin nose rib": {
+  "t": "T-FR Függőleges vezérsík orrbordája",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-FS Fin spar": {
+  "t": "T-FS Függőleges vezérsík főtartója",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-HK Stabiliser skin (one wrap)": {
+  "t": "T-HK Vízszintes vezérsík borítása (egy körbefogás)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-HR Stabiliser nose rib": {
+  "t": "T-HR Vízszintes vezérsík orrbordája",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-HS Stabiliser spar": {
+  "t": "T-HS Vízszintes vezérsík főtartója",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-RK Rudder skin": {
+  "t": "T-RK Oldalkormány borítása",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-RS Rudder spar": {
+  "t": "T-RS Oldalkormány főtartója",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "TACH instrument": {
+  "t": "TACH műszer",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tail surfaces": {
+  "t": "Farokfelületek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone belly, section 1": {
+  "t": "Farokkúp hasa, 1. szakasz",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone belly, section 2": {
+  "t": "Farokkúp hasa, 2. szakasz",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=1150": {
+  "t": "Farokkúp-válaszfal x=1150",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=1948": {
+  "t": "Farokkúp-válaszfal x=1948",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=2745": {
+  "t": "Farokkúp-válaszfal x=2745",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=3542": {
+  "t": "Farokkúp-válaszfal x=3542",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=4340 (tail post)": {
+  "t": "Farokkúp-válaszfal x=4340 (faroktartó oszlop)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone frustum": {
+  "t": "Farokkúp csonka gúlaként",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone side, section 1 (x2, mirrored)": {
+  "t": "Farokkúp oldala, 1. szakasz (x2, tükrözve)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone side, section 2 (x2, mirrored)": {
+  "t": "Farokkúp oldala, 2. szakasz (x2, tükrözve)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone top, section 1": {
+  "t": "Farokkúp teteje, 1. szakasz",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone top, section 2": {
+  "t": "Farokkúp teteje, 2. szakasz",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel 8 in pneumatic": {
+  "t": "8 in-es pneumatikus farokkerék",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel assembly, 8 in pneumatic": {
+  "t": "Farokkerék-egység, 8 in pneumatikus",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel fork": {
+  "t": "Farokkerék-villa",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring": {
+  "t": "Farokkerék-rugó",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring (spring steel leaf)": {
+  "t": "Farokkerék-rugó (rugóacél laprugó)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring to tail post, 2": {
+  "t": "Farokkerék-rugó a faroktartó oszlophoz, 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring to tail post, 2; Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "t": "Farokkerék-rugó a faroktartó oszlophoz, 2; vízszintes vezérsík tőbordái a farokkúp oldalsó erősítőihez, oldalanként 4; függőleges vezérsík főtartója a faroktartó oszlophoz, 3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring: spring-steel leaf 45 x 8 mm": {
+  "t": "Farokkerék-rugó: rugóacél laprugó 45 x 8 mm",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel steering spring": {
+  "t": "Farokkerék-kormányrugó",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel: a leaf spring, a steerable fork and two springs to the rudder.": {
+  "t": "Farokkerék: egy laprugó, egy kormányozható villa és két rugó az oldalkormányhoz.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Take the skeleton apart. Deburr every hole on both faces.": {
+  "t": "Szedje szét a vázat. Sorjázzon minden furatot mindkét oldalon.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Take-off roll": {
+  "t": "Nekifutási úthossz",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tank strap angle (L)": {
+  "t": "Tartályheveder-szögvas (B)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tank strap angle (R)": {
+  "t": "Tartályheveder-szögvas (J)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tap or shaker test for wing bending and torsion, aileron, elevator and rudder modes. Confirm the mass balance of every control surface.": {
+  "t": "Kopogtatásos vagy rázógépes vizsgálat a szárny hajlítási és csavarási, valamint a csűrő, magassági és oldalkormány lengésképeire. Erősítse meg minden kormányfelület tömegkiegyenlítését.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Taxi tests": {
+  "t": "Gurulópróbák",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Taxi tests, then fast taxi with the tail up.": {
+  "t": "Gurulópróbák, aztán gyors gurulás felemelt farokkal.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Temperatures inside the engine maker's limits, static rpm 2,900–3,100, no abnormal vibration.": {
+  "t": "Hőmérsékletek a motorgyártó határain belül, statikus fordulatszám 2,900–3,100, nincs rendellenes rezgés.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tension each cable with its turnbuckle in the cabin, where you can see it, then safety-wire it. Nicopress every end over a thimble.": {
+  "t": "Feszítsen meg minden kötelet a feszítőcsavarjával a kabinban, ahol látja, aztán biztosítsa dróttal. Minden végét Nicopresszel préselje kötélszív köré.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Test": {
+  "t": "Vizsgálat",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Test budget": {
+  "t": "Vizsgálati költségkeret",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Test programme": {
+  "t": "Vizsgálati program",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Test reports": {
+  "t": "Vizsgálati jegyzőkönyvek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tests": {
+  "t": "Vizsgálatok",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The aircraft is code: one file, aircraft.yaml, generates every part, file and figure on this page.": {
+  "t": "A repülőgép kód: egyetlen fájl, az aircraft.yaml, generál minden alkatrészt, fájlt és számot ezen az oldalon.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The arches sit at the spar stations, so the wing and strut loads go straight into two folded frames.": {
+  "t": "Az ívek a főtartók helyén állnak, így a szárny- és merevítőterhelések egyenesen két hajtott keretbe mennek.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The cowl and nose bowl are flat blanks too: a box-pleated hood and a frustum, with straight creases throughout.": {
+  "t": "A motorburkolat és az orrtál is sík kiterítés: egy dobozredős fedél és egy csonka gúla, mindenhol egyenes hajtásokkal.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The dot is the loading case selected in the table. The shaded band is the full CG range across all cases. The orange line is the neutral point: the CG must stay ahead of it, and the dashed gap between them is the static margin, the aircraft's pitch stability.": {
+  "t": "A pont a táblázatban kiválasztott terhelési eset. A satírozott sáv a teljes súlypont-tartomány az összes esetre. A narancs vonal a semleges pont: a súlypontnak előtte kell maradnia, és a köztük lévő szaggatott rés a statikus stabilitási tartalék, a gép bólintási stabilitása.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The fold geometry. Every panel in the 3D model is produced by refolding the DXF flat pattern, and the rib-to-spar pilot holes are coordinated between parts.": {
+  "t": "A hajtásgeometria. A 3D modell minden panele a DXF sík kiterítés újrahajtogatásával készül, és a borda-főtartó vezetőfuratok az alkatrészek között össze vannak hangolva.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The laminate acting as one section": {
+  "t": "A laminát egy keresztmetszetként működik",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The lips are what let thin laminated sheet act as a spar. Without them a free cap edge buckles at about 26 MPa. With them the cap reaches yield before it buckles.": {
+  "t": "A szegélyek teszik lehetővé, hogy a vékony laminált lemez főtartóként működjön. Nélkülük egy szabad övél kb. 26 MPa-nál kihorpad. Velük az öv előbb éri el a folyáshatárt, mint hogy kihorpadna.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The local-price estimate takes UK VAT off the UK price, converts it at the day's exchange rate, takes about 20 % off US-made hardware, sheet and the engine kit when buying in the US, then adds the country's typical standard VAT, GST or sales tax. It leaves out import duty and shipping. Treat these as rough guides, not quotes.": {
+  "t": "A helyi árbecslés levonja a brit áfát a brit árból, átváltja a napi árfolyamon, az USA-ban vásárolva kb. 20 %-ot levon az amerikai gyártású apró anyagokból, lemezből és a motorkészletből, aztán hozzáadja az ország szokásos általános áfáját, GST-jét vagy forgalmi adóját. A vámot és a szállítást nem tartalmazza. Kezelje durva iránymutatásként, nem árajánlatként.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The numbers": {
+  "t": "A számok",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The pilot sits under the wing between the two arches. Header fuel is ahead of the CG and aux fuel is behind it. The aftmost case is a light pilot with empty tanks and baggage, which gives the minimum static margin:": {
+  "t": "A pilóta a szárny alatt ül a két ív között. A fő tartály üzemanyaga a súlypont előtt, a kiegészítőé mögötte van. A leghátsó eset egy könnyű pilóta üres tartályokkal és csomaggal, ez adja a legkisebb statikus stabilitási tartalékot:",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The rolled nose and the main spar together form a closed D-cell, which carries the wing's twisting loads.": {
+  "t": "A hengerített orrész és a főtartó együtt zárt D-cellát alkot, amely a szárny csavaróterheléseit viseli.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The skins carry no holes of their own. Drilling them from the structure means the holes can't be misaligned.": {
+  "t": "A borításokon nincsenek saját furatok. Mivel a szerkezetről fúrják őket, a furatok nem lehetnek elcsúszva.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The stabiliser and fin use one wrapped skin each.": {
+  "t": "A vízszintes és a függőleges vezérsík egy-egy körbetekert borítást használ.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "This is the sequence for every riveted joint from here on: Cleco, final-drill, take apart, deburr, prime, reassemble, rivet. Later steps call it the riveting loop.": {
+  "t": "Innentől ez a sorrend minden szegecskötésnél: Cleco, végső fúrás, szétszedés, sorjázás, alapozás, összerakás, szegecselés. A későbbi lépések ezt szegecselési ciklusnak hívják.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Three platform scales": {
+  "t": "Három platformmérleg",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Three platform scales in the level attitude.": {
+  "t": "Három platformmérleg vízszintes helyzetben.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Through tang pair + spar web at each spar root, 4 per pair": {
+  "t": "A fülpáron + a főtartó gerincén át minden főtartótőnél, páronként 4",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tools": {
+  "t": "Szerszámok",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Top flange = longeron": {
+  "t": "Felső perem = hosszmerevítő",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Top flange is the longeron: the fold is the stiffener. Openings have 50 mm corner radii (no square corners).": {
+  "t": "A felső perem a hosszmerevítő: a hajtás a merevítés. A nyílásoknak 50 mm-es saroksugara van (nincs szögletes sarok).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Torsional stiffness recorded; it feeds the flutter estimate in phase D.": {
+  "t": "A csavarási merevség rögzítve; ez táplálja a flatterbecslést a D fázisban.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tube cutter, hacksaw, drill press": {
+  "t": "Csővágó, fémfűrész, oszlopos fúrógép",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tube, bar and cable": {
+  "t": "Cső, laposrúd és kötél",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turn it back over. On its three wheels it should sit about 9–11° nose-up.": {
+  "t": "Fordítsa vissza. A három kerekén kb. 9–11°-os orr-fel helyzetben kell állnia.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turn the fuselage upside down on padded trestles.": {
+  "t": "Fordítsa a törzset fejjel lefelé párnázott bakokra.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turn the skeleton upside down. Lay bay 1's skin on it, located at the root rib, with the edge 3 mm short of the rear-spar flange edge.": {
+  "t": "Fordítsa a vázat fejjel lefelé. Fektesse rá az 1. mező borítását a tőbordához igazítva, a széle 3 mm-rel a hátsó főtartó peremének széle előtt.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turn the wing upright. Wrap the skin from the trailing-edge shroud, over the nose, and under to lap the lower skin at 8 % chord.": {
+  "t": "Fordítsa a szárnyat talpra. Tekerje a borítást a kilépőél-burkolattól az orr fölött és alatta, hogy a húr 8 %-ánál átfedje az alsó borítást.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turnbuckle AN130 class + safety wire": {
+  "t": "AN130 osztályú feszítőcsavar + biztosítódrót",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Two halves round the 1.75 in strut tube; the ear bolts also carry the jury-strut end.": {
+  "t": "Két fél az 1.75 in-es merevítőcső körül; a fülcsavarok a segédmerevítő végét is hordozzák.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Two hat pleats (step-folds) are the floor stiffeners; no separate stringers. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "Két kalapredő (lépcsős hajtás) a padlómerevítő; nincsenek külön hosszmerevítők. Laminált: 2 egymásba illesztett 0.020 in réteg, külön hajtva és egyként szegecselve; belső rétegenként vágjon le 0.5 mm-t a peremélekről.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Two plates sandwich each rod end; AN4 pivot, AN3 at each arm.": {
+  "t": "Két lemez fog közre minden gömbcsuklót; AN4 tengely, AN3 minden karon.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ultimate": {
+  "t": "Törő",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
+  "t": "Negatív g-nél a merevítők nyomásba kerülnek. A segédmerevítők felezik a megtámasztás nélküli hosszukat, ami négyszerezi a kihajlási terhelésüket.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Undercarriage": {
+  "t": "Futómű",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Units": {
+  "t": "Mértékegységek",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Unknowns for the next builder": {
+  "t": "Ismeretlenek a következő építő számára",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper cowl (hood, two 90 deg folds)": {
+  "t": "Felső motorburkolat (fedél, két 90 deg hajtás)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper skin, bay 1": {
+  "t": "Felső borítás, 1. mező",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper skin, bay 2": {
+  "t": "Felső borítás, 2. mező",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper skin, bay 3": {
+  "t": "Felső borítás, 3. mező",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper skins: roll the nose": {
+  "t": "Felső borítások: hengerítse az orrészt",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "V-bead pleats + one 165° trailing-edge fold": {
+  "t": "V-redők + egy 165°-os kilépőél-hajtás",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "VHF antenna whip": {
+  "t": "VHF ostorantenna",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CL Cabin roof (centre lower skin)": {
+  "t": "W-CL Kabintető (középső alsó borítás)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CS Aileron / flap skin (identical x4)": {
+  "t": "W-CS Csűrő- / fékszárnyborítás (azonos x4)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CSS Aileron / flap spar (identical x4)": {
+  "t": "W-CSS Csűrő- / fékszárnyfőtartó (azonos x4)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CT Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "t": "W-CT Középszárny kilépőél-burkolat (rögzített, a fékszárnyak között)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CU Centre-section upper skin": {
+  "t": "W-CU Középszárny felső borítás",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-MR Main rib": {
+  "t": "W-MR Fő borda",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-MRe Main rib, root/tip": {
+  "t": "W-MRe Fő borda, tő/vég",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-MS Main spar (lipped C, opens aft)": {
+  "t": "W-MS Főtartó (szegélyes C, hátra nyitott)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-NR Nose rib": {
+  "t": "W-NR Orrborda",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-NRe Nose rib, root/tip": {
+  "t": "W-NRe Orrborda, tő/vég",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-RS Rear spar (lipped C, opens forward)": {
+  "t": "W-RS Hátsó főtartó (szegélyes C, előre nyitott)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SL1 Lower skin, bay 1": {
+  "t": "W-SL1 Alsó borítás, 1. mező",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SL2 Lower skin, bay 2": {
+  "t": "W-SL2 Alsó borítás, 2. mező",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SL3 Lower skin, bay 3": {
+  "t": "W-SL3 Alsó borítás, 3. mező",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SU1 Upper skin, bay 1": {
+  "t": "W-SU1 Felső borítás, 1. mező",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SU2 Upper skin, bay 2": {
+  "t": "W-SU2 Felső borítás, 2. mező",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SU3 Upper skin, bay 3": {
+  "t": "W-SU3 Felső borítás, 3. mező",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Weeks 1–4": {
+  "t": "1–4. hét",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Weigh and balance": {
+  "t": "Mérlegelés és súlypont",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Weigh, test, fly-off": {
+  "t": "Mérlegelés, vizsgálat, berepülés",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Weight, not tank size, sets the range": {
+  "t": "A tömeg, nem a tartályméret határozza meg a hatótávolságot",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "What is known, and what is not": {
+  "t": "Mit tudunk, és mit nem",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "What it costs": {
+  "t": "Mennyibe kerül",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wheel hub": {
+  "t": "Kerékagy",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wheels, 21 x 8.00-6 tundra tyres, drum brakes x2": {
+  "t": "Kerekek, 21 x 8.00-6 tundra gumik, dobfékek x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Where it goes": {
+  "t": "Hová kerül",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Where the balance point sits": {
+  "t": "Hol van a súlypont",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Whole aircraft": {
+  "t": "Teljes repülőgép",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Whole-wing strength and stiffness": {
+  "t": "Az egész szárny szilárdsága és merevsége",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Why start here: the four stands use every skill the aircraft needs, on parts that don't fly. Get it wrong here, not on a spar. You need the stands anyway: the wings are built and parked on them until step 15.": {
+  "t": "Miért itt kezdjük: a négy állvány minden készséget igényel, ami a repülőgéphez kell, nem repülő alkatrészeken. Itt hibázzon, ne egy főtartón. Az állványokra amúgy is szüksége lesz: a szárnyak rajtuk épülnek és pihennek a 15. lépésig.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Will it fly well?": {
+  "t": "Jól fog repülni?",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Windscreen (cold-bent flat polycarbonate)": {
+  "t": "Szélvédő (hidegen hajlított sík polikarbonát)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Windscreen, door and side windows": {
+  "t": "Szélvédő, ajtó és oldalablakok",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Windscreen, side windows, door": {
+  "t": "Szélvédő, oldalablakok, ajtó",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Windscreen: flat sheet, bedded on foam tape on the firewall and windscreen flanges.": {
+  "t": "Szélvédő: sík lemez, habszalagra fektetve a tűzfal- és szélvédőperemeken.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing and airframe": {
+  "t": "Szárny és sárkányszerkezet",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing lift uses a Schrenk distribution, with each wing pinned at the cabin arch and a V-strut at the 2.4 m rib. Gust loads are below the manoeuvre case. Laminated spars are checked as one section, which assumes rivet pitch close enough to stop the layers buckling separately.": {
+  "t": "A szárny felhajtóereje Schrenk-eloszlást használ, minden szárny a kabinívnél csuklósan rögzítve és V-merevítővel a 2.4 m-es bordánál. A széllökés-terhelések a manővereset alatt vannak. A laminált főtartókat egy keresztmetszetként ellenőrizzük, ami feltételezi, hogy a szegecsosztás elég sűrű ahhoz, hogy a rétegek ne horpadjanak ki külön.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing loading": {
+  "t": "Felületi terhelés",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing proof load": {
+  "t": "Szárny próbaterhelése",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing stands (step 0)": {
+  "t": "Szárnyállványok (0. lépés)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing torsion": {
+  "t": "Szárny csavarodása",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wings on": {
+  "t": "Szárnyak a helyükön",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "With X-ray on, every run is colour-coded: orange rudder, cyan elevator, purple aileron, green flap, red fuel, white pitot, grey static, yellow 12 V, pink coax.": {
+  "t": "Bekapcsolt röntgennél minden vezeték színkódolt: narancs oldalkormány, cián magassági kormány, lila csűrő, zöld fékszárny, piros üzemanyag, fehér pitot, szürke statikus, sárga 12 V, rózsaszín koax.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "With a helper at the tip, lift each wing until its root tangs slide into the arch-top clevises.": {
+  "t": "Egy segítővel a szárnyvégnél emelje fel mindkét szárnyat, amíg a tőfülek be nem csúsznak az ívtetők villáiba.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Write the part number on every blank. Keep the blanks in step order.": {
+  "t": "Írja fel az alkatrészszámot minden kiterítésre. A kiterítéseket a lépések sorrendjében tárolja.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "X-ray": {
+  "t": "Röntgen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "arch-foot bellcrank up the rear-arch leg to the arch-top bellcrank": {
+  "t": "ívtalp könyökemelője fel a hátsó ív lábán az ívtető könyökemelőjéig",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "arch-top bellcrank to outboard bellcrank, through rib lightening holes": {
+  "t": "ívtető könyökemelője a külső könyökemelőig, a bordák könnyítő furatain át",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "aux": {
+  "t": "kiegészítő",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "blanks": {
+  "t": "kiterítés",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "blanks in all": {
+  "t": "kiterítés összesen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "bolts": {
+  "t": "csavar",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "bought or welded": {
+  "t": "vásárolt vagy hegesztett",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "buckling": {
+  "t": "kihajlás",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "centre torque-tube arm to flap bellcrank": {
+  "t": "középső torziós csőkar a fékszárny könyökemelőjéig",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "check, then commit": {
+  "t": "ellenőrizd, aztán véglegesítsd",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "clean": {
+  "t": "tiszta",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "close up": {
+  "t": "lezárás",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "crease pattern": {
+  "t": "hajtásminta",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "crippling": {
+  "t": "lokális horpadás",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "each with a pass criterion": {
+  "t": "mindegyik megfelelési kritériummal",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "fabricated or bought for half-VW": {
+  "t": "half-VW-hez gyártva vagy vásárolva",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "faying surfaces and interior": {
+  "t": "illeszkedő felületek és belső",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "finished": {
+  "t": "kész",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "flat blanks, one sheet gauge": {
+  "t": "sík kiterítések, egy lemezvastagság",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "fold the same way": {
+  "t": "ugyanúgy hajtsa",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "fold to the marks": {
+  "t": "hajtsa a jelölésekig",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "fuel": {
+  "t": "üzemanyag",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "give it roundness": {
+  "t": "adjon neki gömbölyűséget",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "gravity feed": {
+  "t": "gravitációs ellátás",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "gust": {
+  "t": "széllökés",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "hard": {
+  "t": "erős",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "header": {
+  "t": "fő",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "header full": {
+  "t": "fő tele",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "header tank + aux tank, both in the cabin": {
+  "t": "fő tartály + kiegészítő tartály, mindkettő a kabinban",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "includes 15 % spares": {
+  "t": "15 % tartalékot tartalmaz",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "insert: the lock": {
+  "t": "beillesztés: a zár",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "laminated wood, CC0 model": {
+  "t": "rétegelt fa, CC0 modell",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "light braking": {
+  "t": "enyhe fékezés",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "make soft creases": {
+  "t": "lágy hajtások készítése",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "materials and hire, rough": {
+  "t": "anyagok és bérlés, durván",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "max take-off mass": {
+  "t": "max. felszálló tömeg",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "mountain": {
+  "t": "hegy",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "mountain and valley folds": {
+  "t": "hegy- és völgyhajtások",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "neutral point": {
+  "t": "semleges pont",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "no reserve": {
+  "t": "nincs tartalék",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "no sheet blanks": {
+  "t": "nincs lemezkiterítés",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "none: over MTOW": {
+  "t": "semmi: MTOW felett",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "open out": {
+  "t": "nyissa ki",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "or a club CNC router": {
+  "t": "vagy egy klub CNC-marója",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "part-time, alongside the build": {
+  "t": "részmunkaidőben, az építés mellett",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "pilot": {
+  "t": "pilóta",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "pilot hole": {
+  "t": "vezetőfurat",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "pin-to-pin; AN5 each end": {
+  "t": "csaptól csapig; AN5 mindkét végén",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "pleat": {
+  "t": "redő",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "practice piece": {
+  "t": "gyakorlódarab",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "public domain": {
+  "t": "közkincs",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "radio optional in SSDR": {
+  "t": "rádió opcionális SSDR-ben",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "reference points": {
+  "t": "referenciapontok",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "right angle": {
+  "t": "derékszög",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "rivets": {
+  "t": "szegecs",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "rolled zone": {
+  "t": "hengerített zóna",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "rough build cost": {
+  "t": "durva építési költség",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "same angle": {
+  "t": "azonos szög",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "same angle: converging creases": {
+  "t": "azonos szög: összetartó hajtások",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "same length": {
+  "t": "azonos hossz",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "short grass": {
+  "t": "rövid fű",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "static margin": {
+  "t": "statikus stabilitási tartalék",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "still air, 75 % power": {
+  "t": "szélcsend, 75 % teljesítmény",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "subtotal": {
+  "t": "részösszeg",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "tool, reused": {
+  "t": "szerszám, újrahasznosítva",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "torque-tube arm to arch-foot bellcrank": {
+  "t": "torziós csőkar az ívtalp könyökemelőjéig",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "tundra tyres at 10–12 psi, 8 in tailwheel": {
+  "t": "tundra gumik 10–12 psi-n, 8 in-es farokkerék",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "turn it over": {
+  "t": "fordítsa meg",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "unique": {
+  "t": "egyedi",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "unique blanks": {
+  "t": "egyedi kiterítés",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "useful load": {
+  "t": "hasznos teher",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "valley": {
+  "t": "völgy",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "via floor pulley + 3 fairleads; Nicopress + thimble each end": {
+  "t": "padlócsigán + 3 kötélvezetőn át; Nicopress + kötélszív mindkét végén",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "via pulley at bulkhead 1 + 3 fairleads; turnbuckle": {
+  "t": "az 1. válaszfal csigáján + 3 kötélvezetőn át; feszítőcsavar",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "wingspan": {
+  "t": "fesztáv",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "{w} x {h} mm flat, {f} folds, {p} pilot holes": {
+  "t": "{w} x {h} mm kiterítve, {f} hajtás, {p} vezetőfurat",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ }
+}

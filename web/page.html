@@ -481,18 +481,37 @@ a.pbtn[aria-disabled="true"]{opacity:.45;cursor:not-allowed;pointer-events:none}
 <div class="wrap">
 <article>
   <div class="tabbar" role="tablist" aria-label="Design data">
-    <button role="tab" data-tab="numbers" aria-selected="true" data-i18n>The numbers</button>
-    <button role="tab" data-tab="cost" aria-selected="false" data-i18n>Cost</button>
+    <button role="tab" data-tab="cost" aria-selected="true" data-i18n>Cost</button>
     <button role="tab" data-tab="bom" aria-selected="false" data-i18n>Bill of materials</button>
+    <button role="tab" data-tab="numbers" aria-selected="false" data-i18n>The numbers</button>
   </div>
 
-  <section class="tabpane" id="tab-numbers">
-    <div class="kicker">01 — <span data-i18n>Performance</span></div>
+
+
+  <section class="tabpane" id="tab-cost">
+    <div class="kicker">01 — <span data-i18n>Cost</span></div>
+    <h2 data-i18n>What it costs</h2>
+    <p id="costNote"></p>
+    <div class="tbl"><table id="costT"><thead><tr><th>Category</th><th class="r">Amount</th></tr></thead><tbody></tbody></table></div>
+    <p class="small">Exchange rates are 19 October 2026 closes (Pound Sterling Live). "Local-price estimate" takes VAT off the UK price, applies about 20 % off US-made aircraft hardware, aero sheet and the engine kit when buying in the US, then adds a typical local sales tax: US shown before sales tax, EU 21 %, Japan 10 %, Australia 10 % GST, Canada 13 % HST. Treat these as rough guides, not quotes.</p>
+  </section>
+
+  <section class="tabpane" id="tab-bom" hidden>
+    <div class="kicker">02 — <span data-i18n>Bill of materials</span></div>
+    <h2 data-i18n>Everything that goes into one aircraft</h2>
+    <p>Every folded blank, every rivet by grip, every AN bolt by step, plus tube stock, bought assemblies, consumables and tools. Each line has an estimated price. The same list is in <code>BOM.csv</code> and <code>HARDWARE_BY_STEP.csv</code> in the download.</p>
+    <div class="bomtools"><div class="bomtabs" id="bomTabs" role="group" aria-label="BOM category"></div><button class="pbtn" id="bomCsv" data-i18n>Export BOM (.csv)</button></div>
+    <p class="small" id="bomMsg" aria-live="polite"></p>
+    <div class="tbl bomwrap"><table id="bomT"><thead><tr><th>Item</th><th>Spec</th><th>Qty</th><th>Step</th><th class="r">Each</th><th class="r">Line</th><th>Notes</th></tr></thead><tbody></tbody></table></div>
+  </section>
+
+  <section class="tabpane" id="tab-numbers" hidden>
+    <div class="kicker">03 — <span data-i18n>Performance</span></div>
     <h2 data-i18n>Will it fly well?</h2>
     <p class="big" id="flyLede"></p>
     <dl class="spec" id="spec"></dl>
 
-    <div class="kicker">02 — <span data-i18n>Fuel and payload</span></div>
+    <div class="kicker">04 — <span data-i18n>Fuel and payload</span></div>
     <h2 data-i18n>Weight, not tank size, sets the range</h2>
     <div class="cols">
       <div>
@@ -506,12 +525,12 @@ a.pbtn[aria-disabled="true"]{opacity:.45;cursor:not-allowed;pointer-events:none}
       </div>
     </div>
 
-    <div class="kicker">03 — <span data-i18n>Structure</span></div>
+    <div class="kicker">05 — <span data-i18n>Structure</span></div>
     <h2 data-i18n>First-pass strength: +4 / −2 g, ×1.5 ultimate</h2>
     <p id="stLede"></p>
     <div class="tbl"><table id="stT"><thead><tr><th data-i18n>Member</th><th data-i18n>Ultimate</th><th data-i18n>Allowable</th><th data-i18n>Margin</th></tr></thead><tbody></tbody></table></div>
 
-    <div class="kicker">04 — <span data-i18n>Honesty</span></div>
+    <div class="kicker">06 — <span data-i18n>Honesty</span></div>
     <h2 data-i18n>What is known, and what is not</h2>
     <div class="truth">
       <div><h4 data-i18n>Exact</h4><p data-i18n>The fold geometry. Every panel in the 3D model is produced by refolding the DXF flat pattern, and the rib-to-spar pilot holes are coordinated between parts.</p></div>
@@ -520,23 +539,6 @@ a.pbtn[aria-disabled="true"]{opacity:.45;cursor:not-allowed;pointer-events:none}
       <div><h4 data-i18n>Not proven</h4><p data-i18n>No physical part has been cut. Fold one rib and one spar offcut first to check the bend deduction.</p></div>
     </div>
     <p class="small" data-i18n>A UK SSDR aircraft needs no airworthiness approval, so all the responsibility is the builder's. Proof-load the wing with sandbags to +4 g and have a BMAA or LAA inspector look at it before it flies. Elsewhere, check your national microlight rules.</p>
-  </section>
-
-  <section class="tabpane" id="tab-cost" hidden>
-    <div class="kicker">05 — <span data-i18n>Cost</span></div>
-    <h2 data-i18n>What it costs</h2>
-    <p id="costNote"></p>
-    <div class="tbl"><table id="costT"><thead><tr><th>Category</th><th class="r">Amount</th></tr></thead><tbody></tbody></table></div>
-    <p class="small">Exchange rates are 19 October 2026 closes (Pound Sterling Live). "Local-price estimate" takes VAT off the UK price, applies about 20 % off US-made aircraft hardware, aero sheet and the engine kit when buying in the US, then adds a typical local sales tax: US shown before sales tax, EU 21 %, Japan 10 %, Australia 10 % GST, Canada 13 % HST. Treat these as rough guides, not quotes.</p>
-  </section>
-
-  <section class="tabpane" id="tab-bom" hidden>
-    <div class="kicker">06 — <span data-i18n>Bill of materials</span></div>
-    <h2 data-i18n>Everything that goes into one aircraft</h2>
-    <p>Every folded blank, every rivet by grip, every AN bolt by step, plus tube stock, bought assemblies, consumables and tools. Each line has an estimated price. The same list is in <code>BOM.csv</code> and <code>HARDWARE_BY_STEP.csv</code> in the download.</p>
-    <div class="bomtools"><div class="bomtabs" id="bomTabs" role="group" aria-label="BOM category"></div><button class="pbtn" id="bomCsv" data-i18n>Export BOM (.csv)</button></div>
-    <p class="small" id="bomMsg" aria-live="polite"></p>
-    <div class="tbl bomwrap"><table id="bomT"><thead><tr><th>Item</th><th>Spec</th><th>Qty</th><th>Step</th><th class="r">Each</th><th class="r">Line</th><th>Notes</th></tr></thead><tbody></tbody></table></div>
   </section>
 
 </article>

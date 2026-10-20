@@ -1,182 +1,3972 @@
 {
+ "1 m hand bending brake (or hardwood bending blocks in a vise)": {
+  "t": "1 m 手動ベンダー（または万力に挟んだ堅木の曲げ型）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in Clecos (300) + Cleco pliers": {
+  "t": "1/8 in Cleco（300 個）+ Cleco プライヤー",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)": {
+  "t": "1/8 in 丸頭アルミ製ブラインドリベット、グリップ -1（1.6 mm まで）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in domed aluminium blind rivet, grip -2 (1.6-3.2 mm)": {
+  "t": "1/8 in 丸頭アルミ製ブラインドリベット、グリップ -2（1.6-3.2 mm）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in hole duplicator": {
+  "t": "1/8 in 穴位置コピーツール",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in stainless/Monel blind rivet (fire-zone)": {
+  "t": "1/8 in ステンレス/Monel 製ブラインドリベット（防火区域）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "2 m section in four-point bending, loaded in steps to 1.5 × the +4 g limit bending moment.": {
+  "t": "2 m の区間を四点曲げにかけ、段階的に +4 g 制限曲げモーメントの 1.5 × まで負荷する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "2 x AN4 at the tail post": {
+  "t": "テールポストに 2 x AN4",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "2 x AN5 holes at the top, axle boss at the bottom": {
+  "t": "上部に 2 x AN5 穴、下部に車軸ボス",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "4 x 1.79 m wing, 2 x 1.0 m elevators, 1.24 m rudder, door": {
+  "t": "主翼 4 x 1.79 m、昇降舵 2 x 1.0 m、方向舵 1.24 m、ドア",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "4130 fittings": {
+  "t": "4130 製金具",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "75 mm tube + ratchet strap (nose roller)": {
+  "t": "75 mm パイプ + ラチェットベルト（前縁ローラー）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "; {n} parts x {l} laminated layers": {
+  "t": "; {n} 部品 x {l} 層ラミネート",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A BMAA or LAA inspector reviews the aircraft and the evidence.": {
+  "t": "BMAA または LAA の検査員が機体と証拠を審査する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A UK SSDR aircraft needs no airworthiness approval, so all the responsibility is the builder's. Proof-load the wing with sandbags to +4 g and have a BMAA or LAA inspector look at it before it flies. Elsewhere, check your national microlight rules.": {
+  "t": "英国の SSDR 機には耐空性承認が不要なので、責任はすべて製作者にあります。砂袋で主翼を +4 g まで保証荷重試験し、飛ぶ前に BMAA または LAA の検査員に見てもらってください。その他の国では、自国の超軽量動力機の規則を確認してください。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A concept design, published for study. It is not an approved design, and nothing here is airworthiness advice.": {
+  "t": "研究用に公開されたコンセプト設計です。承認された設計ではなく、ここにあるものは耐空性に関する助言ではありません。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A single-seat microlight anyone can build. Every sheet part is a flat blank with straight folds, cut from one gauge of aluminium.": {
+  "t": "誰でも作れる単座の超軽量機。すべての板金部品は直線の折り目を持つ平らなブランクで、1 種類の板厚のアルミから切り出します。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A4-1 blind rivet": {
+  "t": "A4-1 ブラインドリベット",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A4-2 blind rivet": {
+  "t": "A4-2 ブラインドリベット",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A4-SS blind rivet": {
+  "t": "A4-SS ブラインドリベット",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "ALT instrument": {
+  "t": "ALT 計器",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 bolt (10-32), AN365-1032 nut, AN960-10 washers": {
+  "t": "AN3 ボルト（10-32）、AN365-1032 ナット、AN960-10 ワッシャー",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 bolt, AN365-1032 nut": {
+  "t": "AN3 ボルト、AN365-1032 ナット",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 bolt, AN365-1032 nut, rod end between the plates": {
+  "t": "AN3 ボルト、AN365-1032 ナット、プレート間にロッドエンド",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 bolt, AN365-1032 nut, through 3/16 in rod end": {
+  "t": "AN3 ボルト、AN365-1032 ナット、3/16 in ロッドエンドを貫通",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 each end": {
+  "t": "両端に AN3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt (1/4-28), AN365-428 nut, 2 x AN960-416 washers": {
+  "t": "AN4 ボルト（1/4-28）、AN365-428 ナット、2 x AN960-416 ワッシャー",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt, AN310-4 + cotter (pivot)": {
+  "t": "AN4 ボルト、AN310-4 + 割りピン（ピボット）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt, AN310-4 castle nut + cotter": {
+  "t": "AN4 ボルト、AN310-4 キャッスルナット + 割りピン",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt, AN365-428 nut": {
+  "t": "AN4 ボルト、AN365-428 ナット",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt, AN365-428 nut, AN970-4 washer each side": {
+  "t": "AN4 ボルト、AN365-428 ナット、両側に AN970-4 ワッシャー",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 bolt (5/16-24), AN365-524 nut, AN970-5 large washers": {
+  "t": "AN5 ボルト（5/16-24）、AN365-524 ナット、AN970-5 大径ワッシャー",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 bolt + rubber isolator (Lord-type) + AN365-524": {
+  "t": "AN5 ボルト + ゴム防振マウント（Lord 型）+ AN365-524",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 bolt, AN310-5 castellated nut, MS24665 cotter": {
+  "t": "AN5 ボルト、AN310-5 キャッスルナット、MS24665 割りピン",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 bolt, AN365-524 nut": {
+  "t": "AN5 ボルト、AN365-524 ナット",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 clevis pin (bolt), AN310-5 castellated nut, MS24665 cotter": {
+  "t": "AN5 クレビスピン（ボルト）、AN310-5 キャッスルナット、MS24665 割りピン",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 prop bolt, AN310-5 + safety wire (per prop maker)": {
+  "t": "AN5 プロペラボルト、AN310-5 + 安全線（プロペラメーカーの指示どおり）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "ASI instrument": {
+  "t": "ASI 計器",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "About 10 months": {
+  "t": "約 10 か月",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "t": "エルロン / フラップホーン、4130 0.063in（下面外板に 1 回折り）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron / flap skin (identical x4)": {
+  "t": "エルロン / フラップ外板（同一 x4）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron / flap spar (identical x4)": {
+  "t": "エルロン / フラップ桁（同一 x4）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron and flap horns (K-HN), 1 per surface": {
+  "t": "エルロンとフラップのホーン（K-HN）、各舵面に 1 個",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron link (cabin) x2": {
+  "t": "エルロンリンク（キャビン）x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron link (cabin) x2: 6061-T6 3/8 x 0.035 in": {
+  "t": "エルロンリンク（キャビン）x2：6061-T6 3/8 x 0.035 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron pushrod (arch) x2": {
+  "t": "エルロンプッシュロッド（アーチ）x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron pushrod (arch) x2: 6061-T6 3/8 x 0.035 in": {
+  "t": "エルロンプッシュロッド（アーチ）x2：6061-T6 3/8 x 0.035 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron pushrod (wing) x2": {
+  "t": "エルロンプッシュロッド（主翼）x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron pushrod (wing) x2: 6061-T6 1/2 x 0.035 in": {
+  "t": "エルロンプッシュロッド（主翼）x2：6061-T6 1/2 x 0.035 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron torque tube": {
+  "t": "エルロントルクチューブ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ailerons: a short link from the torque-tube arm to the arch-foot bellcrank, a pushrod up the rear-arch leg to the arch-top bellcrank, then out through the rib lightening holes to the outboard bellcrank, which drives the K-HN horn on the aileron. Flaps: overhead lever, a short rod to the centre-section torque-tube arms, then pushrods to the flap bellcranks and K-HN horns.": {
+  "t": "エルロン：トルクチューブのアームからアーチ脚部のベルクランクへ短いリンク、後部アーチの脚に沿ってアーチ上部のベルクランクへプッシュロッド、さらにリブの軽量化穴を通って外側のベルクランクへ。これがエルロンの K-HN ホーンを動かす。フラップ：天井のレバーから中央翼トルクチューブのアームへ短いロッド、そこからフラップのベルクランクと K-HN ホーンへプッシュロッド。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "All 52 ribs are the same two blanks. The pilot holes locate them, so no jig is needed.": {
+  "t": "52 枚のリブはすべて同じ 2 種類のブランクから作る。パイロット穴が位置を決めるので治具は不要。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "All six faces aim at one vanishing point, so each face is flat and every crease is straight.": {
+  "t": "6 つの面はすべて 1 つの消失点を向いているので、各面は平らで、すべての折り目は直線になる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "All the glazing is flat sheet: no forming and no moulds.": {
+  "t": "窓はすべて平板：成形も型も不要。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Allowable": {
+  "t": "許容値",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "An engineering test plan modelled on BCAR Section S practice, not a regulatory approval route. Costs are rough ranges for materials, hire and consumables, not labour, and exclude the airframe itself. The plan lives in qualification.yaml in the repository, and its pass criteria use the live numbers from the build.": {
+  "t": "BCAR Section S の慣行にならった技術試験計画であり、規制上の承認ルートではありません。費用は材料、レンタル、消耗品のおおよその範囲で、人件費と機体そのものは含みません。計画はリポジトリの qualification.yaml にあり、合格基準はビルドのライブ数値を使います。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Approach the stall in 1 kt steps, flaps up and down, at forward and aft CG.": {
+  "t": "1 kt 刻みで失速に近づける。フラップ上げと下げ、前方 CG と後方 CG で行う。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Arch over the pilot. Spar-root fittings bolt to its top corners, strut fittings to its feet. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "パイロットの上を通るアーチ。桁根元金具は上部の角に、ストラット金具は脚部にボルト留めする。ラミネート：0.020 in を 2 層重ね、別々に曲げて 1 枚としてリベット留め。内側の層ごとにフランジ端を 0.5 mm 削る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "As above, including the reversed load case at −2 g.": {
+  "t": "上記と同じ。−2 g の逆荷重ケースも含む。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "At least 1.5 × the full-power fuel flow from either tank.": {
+  "t": "どちらのタンクからも、全出力燃料流量の 1.5 × 以上。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aux fuel tank 20 L (rotomoulded), high behind the seat, gravity feed": {
+  "t": "補助燃料タンク 20 L（回転成形）、座席の後ろ上方、重力供給",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aux tank 20 L behind the seat + selector valve + line": {
+  "t": "座席後方の 20 L 補助タンク + 切替バルブ + 配管",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aux tank filler (through the left cabin side, behind the door)": {
+  "t": "補助タンク給油口（キャビン左側面、ドアの後ろ）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aviation snips (straight, left, right)": {
+  "t": "航空用金切りばさみ（直線、左、右）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Axle bolt AN6 + castellated nut AN310-6 + cotter MS24665": {
+  "t": "車軸ボルト AN6 + キャッスルナット AN310-6 + 割りピン MS24665",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Back-drill #40 through the rib and spar-cap pilot holes, using the hole duplicator where you can't reach from inside. Cleco as you go.": {
+  "t": "リブと桁キャップのパイロット穴を通して #40 でバックドリルする。内側から届かない所は穴位置コピーツールを使う。進めながら Cleco を差す。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Back-drill through the rib flanges and spar caps. Do the nose last, working from the spar forward.": {
+  "t": "リブのフランジと桁キャップを通してバックドリルする。前縁は最後に、桁から前へ向かって作業する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Baggage locker behind the seat (net, 5 kg max)": {
+  "t": "座席後方の荷物入れ（ネット、最大 5 kg）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Battery + radio + antenna": {
+  "t": "バッテリー + 無線機 + アンテナ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Battery 12 V LiFePO4 in vented box (under the seat)": {
+  "t": "換気ボックス内の 12 V LiFePO4 バッテリー（座席下）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcrank arms in the cabin, 2 per bellcrank; Bellcrank arms in the wings, 2 per bellcrank": {
+  "t": "キャビン内のベルクランクアーム、各ベルクランクに 2 個；主翼内のベルクランクアーム、各ベルクランクに 2 個",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "t": "キャビン内のベルクランクブラケット（アーチ / 桁へ）、各 2 個；主翼内のベルクランクブラケット（アーチ / 桁へ）、各 2 個",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcrank pivots in the cabin (K-BC pair through its K-CV bracket); Bellcrank pivots in the wings (K-BC pair through its K-CV bracket)": {
+  "t": "キャビン内のベルクランクピボット（K-BC 対を K-CV ブラケットに通す）；主翼内のベルクランクピボット（K-BC 対を K-CV ブラケットに通す）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "t": "ベルクランクプレート、4130 0.063in（対、55 mm アーム）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcranks: each is a pair of K-BC plates, 16 mm apart, on an AN4 pivot through a folded K-CV bracket. The rod ends sit between the plates on AN3 bolts. Five per side: aileron arch-foot, arch-top and outboard (at the rear spar); flap torque-tube arm and flap bellcrank.": {
+  "t": "ベルクランク：それぞれ 16 mm 間隔の K-BC プレート 1 対で、折り曲げた K-CV ブラケットを貫く AN4 ピボットに付く。ロッドエンドはプレート間に AN3 ボルトで収まる。片側 5 個：エルロンのアーチ脚部、アーチ上部、外側（後桁）；フラップのトルクチューブアームとフラップベルクランク。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bench vise with soft jaws": {
+  "t": "ソフト口金付きの万力",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bend deduction": {
+  "t": "曲げ控除",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bend on the brake: each channel is four 90° bends. Bend the two flanges first, then the two lips. Set the nose radius to 1 mm (about 2t for 0.020 in) and overbend about 2° for springback. Check every bend with a square.": {
+  "t": "ベンダーで曲げる：各チャンネルは 90° 曲げが 4 回。まず両フランジ、次に両リップ。刃先半径を 1 mm（0.020 in なら約 2t）に設定し、スプリングバック分として約 2° 余分に曲げる。すべての曲げをスコヤで確認する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bend radius and springback": {
+  "t": "曲げ半径とスプリングバック",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Best climb": {
+  "t": "最良上昇",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
  "Bill of materials": {
   "t": "部品表",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Blanks": {
   "t": "ブランク",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Blind-rivet puller (hand or pneumatic)": {
+  "t": "ブラインドリベッター（手動またはエア式）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt each main-gear spring leg through the floor doubler under the front arch: 2 x AN5 each, large washers both sides.": {
+  "t": "前部アーチ下の床ダブラーを通して各主脚スプリングレッグをボルト留めする：各 2 x AN5、両側に大径ワッシャー。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt in the four harness anchors.": {
+  "t": "4 つのハーネスアンカーをボルト留めする。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt on the propeller and spinner. Torque to the prop maker's figure, then safety-wire.": {
+  "t": "プロペラとスピナーをボルト留めする。プロペラメーカーのトルクで締め、安全線をかける。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the 4130 engine mount through the firewall (4 x AN4) with large washers on the back.": {
+  "t": "4130 製エンジンマウントを防火壁を貫いてボルト留めする（4 x AN4）。裏側に大径ワッシャー。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the four root clevises to the arch tops and the four strut-foot clevises to the arch feet with AN4 bolts.": {
+  "t": "4 つの根元クレビスをアーチ上部に、4 つのストラット脚クレビスをアーチ脚部に AN4 ボルトで留める。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the stabiliser halves to the tailcone side doublers, 4 x AN4 each. Bolt the fin spar to the tail post, 3 x AN4.": {
+  "t": "水平安定板の左右半分をテールコーン側面ダブラーにボルト留めする、各 4 x AN4。垂直安定板の桁をテールポストにボルト留めする、3 x AN4。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the tailwheel spring to the tail post (2 x AN4). Fit the fork and the two steering springs to the rudder horn.": {
+  "t": "尾輪スプリングをテールポストにボルト留めする（2 x AN4）。フォークと 2 本のステアリングスプリングを方向舵ホーンに取り付ける。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the tang pairs either side of each spar web at the root (4 x AN3), and the strut-top clevises under the spars at the 2.4 m rib.": {
+  "t": "根元で各桁ウェブの両側にタング対をボルト留めし（4 x AN3）、2.4 m リブの位置で桁の下にストラット上端クレビスを留める。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolts to the spar web with 4 x AN3 and reaches inboard past the spar end to the arch-top clevis pin.": {
+  "t": "4 x AN3 で桁ウェブにボルト留めし、桁端を越えて内側へ延び、アーチ上部のクレビスピンまで届く。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Both sides are the same blank, mirrored. The openings have 50 mm corner radii because square corners start cracks.": {
+  "t": "左右は同じブランクを反転したもの。開口部の角は半径 50 mm。角が尖っていると亀裂が始まるため。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Both tanks, up to MTOW": {
+  "t": "両タンク、MTOW まで",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bottom + both chamfers + side flanges from one sheet: converging creases, still developable (frustum).": {
+  "t": "底面 + 両面取り + 側面フランジを 1 枚の板から：収束する折り目で、展開可能なまま（角錐台）。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bottom extends between the elevator halves.": {
+  "t": "底面は昇降舵の左右の間まで延びる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bought / fabricated items going on": {
+  "t": "取り付ける購入品 / 製作品",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bought assemblies": {
+  "t": "購入アセンブリ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Box-pleat hood 45°, nose bowl converging creases": {
+  "t": "ボックスプリーツのフード 45°、ノーズボウルの収束折り目",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Brake drum": {
+  "t": "ブレーキドラム",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Build each section upside down on a straight edge: bulkheads Clecoed into the belly, then the sides, then the top.": {
+  "t": "各セクションは直定規の上で逆さに組む：胴体下面に隔壁を Cleco で留め、次に側面、最後に上面。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Build up towards Vne in 5 kt steps, watching for buzz or flutter at every step.": {
+  "t": "5 kt 刻みで Vne に近づけ、各段階でバズやフラッターを監視する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "CG range": {
+  "t": "CG 範囲",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "CHT/EGT instrument": {
+  "t": "CHT/EGT 計器",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "CLmax, drag, propeller efficiency and the neutral point are handbook estimates. Measure stall speed and CG limits in flight test. The 35 kt SSDR stall limit is met with flaps:": {
+  "t": "CLmax、抗力、プロペラ効率、中立点はハンドブックによる推定値です。失速速度と CG 制限は飛行試験で測定してください。35 kt の SSDR 失速制限はフラップ使用で満たします：",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cabin roof (centre lower skin)": {
+  "t": "キャビン天井（中央下面外板）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cabin side (x2, mirrored): door/window opening + front window": {
+  "t": "キャビン側面（x2、鏡像）：ドア/窓開口 + 前窓",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cabin sides and seat": {
+  "t": "キャビン側面と座席",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Carries flap/aileron hinges and rear strut fitting. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "フラップ/エルロンのヒンジと後部ストラット金具を支える。ラミネート：0.020 in を 2 層重ね、別々に曲げて 1 枚としてリベット留め。内側の層ごとにフランジ端を 0.5 mm 削る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Case": {
+  "t": "ケース",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "t": "中央翼後縁フェアリング（固定、フラップの間）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Centre-section upper skin": {
+  "t": "中央翼上面外板",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Check stops, free play, friction and cable tension, then load every circuit to the pilot limit loads.": {
+  "t": "ストッパー、遊び、摩擦、ケーブル張力を確認し、各系統をパイロット制限荷重まで負荷する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Check the cap angle every 500 mm with a square. Sight along the spar for twist.": {
+  "t": "500 mm ごとにスコヤでキャップの角度を確認する。桁に沿って見通し、ねじれを確認する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Check twist by sighting a level across bulkheads 1 and 5. Then join the two sections at bulkhead 3.": {
+  "t": "隔壁 1 と 5 に水準器を当てて見通し、ねじれを確認する。その後、隔壁 3 で 2 つのセクションを結合する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clean and prime. Steel fittings rust under paint if they aren't primed.": {
+  "t": "清掃してプライマーを塗る。鋼製金具はプライマーなしだと塗装の下で錆びる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clecos": {
+  "t": "Cleco",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each": {
+  "t": "アーチ上部と脚部へのクレビスウェブ、各クレビスに 2 個；桁キャップを通るストラット上端とジュリー上端のクレビス、各 2 個",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each; Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "t": "アーチ上部と脚部へのクレビスウェブ、各クレビスに 2 個；桁キャップを通るストラット上端とジュリー上端のクレビス、各 2 個；キャビン内のベルクランクブラケット（アーチ / 桁へ）、各 2 個；主翼内のベルクランクブラケット（アーチ / 桁へ）、各 2 個",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clevis, 4130 0.063in (U, two folds)": {
+  "t": "クレビス、4130 0.063in（U 字、2 回折り）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clevis: two 90° bends at 3t radius": {
+  "t": "クレビス：半径 3t で 90° 曲げを 2 回",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Click to explore": {
+  "t": "クリックして見る",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clip on the strut fairings.": {
+  "t": "ストラットフェアリングをクリップで留める。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Close the bay behind the centre-section rear spar with the W-CT trailing-edge fairing (same wedge fold as the flaps). Do it last, after the flap linkage is rigged and checked.": {
+  "t": "中央翼後桁の後ろの区画を W-CT 後縁フェアリングで塞ぐ（フラップと同じくさび折り）。フラップリンクの調整と確認が済んでから最後に行う。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Closes the control surface; carries hinge and mass-balance arm.": {
+  "t": "舵面を閉じる；ヒンジとマスバランスアームを支える。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Closes the control surface; carries hinge and mass-balance arm. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "舵面を閉じる；ヒンジとマスバランスアームを支える。ラミネート：0.020 in を 2 層重ね、別々に曲げて 1 枚としてリベット留め。内側の層ごとにフランジ端を 0.5 mm 削る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Compass (on the glare shield)": {
+  "t": "コンパス（グレアシールド上）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Components": {
+  "t": "コンポーネント",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Consumables": {
+  "t": "消耗品",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Control stick": {
+  "t": "操縦桿",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Control system": {
+  "t": "操縦系統",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Control-circuit strength": {
+  "t": "操縦系統の強度",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Control-system free play": {
+  "t": "操縦系統の遊び",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Controllable in all axes with trim available. Engine temperatures stable.": {
+  "t": "全軸で操縦可能で、トリムに余裕がある。エンジン温度が安定。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Controls, instruments and systems": {
+  "t": "操縦、計器、システム",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Controls: stick, torque tube, cables, pushrods": {
+  "t": "操縦：操縦桿、トルクチューブ、ケーブル、プッシュロッド",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Converging creases 44°, bulkhead flanges 96–100°": {
+  "t": "収束折り目 44°、隔壁フランジ 96–100°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Copy it, change it, build it, sell it. No permission needed.": {
+  "t": "コピーして、変えて、作って、売ってください。許可は要りません。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cordless drill, #40 (2.5 mm) and #30 (3.3 mm) bits": {
+  "t": "充電式ドリル、#40（2.5 mm）と #30（3.3 mm）ビット",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Cost": {
   "t": "費用",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cotter pins": {
+  "t": "割りピン",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cotter-pin and safety-wire pliers": {
+  "t": "割りピン用・安全線用プライヤー",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Coupons and processes": {
+  "t": "試験片とプロセス",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Covers the top half of the firewall. Camlocks along the firewall flange and the split line.": {
+  "t": "防火壁の上半分を覆う。防火壁フランジと分割線に沿って Camlock。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cowl to firewall flange and along the split line": {
+  "t": "カウルから防火壁フランジへ、および分割線に沿って",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Crippling stress at least {stress:ms_cc}, the design allowable. Layers must not separate before failure.": {
+  "t": "クリップリング応力が設計許容値 {stress:ms_cc} 以上。破壊前に層が剥がれないこと。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cruise 75 %": {
+  "t": "巡航 75 %",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Crush 300 mm lengths of three-layer lipped channel, riveted at design pitch, five samples.": {
+  "t": "3 層のリップ付きチャンネルを設計ピッチでリベット留めした長さ 300 mm の試験片を圧壊する。5 本。",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Currency": {
   "t": "通貨",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut and deburr: the stand blanks are on the same nest sheets as everything else. File every edge smooth and deburr each pilot hole on both faces. Look for burrs with your fingertip, not your eye.": {
+  "t": "切断とバリ取り：スタンドのブランクは他の部品と同じネスティング板に載っている。すべての縁をやすりで滑らかにし、すべてのパイロット穴の両面のバリを取る。バリは目ではなく指先で探す。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut files (DXF and nests), crease patterns, the prop model, the bill of materials and the design report.": {
+  "t": "切断ファイル（DXF とネスティング）、折り目図、プロペラモデル、部品表、設計報告書。",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Cut lengths": {
   "t": "切断長さ",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut list": {
+  "t": "切断リスト",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut the main struts to 2543 mm and the rear struts to 2547 mm pin-to-pin, minus the end-fitting length. All four are 6061-T6 1.75 x 0.065 in tube.": {
+  "t": "メインストラットはピン間 2543 mm、リアストラットは 2547 mm に、端金具の長さを引いて切る。4 本とも 6061-T6 1.75 x 0.065 in のパイプ。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut, deburr, mark": {
+  "t": "切断、バリ取り、けがき",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cylinder": {
+  "t": "シリンダー",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Deburr every edge and hole": {
+  "t": "すべての縁と穴のバリを取る",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Deburr every edge with a file or deburring tool. A burr is where a fatigue crack starts.": {
+  "t": "すべての縁をやすりかバリ取りツールで処理する。バリは疲労亀裂の始まる場所。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Deburr every pilot hole on both faces with a 10 mm bit turned by hand.": {
+  "t": "すべてのパイロット穴の両面を、手で回した 10 mm ビットでバリ取りする。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Deburring tool, 10 mm drill bit (hole deburr), fine file": {
+  "t": "バリ取りツール、10 mm ドリルビット（穴のバリ取り）、細目やすり",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Don't overtighten: nylon washers, and stop when the washer just grips.": {
+  "t": "締めすぎない：ナイロンワッシャーを使い、ワッシャーがちょうど押さえた所で止める。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Door (left, hinged) / side window (right, fixed)": {
+  "t": "ドア（左、ヒンジ付き）/ 側窓（右、固定）",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Download files (.zip)": {
-  "t": "ファイルをダウンロード (.zip)",
-  "by": "claude (hand-written UI seed)",
+  "t": "ファイルをダウンロード（.zip）",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Drawing": {
   "t": "図面",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Drill and cleco: clamp the gussets in place, drill through the pilot holes to #30 (3.3 mm), and put a cleco in every fourth hole as you go. Then take everything apart, deburr the holes and the faying surfaces, and put it back together on clecos.": {
+  "t": "穴あけと Cleco：ガセットを所定位置にクランプし、パイロット穴から #30（3.3 mm）まで穴をあけ、進めながら 4 穴ごとに Cleco を差す。その後すべて分解し、穴と合わせ面のバリを取り、Cleco で組み直す。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Drill press, 1/4 in and 5/16 in reamers": {
+  "t": "ボール盤、1/4 in と 5/16 in リーマー",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Drill, deburr, prime, rivet the skeleton": {
+  "t": "骨組みの穴あけ、バリ取り、下塗り、リベット留め",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Duration": {
+  "t": "期間",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Each cable end": {
+  "t": "各ケーブル端",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Each spar is a laminate: three nested blanks for the main spar, two for the rear. Fold every layer separately, then nest them.": {
+  "t": "各桁はラミネート：主桁は 3 枚、後桁は 2 枚のブランクを重ねる。各層を別々に曲げてから重ねる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Each wing pins on at two points. The struts set its angle.": {
+  "t": "各主翼は 2 点でピン留めされる。ストラットが角度を決める。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ears take an AN5 pin (fore-aft axis); web bolts with 2 x AN4. Bend radius 3t for normalised 4130 (Wanttaja).": {
+  "t": "耳には AN5 ピン（前後方向の軸）が入る；ウェブは 2 x AN4 でボルト留め。焼ならし 4130 の曲げ半径は 3t（Wanttaja）。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Electrics: 12 V LiFePO4 battery in a vented box under the seat. Run it via the master switch and fuses to the radio, with the antenna coax to a whip on the tailcone top. The mag P-lead goes through a firewall grommet. The half-VW's magneto needs no battery to run.": {
+  "t": "電装：12 V LiFePO4 バッテリーを座席下の換気ボックスに。マスタースイッチとヒューズを経て無線機へ、アンテナ同軸はテールコーン上部のホイップへ。マグネトーの P リードは防火壁のグロメットを通す。ハーフ VW のマグネトーは運転にバッテリーを必要としない。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator bellcrank (under seat)": {
+  "t": "昇降舵ベルクランク（座席下）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator cable x2": {
+  "t": "昇降舵ケーブル x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator cable x2: 1/8 in 7x19 galvanised": {
+  "t": "昇降舵ケーブル x2：1/8 in 7x19 亜鉛めっき",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator cables: run one straight line each from the bellcrank to the tail-post grommet, 60 mm apart, up cable above down cable. Fit a phenolic fairlead where each line passes a bulkhead.": {
+  "t": "昇降舵ケーブル：ベルクランクからテールポストのグロメットまで、それぞれ 1 本の直線で 60 mm 離して通す。アップ側ケーブルをダウン側の上に。各ラインが隔壁を通る所にフェノール製フェアリードを付ける。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "t": "昇降舵ホーン、4130 0.063in（両端型、昇降舵トルクチューブ上）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator skin": {
+  "t": "昇降舵外板",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator spar": {
+  "t": "昇降舵桁",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevators and rudder: fold them the same way as the ailerons in step 7 (pleats, then the trailing-edge fold, then the C-spar).": {
+  "t": "昇降舵と方向舵：ステップ 7 のエルロンと同じように曲げる（プリーツ、次に後縁折り、次に C 桁）。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty / MTOW": {
+  "t": "空虚 / MTOW",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty mass and balance": {
+  "t": "空虚質量と重心",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty mass at or below {mass:empty} plus 3 %, and every loading case inside the CG range.": {
+  "t": "空虚質量が {mass:empty} プラス 3 % 以下で、すべての積載ケースが CG 範囲内。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty tanks": {
+  "t": "タンク空",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty tanks, 5 kg baggage (aftmost)": {
+  "t": "タンク空、荷物 5 kg（最後方）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Endurance": {
+  "t": "航続時間",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine and prop": {
+  "t": "エンジンとプロペラ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine and propeller": {
+  "t": "エンジンとプロペラ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine mount": {
+  "t": "エンジンマウント",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine mount to firewall, 4": {
+  "t": "エンジンマウントから防火壁へ、4",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine mount tube (4130)": {
+  "t": "エンジンマウントパイプ（4130）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine runs: full-power static run, mag check, then check cylinder head temperatures.": {
+  "t": "エンジン運転：全出力の静止運転、マグネトー点検、次にシリンダーヘッド温度を確認する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine to mount, 4": {
+  "t": "エンジンからマウントへ、4",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine, cowl, prop": {
+  "t": "エンジン、カウル、プロペラ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Epoxy primer + etch/alodine": {
+  "t": "エポキシプライマー + エッチング/alodine",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Estimated": {
+  "t": "推定",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Estimated flutter speed at least 1.2 × the design dive speed of {speed:Vd}.": {
+  "t": "推定フラッター速度が設計急降下速度 {speed:Vd} の 1.2 × 以上。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every crease goes on the blank before anything is folded, the same order the origami book uses.": {
+  "t": "何かを折る前にすべての折り目をブランクに描く。折り紙の本と同じ順序で。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every flange within ±0.5 mm of the drawing.": {
+  "t": "すべてのフランジが図面から ±0.5 mm 以内。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every number on this site is a calculation. This is the plan for turning them into evidence: cheap coupon tests first, then components, then the whole wing, then the ground and finally the air. Each phase retires a specific risk before money is spent on the next. Results go back into the repository, and measured values replace the estimates in aircraft.yaml.": {
+  "t": "このサイトの数値はすべて計算です。これはそれらを証拠に変える計画です：まず安い試験片の試験、次にコンポーネント、次に主翼全体、次に地上、最後に空中。各段階は、次にお金をかける前に特定のリスクを 1 つ取り除きます。結果はリポジトリに戻り、測定値が aircraft.yaml の推定値に置き換わります。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every result, photo and failure goes into the repository.": {
+  "t": "すべての結果、写真、失敗をリポジトリに入れる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every steel fitting is also a flat blank folded at most twice.": {
+  "t": "すべての鋼製金具も、最大 2 回折るだけの平らなブランク。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Everything that goes into one aircraft": {
+  "t": "1 機に入るものすべて",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Exact": {
+  "t": "正確",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Exchange rates: {date}, base GBP.": {
+  "t": "為替レート：{date}、基準 GBP。",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Export BOM (.csv)": {
-  "t": "部品表を書き出す (.csv)",
-  "by": "claude (hand-written UI seed)",
+  "t": "部品表をエクスポート（.csv）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Extinguisher and PLB": {
+  "t": "消火器と PLB",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B1 Tailcone bulkhead x=1150": {
+  "t": "F-B1 テールコーン隔壁 x=1150",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B2 Tailcone bulkhead x=1948": {
+  "t": "F-B2 テールコーン隔壁 x=1948",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B3 Tailcone bulkhead x=2745": {
+  "t": "F-B3 テールコーン隔壁 x=2745",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B4 Tailcone bulkhead x=3542": {
+  "t": "F-B4 テールコーン隔壁 x=3542",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B5 Tailcone bulkhead x=4340 (tail post)": {
+  "t": "F-B5 テールコーン隔壁 x=4340（テールポスト）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-CL Lower cowl (box-pleat pan to the cabin floor line)": {
+  "t": "F-CL 下部カウル（キャビン床ラインまでのボックスプリーツ皿）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-CU Upper cowl (hood, two 90 deg folds)": {
+  "t": "F-CU 上部カウル（フード、90 deg 折り 2 回）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-DW Door (left, hinged) / side window (right, fixed)": {
+  "t": "F-DW ドア（左、ヒンジ付き）/ 側窓（右、固定）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-FA Front arch (main-spar frame)": {
+  "t": "F-FA 前部アーチ（主桁フレーム）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-FL Floor tray with two hat pleats": {
+  "t": "F-FL ハットプリーツ 2 本の床トレイ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-FW Firewall": {
+  "t": "F-FW 防火壁",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-FWN Front side window (x2, mirrored)": {
+  "t": "F-FWN 前部側窓（x2、鏡像）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-IP Instrument panel (glare-shield fold, side tabs)": {
+  "t": "F-IP 計器盤（グレアシールド折り、側面タブ）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-NF Nose ring (prop-shaft hole + two cooling inlets)": {
+  "t": "F-NF ノーズリング（プロペラ軸穴 + 冷却空気取り入れ口 2 つ）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-NL Nose bowl, chin (3 converging facets)": {
+  "t": "F-NL ノーズボウル、あご（収束面 3 つ）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-NU Nose bowl, upper (3 converging facets)": {
+  "t": "F-NU ノーズボウル、上部（収束面 3 つ）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-RA Rear arch (rear-spar frame)": {
+  "t": "F-RA 後部アーチ（後桁フレーム）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-SD Cabin side (x2, mirrored): door/window opening + front window": {
+  "t": "F-SD キャビン側面（x2、鏡像）：ドア/窓開口 + 前窓",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-ST Seat (pan + back, one sheet)": {
+  "t": "F-ST 座席（座面 + 背もたれ、1 枚板）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TB1 Tailcone belly, section 1": {
+  "t": "F-TB1 テールコーン下面、セクション 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TB2 Tailcone belly, section 2": {
+  "t": "F-TB2 テールコーン下面、セクション 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TS1 Tailcone side, section 1 (x2, mirrored)": {
+  "t": "F-TS1 テールコーン側面、セクション 1（x2、鏡像）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TS2 Tailcone side, section 2 (x2, mirrored)": {
+  "t": "F-TS2 テールコーン側面、セクション 2（x2、鏡像）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TT1 Tailcone top, section 1": {
+  "t": "F-TT1 テールコーン上面、セクション 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TT2 Tailcone top, section 2": {
+  "t": "F-TT2 テールコーン上面、セクション 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-WS Windscreen (cold-bent flat polycarbonate)": {
+  "t": "F-WS 風防（冷間曲げの平板ポリカーボネート）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Faceted rib: every flange is a straight brake bend, no form block or fluting needed.": {
+  "t": "多面体リブ：すべてのフランジはベンダーでの直線曲げ 1 回。成形型もフルーティングも不要。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fairleads and pulleys": {
+  "t": "フェアリードとプーリー",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fasteners": {
+  "t": "締結部品",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fin nose rib": {
+  "t": "垂直安定板前縁リブ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fin skin (one wrap)": {
+  "t": "垂直安定板外板（1 枚巻き）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fin spar": {
+  "t": "垂直安定板桁",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Final-drill every Cleco'd hole to #30 (3.3 mm), a few at a time, moving each Cleco to the next hole as you go.": {
+  "t": "Cleco を差した穴を #30（3.3 mm）で最終穴あけする。数個ずつ、進めながら Cleco を次の穴へ移す。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fine felt marker, steel rule, square, MEK to clean": {
+  "t": "細字フェルトペン、鋼尺、スコヤ、清掃用 MEK",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Finish: glue carpet on top of each beam so the wing skin can't be scratched. Load each stand with 40 kg and check it doesn't rack or rock. Keep the offcuts: they are your test pieces for the spar bend in step 2.": {
+  "t": "仕上げ：主翼外板に傷が付かないよう、各梁の上面にカーペットを貼る。各スタンドに 40 kg を載せ、ゆがみやぐらつきがないか確認する。端材は取っておく：ステップ 2 の桁曲げの試し材になる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fire extinguisher 1 kg (clip by the left seat rail)": {
+  "t": "消火器 1 kg（左座席レール脇にクリップ留め）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Firewall": {
+  "t": "防火壁",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Firewall flanges": {
+  "t": "防火壁フランジ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "First flights": {
+  "t": "初飛行",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "First-pass strength: +4 / −2 g, ×1.5 ultimate": {
+  "t": "一次強度：+4 / −2 g、×1.5 終極",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit each rib by its attach flange: Cleco through the pilot holes into the spar web. Nose ribs go on the front face, main ribs on the back.": {
+  "t": "各リブを取付フランジで取り付ける：パイロット穴から桁ウェブへ Cleco。前縁リブは前面に、メインリブは背面に。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the axles, wheels and drum brakes. Castellated nut and cotter on each axle. The 21 x 8.00-6 tundra tyres run at 10-12 psi: check pressure before every flight, they are soft by design.": {
+  "t": "車軸、車輪、ドラムブレーキを取り付ける。各車軸にキャッスルナットと割りピン。21 x 8.00-6 ツンドラタイヤは 10-12 psi で使う：毎回の飛行前に空気圧を確認すること。設計上やわらかい。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the cabin roof and the centre-section upper skin, back-drilled through the root ribs. Use the riveting loop.": {
+  "t": "キャビン天井と中央翼上面外板を、根元リブを通してバックドリルして取り付ける。リベット留めループを使う。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the camlock receptacles on the firewall flange and along the split line. Trim the cowl until it clears the cylinders by at least 10 mm.": {
+  "t": "防火壁フランジと分割線に沿って Camlock の受け金具を付ける。シリンダーとのすき間が 10 mm 以上になるまでカウルを削る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the jury struts (420 mm main, 425 mm rear) from the clamp ear to the jury-top clevis under the spar, AN3 at each end. They double the strut's buckling strength.": {
+  "t": "ジュリーストラット（メイン 420 mm、リア 425 mm）を、クランプの耳から桁下のジュリー上端クレビスまで取り付ける。両端に AN3。これでストラットの座屈強度が 2 倍になる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the sides outside the arches, firewall flange and floor flanges. Back-drill and Cleco.": {
+  "t": "側面をアーチ、防火壁フランジ、床フランジの外側に取り付ける。バックドリルして Cleco を差す。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the stick, the aileron torque tube under the seat and the elevator bellcrank. Connect the stick to the bellcrank with a short pushrod.": {
+  "t": "操縦桿、座席下のエルロントルクチューブ、昇降舵ベルクランクを取り付ける。操縦桿とベルクランクを短いプッシュロッドで結ぶ。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Five facets, chamfers matching the cabin floor. A louvre slot at the rear is the cooling-air exit.": {
+  "t": "5 面構成で、面取りはキャビン床に合わせる。後部のルーバースロットが冷却空気の出口。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges 90°, all toward the root": {
+  "t": "フランジ 90°、すべて根元側へ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges all round fold aft; engine mount bolts through 4 doublers.": {
+  "t": "全周のフランジを後方へ折る；エンジンマウントは 4 枚のダブラーを通してボルト留め。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges follow the frustum taper (fold < 90 deg).": {
+  "t": "フランジは角錐台のテーパーに沿う（折り < 90 deg）。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges follow the frustum taper (fold < 90 deg). Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "フランジは角錐台のテーパーに沿う（折り < 90 deg）。ラミネート：0.020 in を 2 層重ね、別々に曲げて 1 枚としてリベット留め。内側の層ごとにフランジ端を 0.5 mm 削る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges follow the nose taper.": {
+  "t": "フランジは機首のテーパーに沿う。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flap lever (overhead, Kitfox-style)": {
+  "t": "フラップレバー（天井、Kitfox 式）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flap pushrod (wing) x2": {
+  "t": "フラッププッシュロッド（主翼）x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flap pushrod (wing) x2: 6061-T6 3/8 x 0.035 in": {
+  "t": "フラッププッシュロッド（主翼）x2：6061-T6 3/8 x 0.035 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flap stall at or below 35 kt CAS, the SSDR limit; predicted {speed:Vs0}. Gentle stall, no wing drop.": {
+  "t": "フラップ失速が 35 kt CAS（SSDR 制限）以下；予測値 {speed:Vs0}。穏やかな失速で、翼が落ちない。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flaps and ailerons": {
+  "t": "フラップとエルロン",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flat panel; the top flange folds aft as a glare shield, side tabs fold forward onto the cabin sides. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "平板パネル；上部フランジを後方へ折ってグレアシールドに、側面タブを前方へ折ってキャビン側面に。ラミネート：0.020 in を 2 層重ね、別々に曲げて 1 枚としてリベット留め。内側の層ごとにフランジ端を 0.5 mm 削る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flat polycarbonate over the front cut-out, 20 mm lap, screws in 4.5 mm oversize holes.": {
+  "t": "前部の切り欠きを平板ポリカーボネートで覆う。重ね代 20 mm、4.5 mm の大きめの穴にねじ。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flight test": {
+  "t": "飛行試験",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Floor tray with two hat pleats": {
+  "t": "ハットプリーツ 2 本の床トレイ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Floor, firewall, arches": {
+  "t": "床、防火壁、アーチ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flutter": {
+  "t": "フラッター",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Foam tape": {
+  "t": "フォームテープ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold 20 strips of 0.51 mm 6061-T6 at a 0.8 mm nose radius, across and along the grain. Inspect every bend under a 10× loupe.": {
+  "t": "0.51 mm 6061-T6 の帯板 20 本を刃先半径 0.8 mm で、圧延方向に直角と平行に曲げる。すべての曲げを 10× ルーペで点検する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold a 300 mm offcut of a rib and of a spar from the real DXFs and measure every flange.": {
+  "t": "実際の DXF からリブと桁の 300 mm 端材を曲げ、すべてのフランジを測る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold a 300 mm offcut of the same strip first and measure it to confirm the bend deduction.": {
+  "t": "まず同じ帯板の 300 mm 端材を曲げて測り、曲げ控除を確認する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold all 52 ribs before assembling any: one brake set-up does the whole batch.": {
+  "t": "組み立てる前に 52 枚のリブをすべて曲げる：ベンダーの設定 1 回で全数を処理できる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold coupons": {
+  "t": "曲げ試験片",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold each belly blank: bottom, both chamfers, then the side flanges.": {
+  "t": "下面ブランクを曲げる：底面、両面取り、次に側面フランジ。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold every rib flange 90° on the brake. Because the airfoil is faceted, each flange is one straight bend.": {
+  "t": "すべてのリブフランジをベンダーで 90° に曲げる。翼型が多面体なので、各フランジは直線曲げ 1 回。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the 12 clevises in the vise over a 5 mm radius block. Normalised 4130 needs at least 3t (Wanttaja).": {
+  "t": "12 個のクレビスを万力で半径 5 mm の型に当てて曲げる。焼ならし 4130 には最低 3t が必要（Wanttaja）。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the 90° top flange and the windscreen flange on each side panel. The top flange is the longeron.": {
+  "t": "各側面パネルの 90° 上部フランジと風防フランジを曲げる。上部フランジがロンジロン。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the bulkhead flanges. They are 96–100°, not 90°, because they follow the taper.": {
+  "t": "隔壁フランジを曲げる。テーパーに沿うため 90° ではなく 96–100°。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the firewall flanges, all aft. It is stainless, so drill it slowly with a sharp bit and cutting oil.": {
+  "t": "防火壁フランジをすべて後方へ曲げる。ステンレスなので、鋭いビットと切削油でゆっくり穴をあける。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the floor tray's two hat pleats, then the chamfers and side flanges.": {
+  "t": "床トレイのハットプリーツ 2 本を折り、次に面取りと側面フランジ。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the instrument panel (glare shield and side tabs) and rivet it to the cabin sides at x = -400 mm. Fit the ASI, altimeter, tach, CHT/EGT, radio, master and mag switches and fuel valve, and put the compass on the glare shield.": {
+  "t": "計器盤（グレアシールドと側面タブ）を折り、x = -400 mm でキャビン側面にリベット留めする。ASI、高度計、回転計、CHT/EGT、無線機、マスターとマグネトーのスイッチ、燃料バルブを付け、コンパスをグレアシールドに置く。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the ribs, Cleco them on": {
+  "t": "リブを曲げて Cleco で留める",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the seat: pan and back from one sheet. Rivet its front lip to the floor and lean its back on the rear arch.": {
+  "t": "座席を曲げる：座面と背もたれを 1 枚の板から。前リップを床にリベット留めし、背もたれを後部アーチにもたせかける。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the spars": {
+  "t": "桁を曲げる",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the stabiliser and fin spars and their nose ribs.": {
+  "t": "水平安定板と垂直安定板の桁と前縁リブを曲げる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the trailing edge over a 0.6 mm radius bar in the brake, to about 165°. Squeeze gently in soft vise jaws until the TE is straight.": {
+  "t": "ベンダーで半径 0.6 mm の丸棒を使い、後縁を約 165° まで曲げる。後縁がまっすぐになるまで、ソフト口金でそっと挟む。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the two V-bead pleats in valley-mountain-valley order. Stop each bead at the marks.": {
+  "t": "V ビードのプリーツ 2 本を谷・山・谷の順に折る。各ビードは印で止める。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the two arches: outer and inner flanges, all aft.": {
+  "t": "2 つのアーチを曲げる：外側と内側のフランジ、すべて後方へ。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the two caps first (90°), then the two lips. Overbend by about 2° so the 6061-T6 springs back to 90°.": {
+  "t": "まず両キャップ（90°）、次に両リップを曲げる。6061-T6 が 90° に戻るよう約 2° 余分に曲げる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the upper and lower cowls (four 45° creases each) and the nose-bowl halves. Rivet the nose bowls to the nose ring.": {
+  "t": "上部と下部のカウル（各 45° 折り目 4 本）とノーズボウルの左右半分を折る。ノーズボウルをノーズリングにリベット留めする。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Folded blanks": {
+  "t": "曲げ済みブランク",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Folds": {
+  "t": "折り",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Four brake bends each": {
+  "t": "各 4 回のベンダー曲げ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Four identical surfaces from one blank. The trailing edge is a single crease, so there's no separate strip to rivet on.": {
+  "t": "1 枚のブランクから 4 つの同一舵面。後縁は 1 本の折り目なので、別の帯板をリベット留めする必要がない。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Four stands, 20 blanks, about 200 rivets. The cheapest place to learn to fold, drill and rivet is a part that never leaves the ground.": {
+  "t": "スタンド 4 台、ブランク 20 枚、リベット約 200 本。折り、穴あけ、リベット留めを学ぶ最も安い場所は、決して地面を離れない部品。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Free play under 1° at each surface, and full travel with no binding under load.": {
+  "t": "各舵面の遊びが 1° 未満で、負荷下でも引っかかりなくフルストローク。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Front arch (main-spar frame)": {
+  "t": "前部アーチ（主桁フレーム）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Front side window (x2, mirrored)": {
+  "t": "前部側窓（x2、鏡像）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Front side windows: screw over the cut-outs with a 20 mm lap.": {
+  "t": "前部側窓：切り欠きの上に重ね代 20 mm でねじ留め。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Frustum facets aimed at one point, so every crease is straight.": {
+  "t": "角錐台の面が 1 点を向くので、すべての折り目は直線。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel": {
+  "t": "燃料",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel allowed": {
+  "t": "搭載可能燃料",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Fuel and payload": {
-  "t": "燃料と積載",
-  "by": "claude (hand-written UI seed)",
+  "t": "燃料とペイロード",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel feed": {
+  "t": "燃料供給",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel filler neck + cap (through the hood, ahead of the windscreen)": {
+  "t": "給油口ネック + キャップ（フードを貫通、風防の前）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel selector valve: HEADER / AUX / OFF": {
+  "t": "燃料切替バルブ：HEADER / AUX / OFF",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel system parts": {
+  "t": "燃料系統部品",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel tank 19 L (rotomoulded polyethylene): header tank behind the firewall, ahead of the panel, Cub-style": {
+  "t": "燃料タンク 19 L（回転成形ポリエチレン）：防火壁の後ろ、計器盤の前のヘッダータンク、Cub 式",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel tank 19 L (rotomoulded) + lines, valve, gascolator": {
+  "t": "燃料タンク 19 L（回転成形）+ 配管、バルブ、ガスコレーター",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel, aux tank: a second 20 L tank strap-mounts high behind the seat, its bottom above the header tank top so it also gravity-feeds. Its line runs forward along the left roof rail to the selector; filler through the left cabin side, vent overboard under the roof. Never in the wings. Fill it only as far as the 300 kg MTOW allows: with a 100 kg pilot that is none at all. Burn the aux tank first, which keeps the CG moving forward.": {
+  "t": "燃料、補助タンク：2 つ目の 20 L タンクを座席の後ろ上方にベルトで固定する。底面がヘッダータンクの上面より高いので、これも重力で供給される。配管は左の天井レールに沿って前方の切替バルブへ；給油口はキャビン左側面、ベントは天井下から機外へ。主翼には決して入れない。300 kg の MTOW が許す分だけ入れる：100 kg のパイロットならまったく入れられない。補助タンクを先に使うと、CG が前へ移っていく。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel, header tank: the 19 L rotomoulded tank sits behind the firewall, above the pilot's shins and under the windscreen, strapped to two angles riveted to the side panels (as on a J-3 Cub). It gravity-feeds: tank outlet, selector valve (HEADER / AUX / OFF), a fire-sleeved hose through a firewall grommet, the gascolator on the firewall, then the carburettor. The tank bottom is about 200 mm above the carburettor. The filler neck comes up through the hood just ahead of the windscreen, and the vent runs forward under the hood.": {
+  "t": "燃料、ヘッダータンク：19 L の回転成形タンクは防火壁の後ろ、パイロットのすねの上、風防の下にあり、側面パネルにリベット留めした 2 本のアングルにベルトで固定する（J-3 Cub と同様）。重力供給：タンク出口、切替バルブ（HEADER / AUX / OFF）、防火壁グロメットを通る耐火スリーブ付きホース、防火壁上のガスコレーター、そしてキャブレター。タンク底面はキャブレターより約 200 mm 高い。給油口ネックは風防のすぐ前でフードを貫いて出し、ベントはフードの下を前方へ通す。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Gascolator (fuel strainer) on the firewall": {
+  "t": "防火壁上のガスコレーター（燃料ストレーナー）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Glide L/D": {
+  "t": "滑空比 L/D",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ground": {
+  "t": "地上",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ground vibration test": {
+  "t": "地上振動試験",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Half-VW engine": {
+  "t": "ハーフ VW エンジン",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Half-VW engine, dressed (carb, mag, exhaust)": {
+  "t": "ハーフ VW エンジン、補機付き（キャブレター、マグネトー、排気）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Hang the elevators and rudder on piano hinges. Check ±25° rudder travel clears the elevator halves.": {
+  "t": "昇降舵と方向舵をピアノヒンジで吊る。方向舵の ±25° の動きが昇降舵の左右と干渉しないことを確認する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Hang the half-VW on rubber isolators (4 x AN5).": {
+  "t": "ハーフ VW をゴム防振マウントで吊る（4 x AN5）。",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Hangar": {
   "t": "格納庫",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Hardware": {
-  "t": "金具",
-  "by": "claude (hand-written UI seed)",
+  "t": "ハードウェア",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Hardware for this step": {
-  "t": "このステップの金具",
-  "by": "claude (hand-written UI seed)",
+  "t": "このステップのハードウェア",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Harness anchors to floor and rear arch, 4": {
+  "t": "床と後部アーチへのハーネスアンカー、4",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Hat pleats 56°, flanges 90°": {
+  "t": "ハットプリーツ 56°、フランジ 90°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Have a BMAA or LAA inspector look at it before the first flight. Do first flights in calm air, over a long field.": {
+  "t": "初飛行の前に BMAA または LAA の検査員に見てもらう。初飛行は無風の日に長い滑走路の上で行う。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Head": {
+  "t": "ヘッド",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Header tank full": {
+  "t": "ヘッダータンク満タン",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Holds ultimate load for 3 s in both directions.": {
+  "t": "両方向で終極荷重を 3 s 保持する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Holds ultimate load for 3 s. Peak cap stress {stress:ms_sig} against an allowable of {stress:ms_cc}.": {
+  "t": "終極荷重を 3 s 保持する。キャップの最大応力 {stress:ms_sig}、許容値 {stress:ms_cc}。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Holds {force:strut_T} in tension and {force:strut_C} in compression with no failure.": {
+  "t": "引張 {force:strut_T}、圧縮 {force:strut_C} で破壊しない。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Honesty": {
+  "t": "誠実さ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Horn: rod end bolts through the outer hole (AN3).": {
+  "t": "ホーン：ロッドエンドは外側の穴にボルト留め（AN3）。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Horns, bellcranks and brackets": {
+  "t": "ホーン、ベルクランク、ブラケット",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "How it gets proven": {
+  "t": "どう証明するか",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Inspect each rivet: head seated flat, mandrel broken off flush, no gap under the head.": {
+  "t": "各リベットを点検する：頭が平らに座り、マンドレルが面一で折れ、頭の下にすき間がないこと。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Inspection": {
+  "t": "検査",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Inspector sign-off before the aircraft is flown by anyone else.": {
+  "t": "他の誰かがこの機を飛ばす前に検査員の承認を得る。",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Instructions": {
-  "t": "説明書",
-  "by": "claude (hand-written UI seed)",
+  "t": "手順",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Instrument panel (glare-shield fold, side tabs)": {
+  "t": "計器盤（グレアシールド折り、側面タブ）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Instruments (ASI, alt, tach, CHT, compass)": {
+  "t": "計器（ASI、高度計、回転計、CHT、コンパス）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Inverted wing on its fittings, sandbags laid out to the spanwise lift distribution, to +4 g limit and then −2 g. Measure tip deflection at each step.": {
+  "t": "主翼を金具に取り付けて逆さにし、スパン方向の揚力分布に合わせて砂袋を並べ、+4 g 制限まで、次に −2 g まで。各段階で翼端のたわみを測る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut 0.75 x 0.049 in": {
+  "t": "ジュリーストラット 0.75 x 0.049 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut x2 (main)": {
+  "t": "ジュリーストラット x2（メイン）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut x2 (main): 6061-T6 0.75 x 0.049 in": {
+  "t": "ジュリーストラット x2（メイン）：6061-T6 0.75 x 0.049 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut x2 (rear)": {
+  "t": "ジュリーストラット x2（リア）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut x2 (rear): 6061-T6 0.75 x 0.049 in": {
+  "t": "ジュリーストラット x2（リア）：6061-T6 0.75 x 0.049 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "t": "ジュリーストラット用サドルクランプ、4130 0.063in（耳付きの巻いた半殻）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-BC Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "t": "K-BC ベルクランクプレート、4130 0.063in（対、55 mm アーム）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-CV Clevis, 4130 0.063in (U, two folds)": {
+  "t": "K-CV クレビス、4130 0.063in（U 字、2 回折り）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-HD Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "t": "K-HD 昇降舵ホーン、4130 0.063in（両端型、昇降舵トルクチューブ上）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-HN Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "t": "K-HN エルロン / フラップホーン、4130 0.063in（下面外板に 1 回折り）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-HR Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "t": "K-HR 方向舵ホーン、4130 0.063in（平板、両側にケーブル）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-JC Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "t": "K-JC ジュリーストラット用サドルクランプ、4130 0.063in（耳付きの巻いた半殻）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-TG Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "t": "K-TG 桁根元タング、4130 0.063in（平板、ウェブの両側に対で）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laminate: each channel is two blanks. Fold both separately, nest the inner one inside the outer one, and check they sit tight with no gap. If the inner one fights, take 0.5 mm off its flange edges.": {
+  "t": "ラミネート：各チャンネルは 2 枚のブランク。両方を別々に曲げ、内側を外側に入れ、すき間なく密着しているか確認する。内側が入りにくければ、フランジ端を 0.5 mm 削る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laminated channel crippling": {
+  "t": "ラミネートチャンネルのクリップリング",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "ラミネート：0.020 in を 2 層重ね、別々に曲げて 1 枚としてリベット留め。内側の層ごとにフランジ端を 0.5 mm 削る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Landing gear and tailwheel": {
+  "t": "降着装置と尾輪",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Landing roll": {
+  "t": "着陸滑走",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Language": {
   "t": "言語",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laps 30 mm under the upper skin at 8% chord.": {
+  "t": "翼弦 8% の位置で上面外板の下に 30 mm 重ねる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laser / waterjet cutting service": {
+  "t": "レーザー / ウォータージェット切断サービス",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lay the spars on a flat table, webs vertical, 3.6 m apart for the two wings.": {
+  "t": "桁を平らな台に、ウェブを垂直にして、左右の主翼用に 3.6 m 離して置く。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Leans on the rear arch.": {
+  "t": "後部アーチにもたれる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Leave the protective film on. Drill the polycarbonate with plastic bits, holes 6 mm for M4 screws so it can expand.": {
+  "t": "保護フィルムは貼ったままにする。ポリカーボネートはプラスチック用ビットで穴をあけ、膨張できるよう M4 ねじに 6 mm の穴。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Left door front edge": {
+  "t": "左ドア前縁",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Licence": {
+  "t": "ライセンス",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift strut (main) 1.75 x 0.065 in": {
+  "t": "リフトストラット（メイン）1.75 x 0.065 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift strut (rear) 1.75 x 0.065 in": {
+  "t": "リフトストラット（リア）1.75 x 0.065 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift strut, tension": {
+  "t": "リフトストラット、引張",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift strut, −2 g buckling (with jury strut)": {
+  "t": "リフトストラット、−2 g 座屈（ジュリーストラット付き）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift struts and jury struts": {
+  "t": "リフトストラットとジュリーストラット",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lipped channels: four 90° brake bends each, two nested layers": {
+  "t": "リップ付きチャンネル：各 4 回の 90° ベンダー曲げ、2 層重ね",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Load each linkage part to 1.5 × the BCAR Section S pilot loads at the stick and pedals.": {
+  "t": "操縦桿とペダルで、各リンク部品を BCAR Section S のパイロット荷重の 1.5 × まで負荷する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Low-speed taxi, then fast taxi with the tail up, on the intended test field.": {
+  "t": "予定の試験場で低速タキシー、次に尾部を上げた高速タキシー。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower cowl (box-pleat pan to the cabin floor line)": {
+  "t": "下部カウル（キャビン床ラインまでのボックスプリーツ皿）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower skin, bay 1": {
+  "t": "下面外板、ベイ 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower skin, bay 2": {
+  "t": "下面外板、ベイ 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower skin, bay 3": {
+  "t": "下面外板、ベイ 3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower skins": {
+  "t": "下面外板",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "M4 pan screw, nylon washer, M4 Nyloc nut, 6 mm oversize hole in polycarbonate": {
+  "t": "M4 なべねじ、ナイロンワッシャー、M4 Nyloc ナット、ポリカーボネートに 6 mm の大きめの穴",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "MEK / cleaner, Scotch-Brite, gloves": {
+  "t": "MEK / クリーナー、Scotch-Brite、手袋",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear leg x2": {
+  "t": "主脚レッグ x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear leg x2: 6061-T6 bar 75 x 16 mm": {
+  "t": "主脚レッグ x2：6061-T6 平角材 75 x 16 mm",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear legs through floor doubler, 2 per leg": {
+  "t": "床ダブラーを通る主脚レッグ、各レッグに 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear spring leg (6061-T6 bar)": {
+  "t": "主脚スプリングレッグ（6061-T6 平角材）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear: 2 spring legs + axles": {
+  "t": "主脚：スプリングレッグ 2 本 + 車軸",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main lift strut x2": {
+  "t": "メインリフトストラット x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "t": "メインリフトストラット x2：6061-T6 1.75 x 0.065 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main rib": {
+  "t": "メインリブ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main rib, root/tip": {
+  "t": "メインリブ、根元/翼端",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main spar (lipped C, opens aft)": {
+  "t": "主桁（リップ付き C、後ろ向きに開く）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main spar section": {
+  "t": "主桁セクション",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main spar web shear, limit": {
+  "t": "主桁ウェブのせん断、制限",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main spar: lipped C, three layers of 0.020 in": {
+  "t": "主桁：リップ付き C、0.020 in を 3 層",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main wheel: 21 x 8.00-6 tundra tyre at 10-12 psi": {
+  "t": "主輪：21 x 8.00-6 ツンドラタイヤ、10-12 psi",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main wheels": {
+  "t": "主輪",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Margin": {
+  "t": "余裕",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mark fold lines on the marked face: red dashed = valley, blue dash-dot = mountain. Use a fine felt marker, never a scribe (Wanttaja: scribe lines start cracks).": {
+  "t": "印を付ける面に折り線を描く：赤の破線 = 谷、青の一点鎖線 = 山。細字フェルトペンを使い、けがき針は決して使わない（Wanttaja：けがき線から亀裂が始まる）。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mark folds with felt pen, never a scribe": {
+  "t": "折り目はフェルトペンで印を付け、けがき針は使わない",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mark the folds: red dashed is a valley, blue dash-dot is a mountain. Felt marker on the marked face only, never a scribe.": {
+  "t": "折り目に印を付ける：赤の破線が谷、青の一点鎖線が山。印を付ける面だけにフェルトペン、けがき針は決して使わない。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mass": {
+  "t": "質量",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mass balance weights": {
+  "t": "マスバランスウェイト",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mass-balance each aileron with lead on an arm ahead of the hinge until it hangs level, before it goes on the aircraft.": {
+  "t": "機体に付ける前に、ヒンジより前のアームに鉛を付けて各エルロンのマスバランスを取り、水平に下がるようにする。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mass-balance horn at outboard end.": {
+  "t": "外側端にマスバランスホーン。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mean strength at or above the value used in design, scatter under 10 %.": {
+  "t": "平均強度が設計で使った値以上で、ばらつきが 10 % 未満。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Measure gravity flow from each tank, with the aircraft at its steepest climb attitude plus margin.": {
+  "t": "機体を最も急な上昇姿勢プラス余裕にして、各タンクからの重力流量を測る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Measure twist under a known torque at the tip rib.": {
+  "t": "翼端リブに既知のトルクをかけてねじれを測る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Measured climb, cruise and glide recorded against the predictions on the numbers tab.": {
+  "t": "測定した上昇、巡航、滑空を、数値タブの予測と並べて記録する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Measured values replace estimates in aircraft.yaml, and the build manual is revised.": {
+  "t": "測定値が aircraft.yaml の推定値に置き換わり、製作マニュアルを改訂する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Member": {
+  "t": "部材",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Method": {
+  "t": "方法",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mid CG, calm air, long field, circuit height only, an experienced test pilot.": {
+  "t": "中間 CG、無風、長い滑走路、場周経路高度のみ、経験あるテストパイロット。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Month 10": {
+  "t": "10 か月目",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Month 4": {
+  "t": "4 か月目",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Month 5": {
+  "t": "5 か月目",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Months 2–3": {
+  "t": "2–3 か月目",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Months 6–9": {
+  "t": "6–9 か月目",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Move the CG from forward to aft in steps, checking stick-free stability at each.": {
+  "t": "CG を前方から後方へ段階的に移し、各段階で操縦桿フリーの安定性を確認する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nicopress sleeve + thimble (1/8 in cable)": {
+  "t": "Nicopress スリーブ + シンブル（1/8 in ケーブル）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nicopress tool + cable cutter": {
+  "t": "Nicopress 工具 + ケーブルカッター",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No cracks, and springback within 2° of prediction.": {
+  "t": "亀裂がなく、スプリングバックが予測から 2° 以内。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No flutter or buzz up to {speed:Vne}.": {
+  "t": "{speed:Vne} までフラッターもバズもない。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No permanent set after unloading. Deflection within 15 % of prediction.": {
+  "t": "除荷後に永久変形がない。たわみが予測から 15 % 以内。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No permanent set at limit, no failure at ultimate.": {
+  "t": "制限荷重で永久変形なし、終極荷重で破壊なし。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No physical part has been cut. Fold one rib and one spar offcut first to check the bend deduction.": {
+  "t": "実物の部品はまだ 1 つも切っていない。まずリブと桁の端材を 1 つずつ曲げて、曲げ控除を確認する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No yield at limit load, no failure at ultimate.": {
+  "t": "制限荷重で降伏なし、終極荷重で破壊なし。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose bowl, chin (3 converging facets)": {
+  "t": "ノーズボウル、あご（収束面 3 つ）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose bowl, upper (3 converging facets)": {
+  "t": "ノーズボウル、上部（収束面 3 つ）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose rib": {
+  "t": "前縁リブ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose rib, root/tip": {
+  "t": "前縁リブ、根元/翼端",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose ring (prop-shaft hole + two cooling inlets)": {
+  "t": "ノーズリング（プロペラ軸穴 + 冷却空気取り入れ口 2 つ）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose rolled over 75 mm tube": {
+  "t": "前縁を 75 mm パイプで巻く",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose zone is rolled over a 75 mm tube; aft creases are soft brake hits (2-6 deg).": {
+  "t": "前縁部は 75 mm パイプで巻く；後方の折り目はベンダーで軽く当てる（2-6 deg）。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Not analysed yet": {
+  "t": "未解析",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Not proven": {
+  "t": "未証明",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Notes": {
+  "t": "注記",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "One 90 degree flange stiffens the free edge. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "90 度フランジ 1 本で自由縁を補強する。ラミネート：0.020 in を 2 層重ね、別々に曲げて 1 枚としてリベット留め。内側の層ごとにフランジ端を 0.5 mm 削る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "One hour of progressive ground running, with cylinder head and exhaust temperatures logged.": {
+  "t": "1 時間の段階的な地上運転で、シリンダーヘッド温度と排気温度を記録する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "One-wrap skins, sharp trailing edges": {
+  "t": "1 枚巻きの外板、鋭い後縁",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Open-source aircraft": {
-  "t": "オープンソースの飛行機",
-  "by": "claude (hand-written UI seed)",
+  "t": "オープンソース航空機",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Order as 12 ft strip. Lips turn the free flange edges into supported edges (k 0.43 -> ~4). Laminated: 3 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "12 ft の帯板で注文する。リップによりフランジの自由縁が支持縁になる（k 0.43 -> ~4）。ラミネート：0.020 in を 3 層重ね、別々に曲げて 1 枚としてリベット留め。内側の層ごとにフランジ端を 0.5 mm 削る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Paint": {
+  "t": "塗装",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Paint, then weigh on three scales in the level attitude. Work out the empty CG and check every loading case falls inside the design range in DESIGN_REPORT.md (about 28–33 % MAC).": {
+  "t": "塗装後、水平姿勢で 3 台のはかりに載せて量る。空虚 CG を求め、すべての積載ケースが DESIGN_REPORT.md の設計範囲（約 28–33 % MAC）に入ることを確認する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Panel: glare-shield fold 90°, side tabs 90°": {
+  "t": "計器盤：グレアシールド折り 90°、側面タブ 90°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Parts": {
+  "t": "部品",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pass when": {
+  "t": "合格条件",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Performance": {
   "t": "性能",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Phases": {
+  "t": "フェーズ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Piano hinge": {
+  "t": "ピアノヒンジ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Piano hinge MS20001 + door latch": {
+  "t": "ピアノヒンジ MS20001 + ドアラッチ",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Pilot": {
   "t": "パイロット",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pilot (95th pct, for scale)": {
+  "t": "パイロット（95 パーセンタイル、縮尺用）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pilot, fuel and baggage share one budget: maximum take-off mass minus empty mass. Both tanks are in the cabin, never in the wings: an 18 L header tank behind the firewall and a 20 L aux tank high behind the seat, both gravity-fed through one selector. A light pilot can fill both. A heavy pilot gets the header tank or less. Burn the aux tank first.": {
+  "t": "パイロット、燃料、荷物は 1 つの予算を分け合います：最大離陸質量から空虚質量を引いたもの。両タンクともキャビン内で、主翼には決して入れません：防火壁の後ろに 18 L のヘッダータンク、座席の後ろ上方に 20 L の補助タンク。どちらも 1 つの切替バルブを通して重力供給です。軽いパイロットなら両方満タンにできます。重いパイロットはヘッダータンクかそれ以下です。補助タンクを先に使ってください。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pitot tube (left wing, ahead of the LE)": {
+  "t": "ピトー管（左翼、前縁の前）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pitot-static: pitot tube under the left wing at the 1.2 m rib. Run its line inside the wing ahead of the main spar to the root and down the A-pillar to the ASI. A static port on the left cabin side feeds the altimeter and ASI. Secure everything with Adel clamps every 300 mm.": {
+  "t": "ピトー静圧：ピトー管は左翼下の 1.2 m リブ位置。配管は主翼内で主桁の前を通って根元へ、A ピラーを下って ASI へ。キャビン左側面の静圧孔が高度計と ASI に供給する。300 mm ごとに Adel クランプですべて固定する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Planar: no forming, drill with plastic-cutting bits, slotted holes for expansion.": {
+  "t": "平面：成形なし、プラスチック用ビットで穴あけ、膨張用の長穴。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Plastic-cutting drill bits / step drill": {
+  "t": "プラスチック用ドリルビット / ステップドリル",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Positive stability at the aft limit; predicted minimum static margin {pct:SM_min}.": {
+  "t": "後方限界で正の安定；予測最小静安定余裕 {pct:SM_min}。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Press or bolt a 4130 end fork into each tube end. Drill the AN5 pin hole after the final length check on the aircraft.": {
+  "t": "各パイプ端に 4130 製エンドフォークを圧入またはボルト留めする。AN5 のピン穴は機体上で最終長さを確認してからあける。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Prime the faying surfaces: Scotch-Brite, wash, etch or alodine, then epoxy primer. Wear gloves (Wanttaja: finger oils stop primer sticking).": {
+  "t": "合わせ面に下塗りする：Scotch-Brite、洗浄、エッチングまたは alodine、次にエポキシプライマー。手袋を着用する（Wanttaja：指の油でプライマーが付かなくなる）。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Primer part: two nested layers folded on the brake and riveted as one. Glue carpet on the web. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "入門部品：2 層を重ねてベンダーで曲げ、1 枚としてリベット留め。ウェブにカーペットを貼る。ラミネート：0.020 in を 2 層重ね、別々に曲げて 1 枚としてリベット留め。内側の層ごとにフランジ端を 0.5 mm 削る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Primer: build the wing stands": {
+  "t": "入門：主翼スタンドを作る",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Proof-load the wing upside down with sandbags to +4 g limit load, spread spanwise. It must show no permanent set.": {
+  "t": "主翼を逆さにし、砂袋をスパン方向に分散させて +4 g 制限荷重まで保証荷重試験する。永久変形があってはならない。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Prop drive hub (flange)": {
+  "t": "プロペラ駆動ハブ（フランジ）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Propeller 54 in wood + hub": {
+  "t": "プロペラ 54 in 木製 + ハブ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Propeller 54 x 24 in, laminated wood (download the model)": {
+  "t": "プロペラ 54 x 24 in、積層木材（モデルをダウンロード）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Propeller hub, 6": {
+  "t": "プロペラハブ、6",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Publish": {
+  "t": "公開",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pull a complete strut with its clevises and tangs to ultimate tension, then buckle a second at −2 g with the jury strut fitted.": {
+  "t": "クレビスとタング付きのストラット 1 本を終極引張まで引き、次にジュリーストラットを付けた 2 本目を −2 g で座屈させる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Push the AN5 root pins through. Fit castellated nuts and cotter pins.": {
+  "t": "AN5 根元ピンを差し込む。キャッスルナットと割りピンを付ける。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Put in the aft soft creases first.": {
+  "t": "まず後方の軽い折り目を入れる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Put in the soft creases with a light brake hit, or by hand over a straight-edge.": {
+  "t": "軽い折り目はベンダーで軽く当てるか、直定規に当てて手で入れる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Qualification": {
+  "t": "認定試験",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Quarter-turn camlock (Dzus) + receptacle": {
+  "t": "1/4 回転ファスナー Camlock（Dzus）+ 受け金具",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "RADIO instrument": {
+  "t": "RADIO 計器",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Range": {
+  "t": "航続距離",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ream the pin holes to 5/16 in and the bolt holes to 1/4 in and 3/16 in, through both ears at once so they line up.": {
+  "t": "ピン穴を 5/16 in、ボルト穴を 1/4 in と 3/16 in にリーマー仕上げする。両方の耳を同時に通して位置を合わせる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear arch (rear-spar frame)": {
+  "t": "後部アーチ（後桁フレーム）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear lift strut x2": {
+  "t": "リアリフトストラット x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "t": "リアリフトストラット x2：6061-T6 1.75 x 0.065 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear spar (lipped C, opens forward)": {
+  "t": "後桁（リップ付き C、前向きに開く）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear spar section": {
+  "t": "後桁セクション",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear spar: lipped C, two layers of 0.020 in": {
+  "t": "後桁：リップ付き C、0.020 in を 2 層",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Reassemble on Clecos, then pull the rivets from the middle of each joint outward.": {
+  "t": "Cleco で組み直し、各継手の中央から外側へリベットを引く。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ribs, skin buckling, fittings, landing gear, tail loads, the engine mount and flutter. Mass-balance every control surface.": {
+  "t": "リブ、外板の座屈、金具、降着装置、尾翼荷重、エンジンマウント、フラッター。すべての舵面のマスバランスを取る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Right side: fixed window over the door opening. Left side: the same blank on a piano hinge at its front edge, with a latch at the back.": {
+  "t": "右側：ドア開口の上に固定窓。左側：同じブランクを前縁でピアノヒンジに付け、後ろにラッチ。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivet joints": {
+  "t": "リベット継手",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivet strength in thin sheet": {
+  "t": "薄板でのリベット強度",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivet the piano hinge to the spar top, then hang the surface on the rear spar.": {
+  "t": "ピアノヒンジを桁の上部にリベット留めし、舵面を後桁に吊る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivet: pull 1/8 in blind rivets, working from the middle of each row outwards and swapping clecos for rivets one at a time. A good rivet sits flat, with no gap under the head. Drill out any bad one with a #30 bit and try again: practise this on purpose at least once.": {
+  "t": "リベット留め：1/8 in ブラインドリベットを各列の中央から外へ、Cleco を 1 本ずつリベットに替えながら引く。良いリベットは平らに座り、頭の下にすき間がない。悪いものは #30 ビットで抜いてやり直す：少なくとも 1 回はわざと練習すること。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop, rivets from the main spar outward.": {
+  "t": "リベット留めループ、主桁から外側へ。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop, then join the tailcone to the cabin at bulkhead 1.": {
+  "t": "リベット留めループの後、隔壁 1 でテールコーンをキャビンに結合する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop.": {
+  "t": "リベット留めループ。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop. The firewall takes stainless or Monel rivets: aluminium melts in a fire.": {
+  "t": "リベット留めループ。防火壁にはステンレスか Monel のリベット：アルミは火災で溶ける。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop: final-drill #30, take apart, deburr, prime, Cleco, rivet.": {
+  "t": "リベット留めループ：#30 で最終穴あけ、分解、バリ取り、下塗り、Cleco、リベット留め。",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Rivets": {
   "t": "リベット",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivets to the rear-spar flanges. Closes the bay behind the centre-section rear spar.": {
+  "t": "後桁フランジにリベット留めする。中央翼後桁の後ろの区画を塞ぐ。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rod ends": {
+  "t": "ロッドエンド",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Roll each skin's leading edge, then wrap it round its ribs and spar. Back-drill and use the riveting loop.": {
+  "t": "各外板の前縁を巻き、リブと桁に巻き付ける。バックドリルしてリベット留めループを使う。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Roll the eight saddle-clamp halves round a 45 mm bar, then bolt a pair round each strut at mid-length (2 x AN3 through the ears).": {
+  "t": "8 個のサドルクランプ半体を 45 mm の丸棒で巻き、各ストラットの中央に 1 対ずつボルト留めする（耳を通して 2 x AN3）。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Roll the green zone: lay the skin over a 75 mm tube and pull it round with a strap, a little at a time. Don't crease it.": {
+  "t": "緑の部分を巻く：外板を 75 mm パイプに載せ、ベルトで少しずつ回り込ませる。折り目を付けないこと。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Root and tip ribs have their flanges facing into the panel.": {
+  "t": "根元リブと翼端リブはフランジがパネルの内側を向く。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder and elevator cables, 1 per cable, in the cabin where you can inspect them": {
+  "t": "方向舵と昇降舵のケーブル、各ケーブルに 1 個、点検できるキャビン内に",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder cable x2": {
+  "t": "方向舵ケーブル x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder cable x2: 1/8 in 7x19 galvanised": {
+  "t": "方向舵ケーブル x2：1/8 in 7x19 亜鉛めっき",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder cables: pedal horn, then a pulley at the pedal, along the floor at y = ±200 mm through fairleads on both arch feet, a pulley at bulkhead 1, then one straight line each to the tail post. Because the tailcone is a frustum, a straight run between interior points never touches the skin, so no cable needs a mid-cone pulley.": {
+  "t": "方向舵ケーブル：ペダルホーン、ペダル位置のプーリー、床に沿って y = ±200 mm で両アーチ脚のフェアリードを通り、隔壁 1 のプーリー、そこからそれぞれ直線でテールポストへ。テールコーンは角錐台なので、内部の 2 点を結ぶ直線は外板に触れない。よってコーン途中のプーリーは不要。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "t": "方向舵ホーン、4130 0.063in（平板、両側にケーブル）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder pedals": {
+  "t": "方向舵ペダル",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder skin": {
+  "t": "方向舵外板",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder spar": {
+  "t": "方向舵桁",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-BM Stand beam (lipped C, saddle on top)": {
+  "t": "S-BM スタンド梁（リップ付き C、上部に受け台）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-FT Stand foot (lipped C, opens up)": {
+  "t": "S-FT スタンド脚部（リップ付き C、上向きに開く）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-GF Stand foot gusset (flat)": {
+  "t": "S-GF スタンド脚部ガセット（平板）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-GT Stand top gusset (flanged hypotenuse)": {
+  "t": "S-GT スタンド上部ガセット（フランジ付き斜辺）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-LG Stand leg (lipped C)": {
+  "t": "S-LG スタンド脚（リップ付き C）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "SSDR means no airworthiness approval is required, so all the testing is yours to do.": {
+  "t": "SSDR では耐空性承認が不要なので、試験はすべて自分で行います。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Saddle clamps: rolled half-shells": {
+  "t": "サドルクランプ：巻いた半殻",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Saddle-clamp ears (one also carries the jury-strut fork), 2 per clamp; Jury strut top, through the jury clevis": {
+  "t": "サドルクランプの耳（1 つはジュリーストラットのフォークも支える）、各クランプに 2；ジュリーストラット上端、ジュリークレビスを貫通",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Safety wire": {
+  "t": "安全線",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Same blank both sides. 20 mm lap all round. Left one hangs on a piano hinge at its front edge.": {
+  "t": "左右同じブランク。全周 20 mm の重ね代。左側は前縁のピアノヒンジで吊る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Same blank for both flaps and both ailerons: modular-origami units.": {
+  "t": "両フラップと両エルロンに同じブランク：モジュール折り紙のユニット。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Sandbags and tape measure (proof load)": {
+  "t": "砂袋と巻尺（保証荷重試験）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Sawtooth climbs, level speeds and glides.": {
+  "t": "のこぎり歯状上昇、水平飛行速度、滑空。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Scotch-Brite, etch/alodine, epoxy primer, spray kit, gloves": {
+  "t": "Scotch-Brite、エッチング/alodine、エポキシプライマー、スプレーキット、手袋",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Seat (pan + back, one sheet)": {
+  "t": "座席（座面 + 背もたれ、1 枚板）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Seat cushion + 4-pt harness": {
+  "t": "座席クッション + 4 点式ハーネス",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Select a row to see where that case sits.": {
+  "t": "行を選ぶと、そのケースの位置が表示されます。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Send the nest DXFs to a laser or waterjet service, or cut on a CNC router. Bolt holes come out 0.5 mm undersize; ream them later.": {
+  "t": "ネスティング DXF をレーザーかウォータージェットの業者に送るか、CNC ルーターで切る。ボルト穴は 0.5 mm 小さく出るので、後でリーマー仕上げする。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Set dihedral to 1.5° and wash-out to 0° with a digital level on the root and tip ribs. Then pin the struts on: AN5, castellated nut, cotter pin.": {
+  "t": "根元リブと翼端リブにデジタル水準器を当て、上反角を 1.5°、ねじり下げを 0° に合わせる。その後ストラットをピン留めする：AN5、キャッスルナット、割りピン。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Set the brake nose radius to 0.8 mm, about 1.6 times the 0.51 mm sheet (Table 5-2, 'normal' radius). Never tighter.": {
+  "t": "ベンダーの刃先半径を 0.8 mm、つまり 0.51 mm 板の約 1.6 倍に設定する（Table 5-2、'normal' 半径）。これより小さくしないこと。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Set the travels: aileron +20/-15°, elevator +25/-20°, rudder ±25°, flaps 0/20°. Fit the stops.": {
+  "t": "舵角を設定する：エルロン +20/-15°、昇降舵 +25/-20°、方向舵 ±25°、フラップ 0/20°。ストッパーを付ける。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Single-lap shear and pull-through on one and two layers of 0.51 mm sheet with 3.2 mm blind rivets, 10 of each.": {
+  "t": "0.51 mm 板の 1 層と 2 層に 3.2 mm ブラインドリベットで単せん断重ね継手と引き抜き試験、各 10 本。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Skin joints lap on a rib: the outboard skin goes under the inboard one.": {
+  "t": "外板の継ぎ目はリブの上で重ねる：外側の外板を内側の外板の下に入れる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Slide the C-spar in and Cleco it through the flanges. Riveting loop.": {
+  "t": "C 桁を差し込み、フランジを通して Cleco で留める。リベット留めループ。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Soft creases 2–6°": {
+  "t": "軽い折り目 2–6°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Source": {
+  "t": "出典",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Span / area": {
+  "t": "翼幅 / 面積",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spanners, sockets, inch-pound torque wrench": {
+  "t": "スパナ、ソケット、インチポンドのトルクレンチ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spar strength": {
+  "t": "桁強度",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spar-root pins through tang pair + arch clevis": {
+  "t": "タング対 + アーチクレビスを通る桁根元ピン",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "t": "桁根元タング、4130 0.063in（平板、ウェブの両側に対で）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Speed envelope": {
+  "t": "速度包囲線",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spinner": {
+  "t": "スピナー",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stabiliser nose rib": {
+  "t": "水平安定板前縁リブ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "t": "水平安定板根元リブからテールコーン側面ダブラーへ、片側 4；垂直安定板桁からテールポストへ、3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stabiliser skin (one wrap)": {
+  "t": "水平安定板外板（1 枚巻き）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stabiliser spar": {
+  "t": "水平安定板桁",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stability across the CG range": {
+  "t": "CG 範囲全体での安定性",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stall speed and handling": {
+  "t": "失速速度と操縦性",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stall speeds": {
+  "t": "失速速度",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stall, flaps 20°": {
+  "t": "失速、フラップ 20°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand beam (lipped C, saddle on top)": {
+  "t": "スタンド梁（リップ付き C、上部に受け台）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand foot (lipped C, opens up)": {
+  "t": "スタンド脚部（リップ付き C、上向きに開く）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand foot gusset (flat)": {
+  "t": "スタンド脚部ガセット（平板）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand leg (lipped C)": {
+  "t": "スタンド脚（リップ付き C）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand the arches and firewall on the floor tray, square and plumb. Their stations are 420 mm and 1008 mm aft of the wing LE, and the firewall is at -650 mm.": {
+  "t": "アーチと防火壁を床トレイの上に直角かつ垂直に立てる。位置は主翼前縁から 420 mm と 1008 mm 後方、防火壁は -650 mm。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand top gusset (flanged hypotenuse)": {
+  "t": "スタンド上部ガセット（フランジ付き斜辺）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Static load to the Section S forward, side and vertical limit loads, then ultimate.": {
+  "t": "Section S の前方、側方、垂直の制限荷重まで静荷重をかけ、次に終極荷重。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Static margin": {
+  "t": "静安定余裕",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Static port": {
+  "t": "静圧孔",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Status": {
+  "t": "状況",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Step": {
   "t": "ステップ",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stick pivot and torque-tube bearings": {
+  "t": "操縦桿ピボットとトルクチューブ軸受",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Straight tracking, effective brakes and rudder, no shimmy.": {
+  "t": "まっすぐ走り、ブレーキと方向舵が効き、シミーがない。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "String line, digital level, plumb bob": {
+  "t": "水糸、デジタル水準器、下げ振り",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "String-line the spars and check the ribs are square to them. Measure diagonals across each bay; they should match within 1 mm.": {
+  "t": "桁に沿って水糸を張り、リブが直角か確認する。各ベイの対角線を測る；1 mm 以内で一致すること。",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Structure": {
   "t": "構造",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut and fitting strength": {
+  "t": "ストラットと金具の強度",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut and fittings": {
+  "t": "ストラットと金具",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut end fork (4130)": {
+  "t": "ストラットエンドフォーク（4130）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut end forks": {
+  "t": "ストラットエンドフォーク",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut ends, both ends of 4 struts": {
+  "t": "ストラット端、4 本のストラットの両端",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut fairings": {
+  "t": "ストラットフェアリング",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Support each tip on a trestle at 1.5° dihedral until the struts are on.": {
+  "t": "ストラットを付けるまで、各翼端を上反角 1.5° で架台に支える。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Systems fit-out": {
+  "t": "システムの取り付け",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-EK Elevator skin": {
+  "t": "T-EK 昇降舵外板",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-ES Elevator spar": {
+  "t": "T-ES 昇降舵桁",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-FK Fin skin (one wrap)": {
+  "t": "T-FK 垂直安定板外板（1 枚巻き）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-FR Fin nose rib": {
+  "t": "T-FR 垂直安定板前縁リブ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-FS Fin spar": {
+  "t": "T-FS 垂直安定板桁",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-HK Stabiliser skin (one wrap)": {
+  "t": "T-HK 水平安定板外板（1 枚巻き）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-HR Stabiliser nose rib": {
+  "t": "T-HR 水平安定板前縁リブ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-HS Stabiliser spar": {
+  "t": "T-HS 水平安定板桁",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-RK Rudder skin": {
+  "t": "T-RK 方向舵外板",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-RS Rudder spar": {
+  "t": "T-RS 方向舵桁",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "TACH instrument": {
+  "t": "TACH 計器",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tail surfaces": {
+  "t": "尾翼",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone belly, section 1": {
+  "t": "テールコーン下面、セクション 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone belly, section 2": {
+  "t": "テールコーン下面、セクション 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=1150": {
+  "t": "テールコーン隔壁 x=1150",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=1948": {
+  "t": "テールコーン隔壁 x=1948",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=2745": {
+  "t": "テールコーン隔壁 x=2745",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=3542": {
+  "t": "テールコーン隔壁 x=3542",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=4340 (tail post)": {
+  "t": "テールコーン隔壁 x=4340（テールポスト）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone frustum": {
+  "t": "テールコーン角錐台",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone side, section 1 (x2, mirrored)": {
+  "t": "テールコーン側面、セクション 1（x2、鏡像）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone side, section 2 (x2, mirrored)": {
+  "t": "テールコーン側面、セクション 2（x2、鏡像）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone top, section 1": {
+  "t": "テールコーン上面、セクション 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone top, section 2": {
+  "t": "テールコーン上面、セクション 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel 8 in pneumatic": {
+  "t": "尾輪 8 in 空気入り",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel assembly, 8 in pneumatic": {
+  "t": "尾輪アセンブリ、8 in 空気入り",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel fork": {
+  "t": "尾輪フォーク",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring": {
+  "t": "尾輪スプリング",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring (spring steel leaf)": {
+  "t": "尾輪スプリング（ばね鋼の板ばね）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring to tail post, 2": {
+  "t": "尾輪スプリングからテールポストへ、2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring to tail post, 2; Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "t": "尾輪スプリングからテールポストへ、2；水平安定板根元リブからテールコーン側面ダブラーへ、片側 4；垂直安定板桁からテールポストへ、3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring: spring-steel leaf 45 x 8 mm": {
+  "t": "尾輪スプリング：ばね鋼板ばね 45 x 8 mm",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel steering spring": {
+  "t": "尾輪ステアリングスプリング",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel: a leaf spring, a steerable fork and two springs to the rudder.": {
+  "t": "尾輪：板ばね 1 枚、操向できるフォーク、方向舵へのスプリング 2 本。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Take the skeleton apart. Deburr every hole on both faces.": {
+  "t": "骨組みを分解する。すべての穴の両面のバリを取る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Take-off roll": {
+  "t": "離陸滑走",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tank strap angle (L)": {
+  "t": "タンクベルト用アングル（左）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tank strap angle (R)": {
+  "t": "タンクベルト用アングル（右）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tap or shaker test for wing bending and torsion, aileron, elevator and rudder modes. Confirm the mass balance of every control surface.": {
+  "t": "主翼の曲げとねじり、エルロン、昇降舵、方向舵のモードについて、打撃試験または加振器試験を行う。すべての舵面のマスバランスを確認する。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Taxi tests": {
+  "t": "タキシー試験",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Taxi tests, then fast taxi with the tail up.": {
+  "t": "タキシー試験の後、尾部を上げた高速タキシー。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Temperatures inside the engine maker's limits, static rpm 2,900–3,100, no abnormal vibration.": {
+  "t": "温度がエンジンメーカーの制限内、静止回転数 2,900–3,100 rpm、異常振動なし。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tension each cable with its turnbuckle in the cabin, where you can see it, then safety-wire it. Nicopress every end over a thimble.": {
+  "t": "各ケーブルを、見えるキャビン内のターンバックルで張り、安全線をかける。各端は Nicopress でシンブルにかしめる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Test": {
+  "t": "試験",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Test budget": {
+  "t": "試験予算",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Test programme": {
+  "t": "試験プログラム",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Test reports": {
+  "t": "試験報告書",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tests": {
+  "t": "試験",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The aircraft is code: one file, aircraft.yaml, generates every part, file and figure on this page.": {
+  "t": "この機体はコードです：1 つのファイル aircraft.yaml が、このページのすべての部品、ファイル、数値を生成します。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The arches sit at the spar stations, so the wing and strut loads go straight into two folded frames.": {
+  "t": "アーチは桁位置にあるので、主翼とストラットの荷重は 2 つの折り曲げフレームに直接入る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The cowl and nose bowl are flat blanks too: a box-pleated hood and a frustum, with straight creases throughout.": {
+  "t": "カウルとノーズボウルも平らなブランク：ボックスプリーツのフードと角錐台で、折り目はすべて直線。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The dot is the loading case selected in the table. The shaded band is the full CG range across all cases. The orange line is the neutral point: the CG must stay ahead of it, and the dashed gap between them is the static margin, the aircraft's pitch stability.": {
+  "t": "点は表で選んだ積載ケースです。網掛けの帯は全ケースの CG 範囲です。オレンジの線は中立点で、CG はその前になければなりません。その間の破線のすき間が静安定余裕、つまり機体の縦安定性です。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The fold geometry. Every panel in the 3D model is produced by refolding the DXF flat pattern, and the rib-to-spar pilot holes are coordinated between parts.": {
+  "t": "折りの幾何。3D モデルの各パネルは DXF 展開図を折り直して作られ、リブと桁のパイロット穴は部品間で整合している。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The laminate acting as one section": {
+  "t": "ラミネートが 1 つの断面として働くこと",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The lips are what let thin laminated sheet act as a spar. Without them a free cap edge buckles at about 26 MPa. With them the cap reaches yield before it buckles.": {
+  "t": "リップがあるからこそ、薄いラミネート板が桁として働けます。リップがないと、キャップの自由縁は約 26 MPa で座屈します。リップがあれば、キャップは座屈する前に降伏に達します。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The local-price estimate takes UK VAT off the UK price, converts it at the day's exchange rate, takes about 20 % off US-made hardware, sheet and the engine kit when buying in the US, then adds the country's typical standard VAT, GST or sales tax. It leaves out import duty and shipping. Treat these as rough guides, not quotes.": {
+  "t": "現地価格の推定は、英国価格から英国 VAT を除き、当日の為替レートで換算し、米国で買う場合は米国製のハードウェア、板材、エンジンキットを約 20 % 引き、その国の一般的な標準 VAT、GST、売上税を加えたものです。輸入関税と送料は含みません。見積もりではなく、おおよその目安としてください。",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "The numbers": {
   "t": "数値",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The pilot sits under the wing between the two arches. Header fuel is ahead of the CG and aux fuel is behind it. The aftmost case is a light pilot with empty tanks and baggage, which gives the minimum static margin:": {
+  "t": "パイロットは主翼の下、2 つのアーチの間に座ります。ヘッダー燃料は CG より前、補助燃料は後ろです。最も後方のケースは、タンク空で荷物を積んだ軽いパイロットで、これが最小の静安定余裕になります：",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The rolled nose and the main spar together form a closed D-cell, which carries the wing's twisting loads.": {
+  "t": "巻いた前縁と主桁が閉じた D セルを形作り、主翼のねじり荷重を受け持つ。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The skins carry no holes of their own. Drilling them from the structure means the holes can't be misaligned.": {
+  "t": "外板には独自の穴がない。構造から穴をあけるので、穴がずれることはない。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The stabiliser and fin use one wrapped skin each.": {
+  "t": "水平安定板と垂直安定板はそれぞれ 1 枚の巻き外板を使う。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "This is the sequence for every riveted joint from here on: Cleco, final-drill, take apart, deburr, prime, reassemble, rivet. Later steps call it the riveting loop.": {
+  "t": "これ以降、すべてのリベット継手はこの手順：Cleco、最終穴あけ、分解、バリ取り、下塗り、再組立、リベット留め。後のステップではこれをリベット留めループと呼ぶ。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Three platform scales": {
+  "t": "台はかり 3 台",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Three platform scales in the level attitude.": {
+  "t": "水平姿勢で台はかり 3 台。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Through tang pair + spar web at each spar root, 4 per pair": {
+  "t": "各桁根元でタング対 + 桁ウェブを貫通、各対に 4",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Tools": {
   "t": "工具",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Top flange = longeron": {
+  "t": "上部フランジ = ロンジロン",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Top flange is the longeron: the fold is the stiffener. Openings have 50 mm corner radii (no square corners).": {
+  "t": "上部フランジがロンジロン：折りそのものが補強材。開口部の角は半径 50 mm（尖った角なし）。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Torsional stiffness recorded; it feeds the flutter estimate in phase D.": {
+  "t": "ねじり剛性を記録；フェーズ D のフラッター推定に使う。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tube cutter, hacksaw, drill press": {
+  "t": "パイプカッター、弓のこ、ボール盤",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tube, bar and cable": {
+  "t": "パイプ、平角材、ケーブル",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turn it back over. On its three wheels it should sit about 9–11° nose-up.": {
+  "t": "元に戻す。3 つの車輪で、機首上げ約 9–11° で座るはず。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turn the fuselage upside down on padded trestles.": {
+  "t": "胴体をクッション付きの架台に逆さに置く。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turn the skeleton upside down. Lay bay 1's skin on it, located at the root rib, with the edge 3 mm short of the rear-spar flange edge.": {
+  "t": "骨組みを逆さにする。ベイ 1 の外板を根元リブに合わせて載せ、縁を後桁フランジの縁より 3 mm 手前にする。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turn the wing upright. Wrap the skin from the trailing-edge shroud, over the nose, and under to lap the lower skin at 8 % chord.": {
+  "t": "主翼を正立させる。外板を後縁の覆いから前縁を越えて下へ巻き、翼弦 8 % で下面外板に重ねる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turnbuckle AN130 class + safety wire": {
+  "t": "AN130 級ターンバックル + 安全線",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Two halves round the 1.75 in strut tube; the ear bolts also carry the jury-strut end.": {
+  "t": "1.75 in のストラットパイプを 2 つの半体で囲む；耳のボルトがジュリーストラットの端も支える。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Two hat pleats (step-folds) are the floor stiffeners; no separate stringers. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "2 本のハットプリーツ（段折り）が床の補強材；別のストリンガーは不要。ラミネート：0.020 in を 2 層重ね、別々に曲げて 1 枚としてリベット留め。内側の層ごとにフランジ端を 0.5 mm 削る。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Two plates sandwich each rod end; AN4 pivot, AN3 at each arm.": {
+  "t": "2 枚のプレートで各ロッドエンドを挟む；AN4 ピボット、各アームに AN3。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ultimate": {
+  "t": "終極",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
+  "t": "負の g ではストラットが圧縮になる。ジュリーストラットが支持のない長さを半分にし、座屈荷重を 4 倍にする。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Undercarriage": {
+  "t": "降着装置",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Units": {
   "t": "単位",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Unknowns for the next builder": {
+  "t": "次の製作者への未知数",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper cowl (hood, two 90 deg folds)": {
+  "t": "上部カウル（フード、90 deg 折り 2 回）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper skin, bay 1": {
+  "t": "上面外板、ベイ 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper skin, bay 2": {
+  "t": "上面外板、ベイ 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper skin, bay 3": {
+  "t": "上面外板、ベイ 3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper skins: roll the nose": {
+  "t": "上面外板：前縁を巻く",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "V-bead pleats + one 165° trailing-edge fold": {
+  "t": "V ビードのプリーツ + 165° の後縁折り 1 回",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "VHF antenna whip": {
+  "t": "VHF ホイップアンテナ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CL Cabin roof (centre lower skin)": {
+  "t": "W-CL キャビン天井（中央下面外板）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CS Aileron / flap skin (identical x4)": {
+  "t": "W-CS エルロン / フラップ外板（同一 x4）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CSS Aileron / flap spar (identical x4)": {
+  "t": "W-CSS エルロン / フラップ桁（同一 x4）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CT Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "t": "W-CT 中央翼後縁フェアリング（固定、フラップの間）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CU Centre-section upper skin": {
+  "t": "W-CU 中央翼上面外板",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-MR Main rib": {
+  "t": "W-MR メインリブ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-MRe Main rib, root/tip": {
+  "t": "W-MRe メインリブ、根元/翼端",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-MS Main spar (lipped C, opens aft)": {
+  "t": "W-MS 主桁（リップ付き C、後ろ向きに開く）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-NR Nose rib": {
+  "t": "W-NR 前縁リブ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-NRe Nose rib, root/tip": {
+  "t": "W-NRe 前縁リブ、根元/翼端",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-RS Rear spar (lipped C, opens forward)": {
+  "t": "W-RS 後桁（リップ付き C、前向きに開く）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SL1 Lower skin, bay 1": {
+  "t": "W-SL1 下面外板、ベイ 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SL2 Lower skin, bay 2": {
+  "t": "W-SL2 下面外板、ベイ 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SL3 Lower skin, bay 3": {
+  "t": "W-SL3 下面外板、ベイ 3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SU1 Upper skin, bay 1": {
+  "t": "W-SU1 上面外板、ベイ 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SU2 Upper skin, bay 2": {
+  "t": "W-SU2 上面外板、ベイ 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SU3 Upper skin, bay 3": {
+  "t": "W-SU3 上面外板、ベイ 3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Weeks 1–4": {
+  "t": "1–4 週目",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Weigh and balance": {
+  "t": "重量と重心",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Weigh, test, fly-off": {
+  "t": "計量、試験、確認飛行",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Weight, not tank size, sets the range": {
+  "t": "航続距離を決めるのはタンク容量ではなく重量",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "What is known, and what is not": {
+  "t": "わかっていること、わかっていないこと",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "What it costs": {
-  "t": "費用",
-  "by": "claude (hand-written UI seed)",
+  "t": "いくらかかるか",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wheel hub": {
+  "t": "ホイールハブ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wheels, 21 x 8.00-6 tundra tyres, drum brakes x2": {
+  "t": "車輪、21 x 8.00-6 ツンドラタイヤ、ドラムブレーキ x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Where it goes": {
+  "t": "取り付け場所",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Where the balance point sits": {
+  "t": "重心の位置",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Whole aircraft": {
   "t": "機体全体",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Whole-wing strength and stiffness": {
+  "t": "主翼全体の強度と剛性",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Why start here: the four stands use every skill the aircraft needs, on parts that don't fly. Get it wrong here, not on a spar. You need the stands anyway: the wings are built and parked on them until step 15.": {
+  "t": "ここから始める理由：4 台のスタンドは、機体に必要なすべての技能を、飛ばない部品で使います。失敗するならここで、桁ではなく。どのみちスタンドは必要です：主翼はステップ 15 までその上で組み立てて置いておきます。",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Will it fly well?": {
-  "t": "うまく飛ぶか？",
-  "by": "claude (hand-written UI seed)",
+  "t": "よく飛ぶか？",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Windscreen (cold-bent flat polycarbonate)": {
+  "t": "風防（冷間曲げの平板ポリカーボネート）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Windscreen, door and side windows": {
+  "t": "風防、ドア、側窓",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Windscreen, side windows, door": {
+  "t": "風防、側窓、ドア",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Windscreen: flat sheet, bedded on foam tape on the firewall and windscreen flanges.": {
+  "t": "風防：平板を、防火壁と風防のフランジにフォームテープを介して据える。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing and airframe": {
+  "t": "主翼と機体構造",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing lift uses a Schrenk distribution, with each wing pinned at the cabin arch and a V-strut at the 2.4 m rib. Gust loads are below the manoeuvre case. Laminated spars are checked as one section, which assumes rivet pitch close enough to stop the layers buckling separately.": {
+  "t": "主翼の揚力は Schrenk 分布を使い、各主翼はキャビンアーチでピン結合、2.4 m リブで V ストラット支持。突風荷重は運動荷重より小さい。ラミネート桁は 1 つの断面として検討しており、各層が個別に座屈しないほどリベットピッチが細かいことを前提としている。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing loading": {
+  "t": "翼面荷重",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing proof load": {
+  "t": "主翼保証荷重試験",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing stands (step 0)": {
+  "t": "主翼スタンド（ステップ 0）",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing torsion": {
+  "t": "主翼のねじれ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wings on": {
+  "t": "主翼取り付け",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "With X-ray on, every run is colour-coded: orange rudder, cyan elevator, purple aileron, green flap, red fuel, white pitot, grey static, yellow 12 V, pink coax.": {
+  "t": "X 線をオンにすると各経路が色分けされます：オレンジ 方向舵、シアン 昇降舵、紫 エルロン、緑 フラップ、赤 燃料、白 ピトー、灰 静圧、黄 12 V、ピンク 同軸。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "With a helper at the tip, lift each wing until its root tangs slide into the arch-top clevises.": {
+  "t": "翼端に補助者を付け、根元タングがアーチ上部のクレビスに滑り込むまで各主翼を持ち上げる。",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Write the part number on every blank. Keep the blanks in step order.": {
+  "t": "すべてのブランクに部品番号を書く。ブランクはステップ順に保管する。",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "X-ray": {
-  "t": "透視",
-  "by": "claude (hand-written UI seed)",
+  "t": "X 線",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "arch-foot bellcrank up the rear-arch leg to the arch-top bellcrank": {
+  "t": "アーチ脚部のベルクランクから後部アーチの脚を上ってアーチ上部のベルクランクへ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "arch-top bellcrank to outboard bellcrank, through rib lightening holes": {
+  "t": "アーチ上部のベルクランクから外側のベルクランクへ、リブの軽量化穴を通して",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "aux": {
+  "t": "補助",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "blanks": {
+  "t": "ブランク",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "blanks in all": {
+  "t": "ブランク合計",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "bolts": {
+  "t": "ボルト",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "bought or welded": {
+  "t": "購入または溶接",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "buckling": {
+  "t": "座屈",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "centre torque-tube arm to flap bellcrank": {
+  "t": "中央トルクチューブアームからフラップベルクランクへ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "check, then commit": {
+  "t": "確認してから確定",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "clean": {
+  "t": "清浄",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "close up": {
+  "t": "閉じる",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "crease pattern": {
+  "t": "折り目図",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "crippling": {
+  "t": "クリップリング",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "each with a pass criterion": {
+  "t": "それぞれに合格基準",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "fabricated or bought for half-VW": {
+  "t": "ハーフ VW 用に製作または購入",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "faying surfaces and interior": {
+  "t": "合わせ面と内部",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "finished": {
+  "t": "完成",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "flat blanks, one sheet gauge": {
-  "t": "平板ブランク、単一板厚",
-  "by": "claude (hand-written UI seed)",
+  "t": "平らなブランク、板厚 1 種類",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "fold the same way": {
+  "t": "同じように折る",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "fold to the marks": {
+  "t": "印まで折る",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "fuel": {
+  "t": "燃料",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "give it roundness": {
+  "t": "丸みを付ける",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "gravity feed": {
+  "t": "重力供給",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "gust": {
+  "t": "突風",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "hard": {
+  "t": "強く",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "header": {
+  "t": "ヘッダー",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "header full": {
+  "t": "ヘッダー満タン",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "header tank + aux tank, both in the cabin": {
+  "t": "ヘッダータンク + 補助タンク、どちらもキャビン内",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "includes 15 % spares": {
+  "t": "予備 15 % を含む",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "insert: the lock": {
+  "t": "差し込む：ロック",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "laminated wood, CC0 model": {
+  "t": "積層木材、CC0 モデル",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "light braking": {
+  "t": "軽いブレーキ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "make soft creases": {
+  "t": "軽い折り目を付ける",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "materials and hire, rough": {
+  "t": "材料とレンタル、概算",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "max take-off mass": {
-  "t": "最大離陸重量",
-  "by": "claude (hand-written UI seed)",
+  "t": "最大離陸質量",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "mountain": {
-  "t": "山折り",
-  "by": "claude (hand-written UI seed)",
+  "t": "山",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "mountain and valley folds": {
+  "t": "山折りと谷折り",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "neutral point": {
+  "t": "中立点",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "no reserve": {
+  "t": "予備なし",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "no sheet blanks": {
+  "t": "板金ブランクなし",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "none: over MTOW": {
+  "t": "なし：MTOW 超過",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "open out": {
+  "t": "開く",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "or a club CNC router": {
+  "t": "またはクラブの CNC ルーター",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "part-time, alongside the build": {
+  "t": "製作と並行してパートタイムで",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "pilot": {
+  "t": "パイロット",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "pilot hole": {
-  "t": "下穴",
-  "by": "claude (hand-written UI seed)",
+  "t": "パイロット穴",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "pin-to-pin; AN5 each end": {
+  "t": "ピン間；両端に AN5",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "pleat": {
+  "t": "プリーツ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "practice piece": {
+  "t": "練習用部品",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "public domain": {
   "t": "パブリックドメイン",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "radio optional in SSDR": {
+  "t": "SSDR では無線機は任意",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "reference points": {
+  "t": "基準点",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "right angle": {
+  "t": "直角",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "rivets": {
+  "t": "リベット",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "rolled zone": {
-  "t": "曲面部",
-  "by": "claude (hand-written UI seed)",
+  "t": "巻き部",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "rough build cost": {
-  "t": "概算費用",
-  "by": "claude (hand-written UI seed)",
+  "t": "概算製作費",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "same angle": {
+  "t": "同じ角度",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "same angle: converging creases": {
+  "t": "同じ角度：収束する折り目",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "same length": {
+  "t": "同じ長さ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "short grass": {
+  "t": "短い芝",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "static margin": {
+  "t": "静安定余裕",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "still air, 75 % power": {
+  "t": "無風、75 % 出力",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "subtotal": {
+  "t": "小計",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "tool, reused": {
+  "t": "工具、再利用",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "torque-tube arm to arch-foot bellcrank": {
+  "t": "トルクチューブアームからアーチ脚部のベルクランクへ",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "tundra tyres at 10–12 psi, 8 in tailwheel": {
+  "t": "ツンドラタイヤ 10–12 psi、8 in 尾輪",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "turn it over": {
+  "t": "ひっくり返す",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "unique": {
+  "t": "固有",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "unique blanks": {
+  "t": "固有ブランク",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "useful load": {
+  "t": "有効搭載量",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "valley": {
-  "t": "谷折り",
-  "by": "claude (hand-written UI seed)",
+  "t": "谷",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "via floor pulley + 3 fairleads; Nicopress + thimble each end": {
+  "t": "床プーリー + フェアリード 3 個経由；両端に Nicopress + シンブル",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "via pulley at bulkhead 1 + 3 fairleads; turnbuckle": {
+  "t": "隔壁 1 のプーリー + フェアリード 3 個経由；ターンバックル",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "wingspan": {
   "t": "翼幅",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "{w} x {h} mm flat, {f} folds, {p} pilot holes": {
+  "t": "{w} x {h} mm 展開、{f} 折り、{p} パイロット穴",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  }
 }

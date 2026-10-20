@@ -1,182 +1,3972 @@
 {
+ "1 m hand bending brake (or hardwood bending blocks in a vise)": {
+  "t": "1 m Handabkantbank (oder Biegeklötze aus Hartholz im Schraubstock)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in Clecos (300) + Cleco pliers": {
+  "t": "1/8 in Clecos (300) + Cleco-Zange",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)": {
+  "t": "1/8 in Aluminium-Blindniet mit Flachrundkopf, Klemmlänge -1 (bis 1.6 mm)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in domed aluminium blind rivet, grip -2 (1.6-3.2 mm)": {
+  "t": "1/8 in Aluminium-Blindniet mit Flachrundkopf, Klemmlänge -2 (1.6-3.2 mm)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in hole duplicator": {
+  "t": "1/8 in Lochübertrager",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "1/8 in stainless/Monel blind rivet (fire-zone)": {
+  "t": "1/8 in Edelstahl/Monel-Blindniet (Brandzone)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "2 m section in four-point bending, loaded in steps to 1.5 × the +4 g limit bending moment.": {
+  "t": "2 m langes Teilstück in Vierpunktbiegung, stufenweise belastet bis 1.5 × des Grenzbiegemoments bei +4 g.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "2 x AN4 at the tail post": {
+  "t": "2 x AN4 am Heckpfosten",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "2 x AN5 holes at the top, axle boss at the bottom": {
+  "t": "2 x AN5-Bohrungen oben, Achsauge unten",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "4 x 1.79 m wing, 2 x 1.0 m elevators, 1.24 m rudder, door": {
+  "t": "Flügel 4 x 1.79 m, Höhenruder 2 x 1.0 m, Seitenruder 1.24 m, Tür",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "4130 fittings": {
+  "t": "Beschläge aus 4130",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "75 mm tube + ratchet strap (nose roller)": {
+  "t": "75 mm Rohr + Ratschengurt (Nasenrolle)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "; {n} parts x {l} laminated layers": {
+  "t": "; {n} Teile x {l} laminierte Lagen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A BMAA or LAA inspector reviews the aircraft and the evidence.": {
+  "t": "Ein Prüfer der BMAA oder LAA begutachtet das Flugzeug und die Nachweise.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A UK SSDR aircraft needs no airworthiness approval, so all the responsibility is the builder's. Proof-load the wing with sandbags to +4 g and have a BMAA or LAA inspector look at it before it flies. Elsewhere, check your national microlight rules.": {
+  "t": "Ein britisches SSDR-Flugzeug braucht keine Lufttüchtigkeitszulassung, die gesamte Verantwortung liegt also beim Erbauer. Belasten Sie den Flügel mit Sandsäcken auf +4 g und lassen Sie ihn vor dem Flug von einem BMAA- oder LAA-Prüfer ansehen. Andernorts gelten die nationalen Ultraleichtvorschriften.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A concept design, published for study. It is not an approved design, and nothing here is airworthiness advice.": {
+  "t": "Ein Konzeptentwurf, zur Studie veröffentlicht. Es ist kein zugelassenes Muster, und nichts hier ist eine Lufttüchtigkeitsberatung.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A single-seat microlight anyone can build. Every sheet part is a flat blank with straight folds, cut from one gauge of aluminium.": {
+  "t": "Ein einsitziges Ultraleichtflugzeug, das jeder bauen kann. Jedes Blechteil ist ein flacher Zuschnitt mit geraden Biegekanten, aus einer einzigen Aluminiumstärke geschnitten.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A4-1 blind rivet": {
+  "t": "Blindniet A4-1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A4-2 blind rivet": {
+  "t": "Blindniet A4-2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "A4-SS blind rivet": {
+  "t": "Blindniet A4-SS",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "ALT instrument": {
+  "t": "ALT-Instrument",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 bolt (10-32), AN365-1032 nut, AN960-10 washers": {
+  "t": "AN3-Schraube (10-32), AN365-1032-Mutter, AN960-10-Scheiben",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 bolt, AN365-1032 nut": {
+  "t": "AN3-Schraube, AN365-1032-Mutter",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 bolt, AN365-1032 nut, rod end between the plates": {
+  "t": "AN3-Schraube, AN365-1032-Mutter, Gelenkkopf zwischen den Platten",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 bolt, AN365-1032 nut, through 3/16 in rod end": {
+  "t": "AN3-Schraube, AN365-1032-Mutter, durch 3/16 in Gelenkkopf",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN3 each end": {
+  "t": "AN3 an jedem Ende",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt (1/4-28), AN365-428 nut, 2 x AN960-416 washers": {
+  "t": "AN4-Schraube (1/4-28), AN365-428-Mutter, 2 x AN960-416-Scheiben",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt, AN310-4 + cotter (pivot)": {
+  "t": "AN4-Schraube, AN310-4 + Splint (Drehpunkt)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt, AN310-4 castle nut + cotter": {
+  "t": "AN4-Schraube, AN310-4-Kronenmutter + Splint",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt, AN365-428 nut": {
+  "t": "AN4-Schraube, AN365-428-Mutter",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN4 bolt, AN365-428 nut, AN970-4 washer each side": {
+  "t": "AN4-Schraube, AN365-428-Mutter, AN970-4-Scheibe auf jeder Seite",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 bolt (5/16-24), AN365-524 nut, AN970-5 large washers": {
+  "t": "AN5-Schraube (5/16-24), AN365-524-Mutter, große AN970-5-Scheiben",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 bolt + rubber isolator (Lord-type) + AN365-524": {
+  "t": "AN5-Schraube + Gummipuffer (Lord-Typ) + AN365-524",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 bolt, AN310-5 castellated nut, MS24665 cotter": {
+  "t": "AN5-Schraube, AN310-5-Kronenmutter, MS24665-Splint",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 bolt, AN365-524 nut": {
+  "t": "AN5-Schraube, AN365-524-Mutter",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 clevis pin (bolt), AN310-5 castellated nut, MS24665 cotter": {
+  "t": "AN5-Gabelbolzen (Schraube), AN310-5-Kronenmutter, MS24665-Splint",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "AN5 prop bolt, AN310-5 + safety wire (per prop maker)": {
+  "t": "AN5-Propellerschraube, AN310-5 + Sicherungsdraht (nach Propellerhersteller)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "ASI instrument": {
+  "t": "ASI-Instrument",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "About 10 months": {
+  "t": "Etwa 10 Monate",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "t": "Querruder- / Klappenhebel, 4130 0.063in (eine Abkantung auf die untere Beplankung)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron / flap skin (identical x4)": {
+  "t": "Querruder- / Klappenbeplankung (identisch x4)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron / flap spar (identical x4)": {
+  "t": "Querruder- / Klappenholm (identisch x4)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron and flap horns (K-HN), 1 per surface": {
+  "t": "Querruder- und Klappenhebel (K-HN), 1 pro Ruderfläche",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron link (cabin) x2": {
+  "t": "Querruder-Verbindungsstange (Kabine) x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron link (cabin) x2: 6061-T6 3/8 x 0.035 in": {
+  "t": "Querruder-Verbindungsstange (Kabine) x2: 6061-T6 3/8 x 0.035 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron pushrod (arch) x2": {
+  "t": "Querruder-Stoßstange (Bogen) x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron pushrod (arch) x2: 6061-T6 3/8 x 0.035 in": {
+  "t": "Querruder-Stoßstange (Bogen) x2: 6061-T6 3/8 x 0.035 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron pushrod (wing) x2": {
+  "t": "Querruder-Stoßstange (Flügel) x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron pushrod (wing) x2: 6061-T6 1/2 x 0.035 in": {
+  "t": "Querruder-Stoßstange (Flügel) x2: 6061-T6 1/2 x 0.035 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aileron torque tube": {
+  "t": "Querruder-Torsionsrohr",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ailerons: a short link from the torque-tube arm to the arch-foot bellcrank, a pushrod up the rear-arch leg to the arch-top bellcrank, then out through the rib lightening holes to the outboard bellcrank, which drives the K-HN horn on the aileron. Flaps: overhead lever, a short rod to the centre-section torque-tube arms, then pushrods to the flap bellcranks and K-HN horns.": {
+  "t": "Querruder: eine kurze Stange vom Torsionsrohrhebel zum Umlenkhebel am Bogenfuß, eine Stoßstange am hinteren Bogenbein hinauf zum Umlenkhebel oben am Bogen, dann nach außen durch die Erleichterungslöcher der Rippen zum äußeren Umlenkhebel, der den K-HN-Hebel am Querruder antreibt. Klappen: Deckenhebel, eine kurze Stange zu den Torsionsrohrhebeln des Mittelstücks, dann Stoßstangen zu den Klappen-Umlenkhebeln und K-HN-Hebeln.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "All 52 ribs are the same two blanks. The pilot holes locate them, so no jig is needed.": {
+  "t": "Alle 52 Rippen entstehen aus denselben zwei Zuschnitten. Die Führungsbohrungen positionieren sie, eine Helling ist nicht nötig.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "All six faces aim at one vanishing point, so each face is flat and every crease is straight.": {
+  "t": "Alle sechs Flächen zielen auf einen Fluchtpunkt, daher ist jede Fläche eben und jede Biegekante gerade.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "All the glazing is flat sheet: no forming and no moulds.": {
+  "t": "Die gesamte Verglasung ist ebene Platte: kein Umformen, keine Formen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Allowable": {
+  "t": "Zulässig",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "An engineering test plan modelled on BCAR Section S practice, not a regulatory approval route. Costs are rough ranges for materials, hire and consumables, not labour, and exclude the airframe itself. The plan lives in qualification.yaml in the repository, and its pass criteria use the live numbers from the build.": {
+  "t": "Ein technischer Prüfplan nach dem Vorbild der BCAR Section S, kein behördlicher Zulassungsweg. Die Kosten sind grobe Spannen für Material, Miete und Verbrauchsmaterial, ohne Arbeitszeit und ohne die Zelle selbst. Der Plan liegt in qualification.yaml im Repository, und seine Abnahmekriterien verwenden die Live-Werte aus dem Build.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Approach the stall in 1 kt steps, flaps up and down, at forward and aft CG.": {
+  "t": "Den Strömungsabriss in 1-kt-Schritten anfliegen, Klappen ein und aus, bei vorderer und hinterer Schwerpunktlage.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Arch over the pilot. Spar-root fittings bolt to its top corners, strut fittings to its feet. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "Bogen über dem Piloten. Die Holmwurzelbeschläge werden an seine oberen Ecken geschraubt, die Strebenbeschläge an seine Füße. Laminiert: 2 ineinanderliegende Lagen 0.020 in, getrennt gekantet und als eine vernietet; pro innerer Lage 0.5 mm von den Flanschkanten abnehmen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "As above, including the reversed load case at −2 g.": {
+  "t": "Wie oben, einschließlich des umgekehrten Lastfalls bei −2 g.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "At least 1.5 × the full-power fuel flow from either tank.": {
+  "t": "Mindestens 1.5 × des Kraftstoffdurchflusses bei Vollgas aus jedem der beiden Tanks.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aux fuel tank 20 L (rotomoulded), high behind the seat, gravity feed": {
+  "t": "Zusatztank 20 L (rotationsgeformt), hoch hinter dem Sitz, Schwerkraftförderung",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aux tank 20 L behind the seat + selector valve + line": {
+  "t": "Zusatztank 20 L hinter dem Sitz + Wahlventil + Leitung",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aux tank filler (through the left cabin side, behind the door)": {
+  "t": "Einfüllstutzen Zusatztank (durch die linke Kabinenseite, hinter der Tür)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Aviation snips (straight, left, right)": {
+  "t": "Blechscheren (gerade, links, rechts)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Axle bolt AN6 + castellated nut AN310-6 + cotter MS24665": {
+  "t": "Achsschraube AN6 + Kronenmutter AN310-6 + Splint MS24665",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Back-drill #40 through the rib and spar-cap pilot holes, using the hole duplicator where you can't reach from inside. Cleco as you go.": {
+  "t": "Durch die Führungsbohrungen von Rippen und Holmgurten mit #40 nachbohren, wo man von innen nicht hinkommt mit dem Lochübertrager. Dabei laufend Clecos setzen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Back-drill through the rib flanges and spar caps. Do the nose last, working from the spar forward.": {
+  "t": "Durch die Rippenflansche und Holmgurte nachbohren. Die Nase zuletzt, vom Holm nach vorn arbeiten.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Baggage locker behind the seat (net, 5 kg max)": {
+  "t": "Gepäckfach hinter dem Sitz (Netz, max. 5 kg)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Battery + radio + antenna": {
+  "t": "Batterie + Funkgerät + Antenne",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Battery 12 V LiFePO4 in vented box (under the seat)": {
+  "t": "Batterie 12 V LiFePO4 in belüfteter Box (unter dem Sitz)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcrank arms in the cabin, 2 per bellcrank; Bellcrank arms in the wings, 2 per bellcrank": {
+  "t": "Umlenkhebelarme in der Kabine, 2 pro Umlenkhebel; Umlenkhebelarme in den Flügeln, 2 pro Umlenkhebel",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "t": "Umlenkhebelhalter in der Kabine an Bogen / Holm, je 2; Umlenkhebelhalter in den Flügeln an Bogen / Holm, je 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcrank pivots in the cabin (K-BC pair through its K-CV bracket); Bellcrank pivots in the wings (K-BC pair through its K-CV bracket)": {
+  "t": "Umlenkhebellager in der Kabine (K-BC-Paar durch seinen K-CV-Halter); Umlenkhebellager in den Flügeln (K-BC-Paar durch seinen K-CV-Halter)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "t": "Umlenkhebelplatte, 4130 0.063in (paarweise, 55 mm Arme)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bellcranks: each is a pair of K-BC plates, 16 mm apart, on an AN4 pivot through a folded K-CV bracket. The rod ends sit between the plates on AN3 bolts. Five per side: aileron arch-foot, arch-top and outboard (at the rear spar); flap torque-tube arm and flap bellcrank.": {
+  "t": "Umlenkhebel: jeder besteht aus zwei K-BC-Platten im Abstand von 16 mm auf einem AN4-Drehpunkt durch einen gekanteten K-CV-Halter. Die Gelenkköpfe sitzen zwischen den Platten auf AN3-Schrauben. Fünf pro Seite: Querruder am Bogenfuß, oben am Bogen und außen (am Hinterholm); Klappen-Torsionsrohrhebel und Klappen-Umlenkhebel.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bench vise with soft jaws": {
+  "t": "Schraubstock mit Schutzbacken",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bend deduction": {
+  "t": "Biegeabzug",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bend on the brake: each channel is four 90° bends. Bend the two flanges first, then the two lips. Set the nose radius to 1 mm (about 2t for 0.020 in) and overbend about 2° for springback. Check every bend with a square.": {
+  "t": "An der Kantbank biegen: jedes Profil hat vier 90°-Kantungen. Erst die beiden Flansche, dann die beiden Lippen. Den Oberwangenradius auf 1 mm einstellen (etwa 2t für 0.020 in) und etwa 2° für die Rückfederung überbiegen. Jede Kantung mit dem Winkel prüfen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bend radius and springback": {
+  "t": "Biegeradius und Rückfederung",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Best climb": {
+  "t": "Bestes Steigen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
  "Bill of materials": {
   "t": "Stückliste",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Blanks": {
   "t": "Zuschnitte",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Blind-rivet puller (hand or pneumatic)": {
+  "t": "Blindnietzange (Hand oder pneumatisch)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt each main-gear spring leg through the floor doubler under the front arch: 2 x AN5 each, large washers both sides.": {
+  "t": "Jedes Hauptfahrwerks-Federbein durch die Bodenverstärkung unter dem vorderen Bogen schrauben: je 2 x AN5, große Scheiben auf beiden Seiten.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt in the four harness anchors.": {
+  "t": "Die vier Gurtanschlusspunkte festschrauben.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt on the propeller and spinner. Torque to the prop maker's figure, then safety-wire.": {
+  "t": "Propeller und Spinner anschrauben. Auf das Drehmoment des Propellerherstellers anziehen, dann mit Draht sichern.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the 4130 engine mount through the firewall (4 x AN4) with large washers on the back.": {
+  "t": "Den Motorträger aus 4130 durch den Brandschott schrauben (4 x AN4), mit großen Scheiben auf der Rückseite.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the four root clevises to the arch tops and the four strut-foot clevises to the arch feet with AN4 bolts.": {
+  "t": "Die vier Wurzelgabeln oben an die Bögen und die vier Strebenfußgabeln an die Bogenfüße mit AN4-Schrauben schrauben.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the stabiliser halves to the tailcone side doublers, 4 x AN4 each. Bolt the fin spar to the tail post, 3 x AN4.": {
+  "t": "Die Höhenflossenhälften an die seitlichen Heckkonus-Verstärkungen schrauben, je 4 x AN4. Den Seitenflossenholm an den Heckpfosten schrauben, 3 x AN4.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the tailwheel spring to the tail post (2 x AN4). Fit the fork and the two steering springs to the rudder horn.": {
+  "t": "Die Spornradfeder an den Heckpfosten schrauben (2 x AN4). Gabel und die beiden Lenkfedern am Seitenruderhebel anbringen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolt the tang pairs either side of each spar web at the root (4 x AN3), and the strut-top clevises under the spars at the 2.4 m rib.": {
+  "t": "Die Laschenpaare an der Wurzel beidseitig jedes Holmstegs anschrauben (4 x AN3) und die oberen Strebengabeln an der 2.4 m-Rippe unter die Holme.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bolts to the spar web with 4 x AN3 and reaches inboard past the spar end to the arch-top clevis pin.": {
+  "t": "Wird mit 4 x AN3 an den Holmsteg geschraubt und reicht nach innen über das Holmende hinaus bis zum Gabelbolzen oben am Bogen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Both sides are the same blank, mirrored. The openings have 50 mm corner radii because square corners start cracks.": {
+  "t": "Beide Seiten sind derselbe Zuschnitt, gespiegelt. Die Öffnungen haben 50 mm Eckradien, weil scharfe Ecken Risse auslösen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Both tanks, up to MTOW": {
+  "t": "Beide Tanks, bis MTOW",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bottom + both chamfers + side flanges from one sheet: converging creases, still developable (frustum).": {
+  "t": "Boden + beide Fasen + Seitenflansche aus einem Blech: zusammenlaufende Biegekanten, weiterhin abwickelbar (Pyramidenstumpf).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bottom extends between the elevator halves.": {
+  "t": "Der Boden reicht bis zwischen die Höhenruderhälften.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bought / fabricated items going on": {
+  "t": "Gekaufte / gefertigte Teile, die montiert werden",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Bought assemblies": {
+  "t": "Kaufbaugruppen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Box-pleat hood 45°, nose bowl converging creases": {
+  "t": "Haube mit Kastenfalten 45°, zusammenlaufende Kanten an der Nasenschale",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Brake drum": {
+  "t": "Bremstrommel",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Build each section upside down on a straight edge: bulkheads Clecoed into the belly, then the sides, then the top.": {
+  "t": "Jeden Abschnitt kopfüber auf einer geraden Kante bauen: Spante mit Clecos in den Bauch, dann die Seiten, dann die Oberseite.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Build up towards Vne in 5 kt steps, watching for buzz or flutter at every step.": {
+  "t": "In 5-kt-Schritten an Vne herantasten und bei jedem Schritt auf Brummen oder Flattern achten.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "CG range": {
+  "t": "Schwerpunktbereich",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "CHT/EGT instrument": {
+  "t": "CHT/EGT-Instrument",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "CLmax, drag, propeller efficiency and the neutral point are handbook estimates. Measure stall speed and CG limits in flight test. The 35 kt SSDR stall limit is met with flaps:": {
+  "t": "CLmax, Widerstand, Propellerwirkungsgrad und Neutralpunkt sind Handbuchschätzungen. Überziehgeschwindigkeit und Schwerpunktgrenzen im Flugversuch messen. Die SSDR-Überziehgrenze von 35 kt wird mit Klappen eingehalten:",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cabin roof (centre lower skin)": {
+  "t": "Kabinendach (mittlere untere Beplankung)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cabin side (x2, mirrored): door/window opening + front window": {
+  "t": "Kabinenseite (x2, gespiegelt): Tür-/Fensteröffnung + Frontfenster",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cabin sides and seat": {
+  "t": "Kabinenseiten und Sitz",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Carries flap/aileron hinges and rear strut fitting. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "Trägt die Klappen-/Querruderscharniere und den hinteren Strebenbeschlag. Laminiert: 2 ineinanderliegende Lagen 0.020 in, getrennt gekantet und als eine vernietet; pro innerer Lage 0.5 mm von den Flanschkanten abnehmen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Case": {
+  "t": "Fall",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "t": "Hinterkantenverkleidung des Mittelstücks (fest, zwischen den Klappen)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Centre-section upper skin": {
+  "t": "Obere Beplankung des Mittelstücks",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Check stops, free play, friction and cable tension, then load every circuit to the pilot limit loads.": {
+  "t": "Anschläge, Spiel, Reibung und Seilspannung prüfen, dann jeden Steuerkreis bis zu den Grenzlasten des Piloten belasten.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Check the cap angle every 500 mm with a square. Sight along the spar for twist.": {
+  "t": "Den Gurtwinkel alle 500 mm mit dem Winkel prüfen. Am Holm entlang auf Verdrehung peilen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Check twist by sighting a level across bulkheads 1 and 5. Then join the two sections at bulkhead 3.": {
+  "t": "Verdrehung prüfen, indem man über eine Wasserwaage auf Spant 1 und 5 peilt. Dann die beiden Abschnitte an Spant 3 verbinden.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clean and prime. Steel fittings rust under paint if they aren't primed.": {
+  "t": "Reinigen und grundieren. Stahlbeschläge rosten unter dem Lack, wenn sie nicht grundiert sind.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clecos": {
+  "t": "Clecos",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each": {
+  "t": "Gabelstege oben und an den Füßen der Bögen, 2 pro Gabel; obere Streben- und Hilfsstrebengabeln durch die Holmgurte, je 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each; Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "t": "Gabelstege oben und an den Füßen der Bögen, 2 pro Gabel; obere Streben- und Hilfsstrebengabeln durch die Holmgurte, je 2; Umlenkhebelhalter in der Kabine an Bogen / Holm, je 2; Umlenkhebelhalter in den Flügeln an Bogen / Holm, je 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clevis, 4130 0.063in (U, two folds)": {
+  "t": "Gabel, 4130 0.063in (U-Form, zwei Kantungen)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clevis: two 90° bends at 3t radius": {
+  "t": "Gabel: zwei 90°-Kantungen mit Radius 3t",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Click to explore": {
+  "t": "Zum Erkunden klicken",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Clip on the strut fairings.": {
+  "t": "Die Strebenverkleidungen aufklipsen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Close the bay behind the centre-section rear spar with the W-CT trailing-edge fairing (same wedge fold as the flaps). Do it last, after the flap linkage is rigged and checked.": {
+  "t": "Den Raum hinter dem Hinterholm des Mittelstücks mit der Hinterkantenverkleidung W-CT schließen (gleiche Keilkantung wie die Klappen). Zuletzt erledigen, nachdem das Klappengestänge eingestellt und geprüft ist.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Closes the control surface; carries hinge and mass-balance arm.": {
+  "t": "Schließt die Ruderfläche; trägt Scharnier und Massenausgleichsarm.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Closes the control surface; carries hinge and mass-balance arm. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "Schließt die Ruderfläche; trägt Scharnier und Massenausgleichsarm. Laminiert: 2 ineinanderliegende Lagen 0.020 in, getrennt gekantet und als eine vernietet; pro innerer Lage 0.5 mm von den Flanschkanten abnehmen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Compass (on the glare shield)": {
+  "t": "Kompass (auf dem Blendschutz)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Components": {
+  "t": "Bauteile",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Consumables": {
+  "t": "Verbrauchsmaterial",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Control stick": {
+  "t": "Steuerknüppel",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Control system": {
+  "t": "Steuerung",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Control-circuit strength": {
+  "t": "Festigkeit der Steuerkreise",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Control-system free play": {
+  "t": "Spiel in der Steuerung",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Controllable in all axes with trim available. Engine temperatures stable.": {
+  "t": "In allen Achsen steuerbar, mit Trimmreserve. Motortemperaturen stabil.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Controls, instruments and systems": {
+  "t": "Steuerung, Instrumente und Systeme",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Controls: stick, torque tube, cables, pushrods": {
+  "t": "Steuerung: Knüppel, Torsionsrohr, Seile, Stoßstangen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Converging creases 44°, bulkhead flanges 96–100°": {
+  "t": "Zusammenlaufende Kanten 44°, Spantflansche 96–100°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Copy it, change it, build it, sell it. No permission needed.": {
+  "t": "Kopieren, ändern, bauen, verkaufen. Keine Erlaubnis nötig.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cordless drill, #40 (2.5 mm) and #30 (3.3 mm) bits": {
+  "t": "Akkuschrauber, Bohrer #40 (2.5 mm) und #30 (3.3 mm)",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Cost": {
   "t": "Kosten",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cotter pins": {
+  "t": "Splinte",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cotter-pin and safety-wire pliers": {
+  "t": "Splint- und Sicherungsdrahtzange",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Coupons and processes": {
+  "t": "Proben und Verfahren",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Covers the top half of the firewall. Camlocks along the firewall flange and the split line.": {
+  "t": "Deckt die obere Hälfte des Brandschotts ab. Camlocks entlang des Brandschottflanschs und der Trennlinie.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cowl to firewall flange and along the split line": {
+  "t": "Haube an Brandschottflansch und entlang der Trennlinie",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Crippling stress at least {stress:ms_cc}, the design allowable. Layers must not separate before failure.": {
+  "t": "Krüppelspannung mindestens {stress:ms_cc}, der zulässige Bemessungswert. Die Lagen dürfen sich vor dem Versagen nicht trennen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cruise 75 %": {
+  "t": "Reise 75 %",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Crush 300 mm lengths of three-layer lipped channel, riveted at design pitch, five samples.": {
+  "t": "300 mm lange Stücke dreilagigen Lippenprofils, im Bemessungsabstand vernietet, stauchen, fünf Proben.",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Currency": {
   "t": "Währung",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut and deburr: the stand blanks are on the same nest sheets as everything else. File every edge smooth and deburr each pilot hole on both faces. Look for burrs with your fingertip, not your eye.": {
+  "t": "Schneiden und entgraten: die Zuschnitte der Böcke liegen auf denselben Schachtelblechen wie alles andere. Jede Kante glatt feilen und jede Führungsbohrung beidseitig entgraten. Grate mit der Fingerspitze suchen, nicht mit dem Auge.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut files (DXF and nests), crease patterns, the prop model, the bill of materials and the design report.": {
+  "t": "Schnittdateien (DXF und Schachtelungen), Faltmuster, das Propellermodell, die Stückliste und der Auslegungsbericht.",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Cut lengths": {
-  "t": "Schnittlängen",
-  "by": "claude (hand-written UI seed)",
+  "t": "Zuschnittlängen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut list": {
+  "t": "Zuschnittliste",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut the main struts to 2543 mm and the rear struts to 2547 mm pin-to-pin, minus the end-fitting length. All four are 6061-T6 1.75 x 0.065 in tube.": {
+  "t": "Die Hauptstreben auf 2543 mm und die Hinterstreben auf 2547 mm von Bolzen zu Bolzen ablängen, abzüglich der Endbeschlaglänge. Alle vier sind Rohr 6061-T6 1.75 x 0.065 in.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cut, deburr, mark": {
+  "t": "Schneiden, entgraten, anreißen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Cylinder": {
+  "t": "Zylinder",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Deburr every edge and hole": {
+  "t": "Jede Kante und Bohrung entgraten",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Deburr every edge with a file or deburring tool. A burr is where a fatigue crack starts.": {
+  "t": "Jede Kante mit Feile oder Entgrater entgraten. Ein Grat ist der Ort, an dem ein Ermüdungsriss beginnt.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Deburr every pilot hole on both faces with a 10 mm bit turned by hand.": {
+  "t": "Jede Führungsbohrung beidseitig mit einem von Hand gedrehten 10 mm-Bohrer entgraten.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Deburring tool, 10 mm drill bit (hole deburr), fine file": {
+  "t": "Entgrater, 10 mm Bohrer (Bohrungen entgraten), feine Feile",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Don't overtighten: nylon washers, and stop when the washer just grips.": {
+  "t": "Nicht zu fest anziehen: Nylonscheiben, und aufhören, sobald die Scheibe gerade greift.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Door (left, hinged) / side window (right, fixed)": {
+  "t": "Tür (links, angeschlagen) / Seitenfenster (rechts, fest)",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Download files (.zip)": {
   "t": "Dateien herunterladen (.zip)",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Drawing": {
   "t": "Zeichnung",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Drill and cleco: clamp the gussets in place, drill through the pilot holes to #30 (3.3 mm), and put a cleco in every fourth hole as you go. Then take everything apart, deburr the holes and the faying surfaces, and put it back together on clecos.": {
+  "t": "Bohren und clecoen: die Knotenbleche festklemmen, durch die Führungsbohrungen auf #30 (3.3 mm) bohren und laufend in jedes vierte Loch ein Cleco setzen. Dann alles zerlegen, Bohrungen und Fügeflächen entgraten und wieder auf Clecos zusammensetzen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Drill press, 1/4 in and 5/16 in reamers": {
+  "t": "Ständerbohrmaschine, Reibahlen 1/4 in und 5/16 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Drill, deburr, prime, rivet the skeleton": {
+  "t": "Das Gerippe bohren, entgraten, grundieren, vernieten",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Duration": {
+  "t": "Dauer",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Each cable end": {
+  "t": "Jedes Seilende",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Each spar is a laminate: three nested blanks for the main spar, two for the rear. Fold every layer separately, then nest them.": {
+  "t": "Jeder Holm ist ein Laminat: drei ineinanderliegende Zuschnitte für den Hauptholm, zwei für den Hinterholm. Jede Lage einzeln kanten, dann ineinanderlegen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Each wing pins on at two points. The struts set its angle.": {
+  "t": "Jeder Flügel wird an zwei Punkten gebolzt. Die Streben legen seinen Winkel fest.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ears take an AN5 pin (fore-aft axis); web bolts with 2 x AN4. Bend radius 3t for normalised 4130 (Wanttaja).": {
+  "t": "Die Ohren nehmen einen AN5-Bolzen auf (Längsachse); der Steg wird mit 2 x AN4 verschraubt. Biegeradius 3t für normalgeglühten 4130 (Wanttaja).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Electrics: 12 V LiFePO4 battery in a vented box under the seat. Run it via the master switch and fuses to the radio, with the antenna coax to a whip on the tailcone top. The mag P-lead goes through a firewall grommet. The half-VW's magneto needs no battery to run.": {
+  "t": "Elektrik: 12 V LiFePO4-Batterie in belüfteter Box unter dem Sitz. Über Hauptschalter und Sicherungen zum Funkgerät führen, das Antennenkoax zu einem Stab oben auf dem Heckkonus. Das P-Kabel des Magneten geht durch eine Brandschott-Tülle. Der Magnetzünder des Halb-VW braucht zum Laufen keine Batterie.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator bellcrank (under seat)": {
+  "t": "Höhenruder-Umlenkhebel (unter dem Sitz)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator cable x2": {
+  "t": "Höhenruderseil x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator cable x2: 1/8 in 7x19 galvanised": {
+  "t": "Höhenruderseil x2: 1/8 in 7x19 verzinkt",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator cables: run one straight line each from the bellcrank to the tail-post grommet, 60 mm apart, up cable above down cable. Fit a phenolic fairlead where each line passes a bulkhead.": {
+  "t": "Höhenruderseile: jedes in einer geraden Linie vom Umlenkhebel zur Tülle am Heckpfosten führen, 60 mm Abstand, das Zieh-Seil über dem Drück-Seil. Wo eine Linie einen Spant passiert, eine Phenolharz-Seilführung setzen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "t": "Höhenruderhebel, 4130 0.063in (doppelseitig, auf dem Höhenruder-Torsionsrohr)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator skin": {
+  "t": "Höhenruderbeplankung",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevator spar": {
+  "t": "Höhenruderholm",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Elevators and rudder: fold them the same way as the ailerons in step 7 (pleats, then the trailing-edge fold, then the C-spar).": {
+  "t": "Höhen- und Seitenruder: genauso kanten wie die Querruder in Schritt 7 (Falten, dann die Hinterkantenkantung, dann der C-Holm).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty / MTOW": {
+  "t": "Leer / MTOW",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty mass and balance": {
+  "t": "Leermasse und Schwerpunkt",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty mass at or below {mass:empty} plus 3 %, and every loading case inside the CG range.": {
+  "t": "Leermasse höchstens {mass:empty} plus 3 %, und jeder Beladungsfall innerhalb des Schwerpunktbereichs.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty tanks": {
+  "t": "Leere Tanks",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Empty tanks, 5 kg baggage (aftmost)": {
+  "t": "Leere Tanks, 5 kg Gepäck (hinterster Fall)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Endurance": {
+  "t": "Flugdauer",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine and prop": {
+  "t": "Motor und Propeller",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine and propeller": {
+  "t": "Motor und Propeller",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine mount": {
+  "t": "Motorträger",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine mount to firewall, 4": {
+  "t": "Motorträger an Brandschott, 4",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine mount tube (4130)": {
+  "t": "Motorträgerrohr (4130)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine runs: full-power static run, mag check, then check cylinder head temperatures.": {
+  "t": "Motorläufe: Standlauf mit Vollgas, Magnetcheck, dann Zylinderkopftemperaturen prüfen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine to mount, 4": {
+  "t": "Motor an Träger, 4",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Engine, cowl, prop": {
+  "t": "Motor, Haube, Propeller",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Epoxy primer + etch/alodine": {
+  "t": "Epoxid-Grundierung + Beize/alodine",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Estimated": {
+  "t": "Geschätzt",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Estimated flutter speed at least 1.2 × the design dive speed of {speed:Vd}.": {
+  "t": "Geschätzte Flattergeschwindigkeit mindestens 1.2 × der Auslegungs-Sturzfluggeschwindigkeit von {speed:Vd}.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every crease goes on the blank before anything is folded, the same order the origami book uses.": {
+  "t": "Jede Biegekante kommt auf den Zuschnitt, bevor irgendetwas gekantet wird, in derselben Reihenfolge wie im Origami-Buch.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every flange within ±0.5 mm of the drawing.": {
+  "t": "Jeder Flansch innerhalb ±0.5 mm der Zeichnung.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every number on this site is a calculation. This is the plan for turning them into evidence: cheap coupon tests first, then components, then the whole wing, then the ground and finally the air. Each phase retires a specific risk before money is spent on the next. Results go back into the repository, and measured values replace the estimates in aircraft.yaml.": {
+  "t": "Jede Zahl auf dieser Seite ist eine Berechnung. Dies ist der Plan, daraus Nachweise zu machen: zuerst billige Probenversuche, dann Bauteile, dann der ganze Flügel, dann am Boden und schließlich in der Luft. Jede Phase räumt ein bestimmtes Risiko aus, bevor Geld in die nächste fließt. Ergebnisse fließen zurück ins Repository, und Messwerte ersetzen die Schätzungen in aircraft.yaml.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every result, photo and failure goes into the repository.": {
+  "t": "Jedes Ergebnis, Foto und Versagen kommt ins Repository.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Every steel fitting is also a flat blank folded at most twice.": {
+  "t": "Jeder Stahlbeschlag ist ebenfalls ein flacher Zuschnitt, höchstens zweimal gekantet.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Everything that goes into one aircraft": {
+  "t": "Alles, was in ein Flugzeug gehört",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Exact": {
+  "t": "Exakt",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Exchange rates: {date}, base GBP.": {
+  "t": "Wechselkurse: {date}, Basis GBP.",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Export BOM (.csv)": {
   "t": "Stückliste exportieren (.csv)",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Extinguisher and PLB": {
+  "t": "Feuerlöscher und PLB",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B1 Tailcone bulkhead x=1150": {
+  "t": "F-B1 Heckkonus-Spant x=1150",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B2 Tailcone bulkhead x=1948": {
+  "t": "F-B2 Heckkonus-Spant x=1948",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B3 Tailcone bulkhead x=2745": {
+  "t": "F-B3 Heckkonus-Spant x=2745",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B4 Tailcone bulkhead x=3542": {
+  "t": "F-B4 Heckkonus-Spant x=3542",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-B5 Tailcone bulkhead x=4340 (tail post)": {
+  "t": "F-B5 Heckkonus-Spant x=4340 (Heckpfosten)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-CL Lower cowl (box-pleat pan to the cabin floor line)": {
+  "t": "F-CL Untere Haube (Kastenfalten-Wanne bis zur Kabinenbodenlinie)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-CU Upper cowl (hood, two 90 deg folds)": {
+  "t": "F-CU Obere Haube (Deckel, zwei 90 deg-Kantungen)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-DW Door (left, hinged) / side window (right, fixed)": {
+  "t": "F-DW Tür (links, angeschlagen) / Seitenfenster (rechts, fest)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-FA Front arch (main-spar frame)": {
+  "t": "F-FA Vorderer Bogen (Hauptholmrahmen)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-FL Floor tray with two hat pleats": {
+  "t": "F-FL Bodenwanne mit zwei Hutsicken",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-FW Firewall": {
+  "t": "F-FW Brandschott",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-FWN Front side window (x2, mirrored)": {
+  "t": "F-FWN Vorderes Seitenfenster (x2, gespiegelt)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-IP Instrument panel (glare-shield fold, side tabs)": {
+  "t": "F-IP Instrumentenbrett (Blendschutzkantung, Seitenlaschen)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-NF Nose ring (prop-shaft hole + two cooling inlets)": {
+  "t": "F-NF Nasenring (Propellerwellenloch + zwei Kühllufteinlässe)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-NL Nose bowl, chin (3 converging facets)": {
+  "t": "F-NL Nasenschale, Kinn (3 zusammenlaufende Facetten)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-NU Nose bowl, upper (3 converging facets)": {
+  "t": "F-NU Nasenschale, oben (3 zusammenlaufende Facetten)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-RA Rear arch (rear-spar frame)": {
+  "t": "F-RA Hinterer Bogen (Hinterholmrahmen)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-SD Cabin side (x2, mirrored): door/window opening + front window": {
+  "t": "F-SD Kabinenseite (x2, gespiegelt): Tür-/Fensteröffnung + Frontfenster",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-ST Seat (pan + back, one sheet)": {
+  "t": "F-ST Sitz (Schale + Lehne, ein Blech)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TB1 Tailcone belly, section 1": {
+  "t": "F-TB1 Heckkonus-Bauch, Abschnitt 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TB2 Tailcone belly, section 2": {
+  "t": "F-TB2 Heckkonus-Bauch, Abschnitt 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TS1 Tailcone side, section 1 (x2, mirrored)": {
+  "t": "F-TS1 Heckkonus-Seite, Abschnitt 1 (x2, gespiegelt)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TS2 Tailcone side, section 2 (x2, mirrored)": {
+  "t": "F-TS2 Heckkonus-Seite, Abschnitt 2 (x2, gespiegelt)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TT1 Tailcone top, section 1": {
+  "t": "F-TT1 Heckkonus-Oberseite, Abschnitt 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-TT2 Tailcone top, section 2": {
+  "t": "F-TT2 Heckkonus-Oberseite, Abschnitt 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "F-WS Windscreen (cold-bent flat polycarbonate)": {
+  "t": "F-WS Windschutzscheibe (kalt gebogenes ebenes Polycarbonat)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Faceted rib: every flange is a straight brake bend, no form block or fluting needed.": {
+  "t": "Facettierte Rippe: jeder Flansch ist eine gerade Kantung an der Kantbank, kein Formklotz, keine Sicken.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fairleads and pulleys": {
+  "t": "Seilführungen und Rollen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fasteners": {
+  "t": "Verbindungselemente",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fin nose rib": {
+  "t": "Seitenflossen-Nasenrippe",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fin skin (one wrap)": {
+  "t": "Seitenflossenbeplankung (ein Umschlag)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fin spar": {
+  "t": "Seitenflossenholm",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Final-drill every Cleco'd hole to #30 (3.3 mm), a few at a time, moving each Cleco to the next hole as you go.": {
+  "t": "Jede geclecote Bohrung auf #30 (3.3 mm) fertigbohren, immer einige auf einmal, und jedes Cleco dabei ins nächste Loch versetzen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fine felt marker, steel rule, square, MEK to clean": {
+  "t": "Feiner Filzstift, Stahllineal, Winkel, MEK zum Reinigen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Finish: glue carpet on top of each beam so the wing skin can't be scratched. Load each stand with 40 kg and check it doesn't rack or rock. Keep the offcuts: they are your test pieces for the spar bend in step 2.": {
+  "t": "Abschluss: Teppich oben auf jeden Balken kleben, damit die Flügelbeplankung nicht verkratzt. Jeden Bock mit 40 kg belasten und prüfen, dass er sich nicht verzieht oder wackelt. Die Reste aufheben: das sind Ihre Probestücke für die Holmkantung in Schritt 2.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fire extinguisher 1 kg (clip by the left seat rail)": {
+  "t": "Feuerlöscher 1 kg (Halter an der linken Sitzschiene)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Firewall": {
+  "t": "Brandschott",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Firewall flanges": {
+  "t": "Brandschottflansche",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "First flights": {
+  "t": "Erstflüge",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "First-pass strength: +4 / −2 g, ×1.5 ultimate": {
+  "t": "Festigkeit erste Näherung: +4 / −2 g, ×1.5 Bruch",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit each rib by its attach flange: Cleco through the pilot holes into the spar web. Nose ribs go on the front face, main ribs on the back.": {
+  "t": "Jede Rippe an ihrem Anschlussflansch ansetzen: Cleco durch die Führungsbohrungen in den Holmsteg. Nasenrippen auf die Vorderseite, Hauptrippen auf die Rückseite.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the axles, wheels and drum brakes. Castellated nut and cotter on each axle. The 21 x 8.00-6 tundra tyres run at 10-12 psi: check pressure before every flight, they are soft by design.": {
+  "t": "Achsen, Räder und Trommelbremsen montieren. Kronenmutter und Splint an jeder Achse. Die Tundrareifen 21 x 8.00-6 laufen mit 10-12 psi: vor jedem Flug den Druck prüfen, sie sind absichtlich weich.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the cabin roof and the centre-section upper skin, back-drilled through the root ribs. Use the riveting loop.": {
+  "t": "Kabinendach und obere Mittelstückbeplankung anbringen, durch die Wurzelrippen nachgebohrt. Die Nietschleife anwenden.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the camlock receptacles on the firewall flange and along the split line. Trim the cowl until it clears the cylinders by at least 10 mm.": {
+  "t": "Camlock-Aufnahmen am Brandschottflansch und entlang der Trennlinie setzen. Die Haube beschneiden, bis sie mindestens 10 mm Abstand zu den Zylindern hat.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the jury struts (420 mm main, 425 mm rear) from the clamp ear to the jury-top clevis under the spar, AN3 at each end. They double the strut's buckling strength.": {
+  "t": "Die Hilfsstreben (Haupt 420 mm, hinten 425 mm) vom Schellenohr zur oberen Hilfsstrebengabel unter dem Holm montieren, AN3 an jedem Ende. Sie verdoppeln die Knickfestigkeit der Strebe.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the sides outside the arches, firewall flange and floor flanges. Back-drill and Cleco.": {
+  "t": "Die Seiten außen an Bögen, Brandschottflansch und Bodenflansche ansetzen. Nachbohren und clecoen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fit the stick, the aileron torque tube under the seat and the elevator bellcrank. Connect the stick to the bellcrank with a short pushrod.": {
+  "t": "Knüppel, Querruder-Torsionsrohr unter dem Sitz und Höhenruder-Umlenkhebel einbauen. Den Knüppel mit einer kurzen Stoßstange mit dem Umlenkhebel verbinden.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Five facets, chamfers matching the cabin floor. A louvre slot at the rear is the cooling-air exit.": {
+  "t": "Fünf Facetten, Fasen passend zum Kabinenboden. Ein Lamellenschlitz hinten ist der Kühlluftaustritt.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges 90°, all toward the root": {
+  "t": "Flansche 90°, alle zur Wurzel",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges all round fold aft; engine mount bolts through 4 doublers.": {
+  "t": "Rundum Flansche nach hinten gekantet; der Motorträger wird durch 4 Verstärkungen geschraubt.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges follow the frustum taper (fold < 90 deg).": {
+  "t": "Flansche folgen der Verjüngung des Stumpfs (Kantung < 90 deg).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges follow the frustum taper (fold < 90 deg). Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "Flansche folgen der Verjüngung des Stumpfs (Kantung < 90 deg). Laminiert: 2 ineinanderliegende Lagen 0.020 in, getrennt gekantet und als eine vernietet; pro innerer Lage 0.5 mm von den Flanschkanten abnehmen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flanges follow the nose taper.": {
+  "t": "Flansche folgen der Verjüngung der Nase.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flap lever (overhead, Kitfox-style)": {
+  "t": "Klappenhebel (Decke, Kitfox-Art)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flap pushrod (wing) x2": {
+  "t": "Klappen-Stoßstange (Flügel) x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flap pushrod (wing) x2: 6061-T6 3/8 x 0.035 in": {
+  "t": "Klappen-Stoßstange (Flügel) x2: 6061-T6 3/8 x 0.035 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flap stall at or below 35 kt CAS, the SSDR limit; predicted {speed:Vs0}. Gentle stall, no wing drop.": {
+  "t": "Überziehgeschwindigkeit mit Klappen höchstens 35 kt CAS, die SSDR-Grenze; vorhergesagt {speed:Vs0}. Sanfter Abriss, kein Abkippen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flaps and ailerons": {
+  "t": "Klappen und Querruder",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flat panel; the top flange folds aft as a glare shield, side tabs fold forward onto the cabin sides. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "Ebene Platte; der obere Flansch wird als Blendschutz nach hinten gekantet, die Seitenlaschen nach vorn an die Kabinenseiten. Laminiert: 2 ineinanderliegende Lagen 0.020 in, getrennt gekantet und als eine vernietet; pro innerer Lage 0.5 mm von den Flanschkanten abnehmen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flat polycarbonate over the front cut-out, 20 mm lap, screws in 4.5 mm oversize holes.": {
+  "t": "Ebenes Polycarbonat über dem vorderen Ausschnitt, 20 mm Überlappung, Schrauben in 4.5 mm übergroßen Bohrungen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flight test": {
+  "t": "Flugerprobung",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Floor tray with two hat pleats": {
+  "t": "Bodenwanne mit zwei Hutsicken",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Floor, firewall, arches": {
+  "t": "Boden, Brandschott, Bögen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Flutter": {
+  "t": "Flattern",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Foam tape": {
+  "t": "Schaumstoffband",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold 20 strips of 0.51 mm 6061-T6 at a 0.8 mm nose radius, across and along the grain. Inspect every bend under a 10× loupe.": {
+  "t": "20 Streifen 6061-T6 0.51 mm mit 0.8 mm Oberwangenradius kanten, quer und längs zur Walzrichtung. Jede Kantung unter einer 10×-Lupe prüfen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold a 300 mm offcut of a rib and of a spar from the real DXFs and measure every flange.": {
+  "t": "Ein 300 mm-Reststück einer Rippe und eines Holms nach den echten DXFs kanten und jeden Flansch messen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold a 300 mm offcut of the same strip first and measure it to confirm the bend deduction.": {
+  "t": "Zuerst ein 300 mm-Reststück desselben Streifens kanten und messen, um den Biegeabzug zu bestätigen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold all 52 ribs before assembling any: one brake set-up does the whole batch.": {
+  "t": "Alle 52 Rippen kanten, bevor eine montiert wird: eine Einstellung der Kantbank reicht für die ganze Serie.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold coupons": {
+  "t": "Biegeproben",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold each belly blank: bottom, both chamfers, then the side flanges.": {
+  "t": "Jeden Bauchzuschnitt kanten: Boden, beide Fasen, dann die Seitenflansche.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold every rib flange 90° on the brake. Because the airfoil is faceted, each flange is one straight bend.": {
+  "t": "Jeden Rippenflansch an der Kantbank auf 90° kanten. Weil das Profil facettiert ist, ist jeder Flansch eine einzige gerade Kantung.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the 12 clevises in the vise over a 5 mm radius block. Normalised 4130 needs at least 3t (Wanttaja).": {
+  "t": "Die 12 Gabeln im Schraubstock über einem Klotz mit 5 mm Radius kanten. Normalgeglühter 4130 braucht mindestens 3t (Wanttaja).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the 90° top flange and the windscreen flange on each side panel. The top flange is the longeron.": {
+  "t": "An jeder Seitenwand den oberen 90°-Flansch und den Windschutzscheibenflansch kanten. Der obere Flansch ist der Längsgurt.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the bulkhead flanges. They are 96–100°, not 90°, because they follow the taper.": {
+  "t": "Die Spantflansche kanten. Sie haben 96–100°, nicht 90°, weil sie der Verjüngung folgen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the firewall flanges, all aft. It is stainless, so drill it slowly with a sharp bit and cutting oil.": {
+  "t": "Die Brandschottflansche kanten, alle nach hinten. Es ist Edelstahl, also langsam mit scharfem Bohrer und Schneidöl bohren.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the floor tray's two hat pleats, then the chamfers and side flanges.": {
+  "t": "Die beiden Hutsicken der Bodenwanne kanten, dann die Fasen und Seitenflansche.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the instrument panel (glare shield and side tabs) and rivet it to the cabin sides at x = -400 mm. Fit the ASI, altimeter, tach, CHT/EGT, radio, master and mag switches and fuel valve, and put the compass on the glare shield.": {
+  "t": "Das Instrumentenbrett kanten (Blendschutz und Seitenlaschen) und bei x = -400 mm an die Kabinenseiten nieten. ASI, Höhenmesser, Drehzahlmesser, CHT/EGT, Funkgerät, Haupt- und Magnetschalter und Kraftstoffhahn einbauen und den Kompass auf den Blendschutz setzen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the ribs, Cleco them on": {
+  "t": "Rippen kanten, mit Clecos ansetzen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the seat: pan and back from one sheet. Rivet its front lip to the floor and lean its back on the rear arch.": {
+  "t": "Den Sitz kanten: Schale und Lehne aus einem Blech. Die Vorderlippe an den Boden nieten und die Lehne an den hinteren Bogen lehnen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the spars": {
+  "t": "Holme kanten",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the stabiliser and fin spars and their nose ribs.": {
+  "t": "Höhen- und Seitenflossenholm und deren Nasenrippen kanten.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the trailing edge over a 0.6 mm radius bar in the brake, to about 165°. Squeeze gently in soft vise jaws until the TE is straight.": {
+  "t": "Die Hinterkante in der Kantbank über einem Stab mit 0.6 mm Radius auf etwa 165° kanten. Sanft zwischen Schutzbacken pressen, bis die Hinterkante gerade ist.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the two V-bead pleats in valley-mountain-valley order. Stop each bead at the marks.": {
+  "t": "Die beiden V-Sicken in der Reihenfolge Tal-Berg-Tal falten. Jede Sicke an den Markierungen enden lassen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the two arches: outer and inner flanges, all aft.": {
+  "t": "Die beiden Bögen kanten: Außen- und Innenflansche, alle nach hinten.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the two caps first (90°), then the two lips. Overbend by about 2° so the 6061-T6 springs back to 90°.": {
+  "t": "Zuerst die beiden Gurte (90°), dann die beiden Lippen kanten. Etwa 2° überbiegen, damit der 6061-T6 auf 90° zurückfedert.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fold the upper and lower cowls (four 45° creases each) and the nose-bowl halves. Rivet the nose bowls to the nose ring.": {
+  "t": "Obere und untere Haube (je vier 45°-Kanten) und die Nasenschalenhälften kanten. Die Nasenschalen an den Nasenring nieten.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Folded blanks": {
+  "t": "Gekantete Zuschnitte",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Folds": {
+  "t": "Kantungen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Four brake bends each": {
+  "t": "Je vier Kantungen an der Kantbank",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Four identical surfaces from one blank. The trailing edge is a single crease, so there's no separate strip to rivet on.": {
+  "t": "Vier identische Ruderflächen aus einem Zuschnitt. Die Hinterkante ist eine einzige Kante, also kein separater Streifen zum Annieten.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Four stands, 20 blanks, about 200 rivets. The cheapest place to learn to fold, drill and rivet is a part that never leaves the ground.": {
+  "t": "Vier Böcke, 20 Zuschnitte, etwa 200 Niete. Der günstigste Ort, Kanten, Bohren und Nieten zu lernen, ist ein Teil, das nie vom Boden abhebt.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Free play under 1° at each surface, and full travel with no binding under load.": {
+  "t": "Spiel unter 1° an jeder Ruderfläche und voller Ausschlag ohne Klemmen unter Last.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Front arch (main-spar frame)": {
+  "t": "Vorderer Bogen (Hauptholmrahmen)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Front side window (x2, mirrored)": {
+  "t": "Vorderes Seitenfenster (x2, gespiegelt)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Front side windows: screw over the cut-outs with a 20 mm lap.": {
+  "t": "Vordere Seitenfenster: mit 20 mm Überlappung über die Ausschnitte schrauben.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Frustum facets aimed at one point, so every crease is straight.": {
+  "t": "Stumpffacetten zielen auf einen Punkt, also ist jede Kante gerade.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel": {
+  "t": "Kraftstoff",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel allowed": {
+  "t": "Zulässiger Kraftstoff",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Fuel and payload": {
   "t": "Kraftstoff und Zuladung",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel feed": {
+  "t": "Kraftstoffversorgung",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel filler neck + cap (through the hood, ahead of the windscreen)": {
+  "t": "Einfüllstutzen + Deckel (durch die Haube, vor der Windschutzscheibe)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel selector valve: HEADER / AUX / OFF": {
+  "t": "Kraftstoff-Wahlventil: HEADER / AUX / OFF",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel system parts": {
+  "t": "Teile des Kraftstoffsystems",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel tank 19 L (rotomoulded polyethylene): header tank behind the firewall, ahead of the panel, Cub-style": {
+  "t": "Kraftstofftank 19 L (rotationsgeformtes Polyethylen): Haupttank hinter dem Brandschott, vor dem Instrumentenbrett, wie bei der Cub",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel tank 19 L (rotomoulded) + lines, valve, gascolator": {
+  "t": "Kraftstofftank 19 L (rotationsgeformt) + Leitungen, Hahn, Gascolator",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel, aux tank: a second 20 L tank strap-mounts high behind the seat, its bottom above the header tank top so it also gravity-feeds. Its line runs forward along the left roof rail to the selector; filler through the left cabin side, vent overboard under the roof. Never in the wings. Fill it only as far as the 300 kg MTOW allows: with a 100 kg pilot that is none at all. Burn the aux tank first, which keeps the CG moving forward.": {
+  "t": "Kraftstoff, Zusatztank: ein zweiter 20 L-Tank ist hoch hinter dem Sitz festgegurtet, sein Boden über der Oberkante des Haupttanks, sodass auch er per Schwerkraft fördert. Seine Leitung läuft entlang der linken Dachschiene nach vorn zum Wahlventil; Einfüllung durch die linke Kabinenseite, Entlüftung unter dem Dach nach außen. Niemals in den Flügeln. Nur so weit füllen, wie die MTOW von 300 kg erlaubt: mit einem 100 kg-Piloten gar nicht. Den Zusatztank zuerst leerfliegen, damit wandert der Schwerpunkt nach vorn.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Fuel, header tank: the 19 L rotomoulded tank sits behind the firewall, above the pilot's shins and under the windscreen, strapped to two angles riveted to the side panels (as on a J-3 Cub). It gravity-feeds: tank outlet, selector valve (HEADER / AUX / OFF), a fire-sleeved hose through a firewall grommet, the gascolator on the firewall, then the carburettor. The tank bottom is about 200 mm above the carburettor. The filler neck comes up through the hood just ahead of the windscreen, and the vent runs forward under the hood.": {
+  "t": "Kraftstoff, Haupttank: der rotationsgeformte 19 L-Tank sitzt hinter dem Brandschott, über den Schienbeinen des Piloten und unter der Windschutzscheibe, festgegurtet an zwei an die Seitenwände genietete Winkel (wie bei einer J-3 Cub). Er fördert per Schwerkraft: Tankauslass, Wahlventil (HEADER / AUX / OFF), ein feuergeschützter Schlauch durch eine Brandschott-Tülle, der Gascolator am Brandschott, dann der Vergaser. Der Tankboden liegt etwa 200 mm über dem Vergaser. Der Einfüllstutzen kommt direkt vor der Windschutzscheibe durch die Haube, die Entlüftung läuft unter der Haube nach vorn.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Gascolator (fuel strainer) on the firewall": {
+  "t": "Gascolator (Kraftstoffsieb) am Brandschott",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Glide L/D": {
+  "t": "Gleitzahl L/D",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ground": {
+  "t": "Boden",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ground vibration test": {
+  "t": "Standschwingungsversuch",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Half-VW engine": {
+  "t": "Halb-VW-Motor",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Half-VW engine, dressed (carb, mag, exhaust)": {
+  "t": "Halb-VW-Motor, komplett (Vergaser, Magnet, Auspuff)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Hang the elevators and rudder on piano hinges. Check ±25° rudder travel clears the elevator halves.": {
+  "t": "Höhen- und Seitenruder an Klavierbändern einhängen. Prüfen, dass ±25° Seitenruderausschlag die Höhenruderhälften freigeht.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Hang the half-VW on rubber isolators (4 x AN5).": {
+  "t": "Den Halb-VW an Gummipuffern aufhängen (4 x AN5).",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Hangar": {
   "t": "Hangar",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Hardware": {
-  "t": "Beschläge",
-  "by": "claude (hand-written UI seed)",
+  "t": "Kleinteile",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Hardware for this step": {
-  "t": "Beschläge für diesen Schritt",
-  "by": "claude (hand-written UI seed)",
+  "t": "Kleinteile für diesen Schritt",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Harness anchors to floor and rear arch, 4": {
+  "t": "Gurtanschlusspunkte an Boden und hinterem Bogen, 4",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Hat pleats 56°, flanges 90°": {
+  "t": "Hutsicken 56°, Flansche 90°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Have a BMAA or LAA inspector look at it before the first flight. Do first flights in calm air, over a long field.": {
+  "t": "Vor dem Erstflug von einem BMAA- oder LAA-Prüfer ansehen lassen. Erstflüge bei ruhiger Luft über einem langen Platz.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Head": {
+  "t": "Kopf",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Header tank full": {
+  "t": "Haupttank voll",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Holds ultimate load for 3 s in both directions.": {
+  "t": "Hält die Bruchlast 3 s lang in beiden Richtungen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Holds ultimate load for 3 s. Peak cap stress {stress:ms_sig} against an allowable of {stress:ms_cc}.": {
+  "t": "Hält die Bruchlast 3 s lang. Maximale Gurtspannung {stress:ms_sig} bei einem zulässigen Wert von {stress:ms_cc}.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Holds {force:strut_T} in tension and {force:strut_C} in compression with no failure.": {
+  "t": "Hält {force:strut_T} auf Zug und {force:strut_C} auf Druck ohne Versagen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Honesty": {
+  "t": "Ehrlichkeit",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Horn: rod end bolts through the outer hole (AN3).": {
+  "t": "Hebel: der Gelenkkopf wird durch das äußere Loch geschraubt (AN3).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Horns, bellcranks and brackets": {
+  "t": "Hebel, Umlenkhebel und Halter",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "How it gets proven": {
+  "t": "Wie es nachgewiesen wird",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Inspect each rivet: head seated flat, mandrel broken off flush, no gap under the head.": {
+  "t": "Jeden Niet prüfen: Kopf liegt plan, Dorn bündig abgerissen, kein Spalt unter dem Kopf.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Inspection": {
+  "t": "Prüfung",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Inspector sign-off before the aircraft is flown by anyone else.": {
+  "t": "Freigabe durch den Prüfer, bevor jemand anderes das Flugzeug fliegt.",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Instructions": {
   "t": "Anleitung",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Instrument panel (glare-shield fold, side tabs)": {
+  "t": "Instrumentenbrett (Blendschutzkantung, Seitenlaschen)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Instruments (ASI, alt, tach, CHT, compass)": {
+  "t": "Instrumente (ASI, Höhe, Drehzahl, CHT, Kompass)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Inverted wing on its fittings, sandbags laid out to the spanwise lift distribution, to +4 g limit and then −2 g. Measure tip deflection at each step.": {
+  "t": "Flügel kopfüber auf seinen Beschlägen, Sandsäcke nach der Auftriebsverteilung über die Spannweite verteilt, bis +4 g Grenzlast und dann −2 g. Bei jeder Stufe die Durchbiegung an der Spitze messen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut 0.75 x 0.049 in": {
+  "t": "Hilfsstrebe 0.75 x 0.049 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut x2 (main)": {
+  "t": "Hilfsstrebe x2 (Haupt)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut x2 (main): 6061-T6 0.75 x 0.049 in": {
+  "t": "Hilfsstrebe x2 (Haupt): 6061-T6 0.75 x 0.049 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut x2 (rear)": {
+  "t": "Hilfsstrebe x2 (hinten)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury strut x2 (rear): 6061-T6 0.75 x 0.049 in": {
+  "t": "Hilfsstrebe x2 (hinten): 6061-T6 0.75 x 0.049 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "t": "Sattelschelle der Hilfsstrebe, 4130 0.063in (gerollte Halbschale mit Ohren)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-BC Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "t": "K-BC Umlenkhebelplatte, 4130 0.063in (paarweise, 55 mm Arme)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-CV Clevis, 4130 0.063in (U, two folds)": {
+  "t": "K-CV Gabel, 4130 0.063in (U-Form, zwei Kantungen)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-HD Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "t": "K-HD Höhenruderhebel, 4130 0.063in (doppelseitig, auf dem Höhenruder-Torsionsrohr)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-HN Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "t": "K-HN Querruder- / Klappenhebel, 4130 0.063in (eine Abkantung auf die untere Beplankung)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-HR Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "t": "K-HR Seitenruderhebel, 4130 0.063in (flach, Seil auf jeder Seite)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-JC Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "t": "K-JC Sattelschelle der Hilfsstrebe, 4130 0.063in (gerollte Halbschale mit Ohren)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "K-TG Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "t": "K-TG Holmwurzellasche, 4130 0.063in (flach, paarweise beidseitig des Stegs)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laminate: each channel is two blanks. Fold both separately, nest the inner one inside the outer one, and check they sit tight with no gap. If the inner one fights, take 0.5 mm off its flange edges.": {
+  "t": "Laminat: jedes Profil besteht aus zwei Zuschnitten. Beide getrennt kanten, das innere in das äußere legen und prüfen, dass sie spaltfrei anliegen. Wenn das innere klemmt, 0.5 mm von seinen Flanschkanten abnehmen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laminated channel crippling": {
+  "t": "Krüppeln des laminierten Profils",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "Laminiert: 2 ineinanderliegende Lagen 0.020 in, getrennt gekantet und als eine vernietet; pro innerer Lage 0.5 mm von den Flanschkanten abnehmen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Landing gear and tailwheel": {
+  "t": "Fahrwerk und Spornrad",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Landing roll": {
+  "t": "Landerollstrecke",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Language": {
   "t": "Sprache",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laps 30 mm under the upper skin at 8% chord.": {
+  "t": "Überlappt 30 mm unter der oberen Beplankung bei 8% Profiltiefe.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Laser / waterjet cutting service": {
+  "t": "Laser- / Wasserstrahlschneid-Dienstleister",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lay the spars on a flat table, webs vertical, 3.6 m apart for the two wings.": {
+  "t": "Die Holme auf einen ebenen Tisch legen, Stege senkrecht, 3.6 m auseinander für die beiden Flügel.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Leans on the rear arch.": {
+  "t": "Lehnt am hinteren Bogen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Leave the protective film on. Drill the polycarbonate with plastic bits, holes 6 mm for M4 screws so it can expand.": {
+  "t": "Die Schutzfolie dranlassen. Das Polycarbonat mit Kunststoffbohrern bohren, 6 mm Löcher für M4-Schrauben, damit es sich ausdehnen kann.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Left door front edge": {
+  "t": "Vorderkante der linken Tür",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Licence": {
+  "t": "Lizenz",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift strut (main) 1.75 x 0.065 in": {
+  "t": "Flügelstrebe (Haupt) 1.75 x 0.065 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift strut (rear) 1.75 x 0.065 in": {
+  "t": "Flügelstrebe (hinten) 1.75 x 0.065 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift strut, tension": {
+  "t": "Flügelstrebe, Zug",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift strut, −2 g buckling (with jury strut)": {
+  "t": "Flügelstrebe, Knicken bei −2 g (mit Hilfsstrebe)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lift struts and jury struts": {
+  "t": "Flügelstreben und Hilfsstreben",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lipped channels: four 90° brake bends each, two nested layers": {
+  "t": "Lippenprofile: je vier 90°-Kantungen an der Kantbank, zwei ineinanderliegende Lagen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Load each linkage part to 1.5 × the BCAR Section S pilot loads at the stick and pedals.": {
+  "t": "Jedes Gestängeteil bis 1.5 × der Piloten-Steuerkräfte nach BCAR Section S an Knüppel und Pedalen belasten.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Low-speed taxi, then fast taxi with the tail up, on the intended test field.": {
+  "t": "Langsames Rollen, dann schnelles Rollen mit angehobenem Heck, auf dem vorgesehenen Versuchsplatz.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower cowl (box-pleat pan to the cabin floor line)": {
+  "t": "Untere Haube (Kastenfalten-Wanne bis zur Kabinenbodenlinie)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower skin, bay 1": {
+  "t": "Untere Beplankung, Feld 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower skin, bay 2": {
+  "t": "Untere Beplankung, Feld 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower skin, bay 3": {
+  "t": "Untere Beplankung, Feld 3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Lower skins": {
+  "t": "Untere Beplankungen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "M4 pan screw, nylon washer, M4 Nyloc nut, 6 mm oversize hole in polycarbonate": {
+  "t": "M4-Linsenkopfschraube, Nylonscheibe, M4-Nyloc-Mutter, 6 mm übergroße Bohrung im Polycarbonat",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "MEK / cleaner, Scotch-Brite, gloves": {
+  "t": "MEK / Reiniger, Scotch-Brite, Handschuhe",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear leg x2": {
+  "t": "Hauptfahrwerksbein x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear leg x2: 6061-T6 bar 75 x 16 mm": {
+  "t": "Hauptfahrwerksbein x2: 6061-T6 Flachstab 75 x 16 mm",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear legs through floor doubler, 2 per leg": {
+  "t": "Hauptfahrwerksbeine durch die Bodenverstärkung, 2 pro Bein",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear spring leg (6061-T6 bar)": {
+  "t": "Hauptfahrwerks-Federbein (6061-T6 Flachstab)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main gear: 2 spring legs + axles": {
+  "t": "Hauptfahrwerk: 2 Federbeine + Achsen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main lift strut x2": {
+  "t": "Hauptstrebe x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "t": "Hauptstrebe x2: 6061-T6 1.75 x 0.065 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main rib": {
+  "t": "Hauptrippe",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main rib, root/tip": {
+  "t": "Hauptrippe, Wurzel/Spitze",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main spar (lipped C, opens aft)": {
+  "t": "Hauptholm (Lippen-C, nach hinten offen)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main spar section": {
+  "t": "Hauptholm-Teilstück",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main spar web shear, limit": {
+  "t": "Schub im Hauptholmsteg, Grenzlast",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main spar: lipped C, three layers of 0.020 in": {
+  "t": "Hauptholm: Lippen-C, drei Lagen 0.020 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main wheel: 21 x 8.00-6 tundra tyre at 10-12 psi": {
+  "t": "Hauptrad: Tundrareifen 21 x 8.00-6 mit 10-12 psi",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Main wheels": {
+  "t": "Haupträder",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Margin": {
+  "t": "Reserve",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mark fold lines on the marked face: red dashed = valley, blue dash-dot = mountain. Use a fine felt marker, never a scribe (Wanttaja: scribe lines start cracks).": {
+  "t": "Biegelinien auf der markierten Seite anzeichnen: rot gestrichelt = Tal, blau strichpunktiert = Berg. Feinen Filzstift verwenden, niemals eine Reißnadel (Wanttaja: Reißnadelspuren lösen Risse aus).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mark folds with felt pen, never a scribe": {
+  "t": "Kanten mit Filzstift anzeichnen, nie mit der Reißnadel",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mark the folds: red dashed is a valley, blue dash-dot is a mountain. Felt marker on the marked face only, never a scribe.": {
+  "t": "Kanten anzeichnen: rot gestrichelt ist Tal, blau strichpunktiert ist Berg. Filzstift nur auf der markierten Seite, nie eine Reißnadel.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mass": {
+  "t": "Masse",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mass balance weights": {
+  "t": "Ausgleichsgewichte",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mass-balance each aileron with lead on an arm ahead of the hinge until it hangs level, before it goes on the aircraft.": {
+  "t": "Jedes Querruder vor dem Einbau mit Blei an einem Arm vor dem Scharnier massenausgleichen, bis es waagerecht hängt.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mass-balance horn at outboard end.": {
+  "t": "Massenausgleichshebel am äußeren Ende.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mean strength at or above the value used in design, scatter under 10 %.": {
+  "t": "Mittlere Festigkeit mindestens der in der Auslegung verwendete Wert, Streuung unter 10 %.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Measure gravity flow from each tank, with the aircraft at its steepest climb attitude plus margin.": {
+  "t": "Den Schwerkraftdurchfluss jedes Tanks messen, mit dem Flugzeug in seiner steilsten Steiglage plus Reserve.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Measure twist under a known torque at the tip rib.": {
+  "t": "Die Verdrehung unter bekanntem Drehmoment an der Endrippe messen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Measured climb, cruise and glide recorded against the predictions on the numbers tab.": {
+  "t": "Gemessenes Steigen, Reiseflug und Gleiten, gegen die Vorhersagen im Zahlen-Tab aufgezeichnet.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Measured values replace estimates in aircraft.yaml, and the build manual is revised.": {
+  "t": "Messwerte ersetzen die Schätzungen in aircraft.yaml, und das Bauhandbuch wird überarbeitet.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Member": {
+  "t": "Bauteil",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Method": {
+  "t": "Methode",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Mid CG, calm air, long field, circuit height only, an experienced test pilot.": {
+  "t": "Mittlere Schwerpunktlage, ruhige Luft, langer Platz, nur Platzrundenhöhe, ein erfahrener Testpilot.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Month 10": {
+  "t": "Monat 10",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Month 4": {
+  "t": "Monat 4",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Month 5": {
+  "t": "Monat 5",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Months 2–3": {
+  "t": "Monate 2–3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Months 6–9": {
+  "t": "Monate 6–9",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Move the CG from forward to aft in steps, checking stick-free stability at each.": {
+  "t": "Den Schwerpunkt schrittweise von vorn nach hinten verlegen und bei jedem Schritt die Stabilität mit losgelassenem Knüppel prüfen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nicopress sleeve + thimble (1/8 in cable)": {
+  "t": "Nicopress-Hülse + Kausche (1/8 in Seil)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nicopress tool + cable cutter": {
+  "t": "Nicopress-Werkzeug + Seilschneider",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No cracks, and springback within 2° of prediction.": {
+  "t": "Keine Risse, und Rückfederung innerhalb 2° der Vorhersage.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No flutter or buzz up to {speed:Vne}.": {
+  "t": "Kein Flattern oder Brummen bis {speed:Vne}.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No permanent set after unloading. Deflection within 15 % of prediction.": {
+  "t": "Keine bleibende Verformung nach Entlastung. Durchbiegung innerhalb 15 % der Vorhersage.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No permanent set at limit, no failure at ultimate.": {
+  "t": "Keine bleibende Verformung bei Grenzlast, kein Versagen bei Bruchlast.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No physical part has been cut. Fold one rib and one spar offcut first to check the bend deduction.": {
+  "t": "Noch kein echtes Teil ist geschnitten. Zuerst ein Rippen- und ein Holmreststück kanten, um den Biegeabzug zu prüfen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "No yield at limit load, no failure at ultimate.": {
+  "t": "Kein Fließen bei Grenzlast, kein Versagen bei Bruchlast.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose bowl, chin (3 converging facets)": {
+  "t": "Nasenschale, Kinn (3 zusammenlaufende Facetten)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose bowl, upper (3 converging facets)": {
+  "t": "Nasenschale, oben (3 zusammenlaufende Facetten)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose rib": {
+  "t": "Nasenrippe",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose rib, root/tip": {
+  "t": "Nasenrippe, Wurzel/Spitze",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose ring (prop-shaft hole + two cooling inlets)": {
+  "t": "Nasenring (Propellerwellenloch + zwei Kühllufteinlässe)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose rolled over 75 mm tube": {
+  "t": "Nase über 75 mm Rohr gerollt",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Nose zone is rolled over a 75 mm tube; aft creases are soft brake hits (2-6 deg).": {
+  "t": "Die Nasenzone wird über ein 75 mm-Rohr gerollt; hintere Kanten sind leichte Kantbankstöße (2-6 deg).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Not analysed yet": {
+  "t": "Noch nicht analysiert",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Not proven": {
+  "t": "Nicht nachgewiesen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Notes": {
+  "t": "Hinweise",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "One 90 degree flange stiffens the free edge. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "Ein 90-Grad-Flansch versteift die freie Kante. Laminiert: 2 ineinanderliegende Lagen 0.020 in, getrennt gekantet und als eine vernietet; pro innerer Lage 0.5 mm von den Flanschkanten abnehmen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "One hour of progressive ground running, with cylinder head and exhaust temperatures logged.": {
+  "t": "Eine Stunde stufenweiser Bodenlauf, Zylinderkopf- und Abgastemperaturen werden aufgezeichnet.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "One-wrap skins, sharp trailing edges": {
+  "t": "Beplankungen aus einem Umschlag, scharfe Hinterkanten",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Open-source aircraft": {
   "t": "Open-Source-Flugzeug",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Order as 12 ft strip. Lips turn the free flange edges into supported edges (k 0.43 -> ~4). Laminated: 3 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "Als 12 ft-Streifen bestellen. Die Lippen machen aus freien Flanschkanten gestützte Kanten (k 0.43 -> ~4). Laminiert: 3 ineinanderliegende Lagen 0.020 in, getrennt gekantet und als eine vernietet; pro innerer Lage 0.5 mm von den Flanschkanten abnehmen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Paint": {
+  "t": "Lackierung",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Paint, then weigh on three scales in the level attitude. Work out the empty CG and check every loading case falls inside the design range in DESIGN_REPORT.md (about 28–33 % MAC).": {
+  "t": "Lackieren, dann in waagerechter Lage auf drei Waagen wiegen. Den Leerschwerpunkt ermitteln und prüfen, dass jeder Beladungsfall im Auslegungsbereich aus DESIGN_REPORT.md liegt (etwa 28–33 % MAC).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Panel: glare-shield fold 90°, side tabs 90°": {
+  "t": "Brett: Blendschutzkantung 90°, Seitenlaschen 90°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Parts": {
+  "t": "Teile",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pass when": {
+  "t": "Bestanden, wenn",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Performance": {
-  "t": "Leistung",
-  "by": "claude (hand-written UI seed)",
+  "t": "Flugleistungen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Phases": {
+  "t": "Phasen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Piano hinge": {
+  "t": "Klavierband",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Piano hinge MS20001 + door latch": {
+  "t": "Klavierband MS20001 + Türverriegelung",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Pilot": {
   "t": "Pilot",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pilot (95th pct, for scale)": {
+  "t": "Pilot (95. Perzentil, als Maßstab)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pilot, fuel and baggage share one budget: maximum take-off mass minus empty mass. Both tanks are in the cabin, never in the wings: an 18 L header tank behind the firewall and a 20 L aux tank high behind the seat, both gravity-fed through one selector. A light pilot can fill both. A heavy pilot gets the header tank or less. Burn the aux tank first.": {
+  "t": "Pilot, Kraftstoff und Gepäck teilen sich ein Budget: maximale Abflugmasse minus Leermasse. Beide Tanks sind in der Kabine, nie in den Flügeln: ein 18 L-Haupttank hinter dem Brandschott und ein 20 L-Zusatztank hoch hinter dem Sitz, beide per Schwerkraft über ein Wahlventil. Ein leichter Pilot kann beide füllen. Ein schwerer Pilot bekommt den Haupttank oder weniger. Den Zusatztank zuerst leerfliegen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pitot tube (left wing, ahead of the LE)": {
+  "t": "Pitotrohr (linker Flügel, vor der Nasenleiste)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pitot-static: pitot tube under the left wing at the 1.2 m rib. Run its line inside the wing ahead of the main spar to the root and down the A-pillar to the ASI. A static port on the left cabin side feeds the altimeter and ASI. Secure everything with Adel clamps every 300 mm.": {
+  "t": "Pitot-Statik: Pitotrohr unter dem linken Flügel an der 1.2 m-Rippe. Die Leitung im Flügel vor dem Hauptholm bis zur Wurzel und die A-Säule hinab zum ASI führen. Ein statischer Anschluss an der linken Kabinenseite versorgt Höhenmesser und ASI. Alles alle 300 mm mit Adel-Schellen sichern.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Planar: no forming, drill with plastic-cutting bits, slotted holes for expansion.": {
+  "t": "Eben: kein Umformen, mit Kunststoffbohrern bohren, Langlöcher für die Wärmedehnung.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Plastic-cutting drill bits / step drill": {
+  "t": "Kunststoffbohrer / Stufenbohrer",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Positive stability at the aft limit; predicted minimum static margin {pct:SM_min}.": {
+  "t": "Positive Stabilität an der hinteren Grenze; vorhergesagtes minimales Stabilitätsmaß {pct:SM_min}.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Press or bolt a 4130 end fork into each tube end. Drill the AN5 pin hole after the final length check on the aircraft.": {
+  "t": "In jedes Rohrende eine Endgabel aus 4130 einpressen oder einschrauben. Das AN5-Bolzenloch erst nach der endgültigen Längenkontrolle am Flugzeug bohren.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Prime the faying surfaces: Scotch-Brite, wash, etch or alodine, then epoxy primer. Wear gloves (Wanttaja: finger oils stop primer sticking).": {
+  "t": "Die Fügeflächen grundieren: Scotch-Brite, waschen, beizen oder alodine, dann Epoxid-Grundierung. Handschuhe tragen (Wanttaja: Fingerfett verhindert die Haftung der Grundierung).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Primer part: two nested layers folded on the brake and riveted as one. Glue carpet on the web. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "Einsteigerteil: zwei ineinanderliegende Lagen, an der Kantbank gekantet und als eine vernietet. Teppich auf den Steg kleben. Laminiert: 2 ineinanderliegende Lagen 0.020 in, getrennt gekantet und als eine vernietet; pro innerer Lage 0.5 mm von den Flanschkanten abnehmen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Primer: build the wing stands": {
+  "t": "Einstieg: die Flügelböcke bauen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Proof-load the wing upside down with sandbags to +4 g limit load, spread spanwise. It must show no permanent set.": {
+  "t": "Den Flügel kopfüber mit Sandsäcken bis zur Grenzlast +4 g, über die Spannweite verteilt, belasten. Er darf keine bleibende Verformung zeigen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Prop drive hub (flange)": {
+  "t": "Propeller-Antriebsnabe (Flansch)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Propeller 54 in wood + hub": {
+  "t": "Propeller 54 in Holz + Nabe",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Propeller 54 x 24 in, laminated wood (download the model)": {
+  "t": "Propeller 54 x 24 in, Schichtholz (Modell herunterladen)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Propeller hub, 6": {
+  "t": "Propellernabe, 6",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Publish": {
+  "t": "Veröffentlichen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Pull a complete strut with its clevises and tangs to ultimate tension, then buckle a second at −2 g with the jury strut fitted.": {
+  "t": "Eine komplette Strebe mit Gabeln und Laschen bis zur Bruchzuglast ziehen, dann eine zweite bei −2 g mit montierter Hilfsstrebe knicken.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Push the AN5 root pins through. Fit castellated nuts and cotter pins.": {
+  "t": "Die AN5-Wurzelbolzen durchstecken. Kronenmuttern und Splinte montieren.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Put in the aft soft creases first.": {
+  "t": "Zuerst die hinteren weichen Kanten einbringen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Put in the soft creases with a light brake hit, or by hand over a straight-edge.": {
+  "t": "Die weichen Kanten mit einem leichten Kantbankstoß oder von Hand über einer geraden Kante einbringen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Qualification": {
+  "t": "Qualifikation",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Quarter-turn camlock (Dzus) + receptacle": {
+  "t": "Viertelumdrehungsverschluss Camlock (Dzus) + Aufnahme",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "RADIO instrument": {
+  "t": "RADIO-Instrument",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Range": {
+  "t": "Reichweite",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ream the pin holes to 5/16 in and the bolt holes to 1/4 in and 3/16 in, through both ears at once so they line up.": {
+  "t": "Die Bolzenlöcher auf 5/16 in und die Schraubenlöcher auf 1/4 in und 3/16 in aufreiben, durch beide Ohren gleichzeitig, damit sie fluchten.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear arch (rear-spar frame)": {
+  "t": "Hinterer Bogen (Hinterholmrahmen)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear lift strut x2": {
+  "t": "Hintere Flügelstrebe x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "t": "Hintere Flügelstrebe x2: 6061-T6 1.75 x 0.065 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear spar (lipped C, opens forward)": {
+  "t": "Hinterholm (Lippen-C, nach vorn offen)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear spar section": {
+  "t": "Hinterholm-Teilstück",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rear spar: lipped C, two layers of 0.020 in": {
+  "t": "Hinterholm: Lippen-C, zwei Lagen 0.020 in",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Reassemble on Clecos, then pull the rivets from the middle of each joint outward.": {
+  "t": "Auf Clecos wieder zusammensetzen, dann die Niete von der Mitte jeder Fuge nach außen setzen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ribs, skin buckling, fittings, landing gear, tail loads, the engine mount and flutter. Mass-balance every control surface.": {
+  "t": "Rippen, Beulen der Beplankung, Beschläge, Fahrwerk, Leitwerkslasten, Motorträger und Flattern. Jede Ruderfläche massenausgleichen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Right side: fixed window over the door opening. Left side: the same blank on a piano hinge at its front edge, with a latch at the back.": {
+  "t": "Rechte Seite: festes Fenster über der Türöffnung. Linke Seite: derselbe Zuschnitt an einem Klavierband an der Vorderkante, mit Verriegelung hinten.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivet joints": {
+  "t": "Nietverbindungen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivet strength in thin sheet": {
+  "t": "Nietfestigkeit in dünnem Blech",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivet the piano hinge to the spar top, then hang the surface on the rear spar.": {
+  "t": "Das Klavierband oben an den Holm nieten, dann die Ruderfläche an den Hinterholm hängen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivet: pull 1/8 in blind rivets, working from the middle of each row outwards and swapping clecos for rivets one at a time. A good rivet sits flat, with no gap under the head. Drill out any bad one with a #30 bit and try again: practise this on purpose at least once.": {
+  "t": "Nieten: 1/8 in Blindniete setzen, von der Mitte jeder Reihe nach außen, und Clecos einzeln gegen Niete tauschen. Ein guter Niet liegt plan, ohne Spalt unter dem Kopf. Einen schlechten mit einem #30-Bohrer ausbohren und neu setzen: das mindestens einmal absichtlich üben.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop, rivets from the main spar outward.": {
+  "t": "Nietschleife, Niete vom Hauptholm nach außen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop, then join the tailcone to the cabin at bulkhead 1.": {
+  "t": "Nietschleife, dann den Heckkonus an Spant 1 mit der Kabine verbinden.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop.": {
+  "t": "Nietschleife.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop. The firewall takes stainless or Monel rivets: aluminium melts in a fire.": {
+  "t": "Nietschleife. Das Brandschott bekommt Edelstahl- oder Monel-Niete: Aluminium schmilzt im Feuer.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Riveting loop: final-drill #30, take apart, deburr, prime, Cleco, rivet.": {
+  "t": "Nietschleife: auf #30 fertigbohren, zerlegen, entgraten, grundieren, clecoen, nieten.",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Rivets": {
-  "t": "Nieten",
-  "by": "claude (hand-written UI seed)",
+  "t": "Niete",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rivets to the rear-spar flanges. Closes the bay behind the centre-section rear spar.": {
+  "t": "Wird an die Hinterholmflansche genietet. Schließt den Raum hinter dem Hinterholm des Mittelstücks.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rod ends": {
+  "t": "Gelenkköpfe",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Roll each skin's leading edge, then wrap it round its ribs and spar. Back-drill and use the riveting loop.": {
+  "t": "Die Nasenkante jeder Beplankung rollen, dann um Rippen und Holm legen. Nachbohren und die Nietschleife anwenden.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Roll the eight saddle-clamp halves round a 45 mm bar, then bolt a pair round each strut at mid-length (2 x AN3 through the ears).": {
+  "t": "Die acht Sattelschellenhälften um einen 45 mm-Stab rollen, dann je ein Paar mittig um jede Strebe schrauben (2 x AN3 durch die Ohren).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Roll the green zone: lay the skin over a 75 mm tube and pull it round with a strap, a little at a time. Don't crease it.": {
+  "t": "Die grüne Zone rollen: die Beplankung über ein 75 mm-Rohr legen und mit einem Gurt Stück für Stück herumziehen. Nicht knicken.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Root and tip ribs have their flanges facing into the panel.": {
+  "t": "Wurzel- und Endrippen haben ihre Flansche zur Feldmitte hin.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder and elevator cables, 1 per cable, in the cabin where you can inspect them": {
+  "t": "Seiten- und Höhenruderseile, 1 pro Seil, in der Kabine, wo man sie prüfen kann",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder cable x2": {
+  "t": "Seitenruderseil x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder cable x2: 1/8 in 7x19 galvanised": {
+  "t": "Seitenruderseil x2: 1/8 in 7x19 verzinkt",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder cables: pedal horn, then a pulley at the pedal, along the floor at y = ±200 mm through fairleads on both arch feet, a pulley at bulkhead 1, then one straight line each to the tail post. Because the tailcone is a frustum, a straight run between interior points never touches the skin, so no cable needs a mid-cone pulley.": {
+  "t": "Seitenruderseile: Pedalhebel, dann eine Rolle am Pedal, am Boden entlang bei y = ±200 mm durch Seilführungen an beiden Bogenfüßen, eine Rolle an Spant 1, dann je eine gerade Linie zum Heckpfosten. Weil der Heckkonus ein Pyramidenstumpf ist, berührt eine Gerade zwischen inneren Punkten nie die Beplankung, also braucht kein Seil eine Rolle in Konusmitte.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "t": "Seitenruderhebel, 4130 0.063in (flach, Seil auf jeder Seite)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder pedals": {
+  "t": "Seitenruderpedale",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder skin": {
+  "t": "Seitenruderbeplankung",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Rudder spar": {
+  "t": "Seitenruderholm",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-BM Stand beam (lipped C, saddle on top)": {
+  "t": "S-BM Bockbalken (Lippen-C, Auflage oben)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-FT Stand foot (lipped C, opens up)": {
+  "t": "S-FT Bockfuß (Lippen-C, nach oben offen)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-GF Stand foot gusset (flat)": {
+  "t": "S-GF Bockfuß-Knotenblech (flach)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-GT Stand top gusset (flanged hypotenuse)": {
+  "t": "S-GT Oberes Bock-Knotenblech (gekantete Hypotenuse)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "S-LG Stand leg (lipped C)": {
+  "t": "S-LG Bockbein (Lippen-C)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "SSDR means no airworthiness approval is required, so all the testing is yours to do.": {
+  "t": "SSDR heißt: keine Lufttüchtigkeitszulassung erforderlich, also liegen alle Versuche bei Ihnen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Saddle clamps: rolled half-shells": {
+  "t": "Sattelschellen: gerollte Halbschalen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Saddle-clamp ears (one also carries the jury-strut fork), 2 per clamp; Jury strut top, through the jury clevis": {
+  "t": "Sattelschellenohren (eines trägt auch die Hilfsstrebengabel), 2 pro Schelle; oberes Ende der Hilfsstrebe, durch deren Gabel",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Safety wire": {
+  "t": "Sicherungsdraht",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Same blank both sides. 20 mm lap all round. Left one hangs on a piano hinge at its front edge.": {
+  "t": "Derselbe Zuschnitt auf beiden Seiten. Rundum 20 mm Überlappung. Die linke hängt an einem Klavierband an der Vorderkante.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Same blank for both flaps and both ailerons: modular-origami units.": {
+  "t": "Derselbe Zuschnitt für beide Klappen und beide Querruder: modulare Origami-Einheiten.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Sandbags and tape measure (proof load)": {
+  "t": "Sandsäcke und Maßband (Lastversuch)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Sawtooth climbs, level speeds and glides.": {
+  "t": "Sägezahnsteigflüge, Geschwindigkeiten im Horizontalflug und Gleitflüge.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Scotch-Brite, etch/alodine, epoxy primer, spray kit, gloves": {
+  "t": "Scotch-Brite, Beize/alodine, Epoxid-Grundierung, Spritzausrüstung, Handschuhe",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Seat (pan + back, one sheet)": {
+  "t": "Sitz (Schale + Lehne, ein Blech)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Seat cushion + 4-pt harness": {
+  "t": "Sitzkissen + 4-Punkt-Gurt",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Select a row to see where that case sits.": {
+  "t": "Eine Zeile auswählen, um zu sehen, wo dieser Fall liegt.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Send the nest DXFs to a laser or waterjet service, or cut on a CNC router. Bolt holes come out 0.5 mm undersize; ream them later.": {
+  "t": "Die Schachtel-DXFs an einen Laser- oder Wasserstrahldienst schicken oder auf einer CNC-Fräse schneiden. Schraubenlöcher fallen 0.5 mm zu klein aus; später aufreiben.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Set dihedral to 1.5° and wash-out to 0° with a digital level on the root and tip ribs. Then pin the struts on: AN5, castellated nut, cotter pin.": {
+  "t": "V-Stellung auf 1.5° und Schränkung auf 0° mit einer Digitalwasserwaage an Wurzel- und Endrippe einstellen. Dann die Streben anbolzen: AN5, Kronenmutter, Splint.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Set the brake nose radius to 0.8 mm, about 1.6 times the 0.51 mm sheet (Table 5-2, 'normal' radius). Never tighter.": {
+  "t": "Den Oberwangenradius der Kantbank auf 0.8 mm einstellen, etwa das 1.6-fache des 0.51 mm-Blechs (Table 5-2, 'normaler' Radius). Nie enger.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Set the travels: aileron +20/-15°, elevator +25/-20°, rudder ±25°, flaps 0/20°. Fit the stops.": {
+  "t": "Ausschläge einstellen: Querruder +20/-15°, Höhenruder +25/-20°, Seitenruder ±25°, Klappen 0/20°. Anschläge montieren.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Single-lap shear and pull-through on one and two layers of 0.51 mm sheet with 3.2 mm blind rivets, 10 of each.": {
+  "t": "Einschnittiger Scher- und Durchziehversuch an einer und zwei Lagen 0.51 mm-Blech mit 3.2 mm-Blindnieten, je 10.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Skin joints lap on a rib: the outboard skin goes under the inboard one.": {
+  "t": "Beplankungsstöße überlappen auf einer Rippe: die äußere Beplankung liegt unter der inneren.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Slide the C-spar in and Cleco it through the flanges. Riveting loop.": {
+  "t": "Den C-Holm einschieben und durch die Flansche clecoen. Nietschleife.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Soft creases 2–6°": {
+  "t": "Weiche Kanten 2–6°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Source": {
+  "t": "Quelle",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Span / area": {
+  "t": "Spannweite / Fläche",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spanners, sockets, inch-pound torque wrench": {
+  "t": "Schraubenschlüssel, Nüsse, Drehmomentschlüssel in Inch-Pound",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spar strength": {
+  "t": "Holmfestigkeit",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spar-root pins through tang pair + arch clevis": {
+  "t": "Holmwurzelbolzen durch Laschenpaar + Bogengabel",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "t": "Holmwurzellasche, 4130 0.063in (flach, paarweise beidseitig des Stegs)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Speed envelope": {
+  "t": "Geschwindigkeitsbereich",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Spinner": {
+  "t": "Spinner",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stabiliser nose rib": {
+  "t": "Höhenflossen-Nasenrippe",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "t": "Höhenflossen-Wurzelrippen an die seitlichen Heckkonus-Verstärkungen, 4 pro Seite; Seitenflossenholm an den Heckpfosten, 3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stabiliser skin (one wrap)": {
+  "t": "Höhenflossenbeplankung (ein Umschlag)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stabiliser spar": {
+  "t": "Höhenflossenholm",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stability across the CG range": {
+  "t": "Stabilität über den ganzen Schwerpunktbereich",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stall speed and handling": {
+  "t": "Überziehgeschwindigkeit und Flugeigenschaften",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stall speeds": {
+  "t": "Überziehgeschwindigkeiten",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stall, flaps 20°": {
+  "t": "Überziehen, Klappen 20°",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand beam (lipped C, saddle on top)": {
+  "t": "Bockbalken (Lippen-C, Auflage oben)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand foot (lipped C, opens up)": {
+  "t": "Bockfuß (Lippen-C, nach oben offen)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand foot gusset (flat)": {
+  "t": "Bockfuß-Knotenblech (flach)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand leg (lipped C)": {
+  "t": "Bockbein (Lippen-C)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand the arches and firewall on the floor tray, square and plumb. Their stations are 420 mm and 1008 mm aft of the wing LE, and the firewall is at -650 mm.": {
+  "t": "Bögen und Brandschott rechtwinklig und lotrecht auf die Bodenwanne stellen. Ihre Stationen liegen 420 mm und 1008 mm hinter der Flügelnase, das Brandschott bei -650 mm.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stand top gusset (flanged hypotenuse)": {
+  "t": "Oberes Bock-Knotenblech (gekantete Hypotenuse)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Static load to the Section S forward, side and vertical limit loads, then ultimate.": {
+  "t": "Statische Last bis zu den Grenzlasten nach Section S nach vorn, seitlich und vertikal, dann Bruchlast.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Static margin": {
+  "t": "Stabilitätsmaß",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Static port": {
+  "t": "Statischer Anschluss",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Status": {
+  "t": "Status",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Step": {
   "t": "Schritt",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Stick pivot and torque-tube bearings": {
+  "t": "Knüppellager und Torsionsrohrlager",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Straight tracking, effective brakes and rudder, no shimmy.": {
+  "t": "Gerader Lauf, wirksame Bremsen und Seitenruder, kein Shimmy.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "String line, digital level, plumb bob": {
+  "t": "Schnur, Digitalwasserwaage, Lot",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "String-line the spars and check the ribs are square to them. Measure diagonals across each bay; they should match within 1 mm.": {
+  "t": "Eine Schnur entlang der Holme spannen und prüfen, dass die Rippen rechtwinklig dazu stehen. Die Diagonalen jedes Felds messen; sie sollen auf 1 mm übereinstimmen.",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Structure": {
   "t": "Struktur",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut and fitting strength": {
+  "t": "Festigkeit von Strebe und Beschlägen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut and fittings": {
+  "t": "Strebe und Beschläge",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut end fork (4130)": {
+  "t": "Streben-Endgabel (4130)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut end forks": {
+  "t": "Streben-Endgabeln",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut ends, both ends of 4 struts": {
+  "t": "Strebenenden, beide Enden von 4 Streben",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Strut fairings": {
+  "t": "Strebenverkleidungen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Support each tip on a trestle at 1.5° dihedral until the struts are on.": {
+  "t": "Jede Flügelspitze bei 1.5° V-Stellung auf einem Bock abstützen, bis die Streben dran sind.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Systems fit-out": {
+  "t": "Systemeinbau",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-EK Elevator skin": {
+  "t": "T-EK Höhenruderbeplankung",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-ES Elevator spar": {
+  "t": "T-ES Höhenruderholm",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-FK Fin skin (one wrap)": {
+  "t": "T-FK Seitenflossenbeplankung (ein Umschlag)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-FR Fin nose rib": {
+  "t": "T-FR Seitenflossen-Nasenrippe",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-FS Fin spar": {
+  "t": "T-FS Seitenflossenholm",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-HK Stabiliser skin (one wrap)": {
+  "t": "T-HK Höhenflossenbeplankung (ein Umschlag)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-HR Stabiliser nose rib": {
+  "t": "T-HR Höhenflossen-Nasenrippe",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-HS Stabiliser spar": {
+  "t": "T-HS Höhenflossenholm",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-RK Rudder skin": {
+  "t": "T-RK Seitenruderbeplankung",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "T-RS Rudder spar": {
+  "t": "T-RS Seitenruderholm",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "TACH instrument": {
+  "t": "TACH-Instrument",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tail surfaces": {
+  "t": "Leitwerk",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone belly, section 1": {
+  "t": "Heckkonus-Bauch, Abschnitt 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone belly, section 2": {
+  "t": "Heckkonus-Bauch, Abschnitt 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=1150": {
+  "t": "Heckkonus-Spant x=1150",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=1948": {
+  "t": "Heckkonus-Spant x=1948",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=2745": {
+  "t": "Heckkonus-Spant x=2745",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=3542": {
+  "t": "Heckkonus-Spant x=3542",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone bulkhead x=4340 (tail post)": {
+  "t": "Heckkonus-Spant x=4340 (Heckpfosten)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone frustum": {
+  "t": "Heckkonus-Stumpf",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone side, section 1 (x2, mirrored)": {
+  "t": "Heckkonus-Seite, Abschnitt 1 (x2, gespiegelt)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone side, section 2 (x2, mirrored)": {
+  "t": "Heckkonus-Seite, Abschnitt 2 (x2, gespiegelt)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone top, section 1": {
+  "t": "Heckkonus-Oberseite, Abschnitt 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailcone top, section 2": {
+  "t": "Heckkonus-Oberseite, Abschnitt 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel 8 in pneumatic": {
+  "t": "Spornrad 8 in luftbereift",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel assembly, 8 in pneumatic": {
+  "t": "Spornradeinheit, 8 in luftbereift",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel fork": {
+  "t": "Spornradgabel",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring": {
+  "t": "Spornradfeder",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring (spring steel leaf)": {
+  "t": "Spornradfeder (Blattfeder aus Federstahl)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring to tail post, 2": {
+  "t": "Spornradfeder an Heckpfosten, 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring to tail post, 2; Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "t": "Spornradfeder an Heckpfosten, 2; Höhenflossen-Wurzelrippen an die seitlichen Heckkonus-Verstärkungen, 4 pro Seite; Seitenflossenholm an den Heckpfosten, 3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel spring: spring-steel leaf 45 x 8 mm": {
+  "t": "Spornradfeder: Federstahl-Blatt 45 x 8 mm",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel steering spring": {
+  "t": "Spornrad-Lenkfeder",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tailwheel: a leaf spring, a steerable fork and two springs to the rudder.": {
+  "t": "Spornrad: eine Blattfeder, eine lenkbare Gabel und zwei Federn zum Seitenruder.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Take the skeleton apart. Deburr every hole on both faces.": {
+  "t": "Das Gerippe zerlegen. Jede Bohrung beidseitig entgraten.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Take-off roll": {
+  "t": "Startrollstrecke",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tank strap angle (L)": {
+  "t": "Tankgurt-Winkel (L)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tank strap angle (R)": {
+  "t": "Tankgurt-Winkel (R)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tap or shaker test for wing bending and torsion, aileron, elevator and rudder modes. Confirm the mass balance of every control surface.": {
+  "t": "Klopf- oder Shakerversuch für Flügelbiege- und Torsionsmoden sowie Querruder-, Höhenruder- und Seitenrudermoden. Den Massenausgleich jeder Ruderfläche bestätigen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Taxi tests": {
+  "t": "Rollversuche",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Taxi tests, then fast taxi with the tail up.": {
+  "t": "Rollversuche, dann schnelles Rollen mit angehobenem Heck.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Temperatures inside the engine maker's limits, static rpm 2,900–3,100, no abnormal vibration.": {
+  "t": "Temperaturen innerhalb der Grenzen des Motorherstellers, Standdrehzahl 2,900–3,100, keine ungewöhnlichen Vibrationen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tension each cable with its turnbuckle in the cabin, where you can see it, then safety-wire it. Nicopress every end over a thimble.": {
+  "t": "Jedes Seil mit seinem Spannschloss in der Kabine spannen, wo man es sieht, dann mit Draht sichern. Jedes Ende mit Nicopress über einer Kausche verpressen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Test": {
+  "t": "Versuch",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Test budget": {
+  "t": "Versuchsbudget",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Test programme": {
+  "t": "Versuchsprogramm",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Test reports": {
+  "t": "Versuchsberichte",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tests": {
+  "t": "Versuche",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The aircraft is code: one file, aircraft.yaml, generates every part, file and figure on this page.": {
+  "t": "Das Flugzeug ist Code: eine Datei, aircraft.yaml, erzeugt jedes Teil, jede Datei und jede Zahl auf dieser Seite.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The arches sit at the spar stations, so the wing and strut loads go straight into two folded frames.": {
+  "t": "Die Bögen sitzen an den Holmstationen, also gehen Flügel- und Strebenlasten direkt in zwei gekantete Rahmen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The cowl and nose bowl are flat blanks too: a box-pleated hood and a frustum, with straight creases throughout.": {
+  "t": "Haube und Nasenschale sind ebenfalls flache Zuschnitte: eine Kastenfalten-Haube und ein Pyramidenstumpf, durchweg mit geraden Kanten.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The dot is the loading case selected in the table. The shaded band is the full CG range across all cases. The orange line is the neutral point: the CG must stay ahead of it, and the dashed gap between them is the static margin, the aircraft's pitch stability.": {
+  "t": "Der Punkt ist der in der Tabelle gewählte Beladungsfall. Das schattierte Band ist der gesamte Schwerpunktbereich über alle Fälle. Die orange Linie ist der Neutralpunkt: der Schwerpunkt muss davor bleiben, und der gestrichelte Abstand dazwischen ist das Stabilitätsmaß, die Längsstabilität des Flugzeugs.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The fold geometry. Every panel in the 3D model is produced by refolding the DXF flat pattern, and the rib-to-spar pilot holes are coordinated between parts.": {
+  "t": "Die Faltgeometrie. Jedes Feld im 3D-Modell entsteht durch erneutes Falten der flachen DXF-Abwicklung, und die Führungsbohrungen zwischen Rippe und Holm sind teileübergreifend abgestimmt.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The laminate acting as one section": {
+  "t": "Das Laminat als ein Querschnitt",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The lips are what let thin laminated sheet act as a spar. Without them a free cap edge buckles at about 26 MPa. With them the cap reaches yield before it buckles.": {
+  "t": "Erst die Lippen lassen dünnes laminiertes Blech als Holm arbeiten. Ohne sie beult eine freie Gurtkante bei etwa 26 MPa. Mit ihnen erreicht der Gurt die Streckgrenze, bevor er beult.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The local-price estimate takes UK VAT off the UK price, converts it at the day's exchange rate, takes about 20 % off US-made hardware, sheet and the engine kit when buying in the US, then adds the country's typical standard VAT, GST or sales tax. It leaves out import duty and shipping. Treat these as rough guides, not quotes.": {
+  "t": "Die Schätzung des lokalen Preises zieht die britische Mehrwertsteuer vom britischen Preis ab, rechnet zum Tageskurs um, zieht beim Kauf in den USA etwa 20 % für US-gefertigte Kleinteile, Bleche und den Motorbausatz ab und schlägt dann die übliche Standard-Mehrwertsteuer, GST oder Umsatzsteuer des Landes auf. Einfuhrzoll und Versand sind nicht enthalten. Als grobe Orientierung verstehen, nicht als Angebot.",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "The numbers": {
   "t": "Die Zahlen",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The pilot sits under the wing between the two arches. Header fuel is ahead of the CG and aux fuel is behind it. The aftmost case is a light pilot with empty tanks and baggage, which gives the minimum static margin:": {
+  "t": "Der Pilot sitzt unter dem Flügel zwischen den beiden Bögen. Der Kraftstoff im Haupttank liegt vor dem Schwerpunkt, der im Zusatztank dahinter. Der hinterste Fall ist ein leichter Pilot mit leeren Tanks und Gepäck, der das kleinste Stabilitätsmaß ergibt:",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The rolled nose and the main spar together form a closed D-cell, which carries the wing's twisting loads.": {
+  "t": "Die gerollte Nase und der Hauptholm bilden zusammen eine geschlossene D-Box, die die Torsionslasten des Flügels trägt.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The skins carry no holes of their own. Drilling them from the structure means the holes can't be misaligned.": {
+  "t": "Die Beplankungen haben keine eigenen Bohrungen. Weil sie von der Struktur aus gebohrt werden, können die Löcher nicht versetzt sein.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "The stabiliser and fin use one wrapped skin each.": {
+  "t": "Höhen- und Seitenflosse haben je eine umgeschlagene Beplankung.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "This is the sequence for every riveted joint from here on: Cleco, final-drill, take apart, deburr, prime, reassemble, rivet. Later steps call it the riveting loop.": {
+  "t": "Ab hier gilt für jede Nietverbindung diese Folge: clecoen, fertigbohren, zerlegen, entgraten, grundieren, zusammensetzen, nieten. Spätere Schritte nennen das die Nietschleife.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Three platform scales": {
+  "t": "Drei Plattformwaagen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Three platform scales in the level attitude.": {
+  "t": "Drei Plattformwaagen, Flugzeug waagerecht.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Through tang pair + spar web at each spar root, 4 per pair": {
+  "t": "Durch Laschenpaar + Holmsteg an jeder Holmwurzel, 4 pro Paar",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Tools": {
-  "t": "Werkzeug",
-  "by": "claude (hand-written UI seed)",
+  "t": "Werkzeuge",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Top flange = longeron": {
+  "t": "Oberer Flansch = Längsgurt",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Top flange is the longeron: the fold is the stiffener. Openings have 50 mm corner radii (no square corners).": {
+  "t": "Der obere Flansch ist der Längsgurt: die Kantung ist die Versteifung. Öffnungen mit 50 mm Eckradien (keine scharfen Ecken).",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Torsional stiffness recorded; it feeds the flutter estimate in phase D.": {
+  "t": "Torsionssteifigkeit aufgezeichnet; sie fließt in die Flatterabschätzung in Phase D ein.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tube cutter, hacksaw, drill press": {
+  "t": "Rohrabschneider, Bügelsäge, Ständerbohrmaschine",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Tube, bar and cable": {
+  "t": "Rohr, Flachstab und Seil",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turn it back over. On its three wheels it should sit about 9–11° nose-up.": {
+  "t": "Wieder umdrehen. Auf seinen drei Rädern sollte es etwa 9–11° mit der Nase nach oben stehen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turn the fuselage upside down on padded trestles.": {
+  "t": "Den Rumpf kopfüber auf gepolsterte Böcke legen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turn the skeleton upside down. Lay bay 1's skin on it, located at the root rib, with the edge 3 mm short of the rear-spar flange edge.": {
+  "t": "Das Gerippe umdrehen. Die Beplankung von Feld 1 auflegen, an der Wurzelrippe ausgerichtet, die Kante 3 mm vor der Flanschkante des Hinterholms.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turn the wing upright. Wrap the skin from the trailing-edge shroud, over the nose, and under to lap the lower skin at 8 % chord.": {
+  "t": "Den Flügel aufrecht drehen. Die Beplankung von der Hinterkantenabdeckung über die Nase und unten herum legen, bis sie die untere Beplankung bei 8 % Profiltiefe überlappt.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Turnbuckle AN130 class + safety wire": {
+  "t": "Spannschloss Klasse AN130 + Sicherungsdraht",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Two halves round the 1.75 in strut tube; the ear bolts also carry the jury-strut end.": {
+  "t": "Zwei Hälften um das 1.75 in-Strebenrohr; die Ohrschrauben tragen auch das Hilfsstrebenende.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Two hat pleats (step-folds) are the floor stiffeners; no separate stringers. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "t": "Zwei Hutsicken (Stufenfalten) sind die Bodenversteifungen; keine separaten Stringer. Laminiert: 2 ineinanderliegende Lagen 0.020 in, getrennt gekantet und als eine vernietet; pro innerer Lage 0.5 mm von den Flanschkanten abnehmen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Two plates sandwich each rod end; AN4 pivot, AN3 at each arm.": {
+  "t": "Zwei Platten nehmen jeden Gelenkkopf in die Mitte; AN4-Drehpunkt, AN3 an jedem Arm.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Ultimate": {
+  "t": "Bruch",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
+  "t": "Unter negativer Last stehen die Streben unter Druck. Die Hilfsstreben halbieren ihre freie Knicklänge, was ihre Knicklast vervierfacht.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Undercarriage": {
+  "t": "Fahrwerk",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Units": {
   "t": "Einheiten",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Unknowns for the next builder": {
+  "t": "Unbekanntes für den nächsten Erbauer",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper cowl (hood, two 90 deg folds)": {
+  "t": "Obere Haube (Deckel, zwei 90 deg-Kantungen)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper skin, bay 1": {
+  "t": "Obere Beplankung, Feld 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper skin, bay 2": {
+  "t": "Obere Beplankung, Feld 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper skin, bay 3": {
+  "t": "Obere Beplankung, Feld 3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Upper skins: roll the nose": {
+  "t": "Obere Beplankungen: Nase rollen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "V-bead pleats + one 165° trailing-edge fold": {
+  "t": "V-Sicken + eine 165°-Hinterkantenkantung",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "VHF antenna whip": {
+  "t": "UKW-Stabantenne VHF",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CL Cabin roof (centre lower skin)": {
+  "t": "W-CL Kabinendach (mittlere untere Beplankung)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CS Aileron / flap skin (identical x4)": {
+  "t": "W-CS Querruder- / Klappenbeplankung (identisch x4)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CSS Aileron / flap spar (identical x4)": {
+  "t": "W-CSS Querruder- / Klappenholm (identisch x4)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CT Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "t": "W-CT Hinterkantenverkleidung des Mittelstücks (fest, zwischen den Klappen)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-CU Centre-section upper skin": {
+  "t": "W-CU Obere Beplankung des Mittelstücks",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-MR Main rib": {
+  "t": "W-MR Hauptrippe",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-MRe Main rib, root/tip": {
+  "t": "W-MRe Hauptrippe, Wurzel/Spitze",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-MS Main spar (lipped C, opens aft)": {
+  "t": "W-MS Hauptholm (Lippen-C, nach hinten offen)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-NR Nose rib": {
+  "t": "W-NR Nasenrippe",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-NRe Nose rib, root/tip": {
+  "t": "W-NRe Nasenrippe, Wurzel/Spitze",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-RS Rear spar (lipped C, opens forward)": {
+  "t": "W-RS Hinterholm (Lippen-C, nach vorn offen)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SL1 Lower skin, bay 1": {
+  "t": "W-SL1 Untere Beplankung, Feld 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SL2 Lower skin, bay 2": {
+  "t": "W-SL2 Untere Beplankung, Feld 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SL3 Lower skin, bay 3": {
+  "t": "W-SL3 Untere Beplankung, Feld 3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SU1 Upper skin, bay 1": {
+  "t": "W-SU1 Obere Beplankung, Feld 1",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SU2 Upper skin, bay 2": {
+  "t": "W-SU2 Obere Beplankung, Feld 2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "W-SU3 Upper skin, bay 3": {
+  "t": "W-SU3 Obere Beplankung, Feld 3",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Weeks 1–4": {
+  "t": "Wochen 1–4",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Weigh and balance": {
+  "t": "Wägung und Schwerpunkt",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Weigh, test, fly-off": {
+  "t": "Wiegen, prüfen, einfliegen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Weight, not tank size, sets the range": {
+  "t": "Das Gewicht, nicht die Tankgröße, bestimmt die Reichweite",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "What is known, and what is not": {
+  "t": "Was bekannt ist und was nicht",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "What it costs": {
   "t": "Was es kostet",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wheel hub": {
+  "t": "Radnabe",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wheels, 21 x 8.00-6 tundra tyres, drum brakes x2": {
+  "t": "Räder, Tundrareifen 21 x 8.00-6, Trommelbremsen x2",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Where it goes": {
+  "t": "Wo es hingehört",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Where the balance point sits": {
+  "t": "Wo der Schwerpunkt liegt",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Whole aircraft": {
   "t": "Ganzes Flugzeug",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Whole-wing strength and stiffness": {
+  "t": "Festigkeit und Steifigkeit des ganzen Flügels",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Why start here: the four stands use every skill the aircraft needs, on parts that don't fly. Get it wrong here, not on a spar. You need the stands anyway: the wings are built and parked on them until step 15.": {
+  "t": "Warum hier anfangen: die vier Böcke verlangen jede Fertigkeit, die das Flugzeug braucht, an Teilen, die nicht fliegen. Fehler hier machen, nicht an einem Holm. Die Böcke brauchen Sie ohnehin: die Flügel werden bis Schritt 15 darauf gebaut und abgelegt.",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "Will it fly well?": {
-  "t": "Fliegt es gut?",
-  "by": "claude (hand-written UI seed)",
+  "t": "Wird es gut fliegen?",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Windscreen (cold-bent flat polycarbonate)": {
+  "t": "Windschutzscheibe (kalt gebogenes ebenes Polycarbonat)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Windscreen, door and side windows": {
+  "t": "Windschutzscheibe, Tür und Seitenfenster",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Windscreen, side windows, door": {
+  "t": "Windschutzscheibe, Seitenfenster, Tür",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Windscreen: flat sheet, bedded on foam tape on the firewall and windscreen flanges.": {
+  "t": "Windschutzscheibe: ebene Platte, auf Schaumstoffband an Brandschott- und Scheibenflanschen gebettet.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing and airframe": {
+  "t": "Flügel und Zelle",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing lift uses a Schrenk distribution, with each wing pinned at the cabin arch and a V-strut at the 2.4 m rib. Gust loads are below the manoeuvre case. Laminated spars are checked as one section, which assumes rivet pitch close enough to stop the layers buckling separately.": {
+  "t": "Der Flügelauftrieb folgt einer Schrenk-Verteilung, jeder Flügel am Kabinenbogen gelenkig gelagert und mit einer V-Strebe an der 2.4 m-Rippe. Böenlasten liegen unter dem Manöverfall. Laminierte Holme werden als ein Querschnitt nachgewiesen, was einen Nietabstand voraussetzt, der eng genug ist, dass die Lagen nicht einzeln beulen.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing loading": {
+  "t": "Flächenbelastung",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing proof load": {
+  "t": "Lastversuch am Flügel",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing stands (step 0)": {
+  "t": "Flügelböcke (Schritt 0)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wing torsion": {
+  "t": "Flügeltorsion",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Wings on": {
+  "t": "Flügel dran",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "With X-ray on, every run is colour-coded: orange rudder, cyan elevator, purple aileron, green flap, red fuel, white pitot, grey static, yellow 12 V, pink coax.": {
+  "t": "Mit Röntgenblick ist jeder Strang farbcodiert: orange Seitenruder, cyan Höhenruder, violett Querruder, grün Klappe, rot Kraftstoff, weiß Pitot, grau Statik, gelb 12 V, rosa Koax.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "With a helper at the tip, lift each wing until its root tangs slide into the arch-top clevises.": {
+  "t": "Mit einem Helfer an der Spitze jeden Flügel anheben, bis seine Wurzellaschen in die Gabeln oben an den Bögen gleiten.",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "Write the part number on every blank. Keep the blanks in step order.": {
+  "t": "Die Teilenummer auf jeden Zuschnitt schreiben. Die Zuschnitte in Schrittreihenfolge lagern.",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "X-ray": {
   "t": "Röntgen",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "arch-foot bellcrank up the rear-arch leg to the arch-top bellcrank": {
+  "t": "Umlenkhebel am Bogenfuß, das hintere Bogenbein hinauf zum Umlenkhebel oben am Bogen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "arch-top bellcrank to outboard bellcrank, through rib lightening holes": {
+  "t": "Umlenkhebel oben am Bogen zum äußeren Umlenkhebel, durch die Erleichterungslöcher der Rippen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "aux": {
+  "t": "Zusatz",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "blanks": {
+  "t": "Zuschnitte",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "blanks in all": {
+  "t": "Zuschnitte insgesamt",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "bolts": {
+  "t": "Schrauben",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "bought or welded": {
+  "t": "gekauft oder geschweißt",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "buckling": {
+  "t": "Knicken",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "centre torque-tube arm to flap bellcrank": {
+  "t": "mittlerer Torsionsrohrhebel zum Klappen-Umlenkhebel",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "check, then commit": {
+  "t": "prüfen, dann festlegen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "clean": {
+  "t": "sauber",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "close up": {
+  "t": "schließen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "crease pattern": {
+  "t": "Faltmuster",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "crippling": {
+  "t": "Krüppeln",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "each with a pass criterion": {
+  "t": "jeweils mit Abnahmekriterium",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "fabricated or bought for half-VW": {
+  "t": "gefertigt oder gekauft für Halb-VW",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "faying surfaces and interior": {
+  "t": "Fügeflächen und Innenraum",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "finished": {
+  "t": "fertig",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "flat blanks, one sheet gauge": {
   "t": "flache Zuschnitte, eine Blechstärke",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "fold the same way": {
+  "t": "gleich kanten",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "fold to the marks": {
+  "t": "bis zu den Markierungen kanten",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "fuel": {
+  "t": "Kraftstoff",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "give it roundness": {
+  "t": "ihm Rundung geben",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "gravity feed": {
+  "t": "Schwerkraftförderung",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "gust": {
+  "t": "Böe",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "hard": {
+  "t": "stark",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "header": {
+  "t": "Haupttank",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "header full": {
+  "t": "Haupttank voll",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "header tank + aux tank, both in the cabin": {
+  "t": "Haupttank + Zusatztank, beide in der Kabine",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "includes 15 % spares": {
+  "t": "inkl. 15 % Reserve",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "insert: the lock": {
+  "t": "einsetzen: die Sicherung",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "laminated wood, CC0 model": {
+  "t": "Schichtholz, CC0-Modell",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "light braking": {
+  "t": "leichtes Bremsen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "make soft creases": {
+  "t": "weiche Kanten setzen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "materials and hire, rough": {
+  "t": "Material und Miete, grob",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "max take-off mass": {
-  "t": "maximale Abflugmasse",
-  "by": "claude (hand-written UI seed)",
+  "t": "max. Abflugmasse",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "mountain": {
-  "t": "Bergfalte",
-  "by": "claude (hand-written UI seed)",
+  "t": "Berg",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "mountain and valley folds": {
+  "t": "Berg- und Talfalten",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "neutral point": {
+  "t": "Neutralpunkt",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "no reserve": {
+  "t": "keine Reserve",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "no sheet blanks": {
+  "t": "keine Blechzuschnitte",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "none: over MTOW": {
+  "t": "keiner: über MTOW",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "open out": {
+  "t": "aufklappen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "or a club CNC router": {
+  "t": "oder die CNC-Fräse eines Vereins",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "part-time, alongside the build": {
+  "t": "nebenberuflich, parallel zum Bau",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "pilot": {
+  "t": "Pilot",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "pilot hole": {
-  "t": "Vorbohrung",
-  "by": "claude (hand-written UI seed)",
+  "t": "Führungsbohrung",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "pin-to-pin; AN5 each end": {
+  "t": "Bolzen zu Bolzen; AN5 an jedem Ende",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "pleat": {
+  "t": "Falte",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "practice piece": {
+  "t": "Übungsstück",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "public domain": {
   "t": "gemeinfrei",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "radio optional in SSDR": {
+  "t": "Funk bei SSDR optional",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "reference points": {
+  "t": "Bezugspunkte",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "right angle": {
+  "t": "rechter Winkel",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "rivets": {
+  "t": "Niete",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "rolled zone": {
-  "t": "Rollzone",
-  "by": "claude (hand-written UI seed)",
+  "t": "gerollte Zone",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "rough build cost": {
   "t": "grobe Baukosten",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "same angle": {
+  "t": "gleicher Winkel",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "same angle: converging creases": {
+  "t": "gleicher Winkel: zusammenlaufende Kanten",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "same length": {
+  "t": "gleiche Länge",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "short grass": {
+  "t": "kurzes Gras",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "static margin": {
+  "t": "Stabilitätsmaß",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "still air, 75 % power": {
+  "t": "ruhige Luft, 75 % Leistung",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "subtotal": {
+  "t": "Zwischensumme",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "tool, reused": {
+  "t": "Werkzeug, wiederverwendet",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "torque-tube arm to arch-foot bellcrank": {
+  "t": "Torsionsrohrhebel zum Umlenkhebel am Bogenfuß",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "tundra tyres at 10–12 psi, 8 in tailwheel": {
+  "t": "Tundrareifen mit 10–12 psi, 8 in Spornrad",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "turn it over": {
+  "t": "umdrehen",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "unique": {
+  "t": "einzigartig",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "unique blanks": {
+  "t": "einzigartige Zuschnitte",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "useful load": {
+  "t": "Zuladung",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "valley": {
-  "t": "Talfalte",
-  "by": "claude (hand-written UI seed)",
+  "t": "Tal",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "via floor pulley + 3 fairleads; Nicopress + thimble each end": {
+  "t": "über Bodenrolle + 3 Seilführungen; Nicopress + Kausche an jedem Ende",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "via pulley at bulkhead 1 + 3 fairleads; turnbuckle": {
+  "t": "über Rolle an Spant 1 + 3 Seilführungen; Spannschloss",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  },
  "wingspan": {
   "t": "Spannweite",
-  "by": "claude (hand-written UI seed)",
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false
+ },
+ "{w} x {h} mm flat, {f} folds, {p} pilot holes": {
+  "t": "{w} x {h} mm flach, {f} Kantungen, {p} Führungsbohrungen",
+  "by": "claude-opus-5-5 (in session)",
   "reviewed": false
  }
 }

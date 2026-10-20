@@ -751,10 +751,8 @@ function bomCSV(){
 }
 async function exportBOM(msg){
   const name=`OpenPlane_BOM_${CUR.code}_${UNITS.sys}.csv`, data=bomCSV();
-  let dl=null; try{ dl = window.claude && window.claude.use ? await window.claude.use('downloads') : null; }catch(e){}
-  if(dl){ try{ await dl.save({filename:name, data}); msg.textContent='Saved '+name+'.'; }catch(e){ msg.textContent = e&&e.code==='declined' ? 'Download cancelled.' : 'Couldn’t save the CSV. Try again from the Claude app.'; } return; }
-  try{ const a=document.createElement('a'); a.href=URL.createObjectURL(new Blob([data],{type:'text/csv'})); a.download=name; document.body.appendChild(a); a.click(); setTimeout(()=>{ URL.revokeObjectURL(a.href); a.remove(); },500); msg.textContent='Saved '+name+'.'; }
-  catch(e){ msg.textContent='Saving files isn’t available in this view.'; }
+  try{ if(downloads){ await downloads.save({filename:name, data}); } else { browserSave(name, data); } msg.textContent='Saved '+name+'.'; }
+  catch(e){ msg.textContent = e&&e.code==='declined' ? 'Download cancelled.' : 'Couldn’t save the CSV. Try again.'; }
 }
 document.getElementById('bomCsv').addEventListener('click',()=>exportBOM(document.getElementById('bomMsg')));
 // tab bar
@@ -1384,12 +1382,19 @@ window.addEventListener('keydown',e=>{ if(e.target.closest && e.target.closest('
 
 // downloads
 const dlMsg=document.getElementById('dlMsg'); let downloads=null;
-(async()=>{ try{ downloads = window.claude && window.claude.use ? await window.claude.use('downloads') : null; }catch(e){ downloads=null; }
-  if(!downloads){ dlMsg.textContent='Saving files isn’t available in this view. Open the page in Claude to download the cut files.'; document.getElementById('dlZip').disabled=true; } })();
+(async()=>{ try{ downloads = window.claude && window.claude.use ? await window.claude.use('downloads') : null; }catch(e){ downloads=null; } })();
+// In Claude, files are saved through the page's download permission; anywhere else (GitHub Pages,
+// a local copy) the browser downloads them directly.
+function browserSave(filename, data){
+  const blob = data instanceof Blob ? data : new Blob([data], {type: /\.csv$/.test(filename)?'text/csv':/\.svg$/.test(filename)?'image/svg+xml':'application/octet-stream'});
+  const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=filename; document.body.appendChild(a); a.click();
+  setTimeout(()=>{ URL.revokeObjectURL(a.href); a.remove(); }, 1000);
+}
 async function save(filename, dataPromise){
-  if(!downloads) return;
-  try{ dlMsg.textContent='Preparing '+filename+'…'; const data=await dataPromise; await downloads.save({filename, data}); dlMsg.textContent='Saved '+filename+'.'; }
-  catch(e){ const c=e&&e.code; dlMsg.textContent = c==='declined' ? 'Download cancelled.' : c==='rate_limited' ? 'A save prompt is already open. Finish it first.' : 'Couldn’t save '+filename+'. Try again from the Claude app.'; }
+  try{ dlMsg.textContent='Preparing '+filename+'…'; const data=await dataPromise;
+    if(downloads){ await downloads.save({filename, data}); } else { browserSave(filename, data); }
+    dlMsg.textContent='Saved '+filename+'.'; }
+  catch(e){ const c=e&&e.code; dlMsg.textContent = c==='declined' ? 'Download cancelled.' : c==='rate_limited' ? 'A save prompt is already open. Finish it first.' : 'Couldn’t save '+filename+'. Try again.'; }
 }
 async function buildZip(filter){
   const list = (LIVE && LIVE.manifest ? LIVE.manifest : JSON.parse(document.getElementById('manifest').textContent)).filter(filter||(()=>true));

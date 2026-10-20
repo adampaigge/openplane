@@ -389,6 +389,9 @@ select option{background:var(--chrome);color:var(--fg)}
 .livebadge.on i{background:var(--ok);box-shadow:0 0 0 0 color-mix(in srgb,var(--ok) 60%,transparent);animation:livepulse 2s infinite}
 a.livebadge:hover{border-color:var(--fg)}
 @keyframes livepulse{70%{box-shadow:0 0 0 7px transparent}100%{box-shadow:0 0 0 0 transparent}}
+
+.pbtn{display:inline-flex;align-items:center;gap:10px;text-decoration:none}
+a.pbtn[aria-disabled="true"]{opacity:.45;cursor:not-allowed;pointer-events:none}
 </style>
 
 <div class="flagband" aria-label="Flags of the world: a project for anyone, anywhere"><div class="flagtrack" id="flagTrack"></div></div>
@@ -409,10 +412,9 @@ a.livebadge:hover{border-color:var(--fg)}
   <div class="hero-bottom">
     <p class="lede" data-i18n>A single-seat microlight anyone can build. Every sheet part is a flat blank with straight folds, cut from one gauge of aluminium.</p>
     <div class="dl">
-      <button class="pbtn primary" id="dlZip" data-i18n>Download cut files (.zip)</button>
-      <button class="pbtn" id="dlProp" data-i18n>Prop model (.zip)</button>
-      <button class="pbtn" id="dlBom" data-i18n>Bill of materials (.csv)</button>
-      <small id="dlMsg">DXF per blank and per nested sheet, SVG crease patterns, BOM, design report.</small>
+      <button class="pbtn primary" id="dlZip"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M12 4v11m0 0l-4.5-4.5M12 15l4.5-4.5M5 19h14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg><span data-i18n>Download files (.zip)</span></button>
+      <a class="pbtn" id="ghLink" target="_blank" rel="noopener" aria-disabled="true" title="The repository isn't published yet"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="5" r="2.2"/><circle cx="6" cy="19" r="2.2"/><circle cx="18" cy="8" r="2.2"/><path d="M6 7.2v9.6M18 10.2c0 4-6 3-11.2 7"/></g></svg><span>GitHub</span></a>
+      <small id="dlMsg" data-i18n>Cut files (DXF and nests), crease patterns, the prop model, the bill of materials and the design report.</small>
     </div>
   </div>
   <dl class="herostats" id="heroStats"></dl>
@@ -750,7 +752,6 @@ async function exportBOM(msg){
   catch(e){ msg.textContent='Saving files isn’t available in this view.'; }
 }
 document.getElementById('bomCsv').addEventListener('click',()=>exportBOM(document.getElementById('bomMsg')));
-document.getElementById('dlBom').addEventListener('click',()=>exportBOM(document.getElementById('dlMsg')));
 // tab bar
 document.querySelectorAll('.tabbar [role=tab]').forEach(t=>t.addEventListener('click',()=>{ document.querySelectorAll('.tabbar [role=tab]').forEach(x=>x.setAttribute('aria-selected',String(x===t)));
   document.querySelectorAll('.tabpane').forEach(p=>p.hidden = p.id!=='tab-'+t.dataset.tab); }));
@@ -793,6 +794,7 @@ document.getElementById('flagTrack').addEventListener('click',e=>{
   b.hidden=false; b.classList.toggle('on', live);
   b.innerHTML = `<i></i>${live? 'Live from GitHub' : (META.repo? 'Snapshot' : 'Local build')} · v${META.version} · ${META.short}${d?' · '+d:''}`;
   b.title = live ? 'Values load from the latest build of the main branch' : (window.OPENPLANE_LIVE_ERR ? 'Could not reach the live build, showing the snapshot published with this page' : 'Values from the build published with this page');
+  const gh=document.getElementById('ghLink'); if(META.repo){ gh.href=`https://github.com/${META.repo}`; gh.removeAttribute('aria-disabled'); gh.title='Source on GitHub: aircraft.yaml generates everything here'; }
   if(META.repo){ b.href=`https://github.com/${META.repo}/commit/${META.sha}`; s.href=`https://github.com/${META.repo}`; s.hidden=false; s.textContent='github.com/'+META.repo; } else b.removeAttribute('href');
 })();
 function fitWordmark(){ document.querySelectorAll('.wordmark,.foot-mark').forEach(w=>{ w.style.fontSize=''; const avail=w.parentElement.clientWidth, cs=parseFloat(getComputedStyle(w).fontSize); const need=w.getBoundingClientRect().width; if(need>0){ w.style.fontSize=Math.min(cs*avail/need*0.99, 440)+'px'; } }); }
@@ -1378,7 +1380,7 @@ window.addEventListener('keydown',e=>{ if(e.target.closest && e.target.closest('
 // downloads
 const dlMsg=document.getElementById('dlMsg'); let downloads=null;
 (async()=>{ try{ downloads = window.claude && window.claude.use ? await window.claude.use('downloads') : null; }catch(e){ downloads=null; }
-  if(!downloads){ dlMsg.textContent='Saving files isn’t available in this view. Open the page in Claude to download the cut files.'; ['dlZip','dlProp'].forEach(i=>document.getElementById(i).disabled=true); } })();
+  if(!downloads){ dlMsg.textContent='Saving files isn’t available in this view. Open the page in Claude to download the cut files.'; document.getElementById('dlZip').disabled=true; } })();
 async function save(filename, dataPromise){
   if(!downloads) return;
   try{ dlMsg.textContent='Preparing '+filename+'…'; const data=await dataPromise; await downloads.save({filename, data}); dlMsg.textContent='Saved '+filename+'.'; }
@@ -1391,10 +1393,11 @@ async function buildZip(filter){
     let r = null; try{ r = await fetch(FILE_BASE+rel); }catch(e){} if((!r || !r.ok) && FILE_BASE!=='files/') r = await fetch('files/'+rel); if(!r.ok) throw new Error('fetch '+rel);
     zip.file('OpenPlane/'+rel, await r.arrayBuffer()); done++; dlMsg.textContent=`Collecting files ${done}/${list.length}…`; } });
   await Promise.all(workers);
+  if(!filter){ zip.file(`OpenPlane/BOM_${CUR.code}_${UNITS.sys}.csv`, bomCSV()); }
   return zip.generateAsync({type:'blob', compression:'DEFLATE'});
 }
-document.getElementById('dlZip').onclick=()=>{ if(typeof JSZip==='undefined'){ dlMsg.textContent='The zip library didn\u2019t load. Reload the page and try again.'; return; } save('OpenPlane_cut_files.zip', buildZip()); };
-document.getElementById('dlProp').onclick=()=>{ if(typeof JSZip==='undefined'){ dlMsg.textContent='The zip library didn\u2019t load. Reload the page and try again.'; return; } save(`OpenPlane_prop_${H.prop_d_in}x${H.prop_p_in}.zip`, buildZip(f=>f.startsWith('prop/'))); };
+document.getElementById('dlZip').onclick=()=>{ if(typeof JSZip==='undefined'){ dlMsg.textContent='The zip library didn\u2019t load. Reload the page and try again.'; return; } save('OpenPlane_files.zip', buildZip()); };
+
 
 
 // ------------------------------------------------ loop

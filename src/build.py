@@ -943,12 +943,14 @@ for k, v in TOOLS.items():
 
 # ---------------------------------------------------------------- line prices (GBP, UK retail incl. 20 % VAT, estimates)
 M2 = {"0.016in": 110, "0.020in": 130, "0.025in": 115, "0.032in": 110, "0.040in": 135, "0.050in": 135}
+STOCK_AREA = {"8 ft x 4 ft sheet": 2.438 * 1.219, "12 ft x 4 ft sheet (spar strips)": 3.658 * 1.219,
+              "2000 x 1000 sheet": 2.0, "2050 x 1250 sheet": 2.56, "4130 sheet 4 ft x 2 ft": 0.74}
+def sheet_rate(mat):
+    """GBP per m2 of stock sheet, UK retail incl. VAT"""
+    return M2.get(mat.split()[-1], 120) if mat.startswith("6061") else (216 if mat.startswith("4130") else (45 if mat.startswith("Stainless") else 55))
 _mat_cost, _mat_area = {}, {}
 for (mat, stock), n in stock_count.items():
-    area = {"8 ft x 4 ft sheet": 2.438 * 1.219, "12 ft x 4 ft sheet (spar strips)": 3.658 * 1.219,
-            "2000 x 1000 sheet": 2.0, "2050 x 1250 sheet": 2.56, "4130 sheet 4 ft x 2 ft": 0.74}[stock]
-    rate = M2.get(mat.split()[-1], 120) if mat.startswith("6061") else (216 if mat.startswith("4130") else (45 if mat.startswith("Stainless") else 55))
-    _mat_cost[mat] = _mat_cost.get(mat, 0) + n * area * rate
+    _mat_cost[mat] = _mat_cost.get(mat, 0) + n * STOCK_AREA[stock] * sheet_rate(mat)
 for b_ in bom:
     _mat_area[b_["material"]] = _mat_area.get(b_["material"], 0) + b_["flat_w"] * b_["flat_h"] * b_["qty"]
 def sheet_price(mat, w, h):
@@ -1059,7 +1061,7 @@ H = dict(
     strut_L=round(res["strut_L"]), strut_T=round(res["strut_T_ult"]), strut_C=round(res["strut_C_ult"]), strut_Pcr=round(res["strut_Pcr"]),
     strut_MSb=round(res["strut_MS_buckle"], 2), strut_MSt=round(res["strut_MS_ten"], 2), strut_phi=round(res["strut_phi"], 1),
     rivets=total_rivets, hw_total=hw_total, nparts=len([p for p in parts if p.group != "Stands"]), nblanks=sum(len(p.instances) * getattr(p, "layers", 1) for p in parts if p.group != "Stands"), nblanks_stands=sum(len(p.instances) * getattr(p, "layers", 1) for p in parts if p.group == "Stands"),
-    cost_total=round(cost_total, -2), cg_cases=res["cg_cases"], sheets=[dict(material=k[0], stock=k[1], n=v) for k, v in stock_count.items()],
+    cost_total=round(cost_total, -2), cg_cases=res["cg_cases"], sheets=[dict(material=k[0], stock=k[1], n=v, area=round(STOCK_AREA[k[1]], 3), gbp_m2=sheet_rate(k[0])) for k, v in stock_count.items()],
     h_ms=round(res["h_ms"]), h_rs=round(res["h_rs"]),
 )
 model["H"] = H

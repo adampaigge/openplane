@@ -45,7 +45,7 @@ def extract():
             s.update([t["name"], t["method"], t["pass"]])
     page = open(ROOT / "web" / "page.html", encoding="utf8").read()
     s.update(x.strip() for x in re.findall(r"<[a-z][^<>]*\sdata-i18n[^<>]*>([^<]+)<", page))
-    s.update(re.findall(r"T\('([^'\\\n]{1,400})'\)", page))
+    s.update(re.findall(r"T\('([^'\\\n]{1,1200})'\)", page))
     # repeated patterns are translated once, as templates, by the page (see FLAT_RE in page.html)
     s = {x for x in s if not FLAT_RE.match(x)} | set(FLAT_TEMPLATES)
     strings = sorted(x for x in s if x and re.search(r"[A-Za-z]{3}", x) and not re.fullmatch(r"[A-Z0-9-]{3,6}", x))

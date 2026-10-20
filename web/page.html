@@ -87,6 +87,14 @@ header.top{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-
 .tabpane{padding-top:18px}
 section h3{font-size:18px;margin:0 0 6px}
 p.small{font-size:13.5px;color:var(--muted);font-family:var(--f-display)}
+.sheetin{display:grid;gap:8px;margin:0 0 18px;max-width:720px}
+.sheetin label{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:baseline;font-family:var(--f-display)}
+.sheetin label span{color:var(--muted);font-size:13.5px}
+.sheetrow{display:flex;align-items:center;gap:8px;max-width:260px;border:1px solid var(--line);border-radius:999px;padding:0 16px;background:var(--chrome)}
+.sheetrow span{font-family:var(--f-mono);color:var(--muted);font-size:14px}
+.sheetrow input{flex:1;min-width:0;height:44px;border:0;background:transparent;color:var(--fg);font:500 16px var(--f-mono);outline:none}
+.sheetrow:focus-within{border-color:var(--cyan)}
+.sheetin p.small{margin:0}
 th.r,td.r{text-align:right}
 .mtext{font-family:var(--f-body);font-size:15px;line-height:1.55;margin:0;max-width:65ch}
 .legend{display:flex;flex-wrap:wrap;gap:6px 16px;padding:8px 20px 12px;border-top:1px solid #d9d0bb;font-size:12px;color:var(--ink-2)}
@@ -424,10 +432,10 @@ section p,section li,.mtext,.sub,.truth p{letter-spacing:-.005em}
     <span class="mono"><a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener">CC0 1.0</a> · <span data-i18n>public domain</span></span>
     <a class="livebadge" id="liveBadge" hidden target="_blank" rel="noopener"></a>
     <div class="topctl"><label for="unitSel" data-i18n>Units</label>
-      <select id="unitSel"><option value="metric">Metric</option><option value="imperial">Imperial</option></select>
+      <select id="unitSel"><option value="metric" data-i18n>Metric</option><option value="imperial" data-i18n>Imperial</option></select>
       <label for="curSel" data-i18n>Currency</label>
       <select id="curSel"></select>
-      <select id="priceMode" aria-label="Pricing basis"><option value="convert">Converted from UK prices</option><option value="local">Local-price estimate</option></select>
+      <select id="priceMode" aria-label="Pricing basis"><option value="convert" data-i18n>Converted from UK prices</option><option value="local" data-i18n>Local-price estimate</option></select>
       <label class="lang"><span class="sr" data-i18n>Language</span><select id="langSel" aria-label="Language"></select></label>
     </div>
   </div>
@@ -516,17 +524,20 @@ section p,section li,.mtext,.sub,.truth p{letter-spacing:-.005em}
     <div class="kicker">01 — <span data-i18n>Cost</span></div>
     <h2 data-i18n>What it costs</h2>
     <p id="costNote"></p>
-    <div class="tbl"><table id="costT"><thead><tr><th>Category</th><th class="r">Amount</th></tr></thead><tbody></tbody></table></div>
+    <div class="sheetin"><label for="sheetPrice"><b data-i18n>Sheet price</b><span id="sheetLbl"></span></label>
+      <div class="sheetrow"><span id="sheetCur"></span><input id="sheetPrice" type="number" inputmode="decimal" min="0" step="any"></div>
+      <p class="small" id="sheetHint"></p></div>
+    <div class="tbl"><table id="costT"><thead><tr><th data-i18n>Category</th><th class="r" data-i18n>Amount</th></tr></thead><tbody></tbody></table></div>
     <p class="small"><span data-i18n>The local-price estimate takes UK VAT off the UK price, converts it at the day's exchange rate, takes about 20 % off US-made hardware, sheet and the engine kit when buying in the US, then adds the country's typical standard VAT, GST or sales tax. It leaves out import duty and shipping. Treat these as rough guides, not quotes.</span> <span id="fxDate"></span></p>
   </section>
 
   <section class="tabpane" id="tab-bom" hidden>
     <div class="kicker">02 — <span data-i18n>Bill of materials</span></div>
     <h2 data-i18n>Everything that goes into one aircraft</h2>
-    <p>Every folded blank, every rivet by grip, every AN bolt by step, plus tube stock, bought assemblies, consumables and tools. Each line has an estimated price. The same list is in <code>BOM.csv</code> and <code>HARDWARE_BY_STEP.csv</code> in the download.</p>
+    <p><span data-i18n>Every folded blank, every rivet by grip, every AN bolt by step, plus tube stock, bought assemblies, consumables and tools. Each line has an estimated price. The same list is in BOM.csv and HARDWARE_BY_STEP.csv in the download.</span></p>
     <div class="bomtools"><div class="bomtabs" id="bomTabs" role="group" aria-label="BOM category"></div><button class="pbtn" id="bomCsv" data-i18n>Export BOM (.csv)</button></div>
     <p class="small" id="bomMsg" aria-live="polite"></p>
-    <div class="tbl bomwrap"><table id="bomT"><thead><tr><th>Item</th><th>Spec</th><th>Qty</th><th>Step</th><th class="r">Each</th><th class="r">Line</th><th>Notes</th></tr></thead><tbody></tbody></table></div>
+    <div class="tbl bomwrap"><table id="bomT"><thead><tr><th data-i18n>Item</th><th data-i18n>Spec</th><th data-i18n>Qty</th><th data-i18n>Step</th><th class="r" data-i18n>Each</th><th class="r" data-i18n>Line</th><th data-i18n>Notes</th></tr></thead><tbody></tbody></table></div>
   </section>
 
   <section class="tabpane" id="tab-numbers" hidden>
@@ -708,6 +719,16 @@ function guessRegion(){ const l=(navigator.languages&&navigator.languages[0]) ||
 function regionName(cc){ try{ return new Intl.DisplayNames([LANG||'en'],{type:'region'}).of(cc); }catch(e){ return cc; } }
 // UK retail incl. VAT -> ex-VAT -> local currency -> (US-made items ~20 % cheaper in the US market) -> local VAT/GST/sales tax
 function price(gbp, us){ if(CUR.mode==='local'){ return gbp/1.2 * FX[CUR.code] * ((us && US_MARKET.has(CUR.region))?0.8:1) * (1+regionTax(CUR.region)/100); } return gbp*FX[CUR.code]; }
+// The 6061-T6 sheet lines follow the builder's own local sheet price when they enter one; everything else is an estimate.
+const AL='6061-T6 0.020in', SHEET_CATS=new Set(['Folded blanks','Wing stands (step 0)']);
+const ALS=(H.sheets||[]).filter(x=>x.material===AL), REF=ALS.find(x=>/^8 ft/.test(x.stock))||ALS[0];
+const AL_EQ = REF ? ALS.reduce((a,x)=>a+x.n*x.area,0)/REF.area : 0;   // airframe sheet need, in 8 x 4 ft sheet-equivalents
+const sheetKey=()=>'op-sheet-'+CUR.code;
+const sheetDefault=()=> REF ? price(REF.gbp_m2*REF.area, true) : 0;
+function sheetLocal(){ try{ const v=parseFloat(localStorage.getItem(sheetKey())); return v>0?v:null; }catch(e){ return null; } }
+const sheetFactor=()=>{ const v=sheetLocal(), d=sheetDefault(); return v&&d ? v/d : 1; };
+const isSheet=b=>SHEET_CATS.has(b.cat) && b.spec===AL;
+function linePrice(b, each){ const v=price((each?b.gbp:b.gbp_total)||0, b.us); return isSheet(b) ? v*sheetFactor() : v; }
 function money(v){ try{ return new Intl.NumberFormat(navigator.language||'en-GB',{style:'currency',currency:CUR.code,maximumFractionDigits: v<10?2:0}).format(v); }catch(e){ return CUR.code+' '+fmt(v); } }
 const imp = ()=>UNITS.sys==='imperial';
 const uLen = mm => imp() ? (mm>=1000? fmt(mm/304.8,2)+' ft' : fmt(mm/25.4, mm<100?2:1)+' in') : (mm>=1000? fmt(mm/1000,2)+' m' : fmt(mm,0)+' mm');
@@ -801,7 +822,7 @@ function drawCG(lab){
 }
 function renderArticle(){
   const hs=document.getElementById('heroStats');
-  const totGBP=M.bomx.reduce((a,b)=>a+price(b.gbp_total||0,b.us),0);
+  const totGBP=M.bomx.reduce((a,b)=>a+linePrice(b),0);
   hs.innerHTML=[[uLen(H.span*1000),T('wingspan')],[uMass(H.mtow),T('max take-off mass')],[fmt(H.nblanks),T('flat blanks, one sheet gauge')],[money(totGBP),T('rough build cost')]].map(s=>`<div><dd>${s[0]}</dd><dt>${s[1]}</dt></div>`).join('');
   const rkm=H.range/H.endurance;  // km per hour of flight
   const uRange=km=>imp()? fmt(km/1.609,0)+' mi' : fmt(km,0)+' km';
@@ -854,29 +875,39 @@ function renderArticle(){
   ].map(r=>`<tr><td>${r[0]}</td><td class="n">${r[1]}</td><td class="n">${r[2]}</td><td>${r[3]}</td></tr>`).join('');
   // cost
   const cats=[...new Set(M.bomx.map(b=>b.cat))];
-  let tot=0; const rows=cats.map(c=>{ const v=M.bomx.filter(b=>b.cat===c).reduce((a,b)=>a+price(b.gbp_total||0,b.us),0); tot+=v; return `<tr><td>${T(c)}</td><td class="n r">${money(v)}</td></tr>`; });
-  document.querySelector('#costT tbody').innerHTML = rows.join('') + `<tr><td><b>Total</b></td><td class="n r"><b>${money(tot)}</b></td></tr>`;
-  document.getElementById('costNote').textContent = (CUR.mode==='local' ? T(regionTax(CUR.region)>0 ? 'Local-price estimate for {country}, in {currency}, including {tax} % VAT, GST or sales tax.' : 'Local-price estimate for {country}, in {currency}, before any local sales tax.').replace('{country}',regionName(CUR.region)).replace('{currency}',CUR.code).replace('{tax}',fmt(regionTax(CUR.region),1).replace(/[.,]0$/,''))+' ' : CUR.code==='GBP' ? 'UK retail prices, including 20 % VAT. ' : `UK retail prices (inc. 20 % VAT) converted to ${CUR.code}. `) +
-    'Sheet is priced from the nested stock sheets at a UK aero retailer\'s list price, so it includes the waste. Buying a stock-holder\'s bulk 8 × 4 ft sheet, or using a second-hand engine, brings the total down a lot.';
+  let tot=0; const rows=cats.map(c=>{ const v=M.bomx.filter(b=>b.cat===c).reduce((a,b)=>a+linePrice(b),0); tot+=v; return `<tr><td>${T(c)}</td><td class="n r">${money(v)}</td></tr>`; });
+  document.querySelector('#costT tbody').innerHTML = rows.join('') + `<tr><td><b>${T('Total')}</b></td><td class="n r"><b>${money(tot)}</b></td></tr>`;
+  drawSheet();
+  document.getElementById('costNote').textContent = CUR.mode==='local' ? (regionTax(CUR.region)>0 ? T('Local-price estimate for {country}, in {currency}, including {tax} % VAT, GST or sales tax.') : T('Local-price estimate for {country}, in {currency}, before any local sales tax.')).replace('{country}',regionName(CUR.region)).replace('{currency}',CUR.code).replace('{tax}',fmt(regionTax(CUR.region),1).replace(/[.,]0$/,''))
+    : CUR.code==='GBP' ? T('UK retail prices, including 20 % VAT.') : T('UK retail prices (inc. 20 % VAT) converted to {currency}.').replace('{currency}',CUR.code);
   drawBom();
   renderQual();
   document.getElementById('fxDate').textContent = T('Exchange rates: {date}, base GBP.').replace('{date}', RG.fx.date);
 }
+function drawSheet(){ const inp=document.getElementById('sheetPrice'); if(!inp || !REF) return;
+  document.getElementById('sheetLbl').textContent=T('one 8 x 4 ft sheet of 6061-T6 0.020 in');
+  let sym=CUR.code; try{ sym=(new Intl.NumberFormat(navigator.language||'en-GB',{style:'currency',currency:CUR.code}).formatToParts(0).find(p=>p.type==='currency')||{}).value||CUR.code; }catch(e){}
+  document.getElementById('sheetCur').textContent=sym;
+  const d=Math.round(sheetDefault()); inp.placeholder=fmt(d);
+  if(document.activeElement!==inp || inp.dataset.k!==sheetKey()){ const v=sheetLocal(); inp.value = v ? String(Math.round(v*100)/100) : ''; inp.dataset.k=sheetKey(); }
+  document.getElementById('sheetHint').textContent=T('Enter what one sheet costs where you are. The airframe needs about {n} of them, and the sheet lines below follow your price; everything else stays a converted UK estimate. Leave it empty to use the estimate of {price}.').replace('{n}',fmt(Math.ceil(AL_EQ))).replace('{price}',money(d)); }
+(function(){ const inp=document.getElementById('sheetPrice'); if(!inp) return;
+  inp.addEventListener('input',()=>{ const v=parseFloat(String(inp.value).replace(',','.')); try{ if(v>0) localStorage.setItem(sheetKey(),String(v)); else localStorage.removeItem(sheetKey()); }catch(e){} renderArticle(); }); })();
 let bomCat=null;
 function drawBom(){ const cats=[...new Set(M.bomx.map(b=>b.cat))]; if(!bomCat) bomCat=cats[0]; const tabs=document.getElementById('bomTabs'), tb=document.querySelector('#bomT tbody');
   if(!tabs.children.length){ tabs.innerHTML = cats.map(c=>`<button data-c="${c}">${T(c)} <span style="opacity:.7">${M.bomx.filter(b=>b.cat===c).length}</span></button>`).join('');
     tabs.querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>{ bomCat=b.dataset.c; drawBom(); })); }
   tabs.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed', String(b.dataset.c===bomCat)));
-  const list=M.bomx.filter(b=>b.cat===bomCat); const sub=list.reduce((a,b)=>a+price(b.gbp_total||0,b.us),0);
-  tb.innerHTML = list.map(b=>`<tr><td>${unitText(T(b.item))}</td><td>${unitText(b.spec||'')}</td><td class="n">${typeof b.qty==='number'?fmt(b.qty):b.qty} ${unitText(b.unit)}</td><td class="n">${b.step}</td><td class="n r">${money(price(b.gbp||0,b.us))}</td><td class="n r">${money(price(b.gbp_total||0,b.us))}</td><td>${unitText(T(b.note||''))}</td></tr>`).join('')
+  const list=M.bomx.filter(b=>b.cat===bomCat); const sub=list.reduce((a,b)=>a+linePrice(b),0);
+  tb.innerHTML = list.map(b=>`<tr><td>${unitText(T(b.item))}</td><td>${unitText(b.spec||'')}</td><td class="n">${typeof b.qty==='number'?fmt(b.qty):b.qty} ${unitText(b.unit)}</td><td class="n">${b.step}</td><td class="n r">${money(linePrice(b,true))}</td><td class="n r">${money(linePrice(b))}</td><td>${unitText(T(b.note||''))}</td></tr>`).join('')
     + `<tr><td colspan="5"><b>${T(bomCat)} · ${T('subtotal')}</b></td><td class="n r"><b>${money(sub)}</b></td><td></td></tr>`; }
 
 function bomCSV(){
   const q=v=>{ v=v==null?'':String(v); return /[",\n]/.test(v)? '"'+v.replace(/"/g,'""')+'"' : v; };
   const r2=v=>Math.round(v*100)/100;
   const head=['Category','Item','Spec','Qty','Unit','Step','Each ('+CUR.code+')','Line ('+CUR.code+')','US-made','Notes'];
-  const rows=M.bomx.map(b=>[b.cat,unitText(b.item),unitText(b.spec||''),b.qty,unitText(b.unit||''),b.step,r2(price(b.gbp||0,b.us)),r2(price(b.gbp_total||0,b.us)),b.us?'yes':'',unitText(b.note||'')]);
-  const tot=M.bomx.reduce((a,b)=>a+price(b.gbp_total||0,b.us),0);
+  const rows=M.bomx.map(b=>[b.cat,unitText(b.item),unitText(b.spec||''),b.qty,unitText(b.unit||''),b.step,r2(linePrice(b,true)),r2(linePrice(b)),b.us?'yes':'',unitText(b.note||'')]);
+  const tot=M.bomx.reduce((a,b)=>a+linePrice(b),0);
   rows.push(['Total','','','','','','',r2(tot),'',(CUR.mode==='local'?'local-price estimate':'converted from UK retail incl. VAT')+', FX 19 Oct 2026']);
   return '﻿'+[head,...rows].map(r=>r.map(q).join(',')).join('\r\n')+'\r\n';
 }

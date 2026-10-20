@@ -10,6 +10,7 @@
 
 name: OpenPlane
 version: 0.9.0
+repo: adampaigge/openplane     # used by the website to load live builds
 
 # ------------------------------------------------------------------ wing
 wing:

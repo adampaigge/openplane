@@ -23,7 +23,10 @@ def main():
     repo = os.environ.get("OPENPLANE_REPO") or CFG.get("repo") or ""
     sha = os.environ.get("GITHUB_SHA") or git("rev-parse", "HEAD")
     when = git("log", "-1", "--format=%cI") or datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")
-    meta = dict(repo=repo, sha=sha, short=sha[:7], date=when, version=CFG.get("version", ""))
+    import hashlib
+    page_src = open(ROOT / "web" / "page.html", "rb").read()
+    meta = dict(repo=repo, sha=sha, short=sha[:7], date=when, version=CFG.get("version", ""),
+                page=hashlib.sha1(page_src).hexdigest()[:12])   # live data is only used by the page code that made it
 
     paths = []
     for root, _, fs in os.walk(OUT_DIR):

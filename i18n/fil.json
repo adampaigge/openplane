@@ -1,0 +1,4077 @@
+{
+ "1 m hand bending brake (or hardwood bending blocks in a vise)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1 m na hand bending brake (o mga bending block na matigas na kahoy sa bise)"
+ },
+ "1/8 in Clecos (300) + Cleco pliers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in na Cleco (300) + Cleco pliers"
+ },
+ "1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in na domed aluminium blind rivet, grip -1 (hanggang 1.6 mm)"
+ },
+ "1/8 in domed aluminium blind rivet, grip -2 (1.6-3.2 mm)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in na domed aluminium blind rivet, grip -2 (1.6-3.2 mm)"
+ },
+ "1/8 in hole duplicator": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in na hole duplicator"
+ },
+ "1/8 in stainless/Monel blind rivet (fire-zone)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in na stainless/Monel blind rivet (fire zone)"
+ },
+ "2 m section in four-point bending, loaded in steps to 1.5 × the +4 g limit bending moment.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "2 m na seksyon sa four-point bending, kinargahan nang paunti-unti hanggang 1.5 × ng +4 g limit bending moment."
+ },
+ "2 x AN4 at the tail post": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "2 x AN4 sa tail post"
+ },
+ "2 x AN5 holes at the top, axle boss at the bottom": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "2 x butas na AN5 sa itaas, axle boss sa ibaba"
+ },
+ "4 x 1.79 m wing, 2 x 1.0 m elevators, 1.24 m rudder, door": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "4 x 1.79 m na pakpak, 2 x 1.0 m na elevator, 1.24 m na rudder, pinto"
+ },
+ "4130 fittings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga fitting na 4130"
+ },
+ "75 mm tube + ratchet strap (nose roller)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "75 mm na tubo + ratchet strap (nose roller)"
+ },
+ "; {n} parts x {l} laminated layers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "; {n} piyesa x {l} laminated na patong"
+ },
+ "A BMAA or LAA inspector reviews the aircraft and the evidence.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sinusuri ng isang BMAA o LAA inspector ang eroplano at ang ebidensya."
+ },
+ "A UK SSDR aircraft needs no airworthiness approval, so all the responsibility is the builder's. Proof-load the wing with sandbags to +4 g and have a BMAA or LAA inspector look at it before it flies. Elsewhere, check your national microlight rules.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hindi kailangan ng UK SSDR na eroplano ang airworthiness approval, kaya nasa gumagawa ang lahat ng pananagutan. I-proof-load ang pakpak gamit ang mga sako ng buhangin hanggang +4 g at ipatingin ito sa isang BMAA o LAA inspector bago ito lumipad. Sa ibang lugar, tingnan ang pambansang patakaran sa microlight."
+ },
+ "A concept design, published for study. It is not an approved design, and nothing here is airworthiness advice.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Isang concept design, inilathala para pag-aralan. Hindi ito aprubadong disenyo, at walang anuman dito ang payo sa airworthiness."
+ },
+ "A single-seat microlight anyone can build. Every sheet part is a flat blank with straight folds, cut from one gauge of aluminium.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Isang single-seat na microlight na kayang gawin ng kahit sino. Bawat sheet part ay patag na blank na may tuwid na tupi, ginupit mula sa iisang kapal ng aluminium."
+ },
+ "A4-1 blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "A4-1 blind rivet"
+ },
+ "A4-2 blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "A4-2 blind rivet"
+ },
+ "A4-SS blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "A4-SS blind rivet"
+ },
+ "ALT instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Instrumentong ALT"
+ },
+ "AN3 bolt (10-32), AN365-1032 nut, AN960-10 washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 bolt (10-32), AN365-1032 nut, AN960-10 washer"
+ },
+ "AN3 bolt, AN365-1032 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 bolt, AN365-1032 nut"
+ },
+ "AN3 bolt, AN365-1032 nut, rod end between the plates": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 bolt, AN365-1032 nut, rod end sa pagitan ng mga plato"
+ },
+ "AN3 bolt, AN365-1032 nut, through 3/16 in rod end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 bolt, AN365-1032 nut, sa loob ng 3/16 in na rod end"
+ },
+ "AN3 each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 sa bawat dulo"
+ },
+ "AN4 bolt (1/4-28), AN365-428 nut, 2 x AN960-416 washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 bolt (1/4-28), AN365-428 nut, 2 x AN960-416 washer"
+ },
+ "AN4 bolt, AN310-4 + cotter (pivot)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 bolt, AN310-4 + cotter (pivot)"
+ },
+ "AN4 bolt, AN310-4 castle nut + cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 bolt, AN310-4 castle nut + cotter"
+ },
+ "AN4 bolt, AN365-428 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 bolt, AN365-428 nut"
+ },
+ "AN4 bolt, AN365-428 nut, AN970-4 washer each side": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 bolt, AN365-428 nut, AN970-4 washer sa bawat gilid"
+ },
+ "AN5 bolt (5/16-24), AN365-524 nut, AN970-5 large washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 bolt (5/16-24), AN365-524 nut, AN970-5 na malaking washer"
+ },
+ "AN5 bolt + rubber isolator (Lord-type) + AN365-524": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 bolt + rubber isolator (uri ng Lord) + AN365-524"
+ },
+ "AN5 bolt, AN310-5 castellated nut, MS24665 cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 bolt, AN310-5 castellated nut, MS24665 cotter"
+ },
+ "AN5 bolt, AN365-524 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 bolt, AN365-524 nut"
+ },
+ "AN5 clevis pin (bolt), AN310-5 castellated nut, MS24665 cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 clevis pin (bolt), AN310-5 castellated nut, MS24665 cotter"
+ },
+ "AN5 prop bolt, AN310-5 + safety wire (per prop maker)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 prop bolt, AN310-5 + safety wire (ayon sa gumawa ng propeller)"
+ },
+ "ASI instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Instrumentong ASI"
+ },
+ "About 10 months": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga 10 buwan"
+ },
+ "Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aileron / flap horn, 4130 0.063in (isang tupi papunta sa ibabang balat)"
+ },
+ "Aileron / flap skin (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Balat ng aileron / flap (magkakapareho x4)"
+ },
+ "Aileron / flap spar (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Spar ng aileron / flap (magkakapareho x4)"
+ },
+ "Aileron and flap horns (K-HN), 1 per surface": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga horn ng aileron at flap (K-HN), 1 bawat surface"
+ },
+ "Aileron link (cabin) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aileron link (cabin) x2"
+ },
+ "Aileron link (cabin) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aileron link (cabin) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Aileron pushrod (arch) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aileron pushrod (arko) x2"
+ },
+ "Aileron pushrod (arch) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aileron pushrod (arko) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Aileron pushrod (wing) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aileron pushrod (pakpak) x2"
+ },
+ "Aileron pushrod (wing) x2: 6061-T6 1/2 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aileron pushrod (pakpak) x2: 6061-T6 1/2 x 0.035 in"
+ },
+ "Aileron torque tube": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aileron torque tube"
+ },
+ "Ailerons: a short link from the torque-tube arm to the arch-foot bellcrank, a pushrod up the rear-arch leg to the arch-top bellcrank, then out through the rib lightening holes to the outboard bellcrank, which drives the K-HN horn on the aileron. Flaps: overhead lever, a short rod to the centre-section torque-tube arms, then pushrods to the flap bellcranks and K-HN horns.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aileron: maikling link mula sa braso ng torque tube papunta sa bellcrank sa paanan ng arko, pushrod paakyat sa binti ng likurang arko papunta sa bellcrank sa tuktok ng arko, saka palabas sa mga lightening hole ng rib papunta sa panlabas na bellcrank, na nagpapagalaw sa K-HN horn ng aileron. Flap: overhead na lever, maikling rod papunta sa mga braso ng torque tube sa gitnang seksyon, saka mga pushrod papunta sa mga flap bellcrank at K-HN horn."
+ },
+ "All 52 ribs are the same two blanks. The pilot holes locate them, so no jig is needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lahat ng 52 rib ay iisang dalawang blank. Ang mga pilot hole ang naglalagay sa kanila sa puwesto, kaya walang jig na kailangan."
+ },
+ "All six faces aim at one vanishing point, so each face is flat and every crease is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lahat ng anim na mukha ay nakatutok sa iisang vanishing point, kaya bawat mukha ay patag at bawat tupi ay tuwid."
+ },
+ "All the glazing is flat sheet: no forming and no moulds.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lahat ng salamin ay patag na sheet: walang forming at walang hulmahan."
+ },
+ "Allowable": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pinapayagan"
+ },
+ "Amount": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Halaga"
+ },
+ "An engineering test plan modelled on BCAR Section S practice, not a regulatory approval route. Costs are rough ranges for materials, hire and consumables, not labour, and exclude the airframe itself. The plan lives in qualification.yaml in the repository, and its pass criteria use the live numbers from the build.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Isang engineering test plan na hango sa praktika ng BCAR Section S, hindi daan sa regulatory approval. Ang gastos ay magaspang na saklaw para sa materyales, upa at consumables, hindi kasama ang paggawa, at hindi kasama ang airframe mismo. Nasa qualification.yaml sa repository ang plano, at ginagamit ng pass criteria nito ang live na numero mula sa build."
+ },
+ "Approach the stall in 1 kt steps, flaps up and down, at forward and aft CG.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lapitan ang stall nang 1 kt bawat hakbang, flap nakataas at nakababa, sa harapan at likurang CG."
+ },
+ "Arch over the pilot. Spar-root fittings bolt to its top corners, strut fittings to its feet. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Arko sa ibabaw ng piloto. Ang mga spar-root fitting ay naka-bolt sa itaas na sulok nito, ang mga strut fitting sa paanan nito. Laminated: 2 nested na patong ng 0.020 in, hiwalay na tinupi at nirivet bilang isa; bawasan ng 0.5 mm bawat panloob na patong ang gilid ng flange."
+ },
+ "As above, including the reversed load case at −2 g.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tulad ng nasa itaas, kasama ang baligtad na load case sa −2 g."
+ },
+ "At least 1.5 × the full-power fuel flow from either tank.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hindi bababa sa 1.5 × ng full-power na daloy ng gasolina mula sa alinmang tangke."
+ },
+ "Aux fuel tank 20 L (rotomoulded), high behind the seat, gravity feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aux na tangke ng gasolina 20 L (rotomoulded), mataas sa likod ng upuan, gravity feed"
+ },
+ "Aux tank 20 L behind the seat + selector valve + line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aux na tangke 20 L sa likod ng upuan + selector valve + linya"
+ },
+ "Aux tank filler (through the left cabin side, behind the door)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Filler ng aux na tangke (sa kaliwang gilid ng cabin, sa likod ng pinto)"
+ },
+ "Aviation snips (straight, left, right)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aviation snips (tuwid, kaliwa, kanan)"
+ },
+ "Axle bolt AN6 + castellated nut AN310-6 + cotter MS24665": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Axle bolt AN6 + castellated nut AN310-6 + cotter MS24665"
+ },
+ "Back-drill #40 through the rib and spar-cap pilot holes, using the hole duplicator where you can't reach from inside. Cleco as you go.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-back-drill ang #40 sa mga pilot hole ng rib at spar cap, gamit ang hole duplicator kung hindi maabot mula sa loob. Mag-Cleco habang tumutuloy."
+ },
+ "Back-drill through the rib flanges and spar caps. Do the nose last, working from the spar forward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-back-drill sa mga rib flange at spar cap. Huling gawin ang ilong, mula sa spar papunta sa harap."
+ },
+ "Baggage locker behind the seat (net, 5 kg max)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Baggage locker sa likod ng upuan (net, pinakamarami 5 kg)"
+ },
+ "Battery + radio + antenna": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Baterya + radyo + antena"
+ },
+ "Battery 12 V LiFePO4 in vented box (under the seat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Baterya 12 V LiFePO4 sa may-bentilasyong kahon (sa ilalim ng upuan)"
+ },
+ "Bellcrank arms in the cabin, 2 per bellcrank; Bellcrank arms in the wings, 2 per bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga braso ng bellcrank sa cabin, 2 bawat bellcrank; Mga braso ng bellcrank sa mga pakpak, 2 bawat bellcrank"
+ },
+ "Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga bracket ng bellcrank sa cabin papunta sa arko / spar, 2 bawat isa; Mga bracket ng bellcrank sa mga pakpak papunta sa arko / spar, 2 bawat isa"
+ },
+ "Bellcrank pivots in the cabin (K-BC pair through its K-CV bracket); Bellcrank pivots in the wings (K-BC pair through its K-CV bracket)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga pivot ng bellcrank sa cabin (pares ng K-BC sa loob ng K-CV bracket nito); Mga pivot ng bellcrank sa mga pakpak (pares ng K-BC sa loob ng K-CV bracket nito)"
+ },
+ "Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bellcrank plate, 4130 0.063in (pares, 55 mm na braso)"
+ },
+ "Bellcranks: each is a pair of K-BC plates, 16 mm apart, on an AN4 pivot through a folded K-CV bracket. The rod ends sit between the plates on AN3 bolts. Five per side: aileron arch-foot, arch-top and outboard (at the rear spar); flap torque-tube arm and flap bellcrank.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga bellcrank: bawat isa ay pares ng K-BC plate, 16 mm ang layo, sa AN4 pivot sa loob ng tinuping K-CV bracket. Nakaupo ang mga rod end sa pagitan ng mga plato sa AN3 bolt. Lima bawat gilid: aileron sa paanan ng arko, tuktok ng arko at panlabas (sa likurang spar); braso ng flap torque tube at flap bellcrank."
+ },
+ "Bench vise with soft jaws": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bench vise na may malambot na panga"
+ },
+ "Bend deduction": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bend deduction"
+ },
+ "Bend on the brake: each channel is four 90° bends. Bend the two flanges first, then the two lips. Set the nose radius to 1 mm (about 2t for 0.020 in) and overbend about 2° for springback. Check every bend with a square.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ibaluktot sa brake: bawat channel ay apat na 90° na baluktot. Unahin ang dalawang flange, saka ang dalawang lip. Itakda ang nose radius sa 1 mm (mga 2t para sa 0.020 in) at sobrahan ng mga 2° para sa springback. Suriin ang bawat baluktot gamit ang escuadra."
+ },
+ "Bend radius and springback": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bend radius at springback"
+ },
+ "Best climb": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pinakamahusay na pag-akyat"
+ },
+ "Bill of materials": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Listahan ng materyales"
+ },
+ "Blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga blank"
+ },
+ "Blind-rivet puller (hand or pneumatic)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Blind-rivet puller (kamay o pneumatic)"
+ },
+ "Bolt each main-gear spring leg through the floor doubler under the front arch: 2 x AN5 each, large washers both sides.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-bolt ang bawat main-gear spring leg sa floor doubler sa ilalim ng harapang arko: 2 x AN5 bawat isa, malaking washer sa magkabilang gilid."
+ },
+ "Bolt in the four harness anchors.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-bolt ang apat na harness anchor."
+ },
+ "Bolt on the propeller and spinner. Torque to the prop maker's figure, then safety-wire.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-bolt ang propeller at spinner. I-torque sa halaga ng gumawa ng propeller, saka lagyan ng safety wire."
+ },
+ "Bolt the 4130 engine mount through the firewall (4 x AN4) with large washers on the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-bolt ang 4130 engine mount sa firewall (4 x AN4) na may malaking washer sa likod."
+ },
+ "Bolt the four root clevises to the arch tops and the four strut-foot clevises to the arch feet with AN4 bolts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-bolt ang apat na root clevis sa tuktok ng mga arko at ang apat na strut-foot clevis sa paanan ng mga arko gamit ang AN4 bolt."
+ },
+ "Bolt the stabiliser halves to the tailcone side doublers, 4 x AN4 each. Bolt the fin spar to the tail post, 3 x AN4.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-bolt ang mga kalahati ng stabiliser sa mga side doubler ng tailcone, 4 x AN4 bawat isa. I-bolt ang fin spar sa tail post, 3 x AN4."
+ },
+ "Bolt the tailwheel spring to the tail post (2 x AN4). Fit the fork and the two steering springs to the rudder horn.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-bolt ang tailwheel spring sa tail post (2 x AN4). Ikabit ang fork at ang dalawang steering spring sa rudder horn."
+ },
+ "Bolt the tang pairs either side of each spar web at the root (4 x AN3), and the strut-top clevises under the spars at the 2.4 m rib.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-bolt ang mga pares ng tang sa magkabilang gilid ng bawat spar web sa root (4 x AN3), at ang mga strut-top clevis sa ilalim ng mga spar sa 2.4 m na rib."
+ },
+ "Bolts to the spar web with 4 x AN3 and reaches inboard past the spar end to the arch-top clevis pin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Naka-bolt sa spar web gamit ang 4 x AN3 at umaabot papasok lampas sa dulo ng spar hanggang sa clevis pin sa tuktok ng arko."
+ },
+ "Both sides are the same blank, mirrored. The openings have 50 mm corner radii because square corners start cracks.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Magkabilang gilid ay iisang blank, naka-mirror. May 50 mm na corner radius ang mga butas dahil nagsisimula ng bitak ang mga parisukat na sulok."
+ },
+ "Both tanks, up to MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Parehong tangke, hanggang MTOW"
+ },
+ "Bottom + both chamfers + side flanges from one sheet: converging creases, still developable (frustum).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ilalim + parehong chamfer + side flange mula sa iisang sheet: nagtatagpong tupi, kaya pa ring ilatag (frustum)."
+ },
+ "Bottom extends between the elevator halves.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Umaabot ang ilalim sa pagitan ng mga kalahati ng elevator."
+ },
+ "Bought / fabricated items going on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga biniling / ginawang bagay na ikinakabit"
+ },
+ "Bought assemblies": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga biniling assembly"
+ },
+ "Box-pleat hood 45°, nose bowl converging creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Box-pleat na hood 45°, nagtatagpong tupi sa nose bowl"
+ },
+ "Brake drum": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brake drum"
+ },
+ "Build each section upside down on a straight edge: bulkheads Clecoed into the belly, then the sides, then the top.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Buuin ang bawat seksyon nang nakabaligtad sa tuwid na gilid: mga bulkhead naka-Cleco sa tiyan, saka ang mga gilid, saka ang itaas."
+ },
+ "Build up towards Vne in 5 kt steps, watching for buzz or flutter at every step.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Itaas nang paunti-unti patungong Vne nang 5 kt bawat hakbang, binabantayan ang ugong o flutter sa bawat hakbang."
+ },
+ "CG range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Saklaw ng CG"
+ },
+ "CHT/EGT instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Instrumentong CHT/EGT"
+ },
+ "CLmax, drag, propeller efficiency and the neutral point are handbook estimates. Measure stall speed and CG limits in flight test. The 35 kt SSDR stall limit is met with flaps:": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ang CLmax, drag, kahusayan ng propeller at neutral point ay mga tantiya mula sa handbook. Sukatin ang stall speed at mga limitasyon ng CG sa flight test. Naaabot ang 35 kt na SSDR stall limit kapag may flap:"
+ },
+ "Cabin roof (centre lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bubong ng cabin (gitnang ibabang balat)"
+ },
+ "Cabin side (x2, mirrored): door/window opening + front window": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gilid ng cabin (x2, naka-mirror): butas ng pinto/bintana + harapang bintana"
+ },
+ "Cabin sides and seat": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga gilid ng cabin at upuan"
+ },
+ "Carries flap/aileron hinges and rear strut fitting. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dala ang mga bisagra ng flap/aileron at ang likurang strut fitting. Laminated: 2 nested na patong ng 0.020 in, hiwalay na tinupi at nirivet bilang isa; bawasan ng 0.5 mm bawat panloob na patong ang gilid ng flange."
+ },
+ "Case": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kaso"
+ },
+ "Category": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kategorya"
+ },
+ "Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Trailing-edge fairing ng gitnang seksyon (nakapirmi, sa pagitan ng mga flap)"
+ },
+ "Centre-section upper skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Itaas na balat ng gitnang seksyon"
+ },
+ "Check stops, free play, friction and cable tension, then load every circuit to the pilot limit loads.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Suriin ang mga stop, free play, friction at tensyon ng kable, saka kargahan ang bawat circuit hanggang sa pilot limit load."
+ },
+ "Check the cap angle every 500 mm with a square. Sight along the spar for twist.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Suriin ang anggulo ng cap bawat 500 mm gamit ang escuadra. Silipin sa haba ng spar kung may pilipit."
+ },
+ "Check twist by sighting a level across bulkheads 1 and 5. Then join the two sections at bulkhead 3.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Suriin ang pilipit sa pagsilip ng level sa bulkhead 1 at 5. Saka pagdugtungin ang dalawang seksyon sa bulkhead 3."
+ },
+ "Clean and prime. Steel fittings rust under paint if they aren't primed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Linisin at i-prime. Kinakalawang ang mga steel fitting sa ilalim ng pintura kung hindi naka-prime."
+ },
+ "Clecos": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga Cleco"
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga clevis web sa tuktok at paanan ng arko, 2 bawat clevis; mga strut-top at jury-top clevis sa mga spar cap, 2 bawat isa"
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each; Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga clevis web sa tuktok at paanan ng arko, 2 bawat clevis; mga strut-top at jury-top clevis sa mga spar cap, 2 bawat isa; Mga bracket ng bellcrank sa cabin papunta sa arko / spar, 2 bawat isa; Mga bracket ng bellcrank sa mga pakpak papunta sa arko / spar, 2 bawat isa"
+ },
+ "Clevis, 4130 0.063in (U, two folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Clevis, 4130 0.063in (U, dalawang tupi)"
+ },
+ "Clevis: two 90° bends at 3t radius": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Clevis: dalawang 90° na baluktot sa 3t na radius"
+ },
+ "Click to explore": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-click para galugarin"
+ },
+ "Clip on the strut fairings.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-clip ang mga strut fairing."
+ },
+ "Close the bay behind the centre-section rear spar with the W-CT trailing-edge fairing (same wedge fold as the flaps). Do it last, after the flap linkage is rigged and checked.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Isara ang puwang sa likod ng likurang spar ng gitnang seksyon gamit ang W-CT trailing-edge fairing (parehong wedge fold gaya ng mga flap). Huling gawin ito, pagkatapos ma-rig at masuri ang flap linkage."
+ },
+ "Closes the control surface; carries hinge and mass-balance arm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Isinasara ang control surface; dala ang bisagra at mass-balance arm."
+ },
+ "Closes the control surface; carries hinge and mass-balance arm. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Isinasara ang control surface; dala ang bisagra at mass-balance arm. Laminated: 2 nested na patong ng 0.020 in, hiwalay na tinupi at nirivet bilang isa; bawasan ng 0.5 mm bawat panloob na patong ang gilid ng flange."
+ },
+ "Compass (on the glare shield)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kompas (sa glare shield)"
+ },
+ "Components": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga bahagi"
+ },
+ "Consumables": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Consumables"
+ },
+ "Control stick": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Control stick"
+ },
+ "Control system": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sistema ng kontrol"
+ },
+ "Control-circuit strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lakas ng control circuit"
+ },
+ "Control-system free play": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Free play ng sistema ng kontrol"
+ },
+ "Controllable in all axes with trim available. Engine temperatures stable.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nakokontrol sa lahat ng axis at may trim. Matatag ang temperatura ng makina."
+ },
+ "Controls, instruments and systems": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kontrol, instrumento at sistema"
+ },
+ "Controls: stick, torque tube, cables, pushrods": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kontrol: stick, torque tube, kable, pushrod"
+ },
+ "Converging creases 44°, bulkhead flanges 96–100°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nagtatagpong tupi 44°, bulkhead flange 96–100°"
+ },
+ "Converted from UK prices": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kino-convert mula sa presyong UK"
+ },
+ "Copy it, change it, build it, sell it. No permission needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kopyahin, baguhin, gawin, ibenta. Walang pahintulot na kailangan."
+ },
+ "Cordless drill, #40 (2.5 mm) and #30 (3.3 mm) bits": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Cordless drill, #40 (2.5 mm) at #30 (3.3 mm) na bit"
+ },
+ "Cost": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gastos"
+ },
+ "Cotter pins": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga cotter pin"
+ },
+ "Cotter-pin and safety-wire pliers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pliers para sa cotter pin at safety wire"
+ },
+ "Coupons and processes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga coupon at proseso"
+ },
+ "Covers the top half of the firewall. Camlocks along the firewall flange and the split line.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tinatakpan ang itaas na kalahati ng firewall. Mga camlock sa haba ng firewall flange at ng split line."
+ },
+ "Cowl to firewall flange and along the split line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Cowl papunta sa firewall flange at sa haba ng split line"
+ },
+ "Crippling stress at least {stress:ms_cc}, the design allowable. Layers must not separate before failure.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Crippling stress hindi bababa sa {stress:ms_cc}, ang design allowable. Hindi dapat maghiwalay ang mga patong bago masira."
+ },
+ "Cruise 75 %": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Cruise 75 %"
+ },
+ "Crush 300 mm lengths of three-layer lipped channel, riveted at design pitch, five samples.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Durugin ang 300 mm na haba ng three-layer na lipped channel, nirivet sa design pitch, limang sample."
+ },
+ "Currency": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pera"
+ },
+ "Cut and deburr: the stand blanks are on the same nest sheets as everything else. File every edge smooth and deburr each pilot hole on both faces. Look for burrs with your fingertip, not your eye.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gupitin at alisan ng burr: nasa parehong nest sheet ang mga stand blank gaya ng lahat. Kikilan nang makinis ang bawat gilid at alisan ng burr ang bawat pilot hole sa magkabilang mukha. Hanapin ang burr gamit ang dulo ng daliri, hindi ng mata."
+ },
+ "Cut files (DXF and nests), crease patterns, the prop model, the bill of materials and the design report.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga cut file (DXF at nest), crease pattern, modelo ng propeller, listahan ng materyales at design report."
+ },
+ "Cut lengths": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Haba ng gupit"
+ },
+ "Cut list": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Listahan ng gupit"
+ },
+ "Cut the main struts to 2543 mm and the rear struts to 2547 mm pin-to-pin, minus the end-fitting length. All four are 6061-T6 1.75 x 0.065 in tube.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gupitin ang mga main strut sa 2543 mm at ang mga rear strut sa 2547 mm pin-to-pin, bawas ang haba ng end fitting. Lahat ng apat ay 6061-T6 1.75 x 0.065 in na tubo."
+ },
+ "Cut, deburr, mark": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gupit, alis-burr, marka"
+ },
+ "Cylinder": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Silindro"
+ },
+ "Deburr every edge and hole": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Alisan ng burr ang bawat gilid at butas"
+ },
+ "Deburr every edge with a file or deburring tool. A burr is where a fatigue crack starts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Alisan ng burr ang bawat gilid gamit ang kikil o deburring tool. Sa burr nagsisimula ang fatigue crack."
+ },
+ "Deburr every pilot hole on both faces with a 10 mm bit turned by hand.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Alisan ng burr ang bawat pilot hole sa magkabilang mukha gamit ang 10 mm na bit na pinaikot ng kamay."
+ },
+ "Deburring tool, 10 mm drill bit (hole deburr), fine file": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Deburring tool, 10 mm na drill bit (burr ng butas), pinong kikil"
+ },
+ "Don't overtighten: nylon washers, and stop when the washer just grips.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Huwag sobrang higpitan: nylon washer, at tumigil kapag kumakapit na ang washer."
+ },
+ "Door (left, hinged) / side window (right, fixed)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pinto (kaliwa, may bisagra) / side window (kanan, nakapirmi)"
+ },
+ "Download files (.zip)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-download ang mga file (.zip)"
+ },
+ "Drawing": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Guhit"
+ },
+ "Drill and cleco: clamp the gussets in place, drill through the pilot holes to #30 (3.3 mm), and put a cleco in every fourth hole as you go. Then take everything apart, deburr the holes and the faying surfaces, and put it back together on clecos.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Drill at Cleco: i-clamp sa puwesto ang mga gusset, i-drill sa mga pilot hole hanggang #30 (3.3 mm), at maglagay ng Cleco sa bawat ikaapat na butas habang tumutuloy. Saka kalasin lahat, alisan ng burr ang mga butas at faying surface, at ibalik sa Cleco."
+ },
+ "Drill press, 1/4 in and 5/16 in reamers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Drill press, 1/4 in at 5/16 in na reamer"
+ },
+ "Drill, deburr, prime, rivet the skeleton": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-drill, alisan ng burr, i-prime, i-rivet ang balangkas"
+ },
+ "Duration": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tagal"
+ },
+ "Each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bawat isa"
+ },
+ "Each cable end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bawat dulo ng kable"
+ },
+ "Each spar is a laminate: three nested blanks for the main spar, two for the rear. Fold every layer separately, then nest them.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bawat spar ay laminate: tatlong nested na blank para sa main spar, dalawa para sa likuran. Tupiin nang hiwalay ang bawat patong, saka pagsiksikin."
+ },
+ "Each wing pins on at two points. The struts set its angle.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bawat pakpak ay naka-pin sa dalawang punto. Ang mga strut ang nagtatakda ng anggulo nito."
+ },
+ "Ears take an AN5 pin (fore-aft axis); web bolts with 2 x AN4. Bend radius 3t for normalised 4130 (Wanttaja).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "May AN5 pin ang mga tainga (harap-likod na axis); naka-bolt ang web gamit ang 2 x AN4. Bend radius 3t para sa normalised 4130 (Wanttaja)."
+ },
+ "Electrics: 12 V LiFePO4 battery in a vented box under the seat. Run it via the master switch and fuses to the radio, with the antenna coax to a whip on the tailcone top. The mag P-lead goes through a firewall grommet. The half-VW's magneto needs no battery to run.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kuryente: 12 V LiFePO4 na baterya sa may-bentilasyong kahon sa ilalim ng upuan. Padaanin sa master switch at mga fuse papunta sa radyo, kasama ang antenna coax papunta sa whip sa ibabaw ng tailcone. Dumadaan sa firewall grommet ang P-lead ng mag. Hindi kailangan ng baterya ng magneto ng half-VW para tumakbo."
+ },
+ "Elevator bellcrank (under seat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Elevator bellcrank (sa ilalim ng upuan)"
+ },
+ "Elevator cable x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Elevator cable x2"
+ },
+ "Elevator cable x2: 1/8 in 7x19 galvanised": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Elevator cable x2: 1/8 in 7x19 galvanised"
+ },
+ "Elevator cables: run one straight line each from the bellcrank to the tail-post grommet, 60 mm apart, up cable above down cable. Fit a phenolic fairlead where each line passes a bulkhead.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga elevator cable: patakbuhin ang bawat isa sa isang tuwid na linya mula sa bellcrank papunta sa tail-post grommet, 60 mm ang layo, ang up cable sa ibabaw ng down cable. Maglagay ng phenolic fairlead kung saan dumadaan ang bawat linya sa bulkhead."
+ },
+ "Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Elevator horn, 4130 0.063in (dalawang dulo, sa elevator torque tube)"
+ },
+ "Elevator skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Balat ng elevator"
+ },
+ "Elevator spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Spar ng elevator"
+ },
+ "Elevators and rudder: fold them the same way as the ailerons in step 7 (pleats, then the trailing-edge fold, then the C-spar).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga elevator at rudder: tupiin sa parehong paraan gaya ng mga aileron sa hakbang 7 (mga pleat, saka ang trailing-edge fold, saka ang C-spar)."
+ },
+ "Empty / MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Walang laman / MTOW"
+ },
+ "Empty mass and balance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Empty mass at balanse"
+ },
+ "Empty mass at or below {mass:empty} plus 3 %, and every loading case inside the CG range.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Empty mass na hindi lalampas sa {mass:empty} dagdag 3 %, at bawat loading case ay nasa loob ng saklaw ng CG."
+ },
+ "Empty tanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Walang lamang tangke"
+ },
+ "Empty tanks, 5 kg baggage (aftmost)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Walang lamang tangke, 5 kg na bagahe (pinakalikod)"
+ },
+ "Endurance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tagal ng lipad"
+ },
+ "Engine and prop": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Makina at propeller"
+ },
+ "Engine and propeller": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Makina at propeller"
+ },
+ "Engine mount": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Engine mount"
+ },
+ "Engine mount to firewall, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Engine mount sa firewall, 4"
+ },
+ "Engine mount tube (4130)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tubo ng engine mount (4130)"
+ },
+ "Engine runs: full-power static run, mag check, then check cylinder head temperatures.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pagpapatakbo ng makina: full-power static run, mag check, saka suriin ang temperatura ng cylinder head."
+ },
+ "Engine to mount, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Makina sa mount, 4"
+ },
+ "Engine, cowl, prop": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Makina, cowl, propeller"
+ },
+ "Enter what one sheet costs where you are. The airframe needs about {n} of them, and the sheet lines below follow your price; everything else stays a converted UK estimate. Leave it empty to use the estimate of {price}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ilagay ang halaga ng isang sheet sa inyong lugar. Kailangan ng airframe ang mga {n} nito, at susundin ng mga sheet line sa ibaba ang presyo mo; ang iba ay mananatiling kino-convert na tantiya mula UK. Iwanang blangko para gamitin ang tantiyang {price}."
+ },
+ "Epoxy primer + etch/alodine": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Epoxy primer + etch/alodine"
+ },
+ "Estimated": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tinantiya"
+ },
+ "Estimated flutter speed at least 1.2 × the design dive speed of {speed:Vd}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tinantiyang flutter speed na hindi bababa sa 1.2 × ng design dive speed na {speed:Vd}."
+ },
+ "Every crease goes on the blank before anything is folded, the same order the origami book uses.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bawat tupi ay inilalagay sa blank bago tupiin ang anuman, sa parehong ayos na ginagamit ng aklat ng origami."
+ },
+ "Every flange within ±0.5 mm of the drawing.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bawat flange ay nasa loob ng ±0.5 mm ng guhit."
+ },
+ "Every folded blank, every rivet by grip, every AN bolt by step, plus tube stock, bought assemblies, consumables and tools. Each line has an estimated price. The same list is in BOM.csv and HARDWARE_BY_STEP.csv in the download.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bawat tinuping blank, bawat rivet ayon sa grip, bawat AN bolt ayon sa hakbang, dagdag ang tube stock, mga biniling assembly, consumables at kasangkapan. May tinantiyang presyo ang bawat linya. Nasa BOM.csv at HARDWARE_BY_STEP.csv sa download ang parehong listahan."
+ },
+ "Every number on this site is a calculation. This is the plan for turning them into evidence: cheap coupon tests first, then components, then the whole wing, then the ground and finally the air. Each phase retires a specific risk before money is spent on the next. Results go back into the repository, and measured values replace the estimates in aircraft.yaml.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bawat numero sa site na ito ay kalkulasyon. Ito ang plano para gawin silang ebidensya: murang coupon test muna, saka mga bahagi, saka ang buong pakpak, saka sa lupa at sa wakas sa himpapawid. Inaalis ng bawat yugto ang isang tiyak na panganib bago gumastos para sa susunod. Bumabalik sa repository ang mga resulta, at pinapalitan ng mga sinukat na halaga ang mga tantiya sa aircraft.yaml."
+ },
+ "Every result, photo and failure goes into the repository.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bawat resulta, larawan at kabiguan ay napupunta sa repository."
+ },
+ "Every steel fitting is also a flat blank folded at most twice.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bawat steel fitting ay patag na blank din na tinupi nang hindi hihigit sa dalawang beses."
+ },
+ "Everything that goes into one aircraft": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lahat ng napupunta sa isang eroplano"
+ },
+ "Exact": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eksakto"
+ },
+ "Exchange rates: {date}, base GBP.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Exchange rate: {date}, base GBP."
+ },
+ "Export BOM (.csv)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-export ang BOM (.csv)"
+ },
+ "Extinguisher and PLB": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pamatay-sunog at PLB"
+ },
+ "F-B1 Tailcone bulkhead x=1150": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B1 Tailcone bulkhead x=1150"
+ },
+ "F-B2 Tailcone bulkhead x=1948": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B2 Tailcone bulkhead x=1948"
+ },
+ "F-B3 Tailcone bulkhead x=2745": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B3 Tailcone bulkhead x=2745"
+ },
+ "F-B4 Tailcone bulkhead x=3542": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B4 Tailcone bulkhead x=3542"
+ },
+ "F-B5 Tailcone bulkhead x=4340 (tail post)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B5 Tailcone bulkhead x=4340 (tail post)"
+ },
+ "F-CL Lower cowl (box-pleat pan to the cabin floor line)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-CL Ibabang cowl (box-pleat na pan hanggang sa linya ng sahig ng cabin)"
+ },
+ "F-CU Upper cowl (hood, two 90 deg folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-CU Itaas na cowl (hood, dalawang 90 deg na tupi)"
+ },
+ "F-DW Door (left, hinged) / side window (right, fixed)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-DW Pinto (kaliwa, may bisagra) / side window (kanan, nakapirmi)"
+ },
+ "F-FA Front arch (main-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FA Harapang arko (frame ng main spar)"
+ },
+ "F-FL Floor tray with two hat pleats": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FL Floor tray na may dalawang hat pleat"
+ },
+ "F-FW Firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FW Firewall"
+ },
+ "F-FWN Front side window (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FWN Harapang side window (x2, naka-mirror)"
+ },
+ "F-IP Instrument panel (glare-shield fold, side tabs)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-IP Instrument panel (glare-shield fold, side tab)"
+ },
+ "F-NF Nose ring (prop-shaft hole + two cooling inlets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NF Nose ring (butas ng prop shaft + dalawang cooling inlet)"
+ },
+ "F-NL Nose bowl, chin (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NL Nose bowl, baba (3 nagtatagpong mukha)"
+ },
+ "F-NU Nose bowl, upper (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NU Nose bowl, itaas (3 nagtatagpong mukha)"
+ },
+ "F-RA Rear arch (rear-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-RA Likurang arko (frame ng rear spar)"
+ },
+ "F-SD Cabin side (x2, mirrored): door/window opening + front window": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-SD Gilid ng cabin (x2, naka-mirror): butas ng pinto/bintana + harapang bintana"
+ },
+ "F-ST Seat (pan + back, one sheet)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-ST Upuan (pan + sandalan, iisang sheet)"
+ },
+ "F-TB1 Tailcone belly, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TB1 Tiyan ng tailcone, seksyon 1"
+ },
+ "F-TB2 Tailcone belly, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TB2 Tiyan ng tailcone, seksyon 2"
+ },
+ "F-TS1 Tailcone side, section 1 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TS1 Gilid ng tailcone, seksyon 1 (x2, naka-mirror)"
+ },
+ "F-TS2 Tailcone side, section 2 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TS2 Gilid ng tailcone, seksyon 2 (x2, naka-mirror)"
+ },
+ "F-TT1 Tailcone top, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TT1 Itaas ng tailcone, seksyon 1"
+ },
+ "F-TT2 Tailcone top, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TT2 Itaas ng tailcone, seksyon 2"
+ },
+ "F-WS Windscreen (cold-bent flat polycarbonate)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-WS Windscreen (patag na polycarbonate na binaluktot nang malamig)"
+ },
+ "Faceted rib: every flange is a straight brake bend, no form block or fluting needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Faceted na rib: bawat flange ay isang tuwid na brake bend, walang form block o fluting na kailangan."
+ },
+ "Fairleads and pulleys": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga fairlead at pulley"
+ },
+ "Fasteners": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga fastener"
+ },
+ "Fin nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Fin nose rib"
+ },
+ "Fin skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Balat ng fin (isang balot)"
+ },
+ "Fin spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Fin spar"
+ },
+ "Final-drill every Cleco'd hole to #30 (3.3 mm), a few at a time, moving each Cleco to the next hole as you go.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-final-drill ang bawat butas na may Cleco hanggang #30 (3.3 mm), ilan-ilan sa bawat pagkakataon, inililipat ang bawat Cleco sa susunod na butas habang tumutuloy."
+ },
+ "Fine felt marker, steel rule, square, MEK to clean": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pinong felt marker, bakal na ruler, escuadra, MEK panlinis"
+ },
+ "Finish: glue carpet on top of each beam so the wing skin can't be scratched. Load each stand with 40 kg and check it doesn't rack or rock. Keep the offcuts: they are your test pieces for the spar bend in step 2.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pagtatapos: idikit ang karpet sa ibabaw ng bawat beam para hindi magasgas ang balat ng pakpak. Kargahan ang bawat stand ng 40 kg at tiyaking hindi ito umiikiling o umuuga. Itabi ang mga tira: iyon ang mga test piece mo para sa spar bend sa hakbang 2."
+ },
+ "Fire extinguisher 1 kg (clip by the left seat rail)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pamatay-sunog 1 kg (naka-clip sa tabi ng kaliwang seat rail)"
+ },
+ "Firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Firewall"
+ },
+ "Firewall flanges": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga firewall flange"
+ },
+ "First flights": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga unang paglipad"
+ },
+ "First-pass strength: +4 / −2 g, ×1.5 ultimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Paunang lakas: +4 / −2 g, ×1.5 ultimate"
+ },
+ "Fit each rib by its attach flange: Cleco through the pilot holes into the spar web. Nose ribs go on the front face, main ribs on the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ikabit ang bawat rib sa attach flange nito: Cleco sa mga pilot hole papunta sa spar web. Ang mga nose rib ay sa harapang mukha, ang mga main rib sa likod."
+ },
+ "Fit the axles, wheels and drum brakes. Castellated nut and cotter on each axle. The 21 x 8.00-6 tundra tyres run at 10-12 psi: check pressure before every flight, they are soft by design.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ikabit ang mga axle, gulong at drum brake. Castellated nut at cotter sa bawat axle. Ang 21 x 8.00-6 na tundra tyre ay nasa 10-12 psi: suriin ang presyon bago bawat lipad, sadyang malambot ang mga ito."
+ },
+ "Fit the cabin roof and the centre-section upper skin, back-drilled through the root ribs. Use the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ikabit ang bubong ng cabin at ang itaas na balat ng gitnang seksyon, naka-back-drill sa mga root rib. Gamitin ang riveting loop."
+ },
+ "Fit the camlock receptacles on the firewall flange and along the split line. Trim the cowl until it clears the cylinders by at least 10 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ikabit ang mga camlock receptacle sa firewall flange at sa haba ng split line. Bawasan ang cowl hanggang may hindi bababa sa 10 mm na luwag mula sa mga silindro."
+ },
+ "Fit the jury struts (420 mm main, 425 mm rear) from the clamp ear to the jury-top clevis under the spar, AN3 at each end. They double the strut's buckling strength.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ikabit ang mga jury strut (420 mm main, 425 mm rear) mula sa tainga ng clamp papunta sa jury-top clevis sa ilalim ng spar, AN3 sa bawat dulo. Dinodoble nila ang buckling strength ng strut."
+ },
+ "Fit the sides outside the arches, firewall flange and floor flanges. Back-drill and Cleco.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ikabit ang mga gilid sa labas ng mga arko, firewall flange at floor flange. I-back-drill at i-Cleco."
+ },
+ "Fit the stick, the aileron torque tube under the seat and the elevator bellcrank. Connect the stick to the bellcrank with a short pushrod.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ikabit ang stick, ang aileron torque tube sa ilalim ng upuan at ang elevator bellcrank. Ikonekta ang stick sa bellcrank gamit ang maikling pushrod."
+ },
+ "Five facets, chamfers matching the cabin floor. A louvre slot at the rear is the cooling-air exit.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Limang mukha, ang mga chamfer ay tugma sa sahig ng cabin. Ang louvre slot sa likod ang labasan ng hanging pampalamig."
+ },
+ "Flanges 90°, all toward the root": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flange 90°, lahat patungo sa root"
+ },
+ "Flanges all round fold aft; engine mount bolts through 4 doublers.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ang mga flange sa paligid ay tinutupi paatras; naka-bolt ang engine mount sa 4 na doubler."
+ },
+ "Flanges follow the frustum taper (fold < 90 deg).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sinusundan ng mga flange ang taper ng frustum (tupi < 90 deg)."
+ },
+ "Flanges follow the frustum taper (fold < 90 deg). Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sinusundan ng mga flange ang taper ng frustum (tupi < 90 deg). Laminated: 2 nested na patong ng 0.020 in, hiwalay na tinupi at nirivet bilang isa; bawasan ng 0.5 mm bawat panloob na patong ang gilid ng flange."
+ },
+ "Flanges follow the nose taper.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sinusundan ng mga flange ang taper ng ilong."
+ },
+ "Flap lever (overhead, Kitfox-style)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flap lever (overhead, istilong Kitfox)"
+ },
+ "Flap pushrod (wing) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flap pushrod (pakpak) x2"
+ },
+ "Flap pushrod (wing) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flap pushrod (pakpak) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Flap stall at or below 35 kt CAS, the SSDR limit; predicted {speed:Vs0}. Gentle stall, no wing drop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flap stall na hindi lalampas sa 35 kt CAS, ang SSDR limit; hula {speed:Vs0}. Banayad na stall, walang wing drop."
+ },
+ "Flaps and ailerons": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga flap at aileron"
+ },
+ "Flat panel; the top flange folds aft as a glare shield, side tabs fold forward onto the cabin sides. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Patag na panel; ang itaas na flange ay tinutupi paatras bilang glare shield, ang mga side tab ay tinutupi pasulong sa mga gilid ng cabin. Laminated: 2 nested na patong ng 0.020 in, hiwalay na tinupi at nirivet bilang isa; bawasan ng 0.5 mm bawat panloob na patong ang gilid ng flange."
+ },
+ "Flat polycarbonate over the front cut-out, 20 mm lap, screws in 4.5 mm oversize holes.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Patag na polycarbonate sa ibabaw ng harapang butas, 20 mm na sapaw, turnilyo sa 4.5 mm na mas malaking butas."
+ },
+ "Flight test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flight test"
+ },
+ "Floor tray with two hat pleats": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Floor tray na may dalawang hat pleat"
+ },
+ "Floor, firewall, arches": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sahig, firewall, mga arko"
+ },
+ "Flutter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flutter"
+ },
+ "Foam tape": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Foam tape"
+ },
+ "Fold 20 strips of 0.51 mm 6061-T6 at a 0.8 mm nose radius, across and along the grain. Inspect every bend under a 10× loupe.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin ang 20 strip ng 0.51 mm na 6061-T6 sa 0.8 mm na nose radius, pahalang at kahabaan ng grain. Suriin ang bawat baluktot sa ilalim ng 10× na loupe."
+ },
+ "Fold a 300 mm offcut of a rib and of a spar from the real DXFs and measure every flange.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin ang 300 mm na tira ng rib at ng spar mula sa totoong DXF at sukatin ang bawat flange."
+ },
+ "Fold a 300 mm offcut of the same strip first and measure it to confirm the bend deduction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin muna ang 300 mm na tira ng parehong strip at sukatin para kumpirmahin ang bend deduction."
+ },
+ "Fold all 52 ribs before assembling any: one brake set-up does the whole batch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin lahat ng 52 rib bago buuin ang alinman: isang set-up ng brake ang gagawa sa buong batch."
+ },
+ "Fold coupons": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin ang mga coupon"
+ },
+ "Fold each belly blank: bottom, both chamfers, then the side flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin ang bawat belly blank: ilalim, parehong chamfer, saka ang mga side flange."
+ },
+ "Fold every rib flange 90° on the brake. Because the airfoil is faceted, each flange is one straight bend.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin ang bawat rib flange nang 90° sa brake. Dahil faceted ang airfoil, bawat flange ay isang tuwid na baluktot."
+ },
+ "Fold the 12 clevises in the vise over a 5 mm radius block. Normalised 4130 needs at least 3t (Wanttaja).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin ang 12 clevis sa bise sa ibabaw ng 5 mm na radius block. Kailangan ng normalised 4130 ang hindi bababa sa 3t (Wanttaja)."
+ },
+ "Fold the 90° top flange and the windscreen flange on each side panel. The top flange is the longeron.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin ang 90° na itaas na flange at ang windscreen flange sa bawat side panel. Ang itaas na flange ang longeron."
+ },
+ "Fold the bulkhead flanges. They are 96–100°, not 90°, because they follow the taper.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin ang mga bulkhead flange. Sila ay 96–100°, hindi 90°, dahil sinusundan nila ang taper."
+ },
+ "Fold the firewall flanges, all aft. It is stainless, so drill it slowly with a sharp bit and cutting oil.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin ang mga firewall flange, lahat paatras. Stainless ito, kaya dahan-dahang i-drill gamit ang matalas na bit at cutting oil."
+ },
+ "Fold the floor tray's two hat pleats, then the chamfers and side flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin ang dalawang hat pleat ng floor tray, saka ang mga chamfer at side flange."
+ },
+ "Fold the instrument panel (glare shield and side tabs) and rivet it to the cabin sides at x = -400 mm. Fit the ASI, altimeter, tach, CHT/EGT, radio, master and mag switches and fuel valve, and put the compass on the glare shield.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin ang instrument panel (glare shield at side tab) at i-rivet sa mga gilid ng cabin sa x = -400 mm. Ikabit ang ASI, altimeter, tach, CHT/EGT, radyo, master at mag switch at fuel valve, at ilagay ang kompas sa glare shield."
+ },
+ "Fold the ribs, Cleco them on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin ang mga rib, i-Cleco"
+ },
+ "Fold the seat: pan and back from one sheet. Rivet its front lip to the floor and lean its back on the rear arch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin ang upuan: pan at sandalan mula sa iisang sheet. I-rivet ang harapang lip nito sa sahig at isandal ang likod nito sa likurang arko."
+ },
+ "Fold the spars": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin ang mga spar"
+ },
+ "Fold the stabiliser and fin spars and their nose ribs.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin ang mga stabiliser at fin spar at ang kanilang mga nose rib."
+ },
+ "Fold the trailing edge over a 0.6 mm radius bar in the brake, to about 165°. Squeeze gently in soft vise jaws until the TE is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin ang trailing edge sa ibabaw ng 0.6 mm na radius bar sa brake, hanggang mga 165°. Pisilin nang banayad sa malambot na panga ng bise hanggang tuwid ang TE."
+ },
+ "Fold the two V-bead pleats in valley-mountain-valley order. Stop each bead at the marks.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin ang dalawang V-bead pleat sa ayos na valley-mountain-valley. Ihinto ang bawat bead sa marka."
+ },
+ "Fold the two arches: outer and inner flanges, all aft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin ang dalawang arko: panlabas at panloob na flange, lahat paatras."
+ },
+ "Fold the two caps first (90°), then the two lips. Overbend by about 2° so the 6061-T6 springs back to 90°.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Unahing tupiin ang dalawang cap (90°), saka ang dalawang lip. Sobrahan ng mga 2° para bumalik ang 6061-T6 sa 90°."
+ },
+ "Fold the upper and lower cowls (four 45° creases each) and the nose-bowl halves. Rivet the nose bowls to the nose ring.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tupiin ang itaas at ibabang cowl (apat na 45° na tupi bawat isa) at ang mga kalahati ng nose bowl. I-rivet ang mga nose bowl sa nose ring."
+ },
+ "Folded blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga tinuping blank"
+ },
+ "Folds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga tupi"
+ },
+ "Four brake bends each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Apat na brake bend bawat isa"
+ },
+ "Four identical surfaces from one blank. The trailing edge is a single crease, so there's no separate strip to rivet on.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Apat na magkakaparehong surface mula sa iisang blank. Iisang tupi ang trailing edge, kaya walang hiwalay na strip na ire-rivet."
+ },
+ "Four stands, 20 blanks, about 200 rivets. The cheapest place to learn to fold, drill and rivet is a part that never leaves the ground.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Apat na stand, 20 blank, mga 200 rivet. Ang pinakamurang lugar para matutong magtupi, mag-drill at mag-rivet ay piyesang hindi kailanman umaalis sa lupa."
+ },
+ "Free play under 1° at each surface, and full travel with no binding under load.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Free play na mas mababa sa 1° sa bawat surface, at buong galaw nang walang sagabal kahit may karga."
+ },
+ "Front arch (main-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Harapang arko (frame ng main spar)"
+ },
+ "Front side window (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Harapang side window (x2, naka-mirror)"
+ },
+ "Front side windows: screw over the cut-outs with a 20 mm lap.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga harapang side window: i-turnilyo sa ibabaw ng mga butas na may 20 mm na sapaw."
+ },
+ "Frustum facets aimed at one point, so every crease is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nakatutok sa iisang punto ang mga mukha ng frustum, kaya bawat tupi ay tuwid."
+ },
+ "Fuel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gasolina"
+ },
+ "Fuel allowed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pinapayagang gasolina"
+ },
+ "Fuel and payload": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gasolina at karga"
+ },
+ "Fuel feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Daloy ng gasolina"
+ },
+ "Fuel filler neck + cap (through the hood, ahead of the windscreen)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Fuel filler neck + takip (sa hood, sa harap ng windscreen)"
+ },
+ "Fuel selector valve: HEADER / AUX / OFF": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Fuel selector valve: HEADER / AUX / OFF"
+ },
+ "Fuel system parts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga piyesa ng fuel system"
+ },
+ "Fuel tank 19 L (rotomoulded polyethylene): header tank behind the firewall, ahead of the panel, Cub-style": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tangke ng gasolina 19 L (rotomoulded polyethylene): header tank sa likod ng firewall, sa harap ng panel, istilong Cub"
+ },
+ "Fuel tank 19 L (rotomoulded) + lines, valve, gascolator": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tangke ng gasolina 19 L (rotomoulded) + mga linya, valve, gascolator"
+ },
+ "Fuel, aux tank: a second 20 L tank strap-mounts high behind the seat, its bottom above the header tank top so it also gravity-feeds. Its line runs forward along the left roof rail to the selector; filler through the left cabin side, vent overboard under the roof. Never in the wings. Fill it only as far as the 300 kg MTOW allows: with a 100 kg pilot that is none at all. Burn the aux tank first, which keeps the CG moving forward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gasolina, aux tank: ang ikalawang 20 L na tangke ay naka-strap nang mataas sa likod ng upuan, ang ilalim nito ay mas mataas sa tuktok ng header tank para gravity feed din ito. Ang linya nito ay tumatakbo pasulong sa kaliwang roof rail papunta sa selector; filler sa kaliwang gilid ng cabin, vent palabas sa ilalim ng bubong. Hindi kailanman sa mga pakpak. Punuin lamang hangga't pinapayagan ng 300 kg na MTOW: sa 100 kg na piloto, wala talaga. Unahing gamitin ang aux tank, na nagpapanatiling pasulong ang galaw ng CG."
+ },
+ "Fuel, header tank: the 19 L rotomoulded tank sits behind the firewall, above the pilot's shins and under the windscreen, strapped to two angles riveted to the side panels (as on a J-3 Cub). It gravity-feeds: tank outlet, selector valve (HEADER / AUX / OFF), a fire-sleeved hose through a firewall grommet, the gascolator on the firewall, then the carburettor. The tank bottom is about 200 mm above the carburettor. The filler neck comes up through the hood just ahead of the windscreen, and the vent runs forward under the hood.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gasolina, header tank: ang 19 L na rotomoulded na tangke ay nasa likod ng firewall, sa ibabaw ng binti ng piloto at sa ilalim ng windscreen, naka-strap sa dalawang anggulong naka-rivet sa mga side panel (gaya ng sa J-3 Cub). Gravity feed ito: labasan ng tangke, selector valve (HEADER / AUX / OFF), fire-sleeved na hose sa firewall grommet, ang gascolator sa firewall, saka ang carburettor. Mga 200 mm na mas mataas sa carburettor ang ilalim ng tangke. Lumalabas ang filler neck sa hood sa harap lang ng windscreen, at ang vent ay tumatakbo pasulong sa ilalim ng hood."
+ },
+ "Gascolator (fuel strainer) on the firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gascolator (salaan ng gasolina) sa firewall"
+ },
+ "Glide L/D": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Glide L/D"
+ },
+ "Ground": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lupa"
+ },
+ "Ground vibration test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ground vibration test"
+ },
+ "Half-VW engine": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Half-VW na makina"
+ },
+ "Half-VW engine, dressed (carb, mag, exhaust)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Half-VW na makina, kumpleto (carb, mag, tambutso)"
+ },
+ "Hang the elevators and rudder on piano hinges. Check ±25° rudder travel clears the elevator halves.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Isabit ang mga elevator at rudder sa piano hinge. Tiyaking hindi tumatama sa mga kalahati ng elevator ang ±25° na galaw ng rudder."
+ },
+ "Hang the half-VW on rubber isolators (4 x AN5).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Isabit ang half-VW sa mga rubber isolator (4 x AN5)."
+ },
+ "Hangar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hangar"
+ },
+ "Hardware": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hardware"
+ },
+ "Hardware for this step": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hardware para sa hakbang na ito"
+ },
+ "Harness anchors to floor and rear arch, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga harness anchor sa sahig at likurang arko, 4"
+ },
+ "Hat pleats 56°, flanges 90°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hat pleat 56°, flange 90°"
+ },
+ "Have a BMAA or LAA inspector look at it before the first flight. Do first flights in calm air, over a long field.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ipatingin sa isang BMAA o LAA inspector bago ang unang lipad. Gawin ang mga unang lipad sa kalmadong hangin, sa ibabaw ng mahabang bukid."
+ },
+ "Head": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Head"
+ },
+ "Header tank full": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Puno ang header tank"
+ },
+ "Holds ultimate load for 3 s in both directions.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kinakaya ang ultimate load nang 3 s sa magkabilang direksyon."
+ },
+ "Holds ultimate load for 3 s. Peak cap stress {stress:ms_sig} against an allowable of {stress:ms_cc}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kinakaya ang ultimate load nang 3 s. Peak cap stress {stress:ms_sig} laban sa allowable na {stress:ms_cc}."
+ },
+ "Holds {force:strut_T} in tension and {force:strut_C} in compression with no failure.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kinakaya ang {force:strut_T} sa tension at {force:strut_C} sa compression nang walang pagkasira."
+ },
+ "Honesty": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Katapatan"
+ },
+ "Horn: rod end bolts through the outer hole (AN3).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Horn: naka-bolt ang rod end sa panlabas na butas (AN3)."
+ },
+ "Horns, bellcranks and brackets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga horn, bellcrank at bracket"
+ },
+ "How it gets proven": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Paano ito napapatunayan"
+ },
+ "Imperial": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Imperial"
+ },
+ "Inspect each rivet: head seated flat, mandrel broken off flush, no gap under the head.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Suriin ang bawat rivet: patag ang upo ng ulo, putol nang pantay ang mandrel, walang puwang sa ilalim ng ulo."
+ },
+ "Inspection": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Inspeksyon"
+ },
+ "Inspector sign-off before the aircraft is flown by anyone else.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pag-apruba ng inspector bago paliparin ng iba ang eroplano."
+ },
+ "Instructions": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga tagubilin"
+ },
+ "Instrument panel (glare-shield fold, side tabs)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Instrument panel (glare-shield fold, side tab)"
+ },
+ "Instruments (ASI, alt, tach, CHT, compass)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga instrumento (ASI, alt, tach, CHT, kompas)"
+ },
+ "Inverted wing on its fittings, sandbags laid out to the spanwise lift distribution, to +4 g limit and then −2 g. Measure tip deflection at each step.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nakabaligtad na pakpak sa mga fitting nito, mga sako ng buhangin ayon sa spanwise lift distribution, hanggang +4 g limit at saka −2 g. Sukatin ang tip deflection sa bawat hakbang."
+ },
+ "Item": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Item"
+ },
+ "Jury strut 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jury strut 0.75 x 0.049 in"
+ },
+ "Jury strut x2 (main)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jury strut x2 (main)"
+ },
+ "Jury strut x2 (main): 6061-T6 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jury strut x2 (main): 6061-T6 0.75 x 0.049 in"
+ },
+ "Jury strut x2 (rear)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jury strut x2 (rear)"
+ },
+ "Jury strut x2 (rear): 6061-T6 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jury strut x2 (rear): 6061-T6 0.75 x 0.049 in"
+ },
+ "Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jury-strut saddle clamp, 4130 0.063in (rolled na half-shell na may tainga)"
+ },
+ "K-BC Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-BC Bellcrank plate, 4130 0.063in (pares, 55 mm na braso)"
+ },
+ "K-CV Clevis, 4130 0.063in (U, two folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-CV Clevis, 4130 0.063in (U, dalawang tupi)"
+ },
+ "K-HD Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HD Elevator horn, 4130 0.063in (dalawang dulo, sa elevator torque tube)"
+ },
+ "K-HN Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HN Aileron / flap horn, 4130 0.063in (isang tupi papunta sa ibabang balat)"
+ },
+ "K-HR Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HR Rudder horn, 4130 0.063in (patag, kable sa bawat gilid)"
+ },
+ "K-JC Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-JC Jury-strut saddle clamp, 4130 0.063in (rolled na half-shell na may tainga)"
+ },
+ "K-TG Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-TG Spar-root tang, 4130 0.063in (patag, pares sa magkabilang gilid ng web)"
+ },
+ "Laminate: each channel is two blanks. Fold both separately, nest the inner one inside the outer one, and check they sit tight with no gap. If the inner one fights, take 0.5 mm off its flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laminate: bawat channel ay dalawang blank. Tupiin nang hiwalay ang dalawa, isiksik ang panloob sa panlabas, at tiyaking mahigpit at walang puwang. Kung ayaw pumasok ng panloob, bawasan ng 0.5 mm ang gilid ng flange nito."
+ },
+ "Laminated channel crippling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Crippling ng laminated channel"
+ },
+ "Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laminated: 2 nested na patong ng 0.020 in, hiwalay na tinupi at nirivet bilang isa; bawasan ng 0.5 mm bawat panloob na patong ang gilid ng flange."
+ },
+ "Landing gear and tailwheel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Landing gear at tailwheel"
+ },
+ "Landing roll": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Landing roll"
+ },
+ "Language": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Wika"
+ },
+ "Laps 30 mm under the upper skin at 8% chord.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sumasapaw nang 30 mm sa ilalim ng itaas na balat sa 8% ng chord."
+ },
+ "Laser / waterjet cutting service": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Serbisyo ng laser / waterjet cutting"
+ },
+ "Lay the spars on a flat table, webs vertical, 3.6 m apart for the two wings.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ilatag ang mga spar sa patag na mesa, patayo ang web, 3.6 m ang layo para sa dalawang pakpak."
+ },
+ "Leans on the rear arch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nakasandal sa likurang arko."
+ },
+ "Leave the protective film on. Drill the polycarbonate with plastic bits, holes 6 mm for M4 screws so it can expand.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Iwan ang protective film. I-drill ang polycarbonate gamit ang plastic bit, 6 mm na butas para sa M4 na turnilyo para makalawak ito."
+ },
+ "Left door front edge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Harapang gilid ng kaliwang pinto"
+ },
+ "Licence": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lisensya"
+ },
+ "Lift strut (main) 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lift strut (main) 1.75 x 0.065 in"
+ },
+ "Lift strut (rear) 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lift strut (rear) 1.75 x 0.065 in"
+ },
+ "Lift strut, tension": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lift strut, tension"
+ },
+ "Lift strut, −2 g buckling (with jury strut)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lift strut, −2 g buckling (may jury strut)"
+ },
+ "Lift struts and jury struts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga lift strut at jury strut"
+ },
+ "Line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Linya"
+ },
+ "Lipped channels: four 90° brake bends each, two nested layers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga lipped channel: apat na 90° na brake bend bawat isa, dalawang nested na patong"
+ },
+ "Load each linkage part to 1.5 × the BCAR Section S pilot loads at the stick and pedals.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kargahan ang bawat bahagi ng linkage hanggang 1.5 × ng BCAR Section S pilot load sa stick at mga pedal."
+ },
+ "Local-price estimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tantiya sa lokal na presyo"
+ },
+ "Local-price estimate for {country}, in {currency}, before any local sales tax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tantiya sa lokal na presyo para sa {country}, sa {currency}, bago ang anumang lokal na sales tax."
+ },
+ "Local-price estimate for {country}, in {currency}, including {tax} % VAT, GST or sales tax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tantiya sa lokal na presyo para sa {country}, sa {currency}, kasama ang {tax} % na VAT, GST o sales tax."
+ },
+ "Low-speed taxi, then fast taxi with the tail up, on the intended test field.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mabagal na taxi, saka mabilis na taxi na nakataas ang buntot, sa nakatakdang test field."
+ },
+ "Lower cowl (box-pleat pan to the cabin floor line)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ibabang cowl (box-pleat na pan hanggang sa linya ng sahig ng cabin)"
+ },
+ "Lower skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ibabang balat, bay 1"
+ },
+ "Lower skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ibabang balat, bay 2"
+ },
+ "Lower skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ibabang balat, bay 3"
+ },
+ "Lower skins": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga ibabang balat"
+ },
+ "M4 pan screw, nylon washer, M4 Nyloc nut, 6 mm oversize hole in polycarbonate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "M4 pan screw, nylon washer, M4 Nyloc nut, 6 mm na mas malaking butas sa polycarbonate"
+ },
+ "MEK / cleaner, Scotch-Brite, gloves": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "MEK / panlinis, Scotch-Brite, guwantes"
+ },
+ "Main gear leg x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Main gear leg x2"
+ },
+ "Main gear leg x2: 6061-T6 bar 75 x 16 mm": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Main gear leg x2: 6061-T6 bar 75 x 16 mm"
+ },
+ "Main gear legs through floor doubler, 2 per leg": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga main gear leg sa floor doubler, 2 bawat leg"
+ },
+ "Main gear spring leg (6061-T6 bar)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Main gear spring leg (6061-T6 bar)"
+ },
+ "Main gear: 2 spring legs + axles": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Main gear: 2 spring leg + axle"
+ },
+ "Main lift strut x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Main lift strut x2"
+ },
+ "Main lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Main lift strut x2: 6061-T6 1.75 x 0.065 in"
+ },
+ "Main rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Main rib"
+ },
+ "Main rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Main rib, root/tip"
+ },
+ "Main spar (lipped C, opens aft)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Main spar (lipped C, bukas paatras)"
+ },
+ "Main spar section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Seksyon ng main spar"
+ },
+ "Main spar web shear, limit": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Shear ng main spar web, limit"
+ },
+ "Main spar: lipped C, three layers of 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Main spar: lipped C, tatlong patong ng 0.020 in"
+ },
+ "Main wheel: 21 x 8.00-6 tundra tyre at 10-12 psi": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Main wheel: 21 x 8.00-6 na tundra tyre sa 10-12 psi"
+ },
+ "Main wheels": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga main wheel"
+ },
+ "Margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Palugit"
+ },
+ "Mark fold lines on the marked face: red dashed = valley, blue dash-dot = mountain. Use a fine felt marker, never a scribe (Wanttaja: scribe lines start cracks).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Markahan ang mga linya ng tupi sa minarkahang mukha: pulang putol-putol = valley, asul na guhit-tuldok = mountain. Gumamit ng pinong felt marker, hindi kailanman scribe (Wanttaja: nagsisimula ng bitak ang guhit ng scribe)."
+ },
+ "Mark folds with felt pen, never a scribe": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Markahan ang mga tupi gamit ang felt pen, hindi kailanman scribe"
+ },
+ "Mark the folds: red dashed is a valley, blue dash-dot is a mountain. Felt marker on the marked face only, never a scribe.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Markahan ang mga tupi: ang pulang putol-putol ay valley, ang asul na guhit-tuldok ay mountain. Felt marker sa minarkahang mukha lamang, hindi kailanman scribe."
+ },
+ "Mass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Masa"
+ },
+ "Mass balance weights": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga mass balance weight"
+ },
+ "Mass-balance each aileron with lead on an arm ahead of the hinge until it hangs level, before it goes on the aircraft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-mass-balance ang bawat aileron gamit ang tingga sa braso sa harap ng bisagra hanggang nakabitin itong pantay, bago ito ikabit sa eroplano."
+ },
+ "Mass-balance horn at outboard end.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mass-balance horn sa panlabas na dulo."
+ },
+ "Mean strength at or above the value used in design, scatter under 10 %.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Karaniwang lakas na kapantay o higit sa halagang ginamit sa disenyo, scatter na mas mababa sa 10 %."
+ },
+ "Measure gravity flow from each tank, with the aircraft at its steepest climb attitude plus margin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sukatin ang gravity flow mula sa bawat tangke, nasa pinakamatarik na climb attitude ang eroplano dagdag ang palugit."
+ },
+ "Measure twist under a known torque at the tip rib.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sukatin ang pilipit sa ilalim ng kilalang torque sa tip rib."
+ },
+ "Measured climb, cruise and glide recorded against the predictions on the numbers tab.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Itinatala ang sinukat na pag-akyat, cruise at glide laban sa mga hula sa tab ng mga numero."
+ },
+ "Measured values replace estimates in aircraft.yaml, and the build manual is revised.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pinapalitan ng mga sinukat na halaga ang mga tantiya sa aircraft.yaml, at nirerebisa ang build manual."
+ },
+ "Member": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Miyembro"
+ },
+ "Method": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Paraan"
+ },
+ "Metric": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Metric"
+ },
+ "Mid CG, calm air, long field, circuit height only, an experienced test pilot.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gitnang CG, kalmadong hangin, mahabang bukid, circuit height lamang, isang bihasang test pilot."
+ },
+ "Month 10": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Buwan 10"
+ },
+ "Month 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Buwan 4"
+ },
+ "Month 5": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Buwan 5"
+ },
+ "Months 2–3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga buwan 2–3"
+ },
+ "Months 6–9": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga buwan 6–9"
+ },
+ "Move the CG from forward to aft in steps, checking stick-free stability at each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ilipat ang CG mula harap papuntang likod nang paunti-unti, sinusuri ang stick-free stability sa bawat isa."
+ },
+ "Nicopress sleeve + thimble (1/8 in cable)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nicopress sleeve + thimble (1/8 in na kable)"
+ },
+ "Nicopress tool + cable cutter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nicopress tool + cable cutter"
+ },
+ "No cracks, and springback within 2° of prediction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Walang bitak, at springback na nasa loob ng 2° ng hula."
+ },
+ "No flutter or buzz up to {speed:Vne}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Walang flutter o ugong hanggang {speed:Vne}."
+ },
+ "No permanent set after unloading. Deflection within 15 % of prediction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Walang permanent set pagkatapos alisin ang karga. Deflection na nasa loob ng 15 % ng hula."
+ },
+ "No permanent set at limit, no failure at ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Walang permanent set sa limit, walang pagkasira sa ultimate."
+ },
+ "No physical part has been cut. Fold one rib and one spar offcut first to check the bend deduction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Wala pang pisikal na piyesang ginugupit. Tupiin muna ang isang tira ng rib at isang tira ng spar para suriin ang bend deduction."
+ },
+ "No yield at limit load, no failure at ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Walang yield sa limit load, walang pagkasira sa ultimate."
+ },
+ "Nose bowl, chin (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nose bowl, baba (3 nagtatagpong mukha)"
+ },
+ "Nose bowl, upper (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nose bowl, itaas (3 nagtatagpong mukha)"
+ },
+ "Nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nose rib"
+ },
+ "Nose rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nose rib, root/tip"
+ },
+ "Nose ring (prop-shaft hole + two cooling inlets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nose ring (butas ng prop shaft + dalawang cooling inlet)"
+ },
+ "Nose rolled over 75 mm tube": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ilong na nirolyo sa ibabaw ng 75 mm na tubo"
+ },
+ "Nose zone is rolled over a 75 mm tube; aft creases are soft brake hits (2-6 deg).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nirolyo ang nose zone sa ibabaw ng 75 mm na tubo; ang mga likurang tupi ay mahinang pindot ng brake (2-6 deg)."
+ },
+ "Not analysed yet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hindi pa nasusuri"
+ },
+ "Not proven": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hindi pa napatunayan"
+ },
+ "Notes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga tala"
+ },
+ "One 90 degree flange stiffens the free edge. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Isang 90 degree na flange ang nagpapatigas sa malayang gilid. Laminated: 2 nested na patong ng 0.020 in, hiwalay na tinupi at nirivet bilang isa; bawasan ng 0.5 mm bawat panloob na patong ang gilid ng flange."
+ },
+ "One hour of progressive ground running, with cylinder head and exhaust temperatures logged.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Isang oras ng paunti-unting ground running, itinatala ang temperatura ng cylinder head at tambutso."
+ },
+ "One-wrap skins, sharp trailing edges": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga balat na isang balot, matalas na trailing edge"
+ },
+ "Open-source aircraft": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Open-source na eroplano"
+ },
+ "Order as 12 ft strip. Lips turn the free flange edges into supported edges (k 0.43 -> ~4). Laminated: 3 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Umorder bilang 12 ft na strip. Ginagawang suportadong gilid ng mga lip ang malayang gilid ng flange (k 0.43 -> ~4). Laminated: 3 nested na patong ng 0.020 in, hiwalay na tinupi at nirivet bilang isa; bawasan ng 0.5 mm bawat panloob na patong ang gilid ng flange."
+ },
+ "Paint": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pintura"
+ },
+ "Paint, then weigh on three scales in the level attitude. Work out the empty CG and check every loading case falls inside the design range in DESIGN_REPORT.md (about 28–33 % MAC).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pinturahan, saka timbangin sa tatlong timbangan sa level attitude. Kalkulahin ang empty CG at tiyaking bawat loading case ay nasa loob ng design range sa DESIGN_REPORT.md (mga 28–33 % MAC)."
+ },
+ "Panel: glare-shield fold 90°, side tabs 90°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Panel: glare-shield fold 90°, side tab 90°"
+ },
+ "Parts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga piyesa"
+ },
+ "Pass when": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pasado kapag"
+ },
+ "Performance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Performance"
+ },
+ "Phases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga yugto"
+ },
+ "Piano hinge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Piano hinge"
+ },
+ "Piano hinge MS20001 + door latch": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Piano hinge MS20001 + trangka ng pinto"
+ },
+ "Pilot": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Piloto"
+ },
+ "Pilot (95th pct, for scale)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Piloto (ika-95 na percentile, para sa sukat)"
+ },
+ "Pilot, fuel and baggage share one budget: maximum take-off mass minus empty mass. Both tanks are in the cabin, never in the wings: an 18 L header tank behind the firewall and a 20 L aux tank high behind the seat, both gravity-fed through one selector. A light pilot can fill both. A heavy pilot gets the header tank or less. Burn the aux tank first.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Iisang badyet ang hinahati ng piloto, gasolina at bagahe: maximum take-off mass bawas ang empty mass. Nasa cabin ang parehong tangke, hindi kailanman sa mga pakpak: 18 L na header tank sa likod ng firewall at 20 L na aux tank nang mataas sa likod ng upuan, parehong gravity feed sa iisang selector. Kayang punuin ng magaan na piloto ang pareho. Ang mabigat na piloto ay header tank o mas kaunti. Unahing gamitin ang aux tank."
+ },
+ "Pitot tube (left wing, ahead of the LE)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pitot tube (kaliwang pakpak, sa harap ng LE)"
+ },
+ "Pitot-static: pitot tube under the left wing at the 1.2 m rib. Run its line inside the wing ahead of the main spar to the root and down the A-pillar to the ASI. A static port on the left cabin side feeds the altimeter and ASI. Secure everything with Adel clamps every 300 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pitot-static: pitot tube sa ilalim ng kaliwang pakpak sa 1.2 m na rib. Patakbuhin ang linya nito sa loob ng pakpak sa harap ng main spar hanggang sa root at pababa sa A-pillar papunta sa ASI. Ang static port sa kaliwang gilid ng cabin ang nagsusuplay sa altimeter at ASI. Ikabit ang lahat gamit ang Adel clamp bawat 300 mm."
+ },
+ "Planar: no forming, drill with plastic-cutting bits, slotted holes for expansion.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Planar: walang forming, i-drill gamit ang plastic-cutting bit, slotted na butas para sa paglawak."
+ },
+ "Plastic-cutting drill bits / step drill": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Plastic-cutting na drill bit / step drill"
+ },
+ "Positive stability at the aft limit; predicted minimum static margin {pct:SM_min}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Positibong stability sa aft limit; hinulaang minimum static margin {pct:SM_min}."
+ },
+ "Press or bolt a 4130 end fork into each tube end. Drill the AN5 pin hole after the final length check on the aircraft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Idiin o i-bolt ang 4130 end fork sa bawat dulo ng tubo. I-drill ang butas ng AN5 pin pagkatapos ng huling pagsukat ng haba sa eroplano."
+ },
+ "Prime the faying surfaces: Scotch-Brite, wash, etch or alodine, then epoxy primer. Wear gloves (Wanttaja: finger oils stop primer sticking).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-prime ang mga faying surface: Scotch-Brite, hugas, etch o alodine, saka epoxy primer. Magsuot ng guwantes (Wanttaja: pinipigilan ng langis ng daliri ang pagdikit ng primer)."
+ },
+ "Primer part: two nested layers folded on the brake and riveted as one. Glue carpet on the web. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Panimulang piyesa: dalawang nested na patong na tinupi sa brake at nirivet bilang isa. Idikit ang karpet sa web. Laminated: 2 nested na patong ng 0.020 in, hiwalay na tinupi at nirivet bilang isa; bawasan ng 0.5 mm bawat panloob na patong ang gilid ng flange."
+ },
+ "Primer: build the wing stands": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Panimula: gawin ang mga wing stand"
+ },
+ "Proof-load the wing upside down with sandbags to +4 g limit load, spread spanwise. It must show no permanent set.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-proof-load ang pakpak nang nakabaligtad gamit ang mga sako ng buhangin hanggang +4 g limit load, nakakalat sa haba. Hindi ito dapat magpakita ng permanent set."
+ },
+ "Prop drive hub (flange)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Prop drive hub (flange)"
+ },
+ "Propeller 54 in wood + hub": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Propeller 54 in na kahoy + hub"
+ },
+ "Propeller 54 x 24 in, laminated wood (download the model)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Propeller 54 x 24 in, laminated na kahoy (i-download ang modelo)"
+ },
+ "Propeller hub, 6": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Propeller hub, 6"
+ },
+ "Publish": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ilathala"
+ },
+ "Pull a complete strut with its clevises and tangs to ultimate tension, then buckle a second at −2 g with the jury strut fitted.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hilahin ang kumpletong strut kasama ang mga clevis at tang nito hanggang ultimate tension, saka i-buckle ang ikalawa sa −2 g na may jury strut."
+ },
+ "Push the AN5 root pins through. Fit castellated nuts and cotter pins.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Itulak papasok ang mga AN5 root pin. Ikabit ang mga castellated nut at cotter pin."
+ },
+ "Put in the aft soft creases first.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Unahin ang mga likurang soft crease."
+ },
+ "Put in the soft creases with a light brake hit, or by hand over a straight-edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gawin ang mga soft crease sa mahinang pindot ng brake, o sa kamay sa ibabaw ng tuwid na gilid."
+ },
+ "Qty": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dami"
+ },
+ "Qualification": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kwalipikasyon"
+ },
+ "Quarter-turn camlock (Dzus) + receptacle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quarter-turn camlock (Dzus) + receptacle"
+ },
+ "RADIO instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Instrumentong RADIO"
+ },
+ "Range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Layo ng lipad"
+ },
+ "Ream the pin holes to 5/16 in and the bolt holes to 1/4 in and 3/16 in, through both ears at once so they line up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-ream ang mga butas ng pin sa 5/16 in at ang mga butas ng bolt sa 1/4 in at 3/16 in, sa parehong tainga nang sabay para magkatugma."
+ },
+ "Rear arch (rear-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Likurang arko (frame ng rear spar)"
+ },
+ "Rear lift strut x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rear lift strut x2"
+ },
+ "Rear lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rear lift strut x2: 6061-T6 1.75 x 0.065 in"
+ },
+ "Rear spar (lipped C, opens forward)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rear spar (lipped C, bukas pasulong)"
+ },
+ "Rear spar section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Seksyon ng rear spar"
+ },
+ "Rear spar: lipped C, two layers of 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rear spar: lipped C, dalawang patong ng 0.020 in"
+ },
+ "Reassemble on Clecos, then pull the rivets from the middle of each joint outward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ibalik sa Cleco, saka hilahin ang mga rivet mula sa gitna ng bawat dugtungan palabas."
+ },
+ "Ribs, skin buckling, fittings, landing gear, tail loads, the engine mount and flutter. Mass-balance every control surface.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga rib, skin buckling, fitting, landing gear, tail load, engine mount at flutter. I-mass-balance ang bawat control surface."
+ },
+ "Right side: fixed window over the door opening. Left side: the same blank on a piano hinge at its front edge, with a latch at the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kanang gilid: nakapirming bintana sa ibabaw ng butas ng pinto. Kaliwang gilid: parehong blank sa piano hinge sa harapang gilid nito, may trangka sa likod."
+ },
+ "Rivet joints": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga rivet joint"
+ },
+ "Rivet strength in thin sheet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lakas ng rivet sa manipis na sheet"
+ },
+ "Rivet the piano hinge to the spar top, then hang the surface on the rear spar.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-rivet ang piano hinge sa itaas ng spar, saka isabit ang surface sa likurang spar."
+ },
+ "Rivet: pull 1/8 in blind rivets, working from the middle of each row outwards and swapping clecos for rivets one at a time. A good rivet sits flat, with no gap under the head. Drill out any bad one with a #30 bit and try again: practise this on purpose at least once.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rivet: hilahin ang 1/8 in na blind rivet, mula sa gitna ng bawat hanay palabas at pinapalitan ng rivet ang Cleco isa-isa. Ang magandang rivet ay patag ang upo, walang puwang sa ilalim ng ulo. I-drill palabas ang pangit gamit ang #30 bit at subukan muli: sadyang sanayin ito kahit isang beses."
+ },
+ "Riveting loop, rivets from the main spar outward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Riveting loop, mga rivet mula sa main spar palabas."
+ },
+ "Riveting loop, then join the tailcone to the cabin at bulkhead 1.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Riveting loop, saka idugtong ang tailcone sa cabin sa bulkhead 1."
+ },
+ "Riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Riveting loop."
+ },
+ "Riveting loop. The firewall takes stainless or Monel rivets: aluminium melts in a fire.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Riveting loop. Stainless o Monel na rivet ang sa firewall: natutunaw ang aluminium sa apoy."
+ },
+ "Riveting loop: final-drill #30, take apart, deburr, prime, Cleco, rivet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Riveting loop: final-drill #30, kalasin, alisan ng burr, i-prime, Cleco, rivet."
+ },
+ "Rivets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga rivet"
+ },
+ "Rivets to the rear-spar flanges. Closes the bay behind the centre-section rear spar.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Naka-rivet sa mga flange ng rear spar. Isinasara ang puwang sa likod ng rear spar ng gitnang seksyon."
+ },
+ "Rod ends": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga rod end"
+ },
+ "Roll each skin's leading edge, then wrap it round its ribs and spar. Back-drill and use the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Irolyo ang leading edge ng bawat balat, saka ibalot sa mga rib at spar nito. I-back-drill at gamitin ang riveting loop."
+ },
+ "Roll the eight saddle-clamp halves round a 45 mm bar, then bolt a pair round each strut at mid-length (2 x AN3 through the ears).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Irolyo ang walong kalahati ng saddle clamp sa 45 mm na bar, saka i-bolt ang isang pares sa bawat strut sa kalagitnaan (2 x AN3 sa mga tainga)."
+ },
+ "Roll the green zone: lay the skin over a 75 mm tube and pull it round with a strap, a little at a time. Don't crease it.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Irolyo ang berdeng zone: ilatag ang balat sa ibabaw ng 75 mm na tubo at hilahin ito paikot gamit ang strap, paunti-unti. Huwag itong tupiin."
+ },
+ "Root and tip ribs have their flanges facing into the panel.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ang mga root at tip rib ay may flange na nakaharap sa loob ng panel."
+ },
+ "Rudder and elevator cables, 1 per cable, in the cabin where you can inspect them": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga rudder at elevator cable, 1 bawat kable, sa cabin kung saan masusuri mo sila"
+ },
+ "Rudder cable x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rudder cable x2"
+ },
+ "Rudder cable x2: 1/8 in 7x19 galvanised": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rudder cable x2: 1/8 in 7x19 galvanised"
+ },
+ "Rudder cables: pedal horn, then a pulley at the pedal, along the floor at y = ±200 mm through fairleads on both arch feet, a pulley at bulkhead 1, then one straight line each to the tail post. Because the tailcone is a frustum, a straight run between interior points never touches the skin, so no cable needs a mid-cone pulley.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga rudder cable: pedal horn, saka pulley sa pedal, sa haba ng sahig sa y = ±200 mm sa mga fairlead sa parehong paanan ng arko, pulley sa bulkhead 1, saka isang tuwid na linya bawat isa papunta sa tail post. Dahil frustum ang tailcone, hindi kailanman tumatama sa balat ang tuwid na takbo sa pagitan ng mga panloob na punto, kaya walang kableng nangangailangan ng pulley sa gitna ng cone."
+ },
+ "Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rudder horn, 4130 0.063in (patag, kable sa bawat gilid)"
+ },
+ "Rudder pedals": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga rudder pedal"
+ },
+ "Rudder skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Balat ng rudder"
+ },
+ "Rudder spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Spar ng rudder"
+ },
+ "S-BM Stand beam (lipped C, saddle on top)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-BM Stand beam (lipped C, saddle sa itaas)"
+ },
+ "S-FT Stand foot (lipped C, opens up)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-FT Stand foot (lipped C, bukas paitaas)"
+ },
+ "S-GF Stand foot gusset (flat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-GF Stand foot gusset (patag)"
+ },
+ "S-GT Stand top gusset (flanged hypotenuse)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-GT Stand top gusset (hypotenuse na may flange)"
+ },
+ "S-LG Stand leg (lipped C)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-LG Stand leg (lipped C)"
+ },
+ "SSDR means no airworthiness approval is required, so all the testing is yours to do.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ang ibig sabihin ng SSDR ay walang airworthiness approval na kailangan, kaya ikaw ang gagawa ng lahat ng pagsubok."
+ },
+ "Saddle clamps: rolled half-shells": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga saddle clamp: rolled na half-shell"
+ },
+ "Saddle-clamp ears (one also carries the jury-strut fork), 2 per clamp; Jury strut top, through the jury clevis": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga tainga ng saddle clamp (isa ay may dala ring jury-strut fork), 2 bawat clamp; itaas ng jury strut, sa jury clevis"
+ },
+ "Safety wire": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Safety wire"
+ },
+ "Same blank both sides. 20 mm lap all round. Left one hangs on a piano hinge at its front edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Parehong blank sa magkabilang gilid. 20 mm na sapaw sa paligid. Ang kaliwa ay nakabitin sa piano hinge sa harapang gilid nito."
+ },
+ "Same blank for both flaps and both ailerons: modular-origami units.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Parehong blank para sa parehong flap at parehong aileron: mga modular-origami unit."
+ },
+ "Sandbags and tape measure (proof load)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga sako ng buhangin at tape measure (proof load)"
+ },
+ "Sawtooth climbs, level speeds and glides.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sawtooth na pag-akyat, level speed at glide."
+ },
+ "Scotch-Brite, etch/alodine, epoxy primer, spray kit, gloves": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Scotch-Brite, etch/alodine, epoxy primer, spray kit, guwantes"
+ },
+ "Seat (pan + back, one sheet)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Upuan (pan + sandalan, iisang sheet)"
+ },
+ "Seat cushion + 4-pt harness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kutson ng upuan + 4-point harness"
+ },
+ "Select a row to see where that case sits.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pumili ng hilera para makita kung saan nakaupo ang kasong iyon."
+ },
+ "Send the nest DXFs to a laser or waterjet service, or cut on a CNC router. Bolt holes come out 0.5 mm undersize; ream them later.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ipadala ang mga nest DXF sa serbisyo ng laser o waterjet, o gupitin sa CNC router. Lalabas na 0.5 mm na mas maliit ang mga butas ng bolt; i-ream mamaya."
+ },
+ "Set dihedral to 1.5° and wash-out to 0° with a digital level on the root and tip ribs. Then pin the struts on: AN5, castellated nut, cotter pin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Itakda ang dihedral sa 1.5° at wash-out sa 0° gamit ang digital level sa root at tip rib. Saka i-pin ang mga strut: AN5, castellated nut, cotter pin."
+ },
+ "Set the brake nose radius to 0.8 mm, about 1.6 times the 0.51 mm sheet (Table 5-2, 'normal' radius). Never tighter.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Itakda ang nose radius ng brake sa 0.8 mm, mga 1.6 na beses ng 0.51 mm na sheet (Table 5-2, 'normal' na radius). Hindi kailanman mas masikip."
+ },
+ "Set the travels: aileron +20/-15°, elevator +25/-20°, rudder ±25°, flaps 0/20°. Fit the stops.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Itakda ang mga galaw: aileron +20/-15°, elevator +25/-20°, rudder ±25°, flap 0/20°. Ikabit ang mga stop."
+ },
+ "Sheet price": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Presyo ng sheet"
+ },
+ "Single-lap shear and pull-through on one and two layers of 0.51 mm sheet with 3.2 mm blind rivets, 10 of each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Single-lap shear at pull-through sa isa at dalawang patong ng 0.51 mm na sheet gamit ang 3.2 mm na blind rivet, 10 bawat isa."
+ },
+ "Skin joints lap on a rib: the outboard skin goes under the inboard one.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sumasapaw sa rib ang mga dugtungan ng balat: ang panlabas na balat ay nasa ilalim ng panloob."
+ },
+ "Slide the C-spar in and Cleco it through the flanges. Riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Isingit ang C-spar at i-Cleco sa mga flange. Riveting loop."
+ },
+ "Soft creases 2–6°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Soft crease 2–6°"
+ },
+ "Source": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pinagmulan"
+ },
+ "Span / area": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Span / area"
+ },
+ "Spanners, sockets, inch-pound torque wrench": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga spanner, socket, inch-pound na torque wrench"
+ },
+ "Spar strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lakas ng spar"
+ },
+ "Spar-root pins through tang pair + arch clevis": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga spar-root pin sa pares ng tang + arch clevis"
+ },
+ "Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Spar-root tang, 4130 0.063in (patag, pares sa magkabilang gilid ng web)"
+ },
+ "Spec": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Spec"
+ },
+ "Speed envelope": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Speed envelope"
+ },
+ "Spinner": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Spinner"
+ },
+ "Stabiliser nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stabiliser nose rib"
+ },
+ "Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga stabiliser root rib sa mga side doubler ng tailcone, 4 bawat gilid; fin spar sa tail post, 3"
+ },
+ "Stabiliser skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Balat ng stabiliser (isang balot)"
+ },
+ "Stabiliser spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stabiliser spar"
+ },
+ "Stability across the CG range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stability sa buong saklaw ng CG"
+ },
+ "Stall speed and handling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stall speed at handling"
+ },
+ "Stall speeds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga stall speed"
+ },
+ "Stall, flaps 20°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stall, flap 20°"
+ },
+ "Stand beam (lipped C, saddle on top)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stand beam (lipped C, saddle sa itaas)"
+ },
+ "Stand foot (lipped C, opens up)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stand foot (lipped C, bukas paitaas)"
+ },
+ "Stand foot gusset (flat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stand foot gusset (patag)"
+ },
+ "Stand leg (lipped C)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stand leg (lipped C)"
+ },
+ "Stand the arches and firewall on the floor tray, square and plumb. Their stations are 420 mm and 1008 mm aft of the wing LE, and the firewall is at -650 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Itayo ang mga arko at firewall sa floor tray, square at plumb. Ang kanilang mga istasyon ay 420 mm at 1008 mm sa likod ng LE ng pakpak, at ang firewall ay nasa -650 mm."
+ },
+ "Stand top gusset (flanged hypotenuse)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stand top gusset (hypotenuse na may flange)"
+ },
+ "Static load to the Section S forward, side and vertical limit loads, then ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Static load hanggang sa Section S na harap, gilid at patayong limit load, saka ultimate."
+ },
+ "Static margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Static margin"
+ },
+ "Static port": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Static port"
+ },
+ "Status": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Katayuan"
+ },
+ "Step": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hakbang"
+ },
+ "Stick pivot and torque-tube bearings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stick pivot at mga bearing ng torque tube"
+ },
+ "Straight tracking, effective brakes and rudder, no shimmy.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tuwid na takbo, mabisang preno at rudder, walang shimmy."
+ },
+ "String line, digital level, plumb bob": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "String line, digital level, plumb bob"
+ },
+ "String-line the spars and check the ribs are square to them. Measure diagonals across each bay; they should match within 1 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "I-string-line ang mga spar at tiyaking square ang mga rib sa kanila. Sukatin ang mga diagonal ng bawat bay; dapat magtugma sa loob ng 1 mm."
+ },
+ "Structure": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Istruktura"
+ },
+ "Strut and fitting strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lakas ng strut at fitting"
+ },
+ "Strut and fittings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Strut at mga fitting"
+ },
+ "Strut end fork (4130)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Strut end fork (4130)"
+ },
+ "Strut end forks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga strut end fork"
+ },
+ "Strut ends, both ends of 4 struts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga dulo ng strut, magkabilang dulo ng 4 na strut"
+ },
+ "Strut fairings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga strut fairing"
+ },
+ "Support each tip on a trestle at 1.5° dihedral until the struts are on.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Suportahan ang bawat tip sa trestle sa 1.5° na dihedral hanggang maikabit ang mga strut."
+ },
+ "Systems fit-out": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pagkakabit ng mga sistema"
+ },
+ "T-EK Elevator skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-EK Balat ng elevator"
+ },
+ "T-ES Elevator spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-ES Spar ng elevator"
+ },
+ "T-FK Fin skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FK Balat ng fin (isang balot)"
+ },
+ "T-FR Fin nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FR Fin nose rib"
+ },
+ "T-FS Fin spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FS Fin spar"
+ },
+ "T-HK Stabiliser skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HK Balat ng stabiliser (isang balot)"
+ },
+ "T-HR Stabiliser nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HR Stabiliser nose rib"
+ },
+ "T-HS Stabiliser spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HS Stabiliser spar"
+ },
+ "T-RK Rudder skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-RK Balat ng rudder"
+ },
+ "T-RS Rudder spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-RS Spar ng rudder"
+ },
+ "TACH instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Instrumentong TACH"
+ },
+ "Tail surfaces": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga surface ng buntot"
+ },
+ "Tailcone belly, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tiyan ng tailcone, seksyon 1"
+ },
+ "Tailcone belly, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tiyan ng tailcone, seksyon 2"
+ },
+ "Tailcone bulkhead x=1150": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tailcone bulkhead x=1150"
+ },
+ "Tailcone bulkhead x=1948": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tailcone bulkhead x=1948"
+ },
+ "Tailcone bulkhead x=2745": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tailcone bulkhead x=2745"
+ },
+ "Tailcone bulkhead x=3542": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tailcone bulkhead x=3542"
+ },
+ "Tailcone bulkhead x=4340 (tail post)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tailcone bulkhead x=4340 (tail post)"
+ },
+ "Tailcone frustum": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Frustum ng tailcone"
+ },
+ "Tailcone side, section 1 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gilid ng tailcone, seksyon 1 (x2, naka-mirror)"
+ },
+ "Tailcone side, section 2 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gilid ng tailcone, seksyon 2 (x2, naka-mirror)"
+ },
+ "Tailcone top, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Itaas ng tailcone, seksyon 1"
+ },
+ "Tailcone top, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Itaas ng tailcone, seksyon 2"
+ },
+ "Tailwheel 8 in pneumatic": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tailwheel 8 in na pneumatic"
+ },
+ "Tailwheel assembly, 8 in pneumatic": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tailwheel assembly, 8 in na pneumatic"
+ },
+ "Tailwheel fork": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tailwheel fork"
+ },
+ "Tailwheel spring": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tailwheel spring"
+ },
+ "Tailwheel spring (spring steel leaf)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tailwheel spring (spring steel leaf)"
+ },
+ "Tailwheel spring to tail post, 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tailwheel spring sa tail post, 2"
+ },
+ "Tailwheel spring to tail post, 2; Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tailwheel spring sa tail post, 2; mga stabiliser root rib sa mga side doubler ng tailcone, 4 bawat gilid; fin spar sa tail post, 3"
+ },
+ "Tailwheel spring: spring-steel leaf 45 x 8 mm": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tailwheel spring: spring-steel leaf 45 x 8 mm"
+ },
+ "Tailwheel steering spring": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tailwheel steering spring"
+ },
+ "Tailwheel: a leaf spring, a steerable fork and two springs to the rudder.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tailwheel: leaf spring, nakakaliko na fork at dalawang spring papunta sa rudder."
+ },
+ "Take the skeleton apart. Deburr every hole on both faces.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kalasin ang balangkas. Alisan ng burr ang bawat butas sa magkabilang mukha."
+ },
+ "Take-off roll": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Take-off roll"
+ },
+ "Tank strap angle (L)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tank strap angle (kaliwa)"
+ },
+ "Tank strap angle (R)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tank strap angle (kanan)"
+ },
+ "Tap or shaker test for wing bending and torsion, aileron, elevator and rudder modes. Confirm the mass balance of every control surface.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tap o shaker test para sa wing bending at torsion, aileron, elevator at rudder mode. Kumpirmahin ang mass balance ng bawat control surface."
+ },
+ "Taxi tests": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga taxi test"
+ },
+ "Taxi tests, then fast taxi with the tail up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga taxi test, saka mabilis na taxi na nakataas ang buntot."
+ },
+ "Temperatures inside the engine maker's limits, static rpm 2,900–3,100, no abnormal vibration.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Temperatura na nasa loob ng limitasyon ng gumawa ng makina, static rpm 2,900–3,100, walang hindi pangkaraniwang yanig."
+ },
+ "Tension each cable with its turnbuckle in the cabin, where you can see it, then safety-wire it. Nicopress every end over a thimble.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Higpitan ang bawat kable gamit ang turnbuckle nito sa cabin, kung saan nakikita mo, saka lagyan ng safety wire. I-Nicopress ang bawat dulo sa ibabaw ng thimble."
+ },
+ "Test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pagsubok"
+ },
+ "Test budget": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Badyet sa pagsubok"
+ },
+ "Test programme": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Programa ng pagsubok"
+ },
+ "Test reports": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga ulat ng pagsubok"
+ },
+ "Tests": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga pagsubok"
+ },
+ "The aircraft is code: one file, aircraft.yaml, generates every part, file and figure on this page.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Code ang eroplano: iisang file, aircraft.yaml, ang lumilikha ng bawat piyesa, file at numero sa pahinang ito."
+ },
+ "The arches sit at the spar stations, so the wing and strut loads go straight into two folded frames.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nasa mga spar station ang mga arko, kaya diretsong napupunta sa dalawang tinuping frame ang karga ng pakpak at strut."
+ },
+ "The cowl and nose bowl are flat blanks too: a box-pleated hood and a frustum, with straight creases throughout.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Patag na blank din ang cowl at nose bowl: box-pleated na hood at frustum, tuwid na tupi sa lahat."
+ },
+ "The dot is the loading case selected in the table. The shaded band is the full CG range across all cases. The orange line is the neutral point: the CG must stay ahead of it, and the dashed gap between them is the static margin, the aircraft's pitch stability.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ang tuldok ay ang loading case na pinili sa talahanayan. Ang may-lilim na banda ay ang buong saklaw ng CG sa lahat ng kaso. Ang kahel na linya ay ang neutral point: dapat manatili ang CG sa harap nito, at ang putol-putol na puwang sa pagitan nila ay ang static margin, ang pitch stability ng eroplano."
+ },
+ "The fold geometry. Every panel in the 3D model is produced by refolding the DXF flat pattern, and the rib-to-spar pilot holes are coordinated between parts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ang geometry ng tupi. Bawat panel sa 3D model ay ginawa sa muling pagtupi ng DXF flat pattern, at magkakaugnay sa mga piyesa ang mga rib-to-spar pilot hole."
+ },
+ "The laminate acting as one section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ang laminate na kumikilos bilang iisang seksyon"
+ },
+ "The lips are what let thin laminated sheet act as a spar. Without them a free cap edge buckles at about 26 MPa. With them the cap reaches yield before it buckles.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ang mga lip ang nagpapahintulot sa manipis na laminated sheet na kumilos bilang spar. Kung wala sila, bumu-buckle ang malayang gilid ng cap sa mga 26 MPa. Kapag mayroon, umaabot sa yield ang cap bago mag-buckle."
+ },
+ "The local-price estimate takes UK VAT off the UK price, converts it at the day's exchange rate, takes about 20 % off US-made hardware, sheet and the engine kit when buying in the US, then adds the country's typical standard VAT, GST or sales tax. It leaves out import duty and shipping. Treat these as rough guides, not quotes.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Inaalis ng local-price estimate ang UK VAT mula sa UK price, kino-convert ito sa exchange rate ng araw, binabawasan ng mga 20 % ang US-made na hardware, sheet at engine kit kapag bibili sa US, saka dinadagdag ang karaniwang standard VAT, GST o sales tax ng bansa. Hindi kasama ang import duty at pagpapadala. Ituring itong magaspang na gabay, hindi quote."
+ },
+ "The numbers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ang mga numero"
+ },
+ "The pilot sits under the wing between the two arches. Header fuel is ahead of the CG and aux fuel is behind it. The aftmost case is a light pilot with empty tanks and baggage, which gives the minimum static margin:": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nakaupo ang piloto sa ilalim ng pakpak sa pagitan ng dalawang arko. Nasa harap ng CG ang header fuel at nasa likod ang aux fuel. Ang pinakalikod na kaso ay magaan na piloto na walang laman ang tangke at may bagahe, na nagbibigay ng minimum static margin:"
+ },
+ "The rolled nose and the main spar together form a closed D-cell, which carries the wing's twisting loads.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Magkasamang bumubuo ang nirolyong ilong at ang main spar ng saradong D-cell, na nagdadala ng pilipit na karga ng pakpak."
+ },
+ "The skins carry no holes of their own. Drilling them from the structure means the holes can't be misaligned.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Walang sariling butas ang mga balat. Kapag dinril sila mula sa istruktura, hindi maaaring magkamali ang pagkakahanay ng mga butas."
+ },
+ "The stabiliser and fin use one wrapped skin each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tig-iisang nakabalot na balat ang stabiliser at fin."
+ },
+ "This is the sequence for every riveted joint from here on: Cleco, final-drill, take apart, deburr, prime, reassemble, rivet. Later steps call it the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ito ang pagkakasunod para sa bawat rivet joint mula ngayon: Cleco, final-drill, kalasin, alisan ng burr, i-prime, ibalik, rivet. Tinatawag itong riveting loop sa mga susunod na hakbang."
+ },
+ "Three platform scales": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tatlong platform scale"
+ },
+ "Three platform scales in the level attitude.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tatlong platform scale sa level attitude."
+ },
+ "Through tang pair + spar web at each spar root, 4 per pair": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sa pares ng tang + spar web sa bawat spar root, 4 bawat pares"
+ },
+ "Tools": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga kasangkapan"
+ },
+ "Top flange = longeron": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Itaas na flange = longeron"
+ },
+ "Top flange is the longeron: the fold is the stiffener. Openings have 50 mm corner radii (no square corners).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ang itaas na flange ang longeron: ang tupi ang stiffener. May 50 mm na corner radius ang mga butas (walang parisukat na sulok)."
+ },
+ "Torsional stiffness recorded; it feeds the flutter estimate in phase D.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Naitala ang torsional stiffness; ginagamit ito sa flutter estimate sa yugto D."
+ },
+ "Total": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kabuuan"
+ },
+ "Tube cutter, hacksaw, drill press": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tube cutter, lagari ng bakal, drill press"
+ },
+ "Tube, bar and cable": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tubo, bar at kable"
+ },
+ "Turn it back over. On its three wheels it should sit about 9–11° nose-up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ibaligtad ulit. Sa tatlong gulong nito dapat itong nakaupo nang mga 9–11° na nakataas ang ilong."
+ },
+ "Turn the fuselage upside down on padded trestles.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ibaligtad ang fuselage sa may-sapin na trestle."
+ },
+ "Turn the skeleton upside down. Lay bay 1's skin on it, located at the root rib, with the edge 3 mm short of the rear-spar flange edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ibaligtad ang balangkas. Ilatag ang balat ng bay 1 dito, nakapuwesto sa root rib, ang gilid ay 3 mm na mas maikli sa gilid ng flange ng rear spar."
+ },
+ "Turn the wing upright. Wrap the skin from the trailing-edge shroud, over the nose, and under to lap the lower skin at 8 % chord.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Itayo ang pakpak. Ibalot ang balat mula sa trailing-edge shroud, sa ibabaw ng ilong, at sa ilalim para sumapaw sa ibabang balat sa 8 % ng chord."
+ },
+ "Turnbuckle AN130 class + safety wire": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Turnbuckle na klase AN130 + safety wire"
+ },
+ "Two halves round the 1.75 in strut tube; the ear bolts also carry the jury-strut end.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dalawang kalahati sa paligid ng 1.75 in na strut tube; dala rin ng mga ear bolt ang dulo ng jury strut."
+ },
+ "Two hat pleats (step-folds) are the floor stiffeners; no separate stringers. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ang dalawang hat pleat (step fold) ang stiffener ng sahig; walang hiwalay na stringer. Laminated: 2 nested na patong ng 0.020 in, hiwalay na tinupi at nirivet bilang isa; bawasan ng 0.5 mm bawat panloob na patong ang gilid ng flange."
+ },
+ "Two plates sandwich each rod end; AN4 pivot, AN3 at each arm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dalawang plato ang nag-iipit sa bawat rod end; AN4 pivot, AN3 sa bawat braso."
+ },
+ "UK retail prices (inc. 20 % VAT) converted to {currency}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Retail na presyo sa UK (kasama ang 20 % VAT) na kino-convert sa {currency}."
+ },
+ "UK retail prices, including 20 % VAT.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Retail na presyo sa UK, kasama ang 20 % VAT."
+ },
+ "Ultimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ultimate"
+ },
+ "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sa ilalim ng negatibong g, napupunta sa compression ang mga strut. Hinahati ng mga jury strut ang hindi suportadong haba nila, na nagpaparami nang apat na beses sa buckling load."
+ },
+ "Undercarriage": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Undercarriage"
+ },
+ "Units": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga yunit"
+ },
+ "Unknowns for the next builder": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga hindi pa alam para sa susunod na gagawa"
+ },
+ "Upper cowl (hood, two 90 deg folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Itaas na cowl (hood, dalawang 90 deg na tupi)"
+ },
+ "Upper skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Itaas na balat, bay 1"
+ },
+ "Upper skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Itaas na balat, bay 2"
+ },
+ "Upper skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Itaas na balat, bay 3"
+ },
+ "Upper skins: roll the nose": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga itaas na balat: irolyo ang ilong"
+ },
+ "V-bead pleats + one 165° trailing-edge fold": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "V-bead pleat + isang 165° na trailing-edge fold"
+ },
+ "VHF antenna whip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "VHF antenna whip"
+ },
+ "W-CL Cabin roof (centre lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CL Bubong ng cabin (gitnang ibabang balat)"
+ },
+ "W-CS Aileron / flap skin (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CS Balat ng aileron / flap (magkakapareho x4)"
+ },
+ "W-CSS Aileron / flap spar (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CSS Spar ng aileron / flap (magkakapareho x4)"
+ },
+ "W-CT Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CT Trailing-edge fairing ng gitnang seksyon (nakapirmi, sa pagitan ng mga flap)"
+ },
+ "W-CU Centre-section upper skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CU Itaas na balat ng gitnang seksyon"
+ },
+ "W-MR Main rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MR Main rib"
+ },
+ "W-MRe Main rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MRe Main rib, root/tip"
+ },
+ "W-MS Main spar (lipped C, opens aft)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MS Main spar (lipped C, bukas paatras)"
+ },
+ "W-NR Nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-NR Nose rib"
+ },
+ "W-NRe Nose rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-NRe Nose rib, root/tip"
+ },
+ "W-RS Rear spar (lipped C, opens forward)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-RS Rear spar (lipped C, bukas pasulong)"
+ },
+ "W-SL1 Lower skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL1 Ibabang balat, bay 1"
+ },
+ "W-SL2 Lower skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL2 Ibabang balat, bay 2"
+ },
+ "W-SL3 Lower skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL3 Ibabang balat, bay 3"
+ },
+ "W-SU1 Upper skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU1 Itaas na balat, bay 1"
+ },
+ "W-SU2 Upper skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU2 Itaas na balat, bay 2"
+ },
+ "W-SU3 Upper skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU3 Itaas na balat, bay 3"
+ },
+ "Weeks 1–4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga linggo 1–4"
+ },
+ "Weigh and balance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Timbang at balanse"
+ },
+ "Weigh, test, fly-off": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Timbangin, subukan, ipalipad"
+ },
+ "Weight, not tank size, sets the range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bigat, hindi laki ng tangke, ang nagtatakda ng layo"
+ },
+ "What is known, and what is not": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ano ang alam, at ano ang hindi"
+ },
+ "What it costs": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Magkano ito"
+ },
+ "Wheel hub": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hub ng gulong"
+ },
+ "Wheels, 21 x 8.00-6 tundra tyres, drum brakes x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga gulong, 21 x 8.00-6 na tundra tyre, drum brake x2"
+ },
+ "Where it goes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Saan ito ilalagay"
+ },
+ "Where the balance point sits": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Saan nakaupo ang balance point"
+ },
+ "Whole aircraft": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Buong eroplano"
+ },
+ "Whole-wing strength and stiffness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lakas at tigas ng buong pakpak"
+ },
+ "Why start here: the four stands use every skill the aircraft needs, on parts that don't fly. Get it wrong here, not on a spar. You need the stands anyway: the wings are built and parked on them until step 15.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bakit dito magsimula: ginagamit ng apat na stand ang bawat kasanayang kailangan ng eroplano, sa mga piyesang hindi lumilipad. Dito magkamali, hindi sa spar. Kailangan mo rin naman ang mga stand: dito binubuo at itinatabi ang mga pakpak hanggang hakbang 15."
+ },
+ "Will it fly well?": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lilipad ba ito nang maayos?"
+ },
+ "Windscreen (cold-bent flat polycarbonate)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Windscreen (patag na polycarbonate na binaluktot nang malamig)"
+ },
+ "Windscreen, door and side windows": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Windscreen, pinto at mga side window"
+ },
+ "Windscreen, side windows, door": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Windscreen, mga side window, pinto"
+ },
+ "Windscreen: flat sheet, bedded on foam tape on the firewall and windscreen flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Windscreen: patag na sheet, nakalapat sa foam tape sa mga flange ng firewall at windscreen."
+ },
+ "Wing and airframe": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pakpak at airframe"
+ },
+ "Wing lift uses a Schrenk distribution, with each wing pinned at the cabin arch and a V-strut at the 2.4 m rib. Gust loads are below the manoeuvre case. Laminated spars are checked as one section, which assumes rivet pitch close enough to stop the layers buckling separately.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gumagamit ang wing lift ng Schrenk distribution, bawat pakpak naka-pin sa cabin arch at may V-strut sa 2.4 m na rib. Mas mababa ang gust load kaysa sa manoeuvre case. Sinusuri ang mga laminated spar bilang iisang seksyon, na nagpapalagay na sapat ang lapit ng rivet pitch para hindi mag-buckle nang hiwalay ang mga patong."
+ },
+ "Wing loading": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Wing loading"
+ },
+ "Wing proof load": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Wing proof load"
+ },
+ "Wing stands (step 0)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mga wing stand (hakbang 0)"
+ },
+ "Wing torsion": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pilipit ng pakpak"
+ },
+ "Wings on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ikabit ang mga pakpak"
+ },
+ "With X-ray on, every run is colour-coded: orange rudder, cyan elevator, purple aileron, green flap, red fuel, white pitot, grey static, yellow 12 V, pink coax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kapag naka-on ang X-ray, may kulay ang bawat ruta: kahel rudder, cyan elevator, lila aileron, berde flap, pula gasolina, puti pitot, abo static, dilaw 12 V, rosas coax."
+ },
+ "With a helper at the tip, lift each wing until its root tangs slide into the arch-top clevises.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kasama ang katulong sa tip, iangat ang bawat pakpak hanggang pumasok ang mga root tang nito sa mga clevis sa tuktok ng arko."
+ },
+ "Write the part number on every blank. Keep the blanks in step order.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Isulat ang part number sa bawat blank. Itabi ang mga blank ayon sa pagkakasunod ng hakbang."
+ },
+ "X-ray": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "X-ray"
+ },
+ "Yes, as a slow, gentle, lightly loaded single-seater: a strut-braced high wing, a half-VW engine and a tailwheel on big soft tyres. It is heavier than a typical ultralight because every aluminium part is cut from one gauge, with thicker parts made as nested folds of the same sheet. That puts it in UK SSDR (300 kg) rather than US Part 103. Every figure here comes from the same script that generates the cut files.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Oo, bilang mabagal, banayad at magaan ang kargang single-seater: strut-braced na high wing, half-VW na makina at tailwheel sa malalaking malambot na gulong. Mas mabigat ito kaysa karaniwang ultralight dahil bawat aluminium na piyesa ay ginupit mula sa iisang kapal, at ang mas makakapal na piyesa ay ginawang nested na tupi ng parehong sheet. Kaya nasa UK SSDR (300 kg) ito sa halip na US Part 103. Bawat numero dito ay galing sa parehong script na lumilikha ng mga cut file."
+ },
+ "arch-foot bellcrank up the rear-arch leg to the arch-top bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "bellcrank sa paanan ng arko paakyat sa binti ng likurang arko papunta sa bellcrank sa tuktok ng arko"
+ },
+ "arch-top bellcrank to outboard bellcrank, through rib lightening holes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "bellcrank sa tuktok ng arko papunta sa panlabas na bellcrank, sa mga lightening hole ng rib"
+ },
+ "aux": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "aux"
+ },
+ "blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "mga blank"
+ },
+ "blanks in all": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "kabuuang blank"
+ },
+ "bolts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "mga bolt"
+ },
+ "bought or welded": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "binili o hinang"
+ },
+ "buckling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "buckling"
+ },
+ "centre torque-tube arm to flap bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "gitnang braso ng torque tube papunta sa flap bellcrank"
+ },
+ "check, then commit": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "suriin, saka ituloy"
+ },
+ "clean": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "malinis"
+ },
+ "close up": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "isara"
+ },
+ "crease pattern": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "crease pattern"
+ },
+ "crippling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "crippling"
+ },
+ "each with a pass criterion": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "bawat isa ay may pass criterion"
+ },
+ "fabricated or bought for half-VW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ginawa o binili para sa half-VW"
+ },
+ "faying surfaces and interior": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "mga faying surface at loob"
+ },
+ "finished": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "tapos"
+ },
+ "flat blanks, one sheet gauge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "patag na blank, iisang kapal ng sheet"
+ },
+ "fold the same way": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "tupiin sa parehong paraan"
+ },
+ "fold to the marks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "tupiin hanggang sa marka"
+ },
+ "fuel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "gasolina"
+ },
+ "give it roundness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "bigyan ng kurba"
+ },
+ "gravity feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "gravity feed"
+ },
+ "gust": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "bugso"
+ },
+ "hard": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "matigas"
+ },
+ "header": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "header"
+ },
+ "header full": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "puno ang header"
+ },
+ "header tank + aux tank, both in the cabin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "header tank + aux tank, parehong nasa cabin"
+ },
+ "includes 15 % spares": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "kasama ang 15 % na reserba"
+ },
+ "insert: the lock": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "isingit: ang lock"
+ },
+ "laminated wood, CC0 model": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "laminated na kahoy, CC0 na modelo"
+ },
+ "light braking": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "mahinang preno"
+ },
+ "make soft creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "gumawa ng soft crease"
+ },
+ "materials and hire, rough": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "materyales at upa, magaspang"
+ },
+ "max take-off mass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "maximum take-off mass"
+ },
+ "mountain": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "mountain"
+ },
+ "mountain and valley folds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "mountain at valley na tupi"
+ },
+ "neutral point": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "neutral point"
+ },
+ "no reserve": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "walang reserba"
+ },
+ "no sheet blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "walang sheet blank"
+ },
+ "none: over MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "wala: lampas sa MTOW"
+ },
+ "one 8 x 4 ft sheet of 6061-T6 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "isang 8 x 4 ft na sheet ng 6061-T6 0.020 in"
+ },
+ "open out": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ibuklat"
+ },
+ "or a club CNC router": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "o CNC router ng club"
+ },
+ "part-time, alongside the build": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "part-time, kasabay ng pagbuo"
+ },
+ "pilot": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "piloto"
+ },
+ "pilot hole": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "pilot hole"
+ },
+ "pin-to-pin; AN5 each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "pin-to-pin; AN5 sa bawat dulo"
+ },
+ "pleat": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "pleat"
+ },
+ "practice piece": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "pampraktis na piyesa"
+ },
+ "public domain": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "public domain"
+ },
+ "radio optional in SSDR": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "opsyonal ang radyo sa SSDR"
+ },
+ "reference points": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "mga reference point"
+ },
+ "right angle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "tamang anggulo"
+ },
+ "rivets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "mga rivet"
+ },
+ "rolled zone": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "nirolyong zone"
+ },
+ "rough build cost": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "magaspang na gastos sa pagbuo"
+ },
+ "same angle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "parehong anggulo"
+ },
+ "same angle: converging creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "parehong anggulo: nagtatagpong tupi"
+ },
+ "same length": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "parehong haba"
+ },
+ "short grass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "maikling damo"
+ },
+ "static margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "static margin"
+ },
+ "still air, 75 % power": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "walang hangin, 75 % na lakas"
+ },
+ "subtotal": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "subtotal"
+ },
+ "tool, reused": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "kasangkapan, muling ginamit"
+ },
+ "torque-tube arm to arch-foot bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "braso ng torque tube papunta sa bellcrank sa paanan ng arko"
+ },
+ "tundra tyres at 10–12 psi, 8 in tailwheel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "tundra tyre sa 10–12 psi, 8 in na tailwheel"
+ },
+ "turn it over": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ibaligtad"
+ },
+ "unique": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "natatangi"
+ },
+ "unique blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "natatanging blank"
+ },
+ "useful load": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "useful load"
+ },
+ "valley": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "valley"
+ },
+ "via floor pulley + 3 fairleads; Nicopress + thimble each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "sa floor pulley + 3 fairlead; Nicopress + thimble sa bawat dulo"
+ },
+ "via pulley at bulkhead 1 + 3 fairleads; turnbuckle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "sa pulley sa bulkhead 1 + 3 fairlead; turnbuckle"
+ },
+ "wingspan": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "haba ng pakpak"
+ },
+ "{w} x {h} mm flat, {f} folds, {p} pilot holes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "{w} x {h} mm na patag, {f} tupi, {p} pilot hole"
+ }
+}

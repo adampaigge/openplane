@@ -1,182 +1,4077 @@
 {
+ "1 m hand bending brake (or hardwood bending blocks in a vise)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1 m হাতে চালানো বেন্ডিং ব্রেক (অথবা ভাইসে শক্ত কাঠের বেন্ডিং ব্লক)"
+ },
+ "1/8 in Clecos (300) + Cleco pliers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in ক্লিকো (300) + ক্লিকো প্লায়ার্স"
+ },
+ "1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in গোল-মাথা অ্যালুমিনিয়াম ব্লাইন্ড রিভেট, গ্রিপ -1 (1.6 mm পর্যন্ত)"
+ },
+ "1/8 in domed aluminium blind rivet, grip -2 (1.6-3.2 mm)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in গোল-মাথা অ্যালুমিনিয়াম ব্লাইন্ড রিভেট, গ্রিপ -2 (1.6-3.2 mm)"
+ },
+ "1/8 in hole duplicator": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in হোল ডুপ্লিকেটর"
+ },
+ "1/8 in stainless/Monel blind rivet (fire-zone)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in স্টেইনলেস/মোনেল ব্লাইন্ড রিভেট (অগ্নি-অঞ্চল)"
+ },
+ "2 m section in four-point bending, loaded in steps to 1.5 × the +4 g limit bending moment.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "2 m অংশ চার-বিন্দু বেন্ডিংয়ে, ধাপে ধাপে +4 g সীমা বেন্ডিং মোমেন্টের 1.5 × পর্যন্ত লোড করা।"
+ },
+ "2 x AN4 at the tail post": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইল পোস্টে 2 x AN4"
+ },
+ "2 x AN5 holes at the top, axle boss at the bottom": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উপরে 2 x AN5 ছিদ্র, নিচে অ্যাক্সেল বস"
+ },
+ "4 x 1.79 m wing, 2 x 1.0 m elevators, 1.24 m rudder, door": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "4 x 1.79 m ডানা, 2 x 1.0 m এলিভেটর, 1.24 m রাডার, দরজা"
+ },
+ "4130 fittings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "4130 ফিটিং"
+ },
+ "75 mm tube + ratchet strap (nose roller)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "75 mm টিউব + র‍্যাচেট স্ট্র্যাপ (নোজ রোলার)"
+ },
+ "; {n} parts x {l} laminated layers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "; {n} টি অংশ x {l} টি ল্যামিনেটেড স্তর"
+ },
+ "A BMAA or LAA inspector reviews the aircraft and the evidence.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "একজন BMAA বা LAA পরিদর্শক বিমান ও প্রমাণাদি পর্যালোচনা করেন।"
+ },
+ "A UK SSDR aircraft needs no airworthiness approval, so all the responsibility is the builder's. Proof-load the wing with sandbags to +4 g and have a BMAA or LAA inspector look at it before it flies. Elsewhere, check your national microlight rules.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "UK SSDR বিমানের কোনো এয়ারওয়ার্দিনেস অনুমোদন লাগে না, তাই সব দায়িত্ব নির্মাতার। ডানাকে বালির বস্তা দিয়ে +4 g পর্যন্ত প্রুফ-লোড করুন এবং ওড়ার আগে একজন BMAA বা LAA পরিদর্শককে দেখান। অন্য দেশে নিজের জাতীয় মাইক্রোলাইট নিয়ম দেখুন।"
+ },
+ "A concept design, published for study. It is not an approved design, and nothing here is airworthiness advice.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "একটি ধারণাগত নকশা, অধ্যয়নের জন্য প্রকাশিত। এটি অনুমোদিত নকশা নয়, এবং এখানে কিছুই এয়ারওয়ার্দিনেস পরামর্শ নয়।"
+ },
+ "A single-seat microlight anyone can build. Every sheet part is a flat blank with straight folds, cut from one gauge of aluminium.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "একক-আসনের মাইক্রোলাইট যা যে কেউ বানাতে পারে। প্রতিটি শিট অংশ সোজা ভাঁজসহ একটি সমতল ব্ল্যাঙ্ক, একই পুরুত্বের অ্যালুমিনিয়াম থেকে কাটা।"
+ },
+ "A4-1 blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "A4-1 ব্লাইন্ড রিভেট"
+ },
+ "A4-2 blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "A4-2 ব্লাইন্ড রিভেট"
+ },
+ "A4-SS blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "A4-SS ব্লাইন্ড রিভেট"
+ },
+ "ALT instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ALT যন্ত্র"
+ },
+ "AN3 bolt (10-32), AN365-1032 nut, AN960-10 washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 বোল্ট (10-32), AN365-1032 নাট, AN960-10 ওয়াশার"
+ },
+ "AN3 bolt, AN365-1032 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 বোল্ট, AN365-1032 নাট"
+ },
+ "AN3 bolt, AN365-1032 nut, rod end between the plates": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 বোল্ট, AN365-1032 নাট, প্লেট দুটির মাঝে রড এন্ড"
+ },
+ "AN3 bolt, AN365-1032 nut, through 3/16 in rod end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 বোল্ট, AN365-1032 নাট, 3/16 in রড এন্ডের মধ্য দিয়ে"
+ },
+ "AN3 each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতি প্রান্তে AN3"
+ },
+ "AN4 bolt (1/4-28), AN365-428 nut, 2 x AN960-416 washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 বোল্ট (1/4-28), AN365-428 নাট, 2 x AN960-416 ওয়াশার"
+ },
+ "AN4 bolt, AN310-4 + cotter (pivot)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 বোল্ট, AN310-4 + কটার (পিভট)"
+ },
+ "AN4 bolt, AN310-4 castle nut + cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 বোল্ট, AN310-4 ক্যাসল নাট + কটার"
+ },
+ "AN4 bolt, AN365-428 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 বোল্ট, AN365-428 নাট"
+ },
+ "AN4 bolt, AN365-428 nut, AN970-4 washer each side": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 বোল্ট, AN365-428 নাট, প্রতি পাশে AN970-4 ওয়াশার"
+ },
+ "AN5 bolt (5/16-24), AN365-524 nut, AN970-5 large washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 বোল্ট (5/16-24), AN365-524 নাট, AN970-5 বড় ওয়াশার"
+ },
+ "AN5 bolt + rubber isolator (Lord-type) + AN365-524": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 বোল্ট + রাবার আইসোলেটর (Lord-ধরন) + AN365-524"
+ },
+ "AN5 bolt, AN310-5 castellated nut, MS24665 cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 বোল্ট, AN310-5 ক্যাসেলেটেড নাট, MS24665 কটার"
+ },
+ "AN5 bolt, AN365-524 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 বোল্ট, AN365-524 নাট"
+ },
+ "AN5 clevis pin (bolt), AN310-5 castellated nut, MS24665 cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 ক্লেভিস পিন (বোল্ট), AN310-5 ক্যাসেলেটেড নাট, MS24665 কটার"
+ },
+ "AN5 prop bolt, AN310-5 + safety wire (per prop maker)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 প্রপ বোল্ট, AN310-5 + সেফটি ওয়্যার (প্রপ নির্মাতার নির্দেশ অনুযায়ী)"
+ },
+ "ASI instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ASI যন্ত্র"
+ },
+ "About 10 months": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রায় 10 মাস"
+ },
+ "Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আইলেরন / ফ্ল্যাপ হর্ন, 4130 0.063in (নিচের স্কিনে একটি ভাঁজ)"
+ },
+ "Aileron / flap skin (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আইলেরন / ফ্ল্যাপ স্কিন (একই রকম x4)"
+ },
+ "Aileron / flap spar (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আইলেরন / ফ্ল্যাপ স্পার (একই রকম x4)"
+ },
+ "Aileron and flap horns (K-HN), 1 per surface": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আইলেরন ও ফ্ল্যাপ হর্ন (K-HN), প্রতি সারফেসে 1টি"
+ },
+ "Aileron link (cabin) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আইলেরন লিংক (কেবিন) x2"
+ },
+ "Aileron link (cabin) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আইলেরন লিংক (কেবিন) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Aileron pushrod (arch) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আইলেরন পুশরড (আর্চ) x2"
+ },
+ "Aileron pushrod (arch) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আইলেরন পুশরড (আর্চ) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Aileron pushrod (wing) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আইলেরন পুশরড (ডানা) x2"
+ },
+ "Aileron pushrod (wing) x2: 6061-T6 1/2 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আইলেরন পুশরড (ডানা) x2: 6061-T6 1/2 x 0.035 in"
+ },
+ "Aileron torque tube": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আইলেরন টর্ক টিউব"
+ },
+ "Ailerons: a short link from the torque-tube arm to the arch-foot bellcrank, a pushrod up the rear-arch leg to the arch-top bellcrank, then out through the rib lightening holes to the outboard bellcrank, which drives the K-HN horn on the aileron. Flaps: overhead lever, a short rod to the centre-section torque-tube arms, then pushrods to the flap bellcranks and K-HN horns.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আইলেরন: টর্ক-টিউব আর্ম থেকে আর্চ-পাদদেশের বেলক্র্যাঙ্ক পর্যন্ত একটি ছোট লিংক, পেছনের আর্চের পা বেয়ে আর্চ-শীর্ষের বেলক্র্যাঙ্ক পর্যন্ত একটি পুশরড, তারপর রিবের লাইটেনিং ছিদ্র দিয়ে বাইরের বেলক্র্যাঙ্ক পর্যন্ত, যা আইলেরনের K-HN হর্ন চালায়। ফ্ল্যাপ: মাথার উপরের লিভার, কেন্দ্র-অংশের টর্ক-টিউব আর্ম পর্যন্ত একটি ছোট রড, তারপর ফ্ল্যাপ বেলক্র্যাঙ্ক ও K-HN হর্ন পর্যন্ত পুশরড।"
+ },
+ "All 52 ribs are the same two blanks. The pilot holes locate them, so no jig is needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সব 52টি রিব একই দুটি ব্ল্যাঙ্ক। পাইলট ছিদ্রগুলোই এদের অবস্থান ঠিক করে, তাই কোনো জিগ লাগে না।"
+ },
+ "All six faces aim at one vanishing point, so each face is flat and every crease is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ছয়টি তলই এক অদৃশ্য-বিন্দুর দিকে তাক করা, তাই প্রতিটি তল সমতল এবং প্রতিটি ভাঁজ সোজা।"
+ },
+ "All the glazing is flat sheet: no forming and no moulds.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সব কাচ সমতল শিট: কোনো ফর্মিং নেই, কোনো ছাঁচ নেই।"
+ },
+ "Allowable": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "অনুমোদনযোগ্য"
+ },
+ "Amount": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পরিমাণ"
+ },
+ "An engineering test plan modelled on BCAR Section S practice, not a regulatory approval route. Costs are rough ranges for materials, hire and consumables, not labour, and exclude the airframe itself. The plan lives in qualification.yaml in the repository, and its pass criteria use the live numbers from the build.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "BCAR Section S চর্চার আদলে একটি প্রকৌশল পরীক্ষা পরিকল্পনা, কোনো নিয়ন্ত্রক অনুমোদনের পথ নয়। খরচগুলো উপকরণ, ভাড়া ও ব্যবহার্য সামগ্রীর আনুমানিক পরিসর, শ্রম নয়, এবং এয়ারফ্রেম নিজে বাদ। পরিকল্পনাটি রিপোজিটরির qualification.yaml-এ আছে, এবং এর পাস-মানদণ্ড বিল্ড থেকে সরাসরি সংখ্যা নেয়।"
+ },
+ "Approach the stall in 1 kt steps, flaps up and down, at forward and aft CG.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1 kt ধাপে স্টলের দিকে এগোন, ফ্ল্যাপ উপরে ও নিচে, সামনের ও পেছনের CG-তে।"
+ },
+ "Arch over the pilot. Spar-root fittings bolt to its top corners, strut fittings to its feet. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পাইলটের উপর দিয়ে আর্চ। স্পার-মূলের ফিটিং এর উপরের কোণে বোল্ট হয়, স্ট্রাট ফিটিং এর পাদদেশে। ল্যামিনেটেড: 0.020 in-এর 2টি নেস্টেড স্তর, আলাদাভাবে ভাঁজ করে একসাথে রিভেট করা; প্রতি ভেতরের স্তরে ফ্ল্যাঞ্জ প্রান্ত থেকে 0.5 mm ছেঁটে দিন।"
+ },
+ "As above, including the reversed load case at −2 g.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উপরের মতো, −2 g-তে উল্টো লোড কেসসহ।"
+ },
+ "At least 1.5 × the full-power fuel flow from either tank.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "যেকোনো ট্যাঙ্ক থেকে পূর্ণ-শক্তির জ্বালানি প্রবাহের অন্তত 1.5 ×।"
+ },
+ "Aux fuel tank 20 L (rotomoulded), high behind the seat, gravity feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "অক্স জ্বালানি ট্যাঙ্ক 20 L (রোটোমোল্ডেড), আসনের পেছনে উঁচুতে, মাধ্যাকর্ষণ সরবরাহ"
+ },
+ "Aux tank 20 L behind the seat + selector valve + line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আসনের পেছনে অক্স ট্যাঙ্ক 20 L + সিলেক্টর ভালভ + লাইন"
+ },
+ "Aux tank filler (through the left cabin side, behind the door)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "অক্স ট্যাঙ্কের ফিলার (বাম কেবিন পাশ দিয়ে, দরজার পেছনে)"
+ },
+ "Aviation snips (straight, left, right)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এভিয়েশন স্নিপ (সোজা, বাম, ডান)"
+ },
+ "Axle bolt AN6 + castellated nut AN310-6 + cotter MS24665": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "অ্যাক্সেল বোল্ট AN6 + ক্যাসেলেটেড নাট AN310-6 + কটার MS24665"
+ },
+ "Back-drill #40 through the rib and spar-cap pilot holes, using the hole duplicator where you can't reach from inside. Cleco as you go.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রিব ও স্পার-ক্যাপের পাইলট ছিদ্র দিয়ে #40 ব্যাক-ড্রিল করুন; ভেতর থেকে না পৌঁছালে হোল ডুপ্লিকেটর ব্যবহার করুন। যেতে যেতে ক্লিকো লাগান।"
+ },
+ "Back-drill through the rib flanges and spar caps. Do the nose last, working from the spar forward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রিব ফ্ল্যাঞ্জ ও স্পার ক্যাপ দিয়ে ব্যাক-ড্রিল করুন। নোজ শেষে করুন, স্পার থেকে সামনের দিকে কাজ করে।"
+ },
+ "Baggage locker behind the seat (net, 5 kg max)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আসনের পেছনে মালপত্রের লকার (নেট, সর্বোচ্চ 5 kg)"
+ },
+ "Battery + radio + antenna": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ব্যাটারি + রেডিও + অ্যান্টেনা"
+ },
+ "Battery 12 V LiFePO4 in vented box (under the seat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ব্যাটারি 12 V LiFePO4 বায়ু-চলাচলযুক্ত বাক্সে (আসনের নিচে)"
+ },
+ "Bellcrank arms in the cabin, 2 per bellcrank; Bellcrank arms in the wings, 2 per bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কেবিনে বেলক্র্যাঙ্ক আর্ম, প্রতি বেলক্র্যাঙ্কে 2টি; ডানায় বেলক্র্যাঙ্ক আর্ম, প্রতি বেলক্র্যাঙ্কে 2টি"
+ },
+ "Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কেবিনে আর্চ / স্পারে বেলক্র্যাঙ্ক ব্র্যাকেট, প্রতিটিতে 2টি; ডানায় আর্চ / স্পারে বেলক্র্যাঙ্ক ব্র্যাকেট, প্রতিটিতে 2টি"
+ },
+ "Bellcrank pivots in the cabin (K-BC pair through its K-CV bracket); Bellcrank pivots in the wings (K-BC pair through its K-CV bracket)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কেবিনে বেলক্র্যাঙ্ক পিভট (K-BC জোড়া তার K-CV ব্র্যাকেটের মধ্য দিয়ে); ডানায় বেলক্র্যাঙ্ক পিভট (K-BC জোড়া তার K-CV ব্র্যাকেটের মধ্য দিয়ে)"
+ },
+ "Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বেলক্র্যাঙ্ক প্লেট, 4130 0.063in (জোড়ায়, 55 mm আর্ম)"
+ },
+ "Bellcranks: each is a pair of K-BC plates, 16 mm apart, on an AN4 pivot through a folded K-CV bracket. The rod ends sit between the plates on AN3 bolts. Five per side: aileron arch-foot, arch-top and outboard (at the rear spar); flap torque-tube arm and flap bellcrank.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বেলক্র্যাঙ্ক: প্রতিটি হলো 16 mm দূরত্বে এক জোড়া K-BC প্লেট, ভাঁজ করা K-CV ব্র্যাকেটের মধ্য দিয়ে একটি AN4 পিভটে। রড এন্ডগুলো প্লেটের মাঝে AN3 বোল্টে বসে। প্রতি পাশে পাঁচটি: আইলেরন আর্চ-পাদদেশ, আর্চ-শীর্ষ ও বাইরের (পেছনের স্পারে); ফ্ল্যাপ টর্ক-টিউব আর্ম ও ফ্ল্যাপ বেলক্র্যাঙ্ক।"
+ },
+ "Bench vise with soft jaws": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নরম চোয়ালসহ বেঞ্চ ভাইস"
+ },
+ "Bend deduction": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বেন্ড ডিডাকশন"
+ },
+ "Bend on the brake: each channel is four 90° bends. Bend the two flanges first, then the two lips. Set the nose radius to 1 mm (about 2t for 0.020 in) and overbend about 2° for springback. Check every bend with a square.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ব্রেকে বাঁকান: প্রতিটি চ্যানেলে চারটি 90° বাঁক। প্রথমে দুটি ফ্ল্যাঞ্জ, তারপর দুটি লিপ। নোজ ব্যাসার্ধ 1 mm রাখুন (0.020 in-এর জন্য প্রায় 2t) এবং স্প্রিংব্যাকের জন্য প্রায় 2° বেশি বাঁকান। প্রতিটি বাঁক স্কয়ার দিয়ে পরীক্ষা করুন।"
+ },
+ "Bend radius and springback": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বেন্ড ব্যাসার্ধ ও স্প্রিংব্যাক"
+ },
+ "Best climb": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সেরা আরোহণ"
+ },
  "Bill of materials": {
-  "t": "উপকরণ তালিকা",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উপকরণের তালিকা"
  },
  "Blanks": {
-  "t": "ব্ল্যাঙ্ক",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ব্ল্যাঙ্ক"
+ },
+ "Blind-rivet puller (hand or pneumatic)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ব্লাইন্ড-রিভেট পুলার (হাতে বা বায়ুচালিত)"
+ },
+ "Bolt each main-gear spring leg through the floor doubler under the front arch: 2 x AN5 each, large washers both sides.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি মেইন-গিয়ার স্প্রিং লেগ সামনের আর্চের নিচে মেঝের ডাবলার দিয়ে বোল্ট করুন: প্রতিটিতে 2 x AN5, দুই পাশে বড় ওয়াশার।"
+ },
+ "Bolt in the four harness anchors.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "চারটি হারনেস অ্যাঙ্কর বোল্ট করুন।"
+ },
+ "Bolt on the propeller and spinner. Torque to the prop maker's figure, then safety-wire.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রপেলার ও স্পিনার বোল্ট করুন। প্রপ নির্মাতার মান অনুযায়ী টর্ক দিন, তারপর সেফটি-ওয়্যার করুন।"
+ },
+ "Bolt the 4130 engine mount through the firewall (4 x AN4) with large washers on the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "4130 ইঞ্জিন মাউন্ট ফায়ারওয়ালের মধ্য দিয়ে বোল্ট করুন (4 x AN4), পেছনে বড় ওয়াশার।"
+ },
+ "Bolt the four root clevises to the arch tops and the four strut-foot clevises to the arch feet with AN4 bolts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "চারটি মূল ক্লেভিস আর্চের শীর্ষে এবং চারটি স্ট্রাট-পাদদেশ ক্লেভিস আর্চের পাদদেশে AN4 বোল্ট দিয়ে লাগান।"
+ },
+ "Bolt the stabiliser halves to the tailcone side doublers, 4 x AN4 each. Bolt the fin spar to the tail post, 3 x AN4.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্যাবিলাইজারের দুই অর্ধেক টেইলকোনের পাশের ডাবলারে বোল্ট করুন, প্রতিটিতে 4 x AN4। ফিন স্পার টেইল পোস্টে বোল্ট করুন, 3 x AN4।"
+ },
+ "Bolt the tailwheel spring to the tail post (2 x AN4). Fit the fork and the two steering springs to the rudder horn.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলহুইল স্প্রিং টেইল পোস্টে বোল্ট করুন (2 x AN4)। ফর্ক ও দুটি স্টিয়ারিং স্প্রিং রাডার হর্নে লাগান।"
+ },
+ "Bolt the tang pairs either side of each spar web at the root (4 x AN3), and the strut-top clevises under the spars at the 2.4 m rib.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মূলে প্রতিটি স্পার ওয়েবের দুই পাশে ট্যাং জোড়া বোল্ট করুন (4 x AN3), এবং 2.4 m রিবে স্পারের নিচে স্ট্রাট-শীর্ষ ক্লেভিস।"
+ },
+ "Bolts to the spar web with 4 x AN3 and reaches inboard past the spar end to the arch-top clevis pin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "4 x AN3 দিয়ে স্পার ওয়েবে বোল্ট হয় এবং স্পারের প্রান্ত পেরিয়ে ভেতরের দিকে আর্চ-শীর্ষ ক্লেভিস পিন পর্যন্ত পৌঁছায়।"
+ },
+ "Both sides are the same blank, mirrored. The openings have 50 mm corner radii because square corners start cracks.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "দুই পাশই একই ব্ল্যাঙ্ক, আয়নার মতো উল্টানো। খোলাগুলোর কোণের ব্যাসার্ধ 50 mm, কারণ চৌকো কোণ থেকে ফাটল শুরু হয়।"
+ },
+ "Both tanks, up to MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "দুটি ট্যাঙ্কই, MTOW পর্যন্ত"
+ },
+ "Bottom + both chamfers + side flanges from one sheet: converging creases, still developable (frustum).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "তলা + দুটি চ্যামফার + পাশের ফ্ল্যাঞ্জ এক শিট থেকে: অভিসারী ভাঁজ, তবুও বিকাশযোগ্য (ফ্রাস্টাম)।"
+ },
+ "Bottom extends between the elevator halves.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "তলা এলিভেটরের দুই অর্ধেকের মাঝে বিস্তৃত।"
+ },
+ "Bought / fabricated items going on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "লাগানো হচ্ছে এমন কেনা / তৈরি জিনিস"
+ },
+ "Bought assemblies": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কেনা অ্যাসেম্বলি"
+ },
+ "Box-pleat hood 45°, nose bowl converging creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বক্স-প্লিট হুড 45°, নোজ বোলে অভিসারী ভাঁজ"
+ },
+ "Brake drum": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ব্রেক ড্রাম"
+ },
+ "Build each section upside down on a straight edge: bulkheads Clecoed into the belly, then the sides, then the top.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি অংশ সোজা প্রান্তের উপর উল্টো করে বানান: বাল্কহেড পেটে ক্লিকো করা, তারপর পাশ, তারপর উপর।"
+ },
+ "Build up towards Vne in 5 kt steps, watching for buzz or flutter at every step.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "5 kt ধাপে Vne-এর দিকে এগোন, প্রতি ধাপে গুঞ্জন বা ফ্লাটার লক্ষ করুন।"
+ },
+ "CG range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CG পরিসর"
+ },
+ "CHT/EGT instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CHT/EGT যন্ত্র"
+ },
+ "CLmax, drag, propeller efficiency and the neutral point are handbook estimates. Measure stall speed and CG limits in flight test. The 35 kt SSDR stall limit is met with flaps:": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CLmax, ড্র্যাগ, প্রপেলার দক্ষতা ও নিউট্রাল পয়েন্ট হ্যান্ডবুক অনুমান। স্টল গতি ও CG সীমা উড্ডয়ন পরীক্ষায় মাপুন। 35 kt SSDR স্টল সীমা ফ্ল্যাপসহ পূরণ হয়:"
+ },
+ "Cabin roof (centre lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কেবিনের ছাদ (কেন্দ্রের নিচের স্কিন)"
+ },
+ "Cabin side (x2, mirrored): door/window opening + front window": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কেবিনের পাশ (x2, আয়না-উল্টো): দরজা/জানালার খোলা + সামনের জানালা"
+ },
+ "Cabin sides and seat": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কেবিনের পাশ ও আসন"
+ },
+ "Carries flap/aileron hinges and rear strut fitting. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফ্ল্যাপ/আইলেরন কব্জা ও পেছনের স্ট্রাট ফিটিং বহন করে। ল্যামিনেটেড: 0.020 in-এর 2টি নেস্টেড স্তর, আলাদাভাবে ভাঁজ করে একসাথে রিভেট করা; প্রতি ভেতরের স্তরে ফ্ল্যাঞ্জ প্রান্ত থেকে 0.5 mm ছেঁটে দিন।"
+ },
+ "Case": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কেস"
+ },
+ "Category": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বিভাগ"
+ },
+ "Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কেন্দ্র-অংশের ট্রেইলিং-এজ ফেয়ারিং (স্থির, ফ্ল্যাপ দুটির মাঝে)"
+ },
+ "Centre-section upper skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কেন্দ্র-অংশের উপরের স্কিন"
+ },
+ "Check stops, free play, friction and cable tension, then load every circuit to the pilot limit loads.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্টপ, ফ্রি প্লে, ঘর্ষণ ও কেবল টান পরীক্ষা করুন, তারপর প্রতিটি সার্কিট পাইলট সীমা লোডে লোড করুন।"
+ },
+ "Check the cap angle every 500 mm with a square. Sight along the spar for twist.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতি 500 mm-এ স্কয়ার দিয়ে ক্যাপের কোণ পরীক্ষা করুন। মোচড়ের জন্য স্পার বরাবর চোখ রাখুন।"
+ },
+ "Check twist by sighting a level across bulkheads 1 and 5. Then join the two sections at bulkhead 3.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বাল্কহেড 1 ও 5 জুড়ে লেভেল রেখে মোচড় পরীক্ষা করুন। তারপর দুটি অংশ বাল্কহেড 3-এ জুড়ুন।"
+ },
+ "Clean and prime. Steel fittings rust under paint if they aren't primed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পরিষ্কার করে প্রাইমার দিন। প্রাইমার না দিলে ইস্পাতের ফিটিং রঙের নিচে মরচে ধরে।"
+ },
+ "Clecos": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ক্লিকো"
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আর্চের শীর্ষ ও পাদদেশে ক্লেভিস ওয়েব, প্রতি ক্লেভিসে 2টি; স্পার ক্যাপের মধ্য দিয়ে স্ট্রাট-শীর্ষ ও জুরি-শীর্ষ ক্লেভিস, প্রতিটিতে 2টি"
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each; Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আর্চের শীর্ষ ও পাদদেশে ক্লেভিস ওয়েব, প্রতি ক্লেভিসে 2টি; স্পার ক্যাপের মধ্য দিয়ে স্ট্রাট-শীর্ষ ও জুরি-শীর্ষ ক্লেভিস, প্রতিটিতে 2টি; কেবিনে আর্চ / স্পারে বেলক্র্যাঙ্ক ব্র্যাকেট, প্রতিটিতে 2টি; ডানায় আর্চ / স্পারে বেলক্র্যাঙ্ক ব্র্যাকেট, প্রতিটিতে 2টি"
+ },
+ "Clevis, 4130 0.063in (U, two folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ক্লেভিস, 4130 0.063in (U, দুটি ভাঁজ)"
+ },
+ "Clevis: two 90° bends at 3t radius": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ক্লেভিস: 3t ব্যাসার্ধে দুটি 90° বাঁক"
+ },
+ "Click to explore": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ঘুরে দেখতে ক্লিক করুন"
+ },
+ "Clip on the strut fairings.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্রাট ফেয়ারিং ক্লিপ করে লাগান।"
+ },
+ "Close the bay behind the centre-section rear spar with the W-CT trailing-edge fairing (same wedge fold as the flaps). Do it last, after the flap linkage is rigged and checked.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কেন্দ্র-অংশের পেছনের স্পারের পেছনের খোপটি W-CT ট্রেইলিং-এজ ফেয়ারিং দিয়ে বন্ধ করুন (ফ্ল্যাপের মতো একই কীলক ভাঁজ)। এটি শেষে করুন, ফ্ল্যাপ লিংকেজ রিগ ও পরীক্ষা করার পরে।"
+ },
+ "Closes the control surface; carries hinge and mass-balance arm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কন্ট্রোল সারফেস বন্ধ করে; কব্জা ও ভর-ভারসাম্য আর্ম বহন করে।"
+ },
+ "Closes the control surface; carries hinge and mass-balance arm. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কন্ট্রোল সারফেস বন্ধ করে; কব্জা ও ভর-ভারসাম্য আর্ম বহন করে। ল্যামিনেটেড: 0.020 in-এর 2টি নেস্টেড স্তর, আলাদাভাবে ভাঁজ করে একসাথে রিভেট করা; প্রতি ভেতরের স্তরে ফ্ল্যাঞ্জ প্রান্ত থেকে 0.5 mm ছেঁটে দিন।"
+ },
+ "Compass (on the glare shield)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কম্পাস (গ্লেয়ার শিল্ডের উপর)"
+ },
+ "Components": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উপাদান"
+ },
+ "Consumables": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ব্যবহার্য সামগ্রী"
+ },
+ "Control stick": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কন্ট্রোল স্টিক"
+ },
+ "Control system": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নিয়ন্ত্রণ ব্যবস্থা"
+ },
+ "Control-circuit strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কন্ট্রোল-সার্কিটের শক্তি"
+ },
+ "Control-system free play": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নিয়ন্ত্রণ ব্যবস্থার ফ্রি প্লে"
+ },
+ "Controllable in all axes with trim available. Engine temperatures stable.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ট্রিমসহ সব অক্ষে নিয়ন্ত্রণযোগ্য। ইঞ্জিনের তাপমাত্রা স্থিতিশীল।"
+ },
+ "Controls, instruments and systems": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নিয়ন্ত্রণ, যন্ত্র ও সিস্টেম"
+ },
+ "Controls: stick, torque tube, cables, pushrods": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নিয়ন্ত্রণ: স্টিক, টর্ক টিউব, কেবল, পুশরড"
+ },
+ "Converging creases 44°, bulkhead flanges 96–100°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "অভিসারী ভাঁজ 44°, বাল্কহেড ফ্ল্যাঞ্জ 96–100°"
+ },
+ "Converted from UK prices": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "UK মূল্য থেকে রূপান্তরিত"
+ },
+ "Copy it, change it, build it, sell it. No permission needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কপি করুন, বদলান, বানান, বিক্রি করুন। কোনো অনুমতি লাগে না।"
+ },
+ "Cordless drill, #40 (2.5 mm) and #30 (3.3 mm) bits": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কর্ডলেস ড্রিল, #40 (2.5 mm) ও #30 (3.3 mm) বিট"
  },
  "Cost": {
-  "t": "খরচ",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "খরচ"
+ },
+ "Cotter pins": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কটার পিন"
+ },
+ "Cotter-pin and safety-wire pliers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কটার-পিন ও সেফটি-ওয়্যার প্লায়ার্স"
+ },
+ "Coupons and processes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কুপন ও প্রক্রিয়া"
+ },
+ "Covers the top half of the firewall. Camlocks along the firewall flange and the split line.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফায়ারওয়ালের উপরের অর্ধেক ঢাকে। ফায়ারওয়াল ফ্ল্যাঞ্জ ও বিভাজন রেখা বরাবর ক্যামলক।"
+ },
+ "Cowl to firewall flange and along the split line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কাউল থেকে ফায়ারওয়াল ফ্ল্যাঞ্জ ও বিভাজন রেখা বরাবর"
+ },
+ "Crippling stress at least {stress:ms_cc}, the design allowable. Layers must not separate before failure.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ক্রিপলিং স্ট্রেস অন্তত {stress:ms_cc}, নকশার অনুমোদনযোগ্য মান। ভাঙার আগে স্তরগুলো আলাদা হওয়া চলবে না।"
+ },
+ "Cruise 75 %": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ক্রুজ 75 %"
+ },
+ "Crush 300 mm lengths of three-layer lipped channel, riveted at design pitch, five samples.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নকশার পিচে রিভেট করা তিন-স্তরের লিপড চ্যানেলের 300 mm টুকরো চূর্ণ করুন, পাঁচটি নমুনা।"
  },
  "Currency": {
-  "t": "মুদ্রা",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মুদ্রা"
+ },
+ "Cut and deburr: the stand blanks are on the same nest sheets as everything else. File every edge smooth and deburr each pilot hole on both faces. Look for burrs with your fingertip, not your eye.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কাটুন ও বার সরান: স্ট্যান্ডের ব্ল্যাঙ্কগুলো অন্য সবকিছুর মতো একই নেস্ট শিটে আছে। প্রতিটি প্রান্ত ফাইল দিয়ে মসৃণ করুন এবং প্রতিটি পাইলট ছিদ্রের দুই পাশের বার সরান। বার খুঁজুন আঙুলের ডগা দিয়ে, চোখ দিয়ে নয়।"
+ },
+ "Cut files (DXF and nests), crease patterns, the prop model, the bill of materials and the design report.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কাটিং ফাইল (DXF ও নেস্ট), ভাঁজের নকশা, প্রপ মডেল, উপকরণের তালিকা ও নকশা রিপোর্ট।"
  },
  "Cut lengths": {
-  "t": "কাটার দৈর্ঘ্য",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কাটার দৈর্ঘ্য"
+ },
+ "Cut list": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কাটার তালিকা"
+ },
+ "Cut the main struts to 2543 mm and the rear struts to 2547 mm pin-to-pin, minus the end-fitting length. All four are 6061-T6 1.75 x 0.065 in tube.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মূল স্ট্রাট 2543 mm ও পেছনের স্ট্রাট 2547 mm পিন-থেকে-পিন কাটুন, প্রান্ত-ফিটিংয়ের দৈর্ঘ্য বাদ দিয়ে। চারটিই 6061-T6 1.75 x 0.065 in টিউব।"
+ },
+ "Cut, deburr, mark": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কাটা, বার সরানো, দাগ দেওয়া"
+ },
+ "Cylinder": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সিলিন্ডার"
+ },
+ "Deburr every edge and hole": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি প্রান্ত ও ছিদ্রের বার সরান"
+ },
+ "Deburr every edge with a file or deburring tool. A burr is where a fatigue crack starts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি প্রান্তের বার ফাইল বা ডিবারিং টুল দিয়ে সরান। বার থেকেই ক্লান্তি-ফাটল শুরু হয়।"
+ },
+ "Deburr every pilot hole on both faces with a 10 mm bit turned by hand.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি পাইলট ছিদ্রের দুই পাশের বার হাতে ঘোরানো 10 mm বিট দিয়ে সরান।"
+ },
+ "Deburring tool, 10 mm drill bit (hole deburr), fine file": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ডিবারিং টুল, 10 mm ড্রিল বিট (ছিদ্রের বার), মিহি ফাইল"
+ },
+ "Don't overtighten: nylon washers, and stop when the washer just grips.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বেশি টাইট করবেন না: নাইলন ওয়াশার, ওয়াশার সবে আঁকড়ে ধরলেই থামুন।"
+ },
+ "Door (left, hinged) / side window (right, fixed)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "দরজা (বামে, কব্জাযুক্ত) / পাশের জানালা (ডানে, স্থির)"
  },
  "Download files (.zip)": {
-  "t": "ফাইল ডাউনলোড (.zip)",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফাইল ডাউনলোড করুন (.zip)"
  },
  "Drawing": {
-  "t": "নকশা",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নকশা"
+ },
+ "Drill and cleco: clamp the gussets in place, drill through the pilot holes to #30 (3.3 mm), and put a cleco in every fourth hole as you go. Then take everything apart, deburr the holes and the faying surfaces, and put it back together on clecos.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ড্রিল ও ক্লিকো: গাসেটগুলো জায়গামতো ক্ল্যাম্প করুন, পাইলট ছিদ্র দিয়ে #30 (3.3 mm) পর্যন্ত ড্রিল করুন, এবং যেতে যেতে প্রতি চতুর্থ ছিদ্রে একটি ক্লিকো দিন। তারপর সব খুলে ফেলুন, ছিদ্র ও সংযোগ-তলের বার সরান, এবং আবার ক্লিকো দিয়ে জোড়া লাগান।"
+ },
+ "Drill press, 1/4 in and 5/16 in reamers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ড্রিল প্রেস, 1/4 in ও 5/16 in রিমার"
+ },
+ "Drill, deburr, prime, rivet the skeleton": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কঙ্কাল ড্রিল, বার সরানো, প্রাইমার, রিভেট"
+ },
+ "Duration": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সময়কাল"
+ },
+ "Each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি"
+ },
+ "Each cable end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি কেবলের প্রান্ত"
+ },
+ "Each spar is a laminate: three nested blanks for the main spar, two for the rear. Fold every layer separately, then nest them.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি স্পার একটি ল্যামিনেট: মূল স্পারের জন্য তিনটি নেস্টেড ব্ল্যাঙ্ক, পেছনেরটির জন্য দুটি। প্রতিটি স্তর আলাদাভাবে ভাঁজ করুন, তারপর একটির ভেতর অন্যটি বসান।"
+ },
+ "Each wing pins on at two points. The struts set its angle.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি ডানা দুটি বিন্দুতে পিন দিয়ে লাগে। স্ট্রাট এর কোণ ঠিক করে।"
+ },
+ "Ears take an AN5 pin (fore-aft axis); web bolts with 2 x AN4. Bend radius 3t for normalised 4130 (Wanttaja).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কানে একটি AN5 পিন যায় (সামনে-পেছনে অক্ষ); ওয়েব 2 x AN4 দিয়ে বোল্ট হয়। নরমালাইজড 4130-এর জন্য বেন্ড ব্যাসার্ধ 3t (Wanttaja)।"
+ },
+ "Electrics: 12 V LiFePO4 battery in a vented box under the seat. Run it via the master switch and fuses to the radio, with the antenna coax to a whip on the tailcone top. The mag P-lead goes through a firewall grommet. The half-VW's magneto needs no battery to run.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বৈদ্যুতিক: আসনের নিচে বায়ু-চলাচলযুক্ত বাক্সে 12 V LiFePO4 ব্যাটারি। মাস্টার সুইচ ও ফিউজের মাধ্যমে রেডিওতে চালান, অ্যান্টেনার কোঅ্যাক্স টেইলকোনের উপরে একটি হুইপে। ম্যাগের P-লিড ফায়ারওয়াল গ্রোমেট দিয়ে যায়। হাফ-VW-এর ম্যাগনেটো চলতে ব্যাটারি লাগে না।"
+ },
+ "Elevator bellcrank (under seat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এলিভেটর বেলক্র্যাঙ্ক (আসনের নিচে)"
+ },
+ "Elevator cable x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এলিভেটর কেবল x2"
+ },
+ "Elevator cable x2: 1/8 in 7x19 galvanised": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এলিভেটর কেবল x2: 1/8 in 7x19 গ্যালভানাইজড"
+ },
+ "Elevator cables: run one straight line each from the bellcrank to the tail-post grommet, 60 mm apart, up cable above down cable. Fit a phenolic fairlead where each line passes a bulkhead.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এলিভেটর কেবল: বেলক্র্যাঙ্ক থেকে টেইল-পোস্ট গ্রোমেট পর্যন্ত প্রতিটি একটি সোজা লাইনে টানুন, 60 mm দূরত্বে, উপরের কেবল নিচের কেবলের উপরে। প্রতিটি লাইন যেখানে বাল্কহেড পেরোয় সেখানে একটি ফেনোলিক ফেয়ারলিড লাগান।"
+ },
+ "Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এলিভেটর হর্ন, 4130 0.063in (দুই-মুখো, এলিভেটর টর্ক টিউবে)"
+ },
+ "Elevator skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এলিভেটর স্কিন"
+ },
+ "Elevator spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এলিভেটর স্পার"
+ },
+ "Elevators and rudder: fold them the same way as the ailerons in step 7 (pleats, then the trailing-edge fold, then the C-spar).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এলিভেটর ও রাডার: ধাপ 7-এর আইলেরনের মতো একইভাবে ভাঁজ করুন (প্লিট, তারপর ট্রেইলিং-এজ ভাঁজ, তারপর C-স্পার)।"
+ },
+ "Empty / MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "খালি / MTOW"
+ },
+ "Empty mass and balance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "খালি ভর ও ভারসাম্য"
+ },
+ "Empty mass at or below {mass:empty} plus 3 %, and every loading case inside the CG range.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "খালি ভর {mass:empty} যোগ 3 % বা তার কম, এবং প্রতিটি লোডিং কেস CG পরিসরের ভেতরে।"
+ },
+ "Empty tanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "খালি ট্যাঙ্ক"
+ },
+ "Empty tanks, 5 kg baggage (aftmost)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "খালি ট্যাঙ্ক, 5 kg মালপত্র (সবচেয়ে পেছনে)"
+ },
+ "Endurance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সহনক্ষমতা"
+ },
+ "Engine and prop": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ইঞ্জিন ও প্রপ"
+ },
+ "Engine and propeller": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ইঞ্জিন ও প্রপেলার"
+ },
+ "Engine mount": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ইঞ্জিন মাউন্ট"
+ },
+ "Engine mount to firewall, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফায়ারওয়ালে ইঞ্জিন মাউন্ট, 4"
+ },
+ "Engine mount tube (4130)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ইঞ্জিন মাউন্ট টিউব (4130)"
+ },
+ "Engine runs: full-power static run, mag check, then check cylinder head temperatures.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ইঞ্জিন চালানো: পূর্ণ-শক্তির স্থির চালনা, ম্যাগ পরীক্ষা, তারপর সিলিন্ডার হেডের তাপমাত্রা পরীক্ষা।"
+ },
+ "Engine to mount, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মাউন্টে ইঞ্জিন, 4"
+ },
+ "Engine, cowl, prop": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ইঞ্জিন, কাউল, প্রপ"
+ },
+ "Enter what one sheet costs where you are. The airframe needs about {n} of them, and the sheet lines below follow your price; everything else stays a converted UK estimate. Leave it empty to use the estimate of {price}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আপনার এলাকায় একটি শিটের দাম লিখুন। এয়ারফ্রেমে এর প্রায় {n}টি লাগে, এবং নিচের শিটের লাইনগুলো আপনার দাম অনুসরণ করে; বাকি সব রূপান্তরিত UK অনুমান থাকে। অনুমান {price} ব্যবহার করতে খালি রাখুন।"
+ },
+ "Epoxy primer + etch/alodine": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ইপক্সি প্রাইমার + এচ/অ্যালোডাইন"
+ },
+ "Estimated": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আনুমানিক"
+ },
+ "Estimated flutter speed at least 1.2 × the design dive speed of {speed:Vd}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আনুমানিক ফ্লাটার গতি নকশার ডাইভ গতি {speed:Vd}-এর অন্তত 1.2 ×।"
+ },
+ "Every crease goes on the blank before anything is folded, the same order the origami book uses.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কোনো কিছু ভাঁজ করার আগে প্রতিটি ভাঁজ ব্ল্যাঙ্কে দেওয়া হয়, অরিগামি বইয়ের মতো একই ক্রমে।"
+ },
+ "Every flange within ±0.5 mm of the drawing.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি ফ্ল্যাঞ্জ নকশার ±0.5 mm-এর মধ্যে।"
+ },
+ "Every folded blank, every rivet by grip, every AN bolt by step, plus tube stock, bought assemblies, consumables and tools. Each line has an estimated price. The same list is in BOM.csv and HARDWARE_BY_STEP.csv in the download.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি ভাঁজ করা ব্ল্যাঙ্ক, গ্রিপ অনুযায়ী প্রতিটি রিভেট, ধাপ অনুযায়ী প্রতিটি AN বোল্ট, সাথে টিউবের মজুত, কেনা অ্যাসেম্বলি, ব্যবহার্য সামগ্রী ও সরঞ্জাম। প্রতিটি লাইনের একটি আনুমানিক মূল্য আছে। একই তালিকা ডাউনলোডের BOM.csv ও HARDWARE_BY_STEP.csv-এ আছে।"
+ },
+ "Every number on this site is a calculation. This is the plan for turning them into evidence: cheap coupon tests first, then components, then the whole wing, then the ground and finally the air. Each phase retires a specific risk before money is spent on the next. Results go back into the repository, and measured values replace the estimates in aircraft.yaml.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এই সাইটের প্রতিটি সংখ্যা একটি গণনা। এগুলোকে প্রমাণে পরিণত করার পরিকল্পনা এই: আগে সস্তা কুপন পরীক্ষা, তারপর উপাদান, তারপর পুরো ডানা, তারপর মাটিতে এবং শেষে আকাশে। প্রতিটি পর্ব পরের পর্বে টাকা খরচের আগে একটি নির্দিষ্ট ঝুঁকি দূর করে। ফলাফল রিপোজিটরিতে ফেরত যায়, এবং মাপা মান aircraft.yaml-এর অনুমান প্রতিস্থাপন করে।"
+ },
+ "Every result, photo and failure goes into the repository.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি ফলাফল, ছবি ও ব্যর্থতা রিপোজিটরিতে যায়।"
+ },
+ "Every steel fitting is also a flat blank folded at most twice.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি ইস্পাত ফিটিংও একটি সমতল ব্ল্যাঙ্ক, সর্বোচ্চ দুবার ভাঁজ করা।"
+ },
+ "Everything that goes into one aircraft": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "একটি বিমানে যা কিছু লাগে"
+ },
+ "Exact": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সঠিক"
+ },
+ "Exchange rates: {date}, base GBP.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বিনিময় হার: {date}, ভিত্তি GBP।"
  },
  "Export BOM (.csv)": {
-  "t": "উপকরণ তালিকা রপ্তানি (.csv)",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উপকরণ তালিকা রপ্তানি (.csv)"
+ },
+ "Extinguisher and PLB": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "অগ্নিনির্বাপক ও PLB"
+ },
+ "F-B1 Tailcone bulkhead x=1150": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B1 টেইলকোন বাল্কহেড x=1150"
+ },
+ "F-B2 Tailcone bulkhead x=1948": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B2 টেইলকোন বাল্কহেড x=1948"
+ },
+ "F-B3 Tailcone bulkhead x=2745": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B3 টেইলকোন বাল্কহেড x=2745"
+ },
+ "F-B4 Tailcone bulkhead x=3542": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B4 টেইলকোন বাল্কহেড x=3542"
+ },
+ "F-B5 Tailcone bulkhead x=4340 (tail post)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B5 টেইলকোন বাল্কহেড x=4340 (টেইল পোস্ট)"
+ },
+ "F-CL Lower cowl (box-pleat pan to the cabin floor line)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-CL নিচের কাউল (কেবিনের মেঝের রেখা পর্যন্ত বক্স-প্লিট প্যান)"
+ },
+ "F-CU Upper cowl (hood, two 90 deg folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-CU উপরের কাউল (হুড, দুটি 90 deg ভাঁজ)"
+ },
+ "F-DW Door (left, hinged) / side window (right, fixed)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-DW দরজা (বামে, কব্জাযুক্ত) / পাশের জানালা (ডানে, স্থির)"
+ },
+ "F-FA Front arch (main-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FA সামনের আর্চ (মূল-স্পারের ফ্রেম)"
+ },
+ "F-FL Floor tray with two hat pleats": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FL দুটি হ্যাট প্লিটসহ মেঝের ট্রে"
+ },
+ "F-FW Firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FW ফায়ারওয়াল"
+ },
+ "F-FWN Front side window (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FWN সামনের পাশের জানালা (x2, আয়না-উল্টো)"
+ },
+ "F-IP Instrument panel (glare-shield fold, side tabs)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-IP ইনস্ট্রুমেন্ট প্যানেল (গ্লেয়ার-শিল্ড ভাঁজ, পাশের ট্যাব)"
+ },
+ "F-NF Nose ring (prop-shaft hole + two cooling inlets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NF নোজ রিং (প্রপ-শ্যাফটের ছিদ্র + দুটি শীতলীকরণ প্রবেশপথ)"
+ },
+ "F-NL Nose bowl, chin (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NL নোজ বোল, চিবুক (3টি অভিসারী তল)"
+ },
+ "F-NU Nose bowl, upper (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NU নোজ বোল, উপরের (3টি অভিসারী তল)"
+ },
+ "F-RA Rear arch (rear-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-RA পেছনের আর্চ (পেছনের-স্পারের ফ্রেম)"
+ },
+ "F-SD Cabin side (x2, mirrored): door/window opening + front window": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-SD কেবিনের পাশ (x2, আয়না-উল্টো): দরজা/জানালার খোলা + সামনের জানালা"
+ },
+ "F-ST Seat (pan + back, one sheet)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-ST আসন (প্যান + পিঠ, এক শিট)"
+ },
+ "F-TB1 Tailcone belly, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TB1 টেইলকোনের পেট, অংশ 1"
+ },
+ "F-TB2 Tailcone belly, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TB2 টেইলকোনের পেট, অংশ 2"
+ },
+ "F-TS1 Tailcone side, section 1 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TS1 টেইলকোনের পাশ, অংশ 1 (x2, আয়না-উল্টো)"
+ },
+ "F-TS2 Tailcone side, section 2 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TS2 টেইলকোনের পাশ, অংশ 2 (x2, আয়না-উল্টো)"
+ },
+ "F-TT1 Tailcone top, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TT1 টেইলকোনের উপর, অংশ 1"
+ },
+ "F-TT2 Tailcone top, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TT2 টেইলকোনের উপর, অংশ 2"
+ },
+ "F-WS Windscreen (cold-bent flat polycarbonate)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-WS উইন্ডস্ক্রিন (ঠান্ডায় বাঁকানো সমতল পলিকার্বোনেট)"
+ },
+ "Faceted rib: every flange is a straight brake bend, no form block or fluting needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বহুতল রিব: প্রতিটি ফ্ল্যাঞ্জ একটি সোজা ব্রেক বাঁক, কোনো ফর্ম ব্লক বা ফ্লুটিং লাগে না।"
+ },
+ "Fairleads and pulleys": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফেয়ারলিড ও পুলি"
+ },
+ "Fasteners": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফাস্টেনার"
+ },
+ "Fin nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফিন নোজ রিব"
+ },
+ "Fin skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফিন স্কিন (এক মোড়ক)"
+ },
+ "Fin spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফিন স্পার"
+ },
+ "Final-drill every Cleco'd hole to #30 (3.3 mm), a few at a time, moving each Cleco to the next hole as you go.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি ক্লিকো-করা ছিদ্র #30 (3.3 mm) পর্যন্ত চূড়ান্ত ড্রিল করুন, একবারে কয়েকটি, যেতে যেতে প্রতিটি ক্লিকো পরের ছিদ্রে সরিয়ে।"
+ },
+ "Fine felt marker, steel rule, square, MEK to clean": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মিহি ফেল্ট মার্কার, ইস্পাতের রুলার, স্কয়ার, পরিষ্কারের জন্য MEK"
+ },
+ "Finish: glue carpet on top of each beam so the wing skin can't be scratched. Load each stand with 40 kg and check it doesn't rack or rock. Keep the offcuts: they are your test pieces for the spar bend in step 2.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "শেষ কাজ: প্রতিটি বিমের উপরে কার্পেট আঠা দিয়ে লাগান যাতে ডানার স্কিনে আঁচড় না লাগে। প্রতিটি স্ট্যান্ডে 40 kg চাপান এবং দেখুন বেঁকে যায় বা দোলে কিনা। কাটা টুকরোগুলো রাখুন: ধাপ 2-এ স্পার বাঁকের জন্য এগুলোই আপনার পরীক্ষার টুকরো।"
+ },
+ "Fire extinguisher 1 kg (clip by the left seat rail)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "অগ্নিনির্বাপক 1 kg (বাম আসন রেলের পাশে ক্লিপ করা)"
+ },
+ "Firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফায়ারওয়াল"
+ },
+ "Firewall flanges": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফায়ারওয়াল ফ্ল্যাঞ্জ"
+ },
+ "First flights": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রথম উড্ডয়ন"
+ },
+ "First-pass strength: +4 / −2 g, ×1.5 ultimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রাথমিক শক্তি: +4 / −2 g, ×1.5 চূড়ান্ত"
+ },
+ "Fit each rib by its attach flange: Cleco through the pilot holes into the spar web. Nose ribs go on the front face, main ribs on the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি রিব তার সংযুক্তি ফ্ল্যাঞ্জ দিয়ে লাগান: পাইলট ছিদ্র দিয়ে স্পার ওয়েবে ক্লিকো। নোজ রিব সামনের তলে, মূল রিব পেছনে।"
+ },
+ "Fit the axles, wheels and drum brakes. Castellated nut and cotter on each axle. The 21 x 8.00-6 tundra tyres run at 10-12 psi: check pressure before every flight, they are soft by design.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "অ্যাক্সেল, চাকা ও ড্রাম ব্রেক লাগান। প্রতিটি অ্যাক্সেলে ক্যাসেলেটেড নাট ও কটার। 21 x 8.00-6 টুন্ড্রা টায়ার 10-12 psi-তে চলে: প্রতি উড্ডয়নের আগে চাপ পরীক্ষা করুন, নকশা অনুযায়ীই এগুলো নরম।"
+ },
+ "Fit the cabin roof and the centre-section upper skin, back-drilled through the root ribs. Use the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কেবিনের ছাদ ও কেন্দ্র-অংশের উপরের স্কিন লাগান, মূল রিব দিয়ে ব্যাক-ড্রিল করে। রিভেটিং চক্র ব্যবহার করুন।"
+ },
+ "Fit the camlock receptacles on the firewall flange and along the split line. Trim the cowl until it clears the cylinders by at least 10 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফায়ারওয়াল ফ্ল্যাঞ্জে ও বিভাজন রেখা বরাবর ক্যামলক রিসেপ্টাকল লাগান। কাউল ছাঁটুন যতক্ষণ না সিলিন্ডার থেকে অন্তত 10 mm ফাঁক থাকে।"
+ },
+ "Fit the jury struts (420 mm main, 425 mm rear) from the clamp ear to the jury-top clevis under the spar, AN3 at each end. They double the strut's buckling strength.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "জুরি স্ট্রাট (মূল 420 mm, পেছনের 425 mm) ক্ল্যাম্পের কান থেকে স্পারের নিচের জুরি-শীর্ষ ক্লেভিস পর্যন্ত লাগান, প্রতি প্রান্তে AN3। এগুলো স্ট্রাটের বাকলিং শক্তি দ্বিগুণ করে।"
+ },
+ "Fit the sides outside the arches, firewall flange and floor flanges. Back-drill and Cleco.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পাশগুলো আর্চের বাইরে, ফায়ারওয়াল ফ্ল্যাঞ্জ ও মেঝের ফ্ল্যাঞ্জে লাগান। ব্যাক-ড্রিল ও ক্লিকো করুন।"
+ },
+ "Fit the stick, the aileron torque tube under the seat and the elevator bellcrank. Connect the stick to the bellcrank with a short pushrod.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্টিক, আসনের নিচে আইলেরন টর্ক টিউব ও এলিভেটর বেলক্র্যাঙ্ক লাগান। একটি ছোট পুশরড দিয়ে স্টিককে বেলক্র্যাঙ্কের সাথে যুক্ত করুন।"
+ },
+ "Five facets, chamfers matching the cabin floor. A louvre slot at the rear is the cooling-air exit.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পাঁচটি তল, চ্যামফার কেবিনের মেঝের সাথে মেলানো। পেছনের একটি লুভার খাঁজ শীতল বাতাস বের হওয়ার পথ।"
+ },
+ "Flanges 90°, all toward the root": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফ্ল্যাঞ্জ 90°, সবই মূলের দিকে"
+ },
+ "Flanges all round fold aft; engine mount bolts through 4 doublers.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "চারপাশের ফ্ল্যাঞ্জ পেছনে ভাঁজ হয়; ইঞ্জিন মাউন্ট 4টি ডাবলার দিয়ে বোল্ট হয়।"
+ },
+ "Flanges follow the frustum taper (fold < 90 deg).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফ্ল্যাঞ্জগুলো ফ্রাস্টামের ঢাল অনুসরণ করে (ভাঁজ < 90 deg)।"
+ },
+ "Flanges follow the frustum taper (fold < 90 deg). Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফ্ল্যাঞ্জগুলো ফ্রাস্টামের ঢাল অনুসরণ করে (ভাঁজ < 90 deg)। ল্যামিনেটেড: 0.020 in-এর 2টি নেস্টেড স্তর, আলাদাভাবে ভাঁজ করে একসাথে রিভেট করা; প্রতি ভেতরের স্তরে ফ্ল্যাঞ্জ প্রান্ত থেকে 0.5 mm ছেঁটে দিন।"
+ },
+ "Flanges follow the nose taper.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফ্ল্যাঞ্জগুলো নোজের ঢাল অনুসরণ করে।"
+ },
+ "Flap lever (overhead, Kitfox-style)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফ্ল্যাপ লিভার (মাথার উপরে, Kitfox-ধরন)"
+ },
+ "Flap pushrod (wing) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফ্ল্যাপ পুশরড (ডানা) x2"
+ },
+ "Flap pushrod (wing) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফ্ল্যাপ পুশরড (ডানা) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Flap stall at or below 35 kt CAS, the SSDR limit; predicted {speed:Vs0}. Gentle stall, no wing drop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফ্ল্যাপসহ স্টল 35 kt CAS বা তার কম, SSDR সীমা; পূর্বাভাস {speed:Vs0}। মৃদু স্টল, ডানা পড়ে না।"
+ },
+ "Flaps and ailerons": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফ্ল্যাপ ও আইলেরন"
+ },
+ "Flat panel; the top flange folds aft as a glare shield, side tabs fold forward onto the cabin sides. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সমতল প্যানেল; উপরের ফ্ল্যাঞ্জ গ্লেয়ার শিল্ড হিসেবে পেছনে ভাঁজ হয়, পাশের ট্যাব সামনে কেবিনের পাশে ভাঁজ হয়। ল্যামিনেটেড: 0.020 in-এর 2টি নেস্টেড স্তর, আলাদাভাবে ভাঁজ করে একসাথে রিভেট করা; প্রতি ভেতরের স্তরে ফ্ল্যাঞ্জ প্রান্ত থেকে 0.5 mm ছেঁটে দিন।"
+ },
+ "Flat polycarbonate over the front cut-out, 20 mm lap, screws in 4.5 mm oversize holes.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সামনের কাটা অংশের উপর সমতল পলিকার্বোনেট, 20 mm ওভারল্যাপ, 4.5 mm বড় ছিদ্রে স্ক্রু।"
+ },
+ "Flight test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উড্ডয়ন পরীক্ষা"
+ },
+ "Floor tray with two hat pleats": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "দুটি হ্যাট প্লিটসহ মেঝের ট্রে"
+ },
+ "Floor, firewall, arches": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মেঝে, ফায়ারওয়াল, আর্চ"
+ },
+ "Flutter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফ্লাটার"
+ },
+ "Foam tape": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফোম টেপ"
+ },
+ "Fold 20 strips of 0.51 mm 6061-T6 at a 0.8 mm nose radius, across and along the grain. Inspect every bend under a 10× loupe.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "0.51 mm 6061-T6-এর 20টি স্ট্রিপ 0.8 mm নোজ ব্যাসার্ধে ভাঁজ করুন, আঁশের আড়াআড়ি ও বরাবর। প্রতিটি বাঁক 10× লুপ দিয়ে পরিদর্শন করুন।"
+ },
+ "Fold a 300 mm offcut of a rib and of a spar from the real DXFs and measure every flange.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আসল DXF থেকে একটি রিব ও একটি স্পারের 300 mm কাটা টুকরো ভাঁজ করে প্রতিটি ফ্ল্যাঞ্জ মাপুন।"
+ },
+ "Fold a 300 mm offcut of the same strip first and measure it to confirm the bend deduction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আগে একই স্ট্রিপের 300 mm কাটা টুকরো ভাঁজ করে মাপুন, বেন্ড ডিডাকশন নিশ্চিত করতে।"
+ },
+ "Fold all 52 ribs before assembling any: one brake set-up does the whole batch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কোনোটি জোড়ার আগে সব 52টি রিব ভাঁজ করুন: ব্রেকের একবারের সেটআপে পুরো ব্যাচ হয়ে যায়।"
+ },
+ "Fold coupons": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কুপন ভাঁজ"
+ },
+ "Fold each belly blank: bottom, both chamfers, then the side flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি পেটের ব্ল্যাঙ্ক ভাঁজ করুন: তলা, দুটি চ্যামফার, তারপর পাশের ফ্ল্যাঞ্জ।"
+ },
+ "Fold every rib flange 90° on the brake. Because the airfoil is faceted, each flange is one straight bend.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি রিব ফ্ল্যাঞ্জ ব্রেকে 90° ভাঁজ করুন। এয়ারফয়েল বহুতল বলে প্রতিটি ফ্ল্যাঞ্জ একটি সোজা বাঁক।"
+ },
+ "Fold the 12 clevises in the vise over a 5 mm radius block. Normalised 4130 needs at least 3t (Wanttaja).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "12টি ক্লেভিস ভাইসে 5 mm ব্যাসার্ধের ব্লকের উপর ভাঁজ করুন। নরমালাইজড 4130-এর অন্তত 3t লাগে (Wanttaja)।"
+ },
+ "Fold the 90° top flange and the windscreen flange on each side panel. The top flange is the longeron.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি পাশের প্যানেলে 90° উপরের ফ্ল্যাঞ্জ ও উইন্ডস্ক্রিন ফ্ল্যাঞ্জ ভাঁজ করুন। উপরের ফ্ল্যাঞ্জটিই লঞ্জেরন।"
+ },
+ "Fold the bulkhead flanges. They are 96–100°, not 90°, because they follow the taper.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বাল্কহেড ফ্ল্যাঞ্জ ভাঁজ করুন। এগুলো 96–100°, 90° নয়, কারণ এরা ঢাল অনুসরণ করে।"
+ },
+ "Fold the firewall flanges, all aft. It is stainless, so drill it slowly with a sharp bit and cutting oil.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফায়ারওয়াল ফ্ল্যাঞ্জ ভাঁজ করুন, সবই পেছনে। এটি স্টেইনলেস, তাই ধারালো বিট ও কাটিং তেল দিয়ে ধীরে ড্রিল করুন।"
+ },
+ "Fold the floor tray's two hat pleats, then the chamfers and side flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মেঝের ট্রের দুটি হ্যাট প্লিট ভাঁজ করুন, তারপর চ্যামফার ও পাশের ফ্ল্যাঞ্জ।"
+ },
+ "Fold the instrument panel (glare shield and side tabs) and rivet it to the cabin sides at x = -400 mm. Fit the ASI, altimeter, tach, CHT/EGT, radio, master and mag switches and fuel valve, and put the compass on the glare shield.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ইনস্ট্রুমেন্ট প্যানেল ভাঁজ করুন (গ্লেয়ার শিল্ড ও পাশের ট্যাব) এবং x = -400 mm-এ কেবিনের পাশে রিভেট করুন। ASI, অল্টিমিটার, ট্যাক, CHT/EGT, রেডিও, মাস্টার ও ম্যাগ সুইচ ও জ্বালানি ভালভ লাগান, এবং কম্পাস গ্লেয়ার শিল্ডে রাখুন।"
+ },
+ "Fold the ribs, Cleco them on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রিব ভাঁজ করুন, ক্লিকো দিয়ে লাগান"
+ },
+ "Fold the seat: pan and back from one sheet. Rivet its front lip to the floor and lean its back on the rear arch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আসন ভাঁজ করুন: প্যান ও পিঠ এক শিট থেকে। এর সামনের লিপ মেঝেতে রিভেট করুন এবং পিঠ পেছনের আর্চে হেলান দিন।"
+ },
+ "Fold the spars": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্পার ভাঁজ করুন"
+ },
+ "Fold the stabiliser and fin spars and their nose ribs.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্যাবিলাইজার ও ফিন স্পার এবং তাদের নোজ রিব ভাঁজ করুন।"
+ },
+ "Fold the trailing edge over a 0.6 mm radius bar in the brake, to about 165°. Squeeze gently in soft vise jaws until the TE is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ট্রেইলিং এজ ব্রেকে 0.6 mm ব্যাসার্ধের বারের উপর প্রায় 165° পর্যন্ত ভাঁজ করুন। TE সোজা না হওয়া পর্যন্ত নরম ভাইস চোয়ালে আলতো চাপ দিন।"
+ },
+ "Fold the two V-bead pleats in valley-mountain-valley order. Stop each bead at the marks.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "দুটি V-বিড প্লিট ভ্যালি-মাউন্টেন-ভ্যালি ক্রমে ভাঁজ করুন। প্রতিটি বিড দাগে থামান।"
+ },
+ "Fold the two arches: outer and inner flanges, all aft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "দুটি আর্চ ভাঁজ করুন: বাইরের ও ভেতরের ফ্ল্যাঞ্জ, সবই পেছনে।"
+ },
+ "Fold the two caps first (90°), then the two lips. Overbend by about 2° so the 6061-T6 springs back to 90°.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আগে দুটি ক্যাপ ভাঁজ করুন (90°), তারপর দুটি লিপ। প্রায় 2° বেশি বাঁকান যাতে 6061-T6 ফিরে 90°-এ আসে।"
+ },
+ "Fold the upper and lower cowls (four 45° creases each) and the nose-bowl halves. Rivet the nose bowls to the nose ring.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উপরের ও নিচের কাউল (প্রতিটিতে চারটি 45° ভাঁজ) এবং নোজ-বোলের দুই অর্ধেক ভাঁজ করুন। নোজ বোল নোজ রিংয়ে রিভেট করুন।"
+ },
+ "Folded blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ভাঁজ করা ব্ল্যাঙ্ক"
+ },
+ "Folds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ভাঁজ"
+ },
+ "Four brake bends each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটিতে চারটি ব্রেক বাঁক"
+ },
+ "Four identical surfaces from one blank. The trailing edge is a single crease, so there's no separate strip to rivet on.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এক ব্ল্যাঙ্ক থেকে চারটি একই রকম সারফেস। ট্রেইলিং এজ একটি মাত্র ভাঁজ, তাই আলাদা স্ট্রিপ রিভেট করতে হয় না।"
+ },
+ "Four stands, 20 blanks, about 200 rivets. The cheapest place to learn to fold, drill and rivet is a part that never leaves the ground.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "চারটি স্ট্যান্ড, 20টি ব্ল্যাঙ্ক, প্রায় 200টি রিভেট। ভাঁজ, ড্রিল ও রিভেট শেখার সবচেয়ে সস্তা জায়গা এমন একটি অংশ যা কখনো মাটি ছাড়ে না।"
+ },
+ "Free play under 1° at each surface, and full travel with no binding under load.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি সারফেসে ফ্রি প্লে 1°-এর কম, এবং লোডে কোনো আটকানো ছাড়াই পূর্ণ গতিপথ।"
+ },
+ "Front arch (main-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সামনের আর্চ (মূল-স্পারের ফ্রেম)"
+ },
+ "Front side window (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সামনের পাশের জানালা (x2, আয়না-উল্টো)"
+ },
+ "Front side windows: screw over the cut-outs with a 20 mm lap.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সামনের পাশের জানালা: কাটা অংশের উপর 20 mm ওভারল্যাপে স্ক্রু করুন।"
+ },
+ "Frustum facets aimed at one point, so every crease is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফ্রাস্টামের তলগুলো এক বিন্দুর দিকে তাক করা, তাই প্রতিটি ভাঁজ সোজা।"
+ },
+ "Fuel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "জ্বালানি"
+ },
+ "Fuel allowed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "অনুমোদিত জ্বালানি"
  },
  "Fuel and payload": {
-  "t": "জ্বালানি ও ভার",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "জ্বালানি ও পেলোড"
+ },
+ "Fuel feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "জ্বালানি সরবরাহ"
+ },
+ "Fuel filler neck + cap (through the hood, ahead of the windscreen)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "জ্বালানি ফিলার নেক + ঢাকনা (হুড দিয়ে, উইন্ডস্ক্রিনের সামনে)"
+ },
+ "Fuel selector valve: HEADER / AUX / OFF": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "জ্বালানি সিলেক্টর ভালভ: HEADER / AUX / OFF"
+ },
+ "Fuel system parts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "জ্বালানি ব্যবস্থার যন্ত্রাংশ"
+ },
+ "Fuel tank 19 L (rotomoulded polyethylene): header tank behind the firewall, ahead of the panel, Cub-style": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "জ্বালানি ট্যাঙ্ক 19 L (রোটোমোল্ডেড পলিইথিলিন): ফায়ারওয়ালের পেছনে, প্যানেলের সামনে হেডার ট্যাঙ্ক, Cub-ধরন"
+ },
+ "Fuel tank 19 L (rotomoulded) + lines, valve, gascolator": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "জ্বালানি ট্যাঙ্ক 19 L (রোটোমোল্ডেড) + লাইন, ভালভ, গ্যাসকোলেটর"
+ },
+ "Fuel, aux tank: a second 20 L tank strap-mounts high behind the seat, its bottom above the header tank top so it also gravity-feeds. Its line runs forward along the left roof rail to the selector; filler through the left cabin side, vent overboard under the roof. Never in the wings. Fill it only as far as the 300 kg MTOW allows: with a 100 kg pilot that is none at all. Burn the aux tank first, which keeps the CG moving forward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "জ্বালানি, অক্স ট্যাঙ্ক: দ্বিতীয় একটি 20 L ট্যাঙ্ক আসনের পেছনে উঁচুতে স্ট্র্যাপ দিয়ে বসানো, এর তলা হেডার ট্যাঙ্কের উপরের চেয়ে উঁচুতে যাতে এটিও মাধ্যাকর্ষণে সরবরাহ করে। এর লাইন বাম ছাদ রেল বরাবর সামনে সিলেক্টরে যায়; ফিলার বাম কেবিন পাশ দিয়ে, ভেন্ট ছাদের নিচে বাইরে। কখনো ডানায় নয়। 300 kg MTOW যতটুকু অনুমতি দেয় ততটুকুই ভরুন: 100 kg পাইলটের ক্ষেত্রে একটুও নয়। আগে অক্স ট্যাঙ্ক পোড়ান, এতে CG সামনের দিকে সরে।"
+ },
+ "Fuel, header tank: the 19 L rotomoulded tank sits behind the firewall, above the pilot's shins and under the windscreen, strapped to two angles riveted to the side panels (as on a J-3 Cub). It gravity-feeds: tank outlet, selector valve (HEADER / AUX / OFF), a fire-sleeved hose through a firewall grommet, the gascolator on the firewall, then the carburettor. The tank bottom is about 200 mm above the carburettor. The filler neck comes up through the hood just ahead of the windscreen, and the vent runs forward under the hood.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "জ্বালানি, হেডার ট্যাঙ্ক: 19 L রোটোমোল্ডেড ট্যাঙ্কটি ফায়ারওয়ালের পেছনে, পাইলটের পায়ের নলার উপরে ও উইন্ডস্ক্রিনের নিচে বসে, পাশের প্যানেলে রিভেট করা দুটি অ্যাঙ্গেলে স্ট্র্যাপ দিয়ে বাঁধা (J-3 Cub-এর মতো)। এটি মাধ্যাকর্ষণে সরবরাহ করে: ট্যাঙ্কের নির্গমপথ, সিলেক্টর ভালভ (HEADER / AUX / OFF), ফায়ারওয়াল গ্রোমেট দিয়ে অগ্নি-আবরণযুক্ত হোস, ফায়ারওয়ালে গ্যাসকোলেটর, তারপর কার্বুরেটর। ট্যাঙ্কের তলা কার্বুরেটরের প্রায় 200 mm উপরে। ফিলার নেক উইন্ডস্ক্রিনের ঠিক সামনে হুড দিয়ে উঠে আসে, এবং ভেন্ট হুডের নিচ দিয়ে সামনে যায়।"
+ },
+ "Gascolator (fuel strainer) on the firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফায়ারওয়ালে গ্যাসকোলেটর (জ্বালানি ছাঁকনি)"
+ },
+ "Glide L/D": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "গ্লাইড L/D"
+ },
+ "Ground": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মাটিতে"
+ },
+ "Ground vibration test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মাটিতে কম্পন পরীক্ষা"
+ },
+ "Half-VW engine": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "হাফ-VW ইঞ্জিন"
+ },
+ "Half-VW engine, dressed (carb, mag, exhaust)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "হাফ-VW ইঞ্জিন, সজ্জিত (কার্ব, ম্যাগ, এগজস্ট)"
+ },
+ "Hang the elevators and rudder on piano hinges. Check ±25° rudder travel clears the elevator halves.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এলিভেটর ও রাডার পিয়ানো কব্জায় ঝোলান। ±25° রাডার গতিপথ এলিভেটরের দুই অর্ধেকে লাগে না কিনা দেখুন।"
+ },
+ "Hang the half-VW on rubber isolators (4 x AN5).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "হাফ-VW রাবার আইসোলেটরে ঝোলান (4 x AN5)।"
  },
  "Hangar": {
-  "t": "হ্যাঙ্গার",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "হ্যাঙ্গার"
  },
  "Hardware": {
-  "t": "হার্ডওয়্যার",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "হার্ডওয়্যার"
  },
  "Hardware for this step": {
-  "t": "এই ধাপের হার্ডওয়্যার",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এই ধাপের হার্ডওয়্যার"
+ },
+ "Harness anchors to floor and rear arch, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মেঝে ও পেছনের আর্চে হারনেস অ্যাঙ্কর, 4"
+ },
+ "Hat pleats 56°, flanges 90°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "হ্যাট প্লিট 56°, ফ্ল্যাঞ্জ 90°"
+ },
+ "Have a BMAA or LAA inspector look at it before the first flight. Do first flights in calm air, over a long field.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রথম উড্ডয়নের আগে একজন BMAA বা LAA পরিদর্শককে দেখান। প্রথম উড্ডয়ন শান্ত বাতাসে, দীর্ঘ মাঠের উপর করুন।"
+ },
+ "Head": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "হেড"
+ },
+ "Header tank full": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "হেডার ট্যাঙ্ক পূর্ণ"
+ },
+ "Holds ultimate load for 3 s in both directions.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "দুই দিকেই 3 s চূড়ান্ত লোড ধরে রাখে।"
+ },
+ "Holds ultimate load for 3 s. Peak cap stress {stress:ms_sig} against an allowable of {stress:ms_cc}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "3 s চূড়ান্ত লোড ধরে রাখে। সর্বোচ্চ ক্যাপ স্ট্রেস {stress:ms_sig}, অনুমোদনযোগ্য {stress:ms_cc}-এর বিপরীতে।"
+ },
+ "Holds {force:strut_T} in tension and {force:strut_C} in compression with no failure.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টানে {force:strut_T} ও সংকোচনে {force:strut_C} ধরে রাখে, কোনো ব্যর্থতা ছাড়া।"
+ },
+ "Honesty": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সততা"
+ },
+ "Horn: rod end bolts through the outer hole (AN3).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "হর্ন: রড এন্ড বাইরের ছিদ্র দিয়ে বোল্ট হয় (AN3)।"
+ },
+ "Horns, bellcranks and brackets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "হর্ন, বেলক্র্যাঙ্ক ও ব্র্যাকেট"
+ },
+ "How it gets proven": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কীভাবে প্রমাণ করা হয়"
+ },
+ "Imperial": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ইম্পেরিয়াল"
+ },
+ "Inspect each rivet: head seated flat, mandrel broken off flush, no gap under the head.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি রিভেট পরিদর্শন করুন: মাথা সমতলে বসা, ম্যান্ড্রেল সমান করে ভাঙা, মাথার নিচে কোনো ফাঁক নেই।"
+ },
+ "Inspection": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পরিদর্শন"
+ },
+ "Inspector sign-off before the aircraft is flown by anyone else.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "অন্য কেউ বিমানটি ওড়ানোর আগে পরিদর্শকের অনুমোদন।"
  },
  "Instructions": {
-  "t": "নির্দেশনা",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নির্দেশনা"
+ },
+ "Instrument panel (glare-shield fold, side tabs)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ইনস্ট্রুমেন্ট প্যানেল (গ্লেয়ার-শিল্ড ভাঁজ, পাশের ট্যাব)"
+ },
+ "Instruments (ASI, alt, tach, CHT, compass)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "যন্ত্র (ASI, alt, tach, CHT, কম্পাস)"
+ },
+ "Inverted wing on its fittings, sandbags laid out to the spanwise lift distribution, to +4 g limit and then −2 g. Measure tip deflection at each step.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উল্টো ডানা তার ফিটিংয়ে, বালির বস্তা স্প্যান-বরাবর লিফট বণ্টন অনুযায়ী বিছানো, +4 g সীমা পর্যন্ত এবং তারপর −2 g। প্রতি ধাপে প্রান্তের বিচ্যুতি মাপুন।"
+ },
+ "Item": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "জিনিস"
+ },
+ "Jury strut 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "জুরি স্ট্রাট 0.75 x 0.049 in"
+ },
+ "Jury strut x2 (main)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "জুরি স্ট্রাট x2 (মূল)"
+ },
+ "Jury strut x2 (main): 6061-T6 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "জুরি স্ট্রাট x2 (মূল): 6061-T6 0.75 x 0.049 in"
+ },
+ "Jury strut x2 (rear)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "জুরি স্ট্রাট x2 (পেছনের)"
+ },
+ "Jury strut x2 (rear): 6061-T6 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "জুরি স্ট্রাট x2 (পেছনের): 6061-T6 0.75 x 0.049 in"
+ },
+ "Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "জুরি-স্ট্রাট স্যাডল ক্ল্যাম্প, 4130 0.063in (কানসহ গোল করা অর্ধ-খোল)"
+ },
+ "K-BC Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-BC বেলক্র্যাঙ্ক প্লেট, 4130 0.063in (জোড়ায়, 55 mm আর্ম)"
+ },
+ "K-CV Clevis, 4130 0.063in (U, two folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-CV ক্লেভিস, 4130 0.063in (U, দুটি ভাঁজ)"
+ },
+ "K-HD Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HD এলিভেটর হর্ন, 4130 0.063in (দুই-মুখো, এলিভেটর টর্ক টিউবে)"
+ },
+ "K-HN Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HN আইলেরন / ফ্ল্যাপ হর্ন, 4130 0.063in (নিচের স্কিনে একটি ভাঁজ)"
+ },
+ "K-HR Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HR রাডার হর্ন, 4130 0.063in (সমতল, প্রতি পাশে কেবল)"
+ },
+ "K-JC Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-JC জুরি-স্ট্রাট স্যাডল ক্ল্যাম্প, 4130 0.063in (কানসহ গোল করা অর্ধ-খোল)"
+ },
+ "K-TG Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-TG স্পার-মূল ট্যাং, 4130 0.063in (সমতল, ওয়েবের দুই পাশে জোড়ায়)"
+ },
+ "Laminate: each channel is two blanks. Fold both separately, nest the inner one inside the outer one, and check they sit tight with no gap. If the inner one fights, take 0.5 mm off its flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ল্যামিনেট: প্রতিটি চ্যানেল দুটি ব্ল্যাঙ্ক। দুটিই আলাদাভাবে ভাঁজ করুন, ভেতরেরটি বাইরেরটির ভেতর বসান, এবং দেখুন ফাঁক ছাড়া শক্ত করে বসেছে কিনা। ভেতরেরটি না ঢুকলে এর ফ্ল্যাঞ্জ প্রান্ত থেকে 0.5 mm ছেঁটে দিন।"
+ },
+ "Laminated channel crippling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ল্যামিনেটেড চ্যানেলের ক্রিপলিং"
+ },
+ "Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ল্যামিনেটেড: 0.020 in-এর 2টি নেস্টেড স্তর, আলাদাভাবে ভাঁজ করে একসাথে রিভেট করা; প্রতি ভেতরের স্তরে ফ্ল্যাঞ্জ প্রান্ত থেকে 0.5 mm ছেঁটে দিন।"
+ },
+ "Landing gear and tailwheel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ল্যান্ডিং গিয়ার ও টেইলহুইল"
+ },
+ "Landing roll": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "অবতরণ দৌড়"
  },
  "Language": {
-  "t": "ভাষা",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ভাষা"
+ },
+ "Laps 30 mm under the upper skin at 8% chord.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "8% কর্ডে উপরের স্কিনের নিচে 30 mm ওভারল্যাপ।"
+ },
+ "Laser / waterjet cutting service": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "লেজার / ওয়াটারজেট কাটিং সেবা"
+ },
+ "Lay the spars on a flat table, webs vertical, 3.6 m apart for the two wings.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্পারগুলো সমতল টেবিলে রাখুন, ওয়েব খাড়া, দুটি ডানার জন্য 3.6 m দূরত্বে।"
+ },
+ "Leans on the rear arch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পেছনের আর্চে হেলান দেয়।"
+ },
+ "Leave the protective film on. Drill the polycarbonate with plastic bits, holes 6 mm for M4 screws so it can expand.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সুরক্ষা ফিল্ম রেখে দিন। পলিকার্বোনেট প্লাস্টিকের বিট দিয়ে ড্রিল করুন, M4 স্ক্রুর জন্য 6 mm ছিদ্র যাতে এটি প্রসারিত হতে পারে।"
+ },
+ "Left door front edge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বাম দরজার সামনের প্রান্ত"
+ },
+ "Licence": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "লাইসেন্স"
+ },
+ "Lift strut (main) 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "লিফট স্ট্রাট (মূল) 1.75 x 0.065 in"
+ },
+ "Lift strut (rear) 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "লিফট স্ট্রাট (পেছনের) 1.75 x 0.065 in"
+ },
+ "Lift strut, tension": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "লিফট স্ট্রাট, টান"
+ },
+ "Lift strut, −2 g buckling (with jury strut)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "লিফট স্ট্রাট, −2 g বাকলিং (জুরি স্ট্রাটসহ)"
+ },
+ "Lift struts and jury struts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "লিফট স্ট্রাট ও জুরি স্ট্রাট"
+ },
+ "Line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "লাইন"
+ },
+ "Lipped channels: four 90° brake bends each, two nested layers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "লিপড চ্যানেল: প্রতিটিতে চারটি 90° ব্রেক বাঁক, দুটি নেস্টেড স্তর"
+ },
+ "Load each linkage part to 1.5 × the BCAR Section S pilot loads at the stick and pedals.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি লিংকেজ অংশ স্টিক ও প্যাডেলে BCAR Section S পাইলট লোডের 1.5 × পর্যন্ত লোড করুন।"
+ },
+ "Local-price estimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্থানীয়-মূল্যের অনুমান"
+ },
+ "Local-price estimate for {country}, in {currency}, before any local sales tax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "{country}-এর জন্য স্থানীয়-মূল্যের অনুমান, {currency}-তে, স্থানীয় বিক্রয় কর ছাড়া।"
+ },
+ "Local-price estimate for {country}, in {currency}, including {tax} % VAT, GST or sales tax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "{country}-এর জন্য স্থানীয়-মূল্যের অনুমান, {currency}-তে, {tax} % VAT, GST বা বিক্রয় করসহ।"
+ },
+ "Low-speed taxi, then fast taxi with the tail up, on the intended test field.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নির্ধারিত পরীক্ষা মাঠে ধীর ট্যাক্সি, তারপর লেজ উঁচু করে দ্রুত ট্যাক্সি।"
+ },
+ "Lower cowl (box-pleat pan to the cabin floor line)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নিচের কাউল (কেবিনের মেঝের রেখা পর্যন্ত বক্স-প্লিট প্যান)"
+ },
+ "Lower skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নিচের স্কিন, খোপ 1"
+ },
+ "Lower skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নিচের স্কিন, খোপ 2"
+ },
+ "Lower skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নিচের স্কিন, খোপ 3"
+ },
+ "Lower skins": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নিচের স্কিন"
+ },
+ "M4 pan screw, nylon washer, M4 Nyloc nut, 6 mm oversize hole in polycarbonate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "M4 প্যান স্ক্রু, নাইলন ওয়াশার, M4 Nyloc নাট, পলিকার্বোনেটে 6 mm বড় ছিদ্র"
+ },
+ "MEK / cleaner, Scotch-Brite, gloves": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "MEK / ক্লিনার, Scotch-Brite, দস্তানা"
+ },
+ "Main gear leg x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মেইন গিয়ার লেগ x2"
+ },
+ "Main gear leg x2: 6061-T6 bar 75 x 16 mm": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মেইন গিয়ার লেগ x2: 6061-T6 বার 75 x 16 mm"
+ },
+ "Main gear legs through floor doubler, 2 per leg": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মেঝের ডাবলার দিয়ে মেইন গিয়ার লেগ, প্রতি লেগে 2টি"
+ },
+ "Main gear spring leg (6061-T6 bar)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মেইন গিয়ার স্প্রিং লেগ (6061-T6 বার)"
+ },
+ "Main gear: 2 spring legs + axles": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মেইন গিয়ার: 2টি স্প্রিং লেগ + অ্যাক্সেল"
+ },
+ "Main lift strut x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মূল লিফট স্ট্রাট x2"
+ },
+ "Main lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মূল লিফট স্ট্রাট x2: 6061-T6 1.75 x 0.065 in"
+ },
+ "Main rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মূল রিব"
+ },
+ "Main rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মূল রিব, মূল/প্রান্ত"
+ },
+ "Main spar (lipped C, opens aft)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মূল স্পার (লিপড C, পেছনে খোলা)"
+ },
+ "Main spar section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মূল স্পার অংশ"
+ },
+ "Main spar web shear, limit": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মূল স্পার ওয়েবের শিয়ার, সীমা"
+ },
+ "Main spar: lipped C, three layers of 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মূল স্পার: লিপড C, 0.020 in-এর তিনটি স্তর"
+ },
+ "Main wheel: 21 x 8.00-6 tundra tyre at 10-12 psi": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মেইন হুইল: 21 x 8.00-6 টুন্ড্রা টায়ার 10-12 psi-তে"
+ },
+ "Main wheels": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মেইন হুইল"
+ },
+ "Margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মার্জিন"
+ },
+ "Mark fold lines on the marked face: red dashed = valley, blue dash-dot = mountain. Use a fine felt marker, never a scribe (Wanttaja: scribe lines start cracks).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "দাগ দেওয়া তলে ভাঁজের রেখা আঁকুন: লাল ড্যাশ = ভ্যালি, নীল ড্যাশ-ডট = মাউন্টেন। মিহি ফেল্ট মার্কার ব্যবহার করুন, কখনো স্ক্রাইব নয় (Wanttaja: স্ক্রাইবের দাগ থেকে ফাটল শুরু হয়)।"
+ },
+ "Mark folds with felt pen, never a scribe": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফেল্ট কলমে ভাঁজ দাগান, কখনো স্ক্রাইব নয়"
+ },
+ "Mark the folds: red dashed is a valley, blue dash-dot is a mountain. Felt marker on the marked face only, never a scribe.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ভাঁজ দাগান: লাল ড্যাশ ভ্যালি, নীল ড্যাশ-ডট মাউন্টেন। শুধু দাগ দেওয়া তলে ফেল্ট মার্কার, কখনো স্ক্রাইব নয়।"
+ },
+ "Mass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ভর"
+ },
+ "Mass balance weights": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ভর-ভারসাম্যের ওজন"
+ },
+ "Mass-balance each aileron with lead on an arm ahead of the hinge until it hangs level, before it goes on the aircraft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি আইলেরন বিমানে লাগানোর আগে কব্জার সামনে একটি আর্মে সীসা দিয়ে ভর-ভারসাম্য করুন যতক্ষণ না সমতলে ঝোলে।"
+ },
+ "Mass-balance horn at outboard end.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বাইরের প্রান্তে ভর-ভারসাম্য হর্ন।"
+ },
+ "Mean strength at or above the value used in design, scatter under 10 %.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "গড় শক্তি নকশায় ব্যবহৃত মানের সমান বা বেশি, বিচ্যুতি 10 %-এর কম।"
+ },
+ "Measure gravity flow from each tank, with the aircraft at its steepest climb attitude plus margin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি ট্যাঙ্ক থেকে মাধ্যাকর্ষণ প্রবাহ মাপুন, বিমানটি তার খাড়াতম আরোহণ ভঙ্গিতে এবং অতিরিক্ত মার্জিনসহ।"
+ },
+ "Measure twist under a known torque at the tip rib.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রান্তের রিবে জানা টর্কে মোচড় মাপুন।"
+ },
+ "Measured climb, cruise and glide recorded against the predictions on the numbers tab.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মাপা আরোহণ, ক্রুজ ও গ্লাইড সংখ্যা ট্যাবের পূর্বাভাসের পাশে লিপিবদ্ধ।"
+ },
+ "Measured values replace estimates in aircraft.yaml, and the build manual is revised.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মাপা মান aircraft.yaml-এর অনুমান প্রতিস্থাপন করে, এবং নির্মাণ নির্দেশিকা সংশোধিত হয়।"
+ },
+ "Member": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সদস্য"
+ },
+ "Method": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পদ্ধতি"
+ },
+ "Metric": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মেট্রিক"
+ },
+ "Mid CG, calm air, long field, circuit height only, an experienced test pilot.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মাঝামাঝি CG, শান্ত বাতাস, দীর্ঘ মাঠ, শুধু সার্কিট উচ্চতা, একজন অভিজ্ঞ পরীক্ষা পাইলট।"
+ },
+ "Month 10": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মাস 10"
+ },
+ "Month 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মাস 4"
+ },
+ "Month 5": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মাস 5"
+ },
+ "Months 2–3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মাস 2–3"
+ },
+ "Months 6–9": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মাস 6–9"
+ },
+ "Move the CG from forward to aft in steps, checking stick-free stability at each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CG সামনে থেকে পেছনে ধাপে ধাপে সরান, প্রতিটিতে স্টিক-মুক্ত স্থিতিশীলতা পরীক্ষা করে।"
+ },
+ "Nicopress sleeve + thimble (1/8 in cable)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nicopress স্লিভ + থিম্বল (1/8 in কেবল)"
+ },
+ "Nicopress tool + cable cutter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nicopress টুল + কেবল কাটার"
+ },
+ "No cracks, and springback within 2° of prediction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কোনো ফাটল নেই, এবং স্প্রিংব্যাক পূর্বাভাসের 2°-এর মধ্যে।"
+ },
+ "No flutter or buzz up to {speed:Vne}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "{speed:Vne} পর্যন্ত কোনো ফ্লাটার বা গুঞ্জন নেই।"
+ },
+ "No permanent set after unloading. Deflection within 15 % of prediction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "লোড সরানোর পরে কোনো স্থায়ী বিকৃতি নেই। বিচ্যুতি পূর্বাভাসের 15 %-এর মধ্যে।"
+ },
+ "No permanent set at limit, no failure at ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সীমায় কোনো স্থায়ী বিকৃতি নেই, চূড়ান্তে কোনো ব্যর্থতা নেই।"
+ },
+ "No physical part has been cut. Fold one rib and one spar offcut first to check the bend deduction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কোনো ভৌত অংশ এখনো কাটা হয়নি। বেন্ড ডিডাকশন পরীক্ষা করতে আগে একটি রিব ও একটি স্পারের কাটা টুকরো ভাঁজ করুন।"
+ },
+ "No yield at limit load, no failure at ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সীমা লোডে কোনো ইল্ড নেই, চূড়ান্তে কোনো ব্যর্থতা নেই।"
+ },
+ "Nose bowl, chin (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নোজ বোল, চিবুক (3টি অভিসারী তল)"
+ },
+ "Nose bowl, upper (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নোজ বোল, উপরের (3টি অভিসারী তল)"
+ },
+ "Nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নোজ রিব"
+ },
+ "Nose rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নোজ রিব, মূল/প্রান্ত"
+ },
+ "Nose ring (prop-shaft hole + two cooling inlets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নোজ রিং (প্রপ-শ্যাফটের ছিদ্র + দুটি শীতলীকরণ প্রবেশপথ)"
+ },
+ "Nose rolled over 75 mm tube": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নোজ 75 mm টিউবের উপর গোল করা"
+ },
+ "Nose zone is rolled over a 75 mm tube; aft creases are soft brake hits (2-6 deg).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নোজ অঞ্চল 75 mm টিউবের উপর গোল করা; পেছনের ভাঁজগুলো হালকা ব্রেক চাপ (2-6 deg)।"
+ },
+ "Not analysed yet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এখনো বিশ্লেষণ করা হয়নি"
+ },
+ "Not proven": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রমাণিত নয়"
+ },
+ "Notes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নোট"
+ },
+ "One 90 degree flange stiffens the free edge. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "একটি 90 ডিগ্রি ফ্ল্যাঞ্জ মুক্ত প্রান্তকে শক্ত করে। ল্যামিনেটেড: 0.020 in-এর 2টি নেস্টেড স্তর, আলাদাভাবে ভাঁজ করে একসাথে রিভেট করা; প্রতি ভেতরের স্তরে ফ্ল্যাঞ্জ প্রান্ত থেকে 0.5 mm ছেঁটে দিন।"
+ },
+ "One hour of progressive ground running, with cylinder head and exhaust temperatures logged.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এক ঘণ্টা ক্রমবর্ধমান মাটিতে চালনা, সিলিন্ডার হেড ও এগজস্টের তাপমাত্রা লিপিবদ্ধ করে।"
+ },
+ "One-wrap skins, sharp trailing edges": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এক-মোড়ক স্কিন, ধারালো ট্রেইলিং এজ"
  },
  "Open-source aircraft": {
-  "t": "ওপেন-সোর্স বিমান",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ওপেন-সোর্স বিমান"
+ },
+ "Order as 12 ft strip. Lips turn the free flange edges into supported edges (k 0.43 -> ~4). Laminated: 3 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "12 ft স্ট্রিপ হিসেবে অর্ডার করুন। লিপ মুক্ত ফ্ল্যাঞ্জ প্রান্তকে সমর্থিত প্রান্তে পরিণত করে (k 0.43 -> ~4)। ল্যামিনেটেড: 0.020 in-এর 3টি নেস্টেড স্তর, আলাদাভাবে ভাঁজ করে একসাথে রিভেট করা; প্রতি ভেতরের স্তরে ফ্ল্যাঞ্জ প্রান্ত থেকে 0.5 mm ছেঁটে দিন।"
+ },
+ "Paint": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রং"
+ },
+ "Paint, then weigh on three scales in the level attitude. Work out the empty CG and check every loading case falls inside the design range in DESIGN_REPORT.md (about 28–33 % MAC).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রং করুন, তারপর সমতল ভঙ্গিতে তিনটি দাঁড়িপাল্লায় ওজন নিন। খালি CG বের করুন এবং দেখুন প্রতিটি লোডিং কেস DESIGN_REPORT.md-এর নকশা পরিসরের (প্রায় 28–33 % MAC) ভেতরে পড়ে কিনা।"
+ },
+ "Panel: glare-shield fold 90°, side tabs 90°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্যানেল: গ্লেয়ার-শিল্ড ভাঁজ 90°, পাশের ট্যাব 90°"
+ },
+ "Parts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "অংশ"
+ },
+ "Pass when": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পাস যখন"
  },
  "Performance": {
-  "t": "কর্মক্ষমতা",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কার্যক্ষমতা"
+ },
+ "Phases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পর্ব"
+ },
+ "Piano hinge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পিয়ানো কব্জা"
+ },
+ "Piano hinge MS20001 + door latch": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পিয়ানো কব্জা MS20001 + দরজার ছিটকিনি"
  },
  "Pilot": {
-  "t": "পাইলট",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পাইলট"
+ },
+ "Pilot (95th pct, for scale)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পাইলট (95তম শতাংশ, মাপের জন্য)"
+ },
+ "Pilot, fuel and baggage share one budget: maximum take-off mass minus empty mass. Both tanks are in the cabin, never in the wings: an 18 L header tank behind the firewall and a 20 L aux tank high behind the seat, both gravity-fed through one selector. A light pilot can fill both. A heavy pilot gets the header tank or less. Burn the aux tank first.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পাইলট, জ্বালানি ও মালপত্র একই বাজেট ভাগ করে: সর্বোচ্চ উড্ডয়ন ভর বিয়োগ খালি ভর। দুটি ট্যাঙ্কই কেবিনে, কখনো ডানায় নয়: ফায়ারওয়ালের পেছনে একটি 18 L হেডার ট্যাঙ্ক এবং আসনের পেছনে উঁচুতে একটি 20 L অক্স ট্যাঙ্ক, দুটিই এক সিলেক্টরের মাধ্যমে মাধ্যাকর্ষণে সরবরাহ। হালকা পাইলট দুটিই ভরতে পারেন। ভারী পাইলট হেডার ট্যাঙ্ক বা তার কম পান। আগে অক্স ট্যাঙ্ক পোড়ান।"
+ },
+ "Pitot tube (left wing, ahead of the LE)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পিটো টিউব (বাম ডানা, LE-এর সামনে)"
+ },
+ "Pitot-static: pitot tube under the left wing at the 1.2 m rib. Run its line inside the wing ahead of the main spar to the root and down the A-pillar to the ASI. A static port on the left cabin side feeds the altimeter and ASI. Secure everything with Adel clamps every 300 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পিটো-স্ট্যাটিক: বাম ডানার নিচে 1.2 m রিবে পিটো টিউব। এর লাইন ডানার ভেতরে মূল স্পারের সামনে দিয়ে মূল পর্যন্ত এবং A-পিলার বেয়ে ASI পর্যন্ত নিন। বাম কেবিন পাশের একটি স্ট্যাটিক পোর্ট অল্টিমিটার ও ASI-তে সরবরাহ করে। প্রতি 300 mm-এ Adel ক্ল্যাম্প দিয়ে সব আটকান।"
+ },
+ "Planar: no forming, drill with plastic-cutting bits, slotted holes for expansion.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সমতল: কোনো ফর্মিং নেই, প্লাস্টিক-কাটার বিট দিয়ে ড্রিল, প্রসারণের জন্য লম্বাটে ছিদ্র।"
+ },
+ "Plastic-cutting drill bits / step drill": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্লাস্টিক-কাটার ড্রিল বিট / স্টেপ ড্রিল"
+ },
+ "Positive stability at the aft limit; predicted minimum static margin {pct:SM_min}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পেছনের সীমায় ধনাত্মক স্থিতিশীলতা; পূর্বাভাসিত ন্যূনতম স্ট্যাটিক মার্জিন {pct:SM_min}।"
+ },
+ "Press or bolt a 4130 end fork into each tube end. Drill the AN5 pin hole after the final length check on the aircraft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি টিউবের প্রান্তে একটি 4130 প্রান্ত-ফর্ক চেপে বা বোল্ট করে বসান। বিমানে চূড়ান্ত দৈর্ঘ্য পরীক্ষার পরে AN5 পিনের ছিদ্র ড্রিল করুন।"
+ },
+ "Prime the faying surfaces: Scotch-Brite, wash, etch or alodine, then epoxy primer. Wear gloves (Wanttaja: finger oils stop primer sticking).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সংযোগ-তলে প্রাইমার দিন: Scotch-Brite, ধোয়া, এচ বা অ্যালোডাইন, তারপর ইপক্সি প্রাইমার। দস্তানা পরুন (Wanttaja: আঙুলের তেলে প্রাইমার লাগে না)।"
+ },
+ "Primer part: two nested layers folded on the brake and riveted as one. Glue carpet on the web. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "অনুশীলনের অংশ: দুটি নেস্টেড স্তর ব্রেকে ভাঁজ করে একসাথে রিভেট করা। ওয়েবে কার্পেট আঠা দিয়ে লাগান। ল্যামিনেটেড: 0.020 in-এর 2টি নেস্টেড স্তর, আলাদাভাবে ভাঁজ করে একসাথে রিভেট করা; প্রতি ভেতরের স্তরে ফ্ল্যাঞ্জ প্রান্ত থেকে 0.5 mm ছেঁটে দিন।"
+ },
+ "Primer: build the wing stands": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রস্তুতি: ডানার স্ট্যান্ড বানান"
+ },
+ "Proof-load the wing upside down with sandbags to +4 g limit load, spread spanwise. It must show no permanent set.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ডানাকে উল্টো করে বালির বস্তা দিয়ে +4 g সীমা লোড পর্যন্ত প্রুফ-লোড করুন, স্প্যান-বরাবর ছড়িয়ে। কোনো স্থায়ী বিকৃতি দেখা যাওয়া চলবে না।"
+ },
+ "Prop drive hub (flange)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রপ চালনা হাব (ফ্ল্যাঞ্জ)"
+ },
+ "Propeller 54 in wood + hub": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রপেলার 54 in কাঠ + হাব"
+ },
+ "Propeller 54 x 24 in, laminated wood (download the model)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রপেলার 54 x 24 in, ল্যামিনেটেড কাঠ (মডেল ডাউনলোড করুন)"
+ },
+ "Propeller hub, 6": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রপেলার হাব, 6"
+ },
+ "Publish": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রকাশ"
+ },
+ "Pull a complete strut with its clevises and tangs to ultimate tension, then buckle a second at −2 g with the jury strut fitted.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ক্লেভিস ও ট্যাংসহ একটি সম্পূর্ণ স্ট্রাট চূড়ান্ত টান পর্যন্ত টানুন, তারপর জুরি স্ট্রাট লাগানো দ্বিতীয়টি −2 g-তে বাকল করুন।"
+ },
+ "Push the AN5 root pins through. Fit castellated nuts and cotter pins.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 মূল পিন ঢোকান। ক্যাসেলেটেড নাট ও কটার পিন লাগান।"
+ },
+ "Put in the aft soft creases first.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আগে পেছনের হালকা ভাঁজ দিন।"
+ },
+ "Put in the soft creases with a light brake hit, or by hand over a straight-edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "হালকা ভাঁজ ব্রেকের আলতো চাপে দিন, বা হাতে সোজা প্রান্তের উপর।"
+ },
+ "Qty": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পরিমাণ"
+ },
+ "Qualification": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "যোগ্যতা যাচাই"
+ },
+ "Quarter-turn camlock (Dzus) + receptacle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কোয়ার্টার-টার্ন ক্যামলক (Dzus) + রিসেপ্টাকল"
+ },
+ "RADIO instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "RADIO যন্ত্র"
+ },
+ "Range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পাল্লা"
+ },
+ "Ream the pin holes to 5/16 in and the bolt holes to 1/4 in and 3/16 in, through both ears at once so they line up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পিনের ছিদ্র 5/16 in এবং বোল্টের ছিদ্র 1/4 in ও 3/16 in পর্যন্ত রিম করুন, দুটি কান একসাথে যাতে মিলে যায়।"
+ },
+ "Rear arch (rear-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পেছনের আর্চ (পেছনের-স্পারের ফ্রেম)"
+ },
+ "Rear lift strut x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পেছনের লিফট স্ট্রাট x2"
+ },
+ "Rear lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পেছনের লিফট স্ট্রাট x2: 6061-T6 1.75 x 0.065 in"
+ },
+ "Rear spar (lipped C, opens forward)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পেছনের স্পার (লিপড C, সামনে খোলা)"
+ },
+ "Rear spar section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পেছনের স্পার অংশ"
+ },
+ "Rear spar: lipped C, two layers of 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পেছনের স্পার: লিপড C, 0.020 in-এর দুটি স্তর"
+ },
+ "Reassemble on Clecos, then pull the rivets from the middle of each joint outward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ক্লিকো দিয়ে আবার জোড়া লাগান, তারপর প্রতিটি জোড়ের মাঝখান থেকে বাইরের দিকে রিভেট টানুন।"
+ },
+ "Ribs, skin buckling, fittings, landing gear, tail loads, the engine mount and flutter. Mass-balance every control surface.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রিব, স্কিন বাকলিং, ফিটিং, ল্যান্ডিং গিয়ার, লেজের লোড, ইঞ্জিন মাউন্ট ও ফ্লাটার। প্রতিটি কন্ট্রোল সারফেস ভর-ভারসাম্য করুন।"
+ },
+ "Right side: fixed window over the door opening. Left side: the same blank on a piano hinge at its front edge, with a latch at the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ডান পাশ: দরজার খোলার উপর স্থির জানালা। বাম পাশ: একই ব্ল্যাঙ্ক সামনের প্রান্তে পিয়ানো কব্জায়, পেছনে ছিটকিনিসহ।"
+ },
+ "Rivet joints": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রিভেট জোড়"
+ },
+ "Rivet strength in thin sheet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পাতলা শিটে রিভেটের শক্তি"
+ },
+ "Rivet the piano hinge to the spar top, then hang the surface on the rear spar.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পিয়ানো কব্জা স্পারের উপরে রিভেট করুন, তারপর সারফেসটি পেছনের স্পারে ঝোলান।"
+ },
+ "Rivet: pull 1/8 in blind rivets, working from the middle of each row outwards and swapping clecos for rivets one at a time. A good rivet sits flat, with no gap under the head. Drill out any bad one with a #30 bit and try again: practise this on purpose at least once.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রিভেট: 1/8 in ব্লাইন্ড রিভেট টানুন, প্রতিটি সারির মাঝখান থেকে বাইরে, একবারে একটি করে ক্লিকো বদলে রিভেট দিয়ে। ভালো রিভেট সমতলে বসে, মাথার নিচে ফাঁক নেই। খারাপটি #30 বিট দিয়ে ড্রিল করে বের করুন ও আবার চেষ্টা করুন: অন্তত একবার ইচ্ছা করে এটি অনুশীলন করুন।"
+ },
+ "Riveting loop, rivets from the main spar outward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রিভেটিং চক্র, মূল স্পার থেকে বাইরের দিকে রিভেট।"
+ },
+ "Riveting loop, then join the tailcone to the cabin at bulkhead 1.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রিভেটিং চক্র, তারপর টেইলকোনকে বাল্কহেড 1-এ কেবিনের সাথে জুড়ুন।"
+ },
+ "Riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রিভেটিং চক্র।"
+ },
+ "Riveting loop. The firewall takes stainless or Monel rivets: aluminium melts in a fire.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রিভেটিং চক্র। ফায়ারওয়ালে স্টেইনলেস বা মোনেল রিভেট লাগে: আগুনে অ্যালুমিনিয়াম গলে যায়।"
+ },
+ "Riveting loop: final-drill #30, take apart, deburr, prime, Cleco, rivet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রিভেটিং চক্র: চূড়ান্ত ড্রিল #30, খোলা, বার সরানো, প্রাইমার, ক্লিকো, রিভেট।"
  },
  "Rivets": {
-  "t": "রিভেট",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রিভেট"
+ },
+ "Rivets to the rear-spar flanges. Closes the bay behind the centre-section rear spar.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পেছনের স্পারের ফ্ল্যাঞ্জে রিভেট হয়। কেন্দ্র-অংশের পেছনের স্পারের পেছনের খোপ বন্ধ করে।"
+ },
+ "Rod ends": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রড এন্ড"
+ },
+ "Roll each skin's leading edge, then wrap it round its ribs and spar. Back-drill and use the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি স্কিনের লিডিং এজ গোল করুন, তারপর তার রিব ও স্পারের চারপাশে মোড়ান। ব্যাক-ড্রিল করে রিভেটিং চক্র ব্যবহার করুন।"
+ },
+ "Roll the eight saddle-clamp halves round a 45 mm bar, then bolt a pair round each strut at mid-length (2 x AN3 through the ears).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আটটি স্যাডল-ক্ল্যাম্প অর্ধেক একটি 45 mm বারের চারপাশে গোল করুন, তারপর প্রতিটি স্ট্রাটের মাঝামাঝি এক জোড়া বোল্ট করুন (কান দিয়ে 2 x AN3)।"
+ },
+ "Roll the green zone: lay the skin over a 75 mm tube and pull it round with a strap, a little at a time. Don't crease it.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সবুজ অঞ্চল গোল করুন: স্কিনটি একটি 75 mm টিউবের উপর রাখুন এবং স্ট্র্যাপ দিয়ে একটু একটু করে ঘুরিয়ে টানুন। ভাঁজ ফেলবেন না।"
+ },
+ "Root and tip ribs have their flanges facing into the panel.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মূল ও প্রান্তের রিবের ফ্ল্যাঞ্জ প্যানেলের ভেতরের দিকে।"
+ },
+ "Rudder and elevator cables, 1 per cable, in the cabin where you can inspect them": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রাডার ও এলিভেটর কেবল, প্রতি কেবলে 1টি, কেবিনে যেখানে পরিদর্শন করা যায়"
+ },
+ "Rudder cable x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রাডার কেবল x2"
+ },
+ "Rudder cable x2: 1/8 in 7x19 galvanised": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রাডার কেবল x2: 1/8 in 7x19 গ্যালভানাইজড"
+ },
+ "Rudder cables: pedal horn, then a pulley at the pedal, along the floor at y = ±200 mm through fairleads on both arch feet, a pulley at bulkhead 1, then one straight line each to the tail post. Because the tailcone is a frustum, a straight run between interior points never touches the skin, so no cable needs a mid-cone pulley.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রাডার কেবল: প্যাডেল হর্ন, তারপর প্যাডেলে একটি পুলি, মেঝে বরাবর y = ±200 mm-এ দুই আর্চ-পাদদেশের ফেয়ারলিড দিয়ে, বাল্কহেড 1-এ একটি পুলি, তারপর টেইল পোস্ট পর্যন্ত প্রতিটি একটি সোজা লাইন। টেইলকোন একটি ফ্রাস্টাম বলে ভেতরের বিন্দুগুলোর মাঝে সোজা লাইন কখনো স্কিন ছোঁয় না, তাই কোনো কেবলের কোনের মাঝখানে পুলি লাগে না।"
+ },
+ "Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রাডার হর্ন, 4130 0.063in (সমতল, প্রতি পাশে কেবল)"
+ },
+ "Rudder pedals": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রাডার প্যাডেল"
+ },
+ "Rudder skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রাডার স্কিন"
+ },
+ "Rudder spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রাডার স্পার"
+ },
+ "S-BM Stand beam (lipped C, saddle on top)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-BM স্ট্যান্ড বিম (লিপড C, উপরে স্যাডল)"
+ },
+ "S-FT Stand foot (lipped C, opens up)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-FT স্ট্যান্ডের পা (লিপড C, উপরে খোলা)"
+ },
+ "S-GF Stand foot gusset (flat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-GF স্ট্যান্ডের পায়ের গাসেট (সমতল)"
+ },
+ "S-GT Stand top gusset (flanged hypotenuse)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-GT স্ট্যান্ডের উপরের গাসেট (ফ্ল্যাঞ্জযুক্ত অতিভুজ)"
+ },
+ "S-LG Stand leg (lipped C)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-LG স্ট্যান্ডের খুঁটি (লিপড C)"
+ },
+ "SSDR means no airworthiness approval is required, so all the testing is yours to do.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "SSDR মানে কোনো এয়ারওয়ার্দিনেস অনুমোদন লাগে না, তাই সব পরীক্ষা আপনাকেই করতে হবে।"
+ },
+ "Saddle clamps: rolled half-shells": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্যাডল ক্ল্যাম্প: গোল করা অর্ধ-খোল"
+ },
+ "Saddle-clamp ears (one also carries the jury-strut fork), 2 per clamp; Jury strut top, through the jury clevis": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্যাডল-ক্ল্যাম্পের কান (একটি জুরি-স্ট্রাট ফর্কও বহন করে), প্রতি ক্ল্যাম্পে 2টি; জুরি স্ট্রাটের উপর, জুরি ক্লেভিসের মধ্য দিয়ে"
+ },
+ "Safety wire": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সেফটি ওয়্যার"
+ },
+ "Same blank both sides. 20 mm lap all round. Left one hangs on a piano hinge at its front edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "দুই পাশে একই ব্ল্যাঙ্ক। চারপাশে 20 mm ওভারল্যাপ। বামটি সামনের প্রান্তে পিয়ানো কব্জায় ঝোলে।"
+ },
+ "Same blank for both flaps and both ailerons: modular-origami units.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "দুটি ফ্ল্যাপ ও দুটি আইলেরনের জন্য একই ব্ল্যাঙ্ক: মডুলার-অরিগামি একক।"
+ },
+ "Sandbags and tape measure (proof load)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বালির বস্তা ও মাপার ফিতা (প্রুফ লোড)"
+ },
+ "Sawtooth climbs, level speeds and glides.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "করাত-দাঁত আরোহণ, সমতল গতি ও গ্লাইড।"
+ },
+ "Scotch-Brite, etch/alodine, epoxy primer, spray kit, gloves": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Scotch-Brite, এচ/অ্যালোডাইন, ইপক্সি প্রাইমার, স্প্রে কিট, দস্তানা"
+ },
+ "Seat (pan + back, one sheet)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আসন (প্যান + পিঠ, এক শিট)"
+ },
+ "Seat cushion + 4-pt harness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আসনের কুশন + 4-বিন্দু হারনেস"
+ },
+ "Select a row to see where that case sits.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এই কেসটি কোথায় পড়ে দেখতে একটি সারি বাছুন।"
+ },
+ "Send the nest DXFs to a laser or waterjet service, or cut on a CNC router. Bolt holes come out 0.5 mm undersize; ream them later.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নেস্ট DXF লেজার বা ওয়াটারজেট সেবায় পাঠান, বা CNC রাউটারে কাটুন। বোল্টের ছিদ্র 0.5 mm ছোট বের হয়; পরে রিম করুন।"
+ },
+ "Set dihedral to 1.5° and wash-out to 0° with a digital level on the root and tip ribs. Then pin the struts on: AN5, castellated nut, cotter pin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মূল ও প্রান্তের রিবে ডিজিটাল লেভেল দিয়ে ডাইহেড্রাল 1.5° ও ওয়াশ-আউট 0° ঠিক করুন। তারপর স্ট্রাট পিন করুন: AN5, ক্যাসেলেটেড নাট, কটার পিন।"
+ },
+ "Set the brake nose radius to 0.8 mm, about 1.6 times the 0.51 mm sheet (Table 5-2, 'normal' radius). Never tighter.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ব্রেকের নোজ ব্যাসার্ধ 0.8 mm রাখুন, 0.51 mm শিটের প্রায় 1.6 গুণ (Table 5-2, 'normal' ব্যাসার্ধ)। কখনো এর চেয়ে কম নয়।"
+ },
+ "Set the travels: aileron +20/-15°, elevator +25/-20°, rudder ±25°, flaps 0/20°. Fit the stops.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "গতিপথ ঠিক করুন: আইলেরন +20/-15°, এলিভেটর +25/-20°, রাডার ±25°, ফ্ল্যাপ 0/20°। স্টপ লাগান।"
+ },
+ "Sheet price": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "শিটের দাম"
+ },
+ "Single-lap shear and pull-through on one and two layers of 0.51 mm sheet with 3.2 mm blind rivets, 10 of each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "0.51 mm শিটের এক ও দুই স্তরে 3.2 mm ব্লাইন্ড রিভেট দিয়ে একক-ওভারল্যাপ শিয়ার ও পুল-থ্রু, প্রতিটির 10টি।"
+ },
+ "Skin joints lap on a rib: the outboard skin goes under the inboard one.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্কিনের জোড় রিবের উপর ওভারল্যাপ হয়: বাইরের স্কিন ভেতরেরটির নিচে যায়।"
+ },
+ "Slide the C-spar in and Cleco it through the flanges. Riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "C-স্পার ঢুকিয়ে ফ্ল্যাঞ্জ দিয়ে ক্লিকো করুন। রিভেটিং চক্র।"
+ },
+ "Soft creases 2–6°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "হালকা ভাঁজ 2–6°"
+ },
+ "Source": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উৎস"
+ },
+ "Span / area": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্প্যান / ক্ষেত্রফল"
+ },
+ "Spanners, sockets, inch-pound torque wrench": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্প্যানার, সকেট, ইঞ্চি-পাউন্ড টর্ক রেঞ্চ"
+ },
+ "Spar strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্পারের শক্তি"
+ },
+ "Spar-root pins through tang pair + arch clevis": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ট্যাং জোড়া + আর্চ ক্লেভিস দিয়ে স্পার-মূল পিন"
+ },
+ "Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্পার-মূল ট্যাং, 4130 0.063in (সমতল, ওয়েবের দুই পাশে জোড়ায়)"
+ },
+ "Spec": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বিবরণ"
+ },
+ "Speed envelope": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "গতির পরিসীমা"
+ },
+ "Spinner": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্পিনার"
+ },
+ "Stabiliser nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্যাবিলাইজার নোজ রিব"
+ },
+ "Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলকোনের পাশের ডাবলারে স্ট্যাবিলাইজার মূল রিব, প্রতি পাশে 4টি; টেইল পোস্টে ফিন স্পার, 3"
+ },
+ "Stabiliser skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্যাবিলাইজার স্কিন (এক মোড়ক)"
+ },
+ "Stabiliser spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্যাবিলাইজার স্পার"
+ },
+ "Stability across the CG range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CG পরিসর জুড়ে স্থিতিশীলতা"
+ },
+ "Stall speed and handling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্টল গতি ও পরিচালনা"
+ },
+ "Stall speeds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্টল গতি"
+ },
+ "Stall, flaps 20°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্টল, ফ্ল্যাপ 20°"
+ },
+ "Stand beam (lipped C, saddle on top)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্যান্ড বিম (লিপড C, উপরে স্যাডল)"
+ },
+ "Stand foot (lipped C, opens up)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্যান্ডের পা (লিপড C, উপরে খোলা)"
+ },
+ "Stand foot gusset (flat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্যান্ডের পায়ের গাসেট (সমতল)"
+ },
+ "Stand leg (lipped C)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্যান্ডের খুঁটি (লিপড C)"
+ },
+ "Stand the arches and firewall on the floor tray, square and plumb. Their stations are 420 mm and 1008 mm aft of the wing LE, and the firewall is at -650 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আর্চ ও ফায়ারওয়াল মেঝের ট্রেতে দাঁড় করান, সমকোণে ও খাড়া। এদের অবস্থান ডানার LE-এর 420 mm ও 1008 mm পেছনে, এবং ফায়ারওয়াল -650 mm-এ।"
+ },
+ "Stand top gusset (flanged hypotenuse)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্যান্ডের উপরের গাসেট (ফ্ল্যাঞ্জযুক্ত অতিভুজ)"
+ },
+ "Static load to the Section S forward, side and vertical limit loads, then ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Section S-এর সামনের, পাশের ও উল্লম্ব সীমা লোড পর্যন্ত স্থির লোড, তারপর চূড়ান্ত।"
+ },
+ "Static margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্যাটিক মার্জিন"
+ },
+ "Static port": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্যাটিক পোর্ট"
+ },
+ "Status": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "অবস্থা"
  },
  "Step": {
-  "t": "ধাপ",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ধাপ"
+ },
+ "Stick pivot and torque-tube bearings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্টিক পিভট ও টর্ক-টিউব বিয়ারিং"
+ },
+ "Straight tracking, effective brakes and rudder, no shimmy.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সোজা চলা, কার্যকর ব্রেক ও রাডার, কোনো কাঁপুনি নেই।"
+ },
+ "String line, digital level, plumb bob": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সুতার লাইন, ডিজিটাল লেভেল, ওলন"
+ },
+ "String-line the spars and check the ribs are square to them. Measure diagonals across each bay; they should match within 1 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্পারগুলো সুতার লাইনে মেলান এবং দেখুন রিবগুলো এদের সাথে সমকোণে কিনা। প্রতিটি খোপের কর্ণ মাপুন; 1 mm-এর মধ্যে মিলতে হবে।"
  },
  "Structure": {
-  "t": "কাঠামো",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কাঠামো"
+ },
+ "Strut and fitting strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্রাট ও ফিটিংয়ের শক্তি"
+ },
+ "Strut and fittings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্রাট ও ফিটিং"
+ },
+ "Strut end fork (4130)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্রাট প্রান্ত-ফর্ক (4130)"
+ },
+ "Strut end forks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্রাট প্রান্ত-ফর্ক"
+ },
+ "Strut ends, both ends of 4 struts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্রাটের প্রান্ত, 4টি স্ট্রাটের দুই প্রান্ত"
+ },
+ "Strut fairings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্রাট ফেয়ারিং"
+ },
+ "Support each tip on a trestle at 1.5° dihedral until the struts are on.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্রাট লাগানো পর্যন্ত প্রতিটি প্রান্ত 1.5° ডাইহেড্রালে একটি ট্রেসলে রাখুন।"
+ },
+ "Systems fit-out": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সিস্টেম স্থাপন"
+ },
+ "T-EK Elevator skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-EK এলিভেটর স্কিন"
+ },
+ "T-ES Elevator spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-ES এলিভেটর স্পার"
+ },
+ "T-FK Fin skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FK ফিন স্কিন (এক মোড়ক)"
+ },
+ "T-FR Fin nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FR ফিন নোজ রিব"
+ },
+ "T-FS Fin spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FS ফিন স্পার"
+ },
+ "T-HK Stabiliser skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HK স্ট্যাবিলাইজার স্কিন (এক মোড়ক)"
+ },
+ "T-HR Stabiliser nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HR স্ট্যাবিলাইজার নোজ রিব"
+ },
+ "T-HS Stabiliser spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HS স্ট্যাবিলাইজার স্পার"
+ },
+ "T-RK Rudder skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-RK রাডার স্কিন"
+ },
+ "T-RS Rudder spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-RS রাডার স্পার"
+ },
+ "TACH instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "TACH যন্ত্র"
+ },
+ "Tail surfaces": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "লেজের সারফেস"
+ },
+ "Tailcone belly, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলকোনের পেট, অংশ 1"
+ },
+ "Tailcone belly, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলকোনের পেট, অংশ 2"
+ },
+ "Tailcone bulkhead x=1150": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলকোন বাল্কহেড x=1150"
+ },
+ "Tailcone bulkhead x=1948": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলকোন বাল্কহেড x=1948"
+ },
+ "Tailcone bulkhead x=2745": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলকোন বাল্কহেড x=2745"
+ },
+ "Tailcone bulkhead x=3542": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলকোন বাল্কহেড x=3542"
+ },
+ "Tailcone bulkhead x=4340 (tail post)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলকোন বাল্কহেড x=4340 (টেইল পোস্ট)"
+ },
+ "Tailcone frustum": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলকোন ফ্রাস্টাম"
+ },
+ "Tailcone side, section 1 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলকোনের পাশ, অংশ 1 (x2, আয়না-উল্টো)"
+ },
+ "Tailcone side, section 2 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলকোনের পাশ, অংশ 2 (x2, আয়না-উল্টো)"
+ },
+ "Tailcone top, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলকোনের উপর, অংশ 1"
+ },
+ "Tailcone top, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলকোনের উপর, অংশ 2"
+ },
+ "Tailwheel 8 in pneumatic": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলহুইল 8 in বায়ুচালিত"
+ },
+ "Tailwheel assembly, 8 in pneumatic": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলহুইল অ্যাসেম্বলি, 8 in বায়ুচালিত"
+ },
+ "Tailwheel fork": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলহুইল ফর্ক"
+ },
+ "Tailwheel spring": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলহুইল স্প্রিং"
+ },
+ "Tailwheel spring (spring steel leaf)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলহুইল স্প্রিং (স্প্রিং ইস্পাতের পাত)"
+ },
+ "Tailwheel spring to tail post, 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইল পোস্টে টেইলহুইল স্প্রিং, 2"
+ },
+ "Tailwheel spring to tail post, 2; Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইল পোস্টে টেইলহুইল স্প্রিং, 2; টেইলকোনের পাশের ডাবলারে স্ট্যাবিলাইজার মূল রিব, প্রতি পাশে 4টি; টেইল পোস্টে ফিন স্পার, 3"
+ },
+ "Tailwheel spring: spring-steel leaf 45 x 8 mm": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলহুইল স্প্রিং: স্প্রিং-ইস্পাতের পাত 45 x 8 mm"
+ },
+ "Tailwheel steering spring": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলহুইল স্টিয়ারিং স্প্রিং"
+ },
+ "Tailwheel: a leaf spring, a steerable fork and two springs to the rudder.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টেইলহুইল: একটি পাত স্প্রিং, একটি ঘোরানো যায় এমন ফর্ক ও রাডারে দুটি স্প্রিং।"
+ },
+ "Take the skeleton apart. Deburr every hole on both faces.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কঙ্কাল খুলে ফেলুন। প্রতিটি ছিদ্রের দুই পাশের বার সরান।"
+ },
+ "Take-off roll": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উড্ডয়ন দৌড়"
+ },
+ "Tank strap angle (L)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ট্যাঙ্ক স্ট্র্যাপ অ্যাঙ্গেল (বাম)"
+ },
+ "Tank strap angle (R)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ট্যাঙ্ক স্ট্র্যাপ অ্যাঙ্গেল (ডান)"
+ },
+ "Tap or shaker test for wing bending and torsion, aileron, elevator and rudder modes. Confirm the mass balance of every control surface.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ডানার বেন্ডিং ও মোচড়, আইলেরন, এলিভেটর ও রাডার মোডের জন্য টোকা বা শেকার পরীক্ষা। প্রতিটি কন্ট্রোল সারফেসের ভর-ভারসাম্য নিশ্চিত করুন।"
+ },
+ "Taxi tests": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ট্যাক্সি পরীক্ষা"
+ },
+ "Taxi tests, then fast taxi with the tail up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ট্যাক্সি পরীক্ষা, তারপর লেজ উঁচু করে দ্রুত ট্যাক্সি।"
+ },
+ "Temperatures inside the engine maker's limits, static rpm 2,900–3,100, no abnormal vibration.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "তাপমাত্রা ইঞ্জিন নির্মাতার সীমার ভেতরে, স্থির rpm 2,900–3,100, অস্বাভাবিক কম্পন নেই।"
+ },
+ "Tension each cable with its turnbuckle in the cabin, where you can see it, then safety-wire it. Nicopress every end over a thimble.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি কেবল কেবিনে তার টার্নবাকল দিয়ে টান দিন, যেখানে দেখা যায়, তারপর সেফটি-ওয়্যার করুন। প্রতিটি প্রান্ত থিম্বলের উপর Nicopress করুন।"
+ },
+ "Test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পরীক্ষা"
+ },
+ "Test budget": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পরীক্ষার বাজেট"
+ },
+ "Test programme": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পরীক্ষা কর্মসূচি"
+ },
+ "Test reports": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পরীক্ষার রিপোর্ট"
+ },
+ "Tests": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পরীক্ষা"
+ },
+ "The aircraft is code: one file, aircraft.yaml, generates every part, file and figure on this page.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বিমানটি কোড: একটি ফাইল, aircraft.yaml, এই পাতার প্রতিটি অংশ, ফাইল ও সংখ্যা তৈরি করে।"
+ },
+ "The arches sit at the spar stations, so the wing and strut loads go straight into two folded frames.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আর্চগুলো স্পারের অবস্থানে বসে, তাই ডানা ও স্ট্রাটের লোড সরাসরি দুটি ভাঁজ করা ফ্রেমে যায়।"
+ },
+ "The cowl and nose bowl are flat blanks too: a box-pleated hood and a frustum, with straight creases throughout.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কাউল ও নোজ বোলও সমতল ব্ল্যাঙ্ক: একটি বক্স-প্লিট হুড ও একটি ফ্রাস্টাম, সর্বত্র সোজা ভাঁজসহ।"
+ },
+ "The dot is the loading case selected in the table. The shaded band is the full CG range across all cases. The orange line is the neutral point: the CG must stay ahead of it, and the dashed gap between them is the static margin, the aircraft's pitch stability.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বিন্দুটি টেবিলে বাছাই করা লোডিং কেস। ছায়াযুক্ত পট্টি সব কেস জুড়ে পূর্ণ CG পরিসর। কমলা রেখাটি নিউট্রাল পয়েন্ট: CG অবশ্যই এর সামনে থাকবে, এবং এদের মাঝের ড্যাশ ফাঁকটি স্ট্যাটিক মার্জিন, বিমানের পিচ স্থিতিশীলতা।"
+ },
+ "The fold geometry. Every panel in the 3D model is produced by refolding the DXF flat pattern, and the rib-to-spar pilot holes are coordinated between parts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ভাঁজের জ্যামিতি। 3D মডেলের প্রতিটি প্যানেল DXF সমতল নকশা পুনরায় ভাঁজ করে তৈরি, এবং রিব-থেকে-স্পার পাইলট ছিদ্রগুলো অংশগুলোর মধ্যে সমন্বিত।"
+ },
+ "The laminate acting as one section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ল্যামিনেট এক অংশ হিসেবে কাজ করছে"
+ },
+ "The lips are what let thin laminated sheet act as a spar. Without them a free cap edge buckles at about 26 MPa. With them the cap reaches yield before it buckles.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "লিপই পাতলা ল্যামিনেটেড শিটকে স্পার হিসেবে কাজ করতে দেয়। এগুলো ছাড়া মুক্ত ক্যাপ প্রান্ত প্রায় 26 MPa-তে বাকল করে। এগুলোসহ ক্যাপ বাকল করার আগে ইল্ডে পৌঁছায়।"
+ },
+ "The local-price estimate takes UK VAT off the UK price, converts it at the day's exchange rate, takes about 20 % off US-made hardware, sheet and the engine kit when buying in the US, then adds the country's typical standard VAT, GST or sales tax. It leaves out import duty and shipping. Treat these as rough guides, not quotes.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্থানীয়-মূল্যের অনুমান UK মূল্য থেকে UK VAT বাদ দেয়, দিনের বিনিময় হারে রূপান্তর করে, US-এ কিনলে US-তৈরি হার্ডওয়্যার, শিট ও ইঞ্জিন কিট থেকে প্রায় 20 % বাদ দেয়, তারপর দেশের সাধারণ মানক VAT, GST বা বিক্রয় কর যোগ করে। আমদানি শুল্ক ও পরিবহন বাদ থাকে। এগুলোকে মোটামুটি নির্দেশিকা হিসেবে নিন, দরপত্র নয়।"
  },
  "The numbers": {
-  "t": "সংখ্যাগুলো",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সংখ্যাগুলো"
+ },
+ "The pilot sits under the wing between the two arches. Header fuel is ahead of the CG and aux fuel is behind it. The aftmost case is a light pilot with empty tanks and baggage, which gives the minimum static margin:": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পাইলট দুই আর্চের মাঝে ডানার নিচে বসেন। হেডার জ্বালানি CG-এর সামনে এবং অক্স জ্বালানি পেছনে। সবচেয়ে পেছনের কেস হলো খালি ট্যাঙ্ক ও মালপত্রসহ হালকা পাইলট, যা ন্যূনতম স্ট্যাটিক মার্জিন দেয়:"
+ },
+ "The rolled nose and the main spar together form a closed D-cell, which carries the wing's twisting loads.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "গোল করা নোজ ও মূল স্পার একসাথে একটি বন্ধ D-সেল গঠন করে, যা ডানার মোচড়ের লোড বহন করে।"
+ },
+ "The skins carry no holes of their own. Drilling them from the structure means the holes can't be misaligned.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্কিনে নিজস্ব কোনো ছিদ্র নেই। কাঠামো থেকে ড্রিল করলে ছিদ্র ভুল জায়গায় পড়তে পারে না।"
+ },
+ "The stabiliser and fin use one wrapped skin each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্যাবিলাইজার ও ফিন প্রতিটি একটি করে মোড়ানো স্কিন ব্যবহার করে।"
+ },
+ "This is the sequence for every riveted joint from here on: Cleco, final-drill, take apart, deburr, prime, reassemble, rivet. Later steps call it the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এখান থেকে প্রতিটি রিভেট জোড়ের ক্রম এই: ক্লিকো, চূড়ান্ত ড্রিল, খোলা, বার সরানো, প্রাইমার, আবার জোড়া, রিভেট। পরের ধাপগুলো একে রিভেটিং চক্র বলে।"
+ },
+ "Three platform scales": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "তিনটি প্ল্যাটফর্ম দাঁড়িপাল্লা"
+ },
+ "Three platform scales in the level attitude.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সমতল ভঙ্গিতে তিনটি প্ল্যাটফর্ম দাঁড়িপাল্লা।"
+ },
+ "Through tang pair + spar web at each spar root, 4 per pair": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি স্পার মূলে ট্যাং জোড়া + স্পার ওয়েব দিয়ে, প্রতি জোড়ায় 4টি"
  },
  "Tools": {
-  "t": "যন্ত্রপাতি",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সরঞ্জাম"
+ },
+ "Top flange = longeron": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উপরের ফ্ল্যাঞ্জ = লঞ্জেরন"
+ },
+ "Top flange is the longeron: the fold is the stiffener. Openings have 50 mm corner radii (no square corners).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উপরের ফ্ল্যাঞ্জটিই লঞ্জেরন: ভাঁজটিই শক্তিবর্ধক। খোলাগুলোর কোণের ব্যাসার্ধ 50 mm (কোনো চৌকো কোণ নেই)।"
+ },
+ "Torsional stiffness recorded; it feeds the flutter estimate in phase D.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মোচড়ের দৃঢ়তা লিপিবদ্ধ; এটি পর্ব D-এর ফ্লাটার অনুমানে যায়।"
+ },
+ "Total": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মোট"
+ },
+ "Tube cutter, hacksaw, drill press": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টিউব কাটার, হ্যাকস, ড্রিল প্রেস"
+ },
+ "Tube, bar and cable": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টিউব, বার ও কেবল"
+ },
+ "Turn it back over. On its three wheels it should sit about 9–11° nose-up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আবার উল্টে দিন। তিন চাকায় এটি প্রায় 9–11° নাক-উঁচু অবস্থায় বসা উচিত।"
+ },
+ "Turn the fuselage upside down on padded trestles.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ফিউজেলাজ গদিযুক্ত ট্রেসলে উল্টো করে রাখুন।"
+ },
+ "Turn the skeleton upside down. Lay bay 1's skin on it, located at the root rib, with the edge 3 mm short of the rear-spar flange edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কঙ্কাল উল্টে দিন। খোপ 1-এর স্কিন এর উপর রাখুন, মূল রিবে অবস্থান মিলিয়ে, প্রান্ত পেছনের-স্পার ফ্ল্যাঞ্জ প্রান্ত থেকে 3 mm কম।"
+ },
+ "Turn the wing upright. Wrap the skin from the trailing-edge shroud, over the nose, and under to lap the lower skin at 8 % chord.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ডানা সোজা করুন। স্কিনটি ট্রেইলিং-এজ শ্রাউড থেকে নোজের উপর দিয়ে ও নিচ দিয়ে মুড়িয়ে 8 % কর্ডে নিচের স্কিনের উপর ওভারল্যাপ করুন।"
+ },
+ "Turnbuckle AN130 class + safety wire": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টার্নবাকল AN130 শ্রেণি + সেফটি ওয়্যার"
+ },
+ "Two halves round the 1.75 in strut tube; the ear bolts also carry the jury-strut end.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1.75 in স্ট্রাট টিউবের চারপাশে দুই অর্ধেক; কানের বোল্টগুলো জুরি-স্ট্রাটের প্রান্তও বহন করে।"
+ },
+ "Two hat pleats (step-folds) are the floor stiffeners; no separate stringers. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "দুটি হ্যাট প্লিট (ধাপ-ভাঁজ) মেঝের শক্তিবর্ধক; আলাদা স্ট্রিঙ্গার নেই। ল্যামিনেটেড: 0.020 in-এর 2টি নেস্টেড স্তর, আলাদাভাবে ভাঁজ করে একসাথে রিভেট করা; প্রতি ভেতরের স্তরে ফ্ল্যাঞ্জ প্রান্ত থেকে 0.5 mm ছেঁটে দিন।"
+ },
+ "Two plates sandwich each rod end; AN4 pivot, AN3 at each arm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "দুটি প্লেট প্রতিটি রড এন্ডকে মাঝে রাখে; AN4 পিভট, প্রতি আর্মে AN3।"
+ },
+ "UK retail prices (inc. 20 % VAT) converted to {currency}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "UK খুচরা মূল্য (20 % VAT সহ) {currency}-তে রূপান্তরিত।"
+ },
+ "UK retail prices, including 20 % VAT.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "UK খুচরা মূল্য, 20 % VAT সহ।"
+ },
+ "Ultimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "চূড়ান্ত"
+ },
+ "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ঋণাত্মক g-তে স্ট্রাটগুলো সংকোচনে যায়। জুরি স্ট্রাট এদের অসমর্থিত দৈর্ঘ্য অর্ধেক করে, যা বাকলিং লোড চার গুণ করে।"
+ },
+ "Undercarriage": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আন্ডারক্যারেজ"
  },
  "Units": {
-  "t": "একক",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "একক"
+ },
+ "Unknowns for the next builder": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পরবর্তী নির্মাতার জন্য অজানা বিষয়"
+ },
+ "Upper cowl (hood, two 90 deg folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উপরের কাউল (হুড, দুটি 90 deg ভাঁজ)"
+ },
+ "Upper skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উপরের স্কিন, খোপ 1"
+ },
+ "Upper skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উপরের স্কিন, খোপ 2"
+ },
+ "Upper skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উপরের স্কিন, খোপ 3"
+ },
+ "Upper skins: roll the nose": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উপরের স্কিন: নোজ গোল করুন"
+ },
+ "V-bead pleats + one 165° trailing-edge fold": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "V-বিড প্লিট + একটি 165° ট্রেইলিং-এজ ভাঁজ"
+ },
+ "VHF antenna whip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "VHF অ্যান্টেনা হুইপ"
+ },
+ "W-CL Cabin roof (centre lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CL কেবিনের ছাদ (কেন্দ্রের নিচের স্কিন)"
+ },
+ "W-CS Aileron / flap skin (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CS আইলেরন / ফ্ল্যাপ স্কিন (একই রকম x4)"
+ },
+ "W-CSS Aileron / flap spar (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CSS আইলেরন / ফ্ল্যাপ স্পার (একই রকম x4)"
+ },
+ "W-CT Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CT কেন্দ্র-অংশের ট্রেইলিং-এজ ফেয়ারিং (স্থির, ফ্ল্যাপ দুটির মাঝে)"
+ },
+ "W-CU Centre-section upper skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CU কেন্দ্র-অংশের উপরের স্কিন"
+ },
+ "W-MR Main rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MR মূল রিব"
+ },
+ "W-MRe Main rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MRe মূল রিব, মূল/প্রান্ত"
+ },
+ "W-MS Main spar (lipped C, opens aft)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MS মূল স্পার (লিপড C, পেছনে খোলা)"
+ },
+ "W-NR Nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-NR নোজ রিব"
+ },
+ "W-NRe Nose rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-NRe নোজ রিব, মূল/প্রান্ত"
+ },
+ "W-RS Rear spar (lipped C, opens forward)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-RS পেছনের স্পার (লিপড C, সামনে খোলা)"
+ },
+ "W-SL1 Lower skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL1 নিচের স্কিন, খোপ 1"
+ },
+ "W-SL2 Lower skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL2 নিচের স্কিন, খোপ 2"
+ },
+ "W-SL3 Lower skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL3 নিচের স্কিন, খোপ 3"
+ },
+ "W-SU1 Upper skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU1 উপরের স্কিন, খোপ 1"
+ },
+ "W-SU2 Upper skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU2 উপরের স্কিন, খোপ 2"
+ },
+ "W-SU3 Upper skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU3 উপরের স্কিন, খোপ 3"
+ },
+ "Weeks 1–4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সপ্তাহ 1–4"
+ },
+ "Weigh and balance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ওজন ও ভারসাম্য"
+ },
+ "Weigh, test, fly-off": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ওজন, পরীক্ষা, পরীক্ষামূলক উড্ডয়ন"
+ },
+ "Weight, not tank size, sets the range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পাল্লা ঠিক করে ওজন, ট্যাঙ্কের আকার নয়"
+ },
+ "What is known, and what is not": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কী জানা, আর কী নয়"
  },
  "What it costs": {
-  "t": "খরচ কত",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এর খরচ কত"
+ },
+ "Wheel hub": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "চাকার হাব"
+ },
+ "Wheels, 21 x 8.00-6 tundra tyres, drum brakes x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "চাকা, 21 x 8.00-6 টুন্ড্রা টায়ার, ড্রাম ব্রেক x2"
+ },
+ "Where it goes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কোথায় যায়"
+ },
+ "Where the balance point sits": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ভারসাম্য বিন্দু কোথায় বসে"
  },
  "Whole aircraft": {
-  "t": "পুরো বিমান",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পুরো বিমান"
+ },
+ "Whole-wing strength and stiffness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পুরো ডানার শক্তি ও দৃঢ়তা"
+ },
+ "Why start here: the four stands use every skill the aircraft needs, on parts that don't fly. Get it wrong here, not on a spar. You need the stands anyway: the wings are built and parked on them until step 15.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এখান থেকে শুরু কেন: চারটি স্ট্যান্ডে বিমানের প্রয়োজনীয় প্রতিটি দক্ষতা লাগে, এমন অংশে যা ওড়ে না। ভুল এখানেই করুন, স্পারে নয়। স্ট্যান্ড আপনার এমনিতেই লাগবে: ধাপ 15 পর্যন্ত ডানাগুলো এগুলোর উপরেই বানানো ও রাখা হয়।"
  },
  "Will it fly well?": {
-  "t": "এটা কি ভালো উড়বে?",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "এটি কি ভালো উড়বে?"
+ },
+ "Windscreen (cold-bent flat polycarbonate)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উইন্ডস্ক্রিন (ঠান্ডায় বাঁকানো সমতল পলিকার্বোনেট)"
+ },
+ "Windscreen, door and side windows": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উইন্ডস্ক্রিন, দরজা ও পাশের জানালা"
+ },
+ "Windscreen, side windows, door": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উইন্ডস্ক্রিন, পাশের জানালা, দরজা"
+ },
+ "Windscreen: flat sheet, bedded on foam tape on the firewall and windscreen flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উইন্ডস্ক্রিন: সমতল শিট, ফায়ারওয়াল ও উইন্ডস্ক্রিন ফ্ল্যাঞ্জে ফোম টেপের উপর বসানো।"
+ },
+ "Wing and airframe": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ডানা ও এয়ারফ্রেম"
+ },
+ "Wing lift uses a Schrenk distribution, with each wing pinned at the cabin arch and a V-strut at the 2.4 m rib. Gust loads are below the manoeuvre case. Laminated spars are checked as one section, which assumes rivet pitch close enough to stop the layers buckling separately.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ডানার লিফট Schrenk বণ্টন ব্যবহার করে, প্রতিটি ডানা কেবিন আর্চে পিন করা এবং 2.4 m রিবে একটি V-স্ট্রাট। দমকা হাওয়ার লোড ম্যানুভার কেসের চেয়ে কম। ল্যামিনেটেড স্পার এক অংশ হিসেবে পরীক্ষা করা হয়, যা ধরে নেয় রিভেট পিচ এত কাছে যে স্তরগুলো আলাদাভাবে বাকল করে না।"
+ },
+ "Wing loading": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ডানার লোডিং"
+ },
+ "Wing proof load": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ডানার প্রুফ লোড"
+ },
+ "Wing stands (step 0)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ডানার স্ট্যান্ড (ধাপ 0)"
+ },
+ "Wing torsion": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ডানার মোচড়"
+ },
+ "Wings on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ডানা লাগানো"
+ },
+ "With X-ray on, every run is colour-coded: orange rudder, cyan elevator, purple aileron, green flap, red fuel, white pitot, grey static, yellow 12 V, pink coax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "X-ray চালু থাকলে প্রতিটি লাইন রঙে চিহ্নিত: কমলা রাডার, সায়ান এলিভেটর, বেগুনি আইলেরন, সবুজ ফ্ল্যাপ, লাল জ্বালানি, সাদা পিটো, ধূসর স্ট্যাটিক, হলুদ 12 V, গোলাপি কোঅ্যাক্স।"
+ },
+ "With a helper at the tip, lift each wing until its root tangs slide into the arch-top clevises.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রান্তে একজন সহকারী নিয়ে প্রতিটি ডানা তুলুন যতক্ষণ না এর মূল ট্যাং আর্চ-শীর্ষের ক্লেভিসে ঢোকে।"
+ },
+ "Write the part number on every blank. Keep the blanks in step order.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটি ব্ল্যাঙ্কে অংশ নম্বর লিখুন। ব্ল্যাঙ্কগুলো ধাপের ক্রমে রাখুন।"
  },
  "X-ray": {
-  "t": "এক্স-রে",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "X-ray"
+ },
+ "Yes, as a slow, gentle, lightly loaded single-seater: a strut-braced high wing, a half-VW engine and a tailwheel on big soft tyres. It is heavier than a typical ultralight because every aluminium part is cut from one gauge, with thicker parts made as nested folds of the same sheet. That puts it in UK SSDR (300 kg) rather than US Part 103. Every figure here comes from the same script that generates the cut files.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "হ্যাঁ, একটি ধীর, মৃদু, হালকা-লোডের একক-আসন হিসেবে: স্ট্রাট-সমর্থিত উঁচু ডানা, একটি হাফ-VW ইঞ্জিন এবং বড় নরম টায়ারে টেইলহুইল। এটি সাধারণ আল্ট্রালাইটের চেয়ে ভারী কারণ প্রতিটি অ্যালুমিনিয়াম অংশ একই পুরুত্ব থেকে কাটা, আর মোটা অংশগুলো একই শিটের নেস্টেড ভাঁজ হিসেবে বানানো। এতে এটি US Part 103-এর বদলে UK SSDR (300 kg)-এ পড়ে। এখানকার প্রতিটি সংখ্যা সেই একই স্ক্রিপ্ট থেকে আসে যা কাটিং ফাইল তৈরি করে।"
+ },
+ "arch-foot bellcrank up the rear-arch leg to the arch-top bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আর্চ-পাদদেশের বেলক্র্যাঙ্ক থেকে পেছনের আর্চের পা বেয়ে আর্চ-শীর্ষের বেলক্র্যাঙ্ক"
+ },
+ "arch-top bellcrank to outboard bellcrank, through rib lightening holes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আর্চ-শীর্ষের বেলক্র্যাঙ্ক থেকে বাইরের বেলক্র্যাঙ্ক, রিবের লাইটেনিং ছিদ্র দিয়ে"
+ },
+ "aux": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "অক্স"
+ },
+ "blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ব্ল্যাঙ্ক"
+ },
+ "blanks in all": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মোট ব্ল্যাঙ্ক"
+ },
+ "bolts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বোল্ট"
+ },
+ "bought or welded": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কেনা বা ঝালাই করা"
+ },
+ "buckling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বাকলিং"
+ },
+ "centre torque-tube arm to flap bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কেন্দ্রের টর্ক-টিউব আর্ম থেকে ফ্ল্যাপ বেলক্র্যাঙ্ক"
+ },
+ "check, then commit": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পরীক্ষা, তারপর পাকা"
+ },
+ "clean": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পরিষ্কার"
+ },
+ "close up": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বন্ধ করা"
+ },
+ "crease pattern": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ভাঁজের নকশা"
+ },
+ "crippling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ক্রিপলিং"
+ },
+ "each with a pass criterion": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্রতিটির একটি পাস-মানদণ্ড"
+ },
+ "fabricated or bought for half-VW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "হাফ-VW-এর জন্য তৈরি বা কেনা"
+ },
+ "faying surfaces and interior": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সংযোগ-তল ও ভেতর"
+ },
+ "finished": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সমাপ্ত"
  },
  "flat blanks, one sheet gauge": {
-  "t": "সমতল ব্ল্যাঙ্ক, একটি পুরুত্ব",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সমতল ব্ল্যাঙ্ক, একই পুরুত্বের শিট"
+ },
+ "fold the same way": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "একইভাবে ভাঁজ"
+ },
+ "fold to the marks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "দাগ পর্যন্ত ভাঁজ"
+ },
+ "fuel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "জ্বালানি"
+ },
+ "give it roundness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "গোলাকার করা"
+ },
+ "gravity feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মাধ্যাকর্ষণ সরবরাহ"
+ },
+ "gust": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "দমকা হাওয়া"
+ },
+ "hard": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "শক্ত"
+ },
+ "header": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "হেডার"
+ },
+ "header full": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "হেডার পূর্ণ"
+ },
+ "header tank + aux tank, both in the cabin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "হেডার ট্যাঙ্ক + অক্স ট্যাঙ্ক, দুটিই কেবিনে"
+ },
+ "includes 15 % spares": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "15 % অতিরিক্তসহ"
+ },
+ "insert: the lock": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ঢোকান: লক"
+ },
+ "laminated wood, CC0 model": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ল্যামিনেটেড কাঠ, CC0 মডেল"
+ },
+ "light braking": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "হালকা ব্রেকিং"
+ },
+ "make soft creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "হালকা ভাঁজ দিন"
+ },
+ "materials and hire, rough": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উপকরণ ও ভাড়া, আনুমানিক"
  },
  "max take-off mass": {
-  "t": "সর্বোচ্চ টেক-অফ ভর",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সর্বোচ্চ উড্ডয়ন ভর"
  },
  "mountain": {
-  "t": "পর্বত ভাঁজ",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মাউন্টেন"
+ },
+ "mountain and valley folds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মাউন্টেন ও ভ্যালি ভাঁজ"
+ },
+ "neutral point": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "নিউট্রাল পয়েন্ট"
+ },
+ "no reserve": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কোনো সংরক্ষিত নয়"
+ },
+ "no sheet blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কোনো শিট ব্ল্যাঙ্ক নেই"
+ },
+ "none: over MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "কিছুই নয়: MTOW-এর বেশি"
+ },
+ "one 8 x 4 ft sheet of 6061-T6 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "6061-T6 0.020 in-এর একটি 8 x 4 ft শিট"
+ },
+ "open out": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "খুলে ফেলুন"
+ },
+ "or a club CNC router": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "অথবা ক্লাবের CNC রাউটার"
+ },
+ "part-time, alongside the build": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "খণ্ডকালীন, নির্মাণের পাশাপাশি"
+ },
+ "pilot": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পাইলট"
  },
  "pilot hole": {
-  "t": "পাইলট ছিদ্র",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পাইলট ছিদ্র"
+ },
+ "pin-to-pin; AN5 each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পিন-থেকে-পিন; প্রতি প্রান্তে AN5"
+ },
+ "pleat": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "প্লিট"
+ },
+ "practice piece": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "অনুশীলনের টুকরো"
  },
  "public domain": {
-  "t": "পাবলিক ডোমেইন",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "পাবলিক ডোমেইন"
+ },
+ "radio optional in SSDR": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "SSDR-এ রেডিও ঐচ্ছিক"
+ },
+ "reference points": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রেফারেন্স বিন্দু"
+ },
+ "right angle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সমকোণ"
+ },
+ "rivets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "রিভেট"
  },
  "rolled zone": {
-  "t": "গোলাকার অংশ",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "গোল করা অঞ্চল"
  },
  "rough build cost": {
-  "t": "আনুমানিক খরচ",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "আনুমানিক নির্মাণ খরচ"
+ },
+ "same angle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "একই কোণ"
+ },
+ "same angle: converging creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "একই কোণ: অভিসারী ভাঁজ"
+ },
+ "same length": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "একই দৈর্ঘ্য"
+ },
+ "short grass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ছোট ঘাস"
+ },
+ "static margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্ট্যাটিক মার্জিন"
+ },
+ "still air, 75 % power": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "স্থির বাতাস, 75 % শক্তি"
+ },
+ "subtotal": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উপমোট"
+ },
+ "tool, reused": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "সরঞ্জাম, পুনর্ব্যবহৃত"
+ },
+ "torque-tube arm to arch-foot bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "টর্ক-টিউব আর্ম থেকে আর্চ-পাদদেশের বেলক্র্যাঙ্ক"
+ },
+ "tundra tyres at 10–12 psi, 8 in tailwheel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "10–12 psi-তে টুন্ড্রা টায়ার, 8 in টেইলহুইল"
+ },
+ "turn it over": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "উল্টে দিন"
+ },
+ "unique": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "অনন্য"
+ },
+ "unique blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "অনন্য ব্ল্যাঙ্ক"
+ },
+ "useful load": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ব্যবহারযোগ্য ভার"
  },
  "valley": {
-  "t": "উপত্যকা ভাঁজ",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ভ্যালি"
+ },
+ "via floor pulley + 3 fairleads; Nicopress + thimble each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "মেঝের পুলি + 3টি ফেয়ারলিড দিয়ে; প্রতি প্রান্তে Nicopress + থিম্বল"
+ },
+ "via pulley at bulkhead 1 + 3 fairleads; turnbuckle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "বাল্কহেড 1-এর পুলি + 3টি ফেয়ারলিড দিয়ে; টার্নবাকল"
  },
  "wingspan": {
-  "t": "ডানার বিস্তার",
-  "by": "claude (hand-written UI seed)",
-  "reviewed": false
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ডানার বিস্তার"
+ },
+ "{w} x {h} mm flat, {f} folds, {p} pilot holes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "{w} x {h} mm সমতল, {f}টি ভাঁজ, {p}টি পাইলট ছিদ্র"
  }
 }

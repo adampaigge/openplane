@@ -1,0 +1,4087 @@
+{
+ "1 m hand bending brake (or hardwood bending blocks in a vise)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Handbeygjuvél 1 m (eða beygjukubbar úr harðviði í skrúfstykki)"
+ },
+ "1/8 in Clecos (300) + Cleco pliers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in Clecos (300) + Cleco-töng"
+ },
+ "1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in blindhnoð úr áli með kúptum haus, grip -1 (allt að 1.6 mm)"
+ },
+ "1/8 in domed aluminium blind rivet, grip -2 (1.6-3.2 mm)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in blindhnoð úr áli með kúptum haus, grip -2 (1.6-3.2 mm)"
+ },
+ "1/8 in hole duplicator": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in gataafritari"
+ },
+ "1/8 in stainless/Monel blind rivet (fire-zone)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in blindhnoð úr ryðfríu/Monel (eldsvæði)"
+ },
+ "2 m section in four-point bending, loaded in steps to 1.5 × the +4 g limit bending moment.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "2 m kafli í fjögurra punkta beygju, hlaðinn í þrepum upp í 1.5 × markbeygjuvægið við +4 g."
+ },
+ "2 x AN4 at the tail post": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "2 x AN4 við stélstoðina"
+ },
+ "2 x AN5 holes at the top, axle boss at the bottom": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "2 x AN5 göt efst, öxulnaf neðst"
+ },
+ "4 x 1.79 m wing, 2 x 1.0 m elevators, 1.24 m rudder, door": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vængur 4 x 1.79 m, hæðarstýri 2 x 1.0 m, hliðarstýri 1.24 m, hurð"
+ },
+ "4130 fittings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "4130 festingar"
+ },
+ "75 mm tube + ratchet strap (nose roller)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "75 mm rör + skrallól (rúlla fyrir frambrún)"
+ },
+ "; {n} parts x {l} laminated layers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "; {n} hlutar x {l} lagskipt lög"
+ },
+ "A BMAA or LAA inspector reviews the aircraft and the evidence.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Skoðunarmaður BMAA eða LAA fer yfir flugvélina og gögnin."
+ },
+ "A UK SSDR aircraft needs no airworthiness approval, so all the responsibility is the builder's. Proof-load the wing with sandbags to +4 g and have a BMAA or LAA inspector look at it before it flies. Elsewhere, check your national microlight rules.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bresk SSDR-flugvél þarf ekki lofthæfisvottun, svo öll ábyrgðin er smiðsins. Álagsprófaðu vænginn með sandpokum upp í +4 g og láttu skoðunarmann BMAA eða LAA líta á hann áður en flogið er. Annars staðar skaltu kanna innlendar reglur um örflugvélar."
+ },
+ "A concept design, published for study. It is not an approved design, and nothing here is airworthiness advice.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hugmyndahönnun, birt til náms. Þetta er ekki samþykkt hönnun og ekkert hér er ráðgjöf um lofthæfi."
+ },
+ "A single-seat microlight anyone can build. Every sheet part is a flat blank with straight folds, cut from one gauge of aluminium.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eins sætis örflugvél sem hver sem er getur smíðað. Hver plötuhluti er flatt efnisstykki með beinum brotum, skorið úr áli af einni þykkt."
+ },
+ "A4-1 blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "A4-1 blindhnoð"
+ },
+ "A4-2 blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "A4-2 blindhnoð"
+ },
+ "A4-SS blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "A4-SS blindhnoð"
+ },
+ "ALT instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ALT-mælir"
+ },
+ "AN3 bolt (10-32), AN365-1032 nut, AN960-10 washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 bolti (10-32), AN365-1032 ró, AN960-10 skífur"
+ },
+ "AN3 bolt, AN365-1032 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 bolti, AN365-1032 ró"
+ },
+ "AN3 bolt, AN365-1032 nut, rod end between the plates": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 bolti, AN365-1032 ró, kúluliður milli platnanna"
+ },
+ "AN3 bolt, AN365-1032 nut, through 3/16 in rod end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 bolti, AN365-1032 ró, gegnum 3/16 in kúlulið"
+ },
+ "AN3 each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 í hvorum enda"
+ },
+ "AN4 bolt (1/4-28), AN365-428 nut, 2 x AN960-416 washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 bolti (1/4-28), AN365-428 ró, 2 x AN960-416 skífur"
+ },
+ "AN4 bolt, AN310-4 + cotter (pivot)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 bolti, AN310-4 + splitti (snúningsás)"
+ },
+ "AN4 bolt, AN310-4 castle nut + cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 bolti, AN310-4 krónuró + splitti"
+ },
+ "AN4 bolt, AN365-428 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 bolti, AN365-428 ró"
+ },
+ "AN4 bolt, AN365-428 nut, AN970-4 washer each side": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 bolti, AN365-428 ró, AN970-4 skífa hvoru megin"
+ },
+ "AN5 bolt (5/16-24), AN365-524 nut, AN970-5 large washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 bolti (5/16-24), AN365-524 ró, AN970-5 stórar skífur"
+ },
+ "AN5 bolt + rubber isolator (Lord-type) + AN365-524": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 bolti + gúmmídempari (Lord-gerð) + AN365-524"
+ },
+ "AN5 bolt, AN310-5 castellated nut, MS24665 cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 bolti, AN310-5 krónuró, MS24665 splitti"
+ },
+ "AN5 bolt, AN365-524 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 bolti, AN365-524 ró"
+ },
+ "AN5 clevis pin (bolt), AN310-5 castellated nut, MS24665 cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 gaffalpinni (bolti), AN310-5 krónuró, MS24665 splitti"
+ },
+ "AN5 prop bolt, AN310-5 + safety wire (per prop maker)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 skrúfubolti, AN310-5 + öryggisvír (skv. skrúfuframleiðanda)"
+ },
+ "ASI instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ASI-mælir"
+ },
+ "About 10 months": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Um 10 mánuðir"
+ },
+ "Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hallastýris- / flapaarmur, 4130 0.063in (eitt brot á neðri klæðninguna)"
+ },
+ "Aileron / flap skin (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Klæðning hallastýris / flapa (eins x4)"
+ },
+ "Aileron / flap spar (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bitur hallastýris / flapa (eins x4)"
+ },
+ "Aileron and flap horns (K-HN), 1 per surface": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Armar hallastýra og flapa (K-HN), 1 á hvern flöt"
+ },
+ "Aileron link (cabin) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hallastýristengi (stjórnklefi) x2"
+ },
+ "Aileron link (cabin) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hallastýristengi (stjórnklefi) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Aileron pushrod (arch) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hallastýrisýtistöng (bogi) x2"
+ },
+ "Aileron pushrod (arch) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hallastýrisýtistöng (bogi) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Aileron pushrod (wing) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hallastýrisýtistöng (vængur) x2"
+ },
+ "Aileron pushrod (wing) x2: 6061-T6 1/2 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hallastýrisýtistöng (vængur) x2: 6061-T6 1/2 x 0.035 in"
+ },
+ "Aileron torque tube": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Snúningsrör hallastýra"
+ },
+ "Ailerons: a short link from the torque-tube arm to the arch-foot bellcrank, a pushrod up the rear-arch leg to the arch-top bellcrank, then out through the rib lightening holes to the outboard bellcrank, which drives the K-HN horn on the aileron. Flaps: overhead lever, a short rod to the centre-section torque-tube arms, then pushrods to the flap bellcranks and K-HN horns.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hallastýri: stutt tengi frá armi snúningsrörsins að hornvoginni við bogafótinn, ýtistöng upp eftir aftari bogaleggnum að hornvoginni efst á boganum, síðan út í gegnum léttigöt rifjanna að ytri hornvoginni, sem knýr K-HN arminn á hallastýrinu. Flapar: loftstöng, stutt stöng að örmum snúningsrörs miðhlutans, síðan ýtistangir að hornvogum flapanna og K-HN örmunum."
+ },
+ "All 52 ribs are the same two blanks. The pilot holes locate them, so no jig is needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Öll 52 rifin eru sömu tvö efnisstykkin. Stýrigötin staðsetja þau, svo engin smíðaskúffa er nauðsynleg."
+ },
+ "All six faces aim at one vanishing point, so each face is flat and every crease is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Allir sex fletirnir stefna á einn hvarfpunkt, svo hver flötur er flatur og hvert brot beint."
+ },
+ "All the glazing is flat sheet: no forming and no moulds.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Allt glerið er flöt plata: engin mótun og engin mót."
+ },
+ "Allowable": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Leyfilegt"
+ },
+ "Amount": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Upphæð"
+ },
+ "An engineering test plan modelled on BCAR Section S practice, not a regulatory approval route. Costs are rough ranges for materials, hire and consumables, not labour, and exclude the airframe itself. The plan lives in qualification.yaml in the repository, and its pass criteria use the live numbers from the build.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Verkfræðileg prófunaráætlun byggð á BCAR Section S verklagi, ekki leið til opinberrar vottunar. Kostnaður er gróft bil fyrir efni, leigu og rekstrarvörur, án vinnu og án skrokksins sjálfs. Áætlunin er í qualification.yaml í gagnasafninu og staðistsviðmið hennar nota lifandi tölur smíðinnar."
+ },
+ "Approach the stall in 1 kt steps, flaps up and down, at forward and aft CG.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nálgastu ofris í 1 kt þrepum, með flapa uppi og niðri, við fremri og aftari þyngdarpunkt."
+ },
+ "Arch over the pilot. Spar-root fittings bolt to its top corners, strut fittings to its feet. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bogi yfir flugmanninum. Rótarfestingar bitans boltast í efri horn hans, stífufestingar í fætur hans. Lagskipt: 2 hreiðruð lög af 0.020 in, brotin hvort fyrir sig og hnoðuð sem eitt; skerðu 0.5 mm á hvert innra lag af flansbrúnum."
+ },
+ "As above, including the reversed load case at −2 g.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eins og að ofan, þar með talið öfugt álagstilvik við −2 g."
+ },
+ "At least 1.5 × the full-power fuel flow from either tank.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Að minnsta kosti 1.5 × eldsneytisflæði á fullu afli úr hvorum tanki sem er."
+ },
+ "Aux fuel tank 20 L (rotomoulded), high behind the seat, gravity feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aukatankur 20 L (snúningssteyptur), hátt fyrir aftan sætið, þyngdarafls-fóðrun"
+ },
+ "Aux tank 20 L behind the seat + selector valve + line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aukatankur 20 L fyrir aftan sætið + valloki + lögn"
+ },
+ "Aux tank filler (through the left cabin side, behind the door)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Áfyllingarstútur aukatanks (gegnum vinstri hlið stjórnklefa, aftan við hurðina)"
+ },
+ "Aviation snips (straight, left, right)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flugvélaklippur (beinar, vinstri, hægri)"
+ },
+ "Axle bolt AN6 + castellated nut AN310-6 + cotter MS24665": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Öxulbolti AN6 + krónuró AN310-6 + splitti MS24665"
+ },
+ "Back-drill #40 through the rib and spar-cap pilot holes, using the hole duplicator where you can't reach from inside. Cleco as you go.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boraðu til baka með #40 í gegnum stýrigöt rifjanna og bitaflansanna, með gataafritaranum þar sem þú nærð ekki innan frá. Settu Clecos í jafnóðum."
+ },
+ "Back-drill through the rib flanges and spar caps. Do the nose last, working from the spar forward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boraðu til baka í gegnum rifflansana og bitaflansana. Gerðu nefið síðast, frá bitanum fram á við."
+ },
+ "Baggage locker behind the seat (net, 5 kg max)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Farangurshólf aftan við sætið (net, mest 5 kg)"
+ },
+ "Battery + radio + antenna": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rafgeymir + talstöð + loftnet"
+ },
+ "Battery 12 V LiFePO4 in vented box (under the seat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rafgeymir 12 V LiFePO4 í loftræstum kassa (undir sætinu)"
+ },
+ "Bellcrank arms in the cabin, 2 per bellcrank; Bellcrank arms in the wings, 2 per bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hornvogararmar í stjórnklefa, 2 á hverja hornvog; hornvogararmar í vængjum, 2 á hverja hornvog"
+ },
+ "Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hornvogarfestingar í stjórnklefa að boga / bita, 2 hver; hornvogarfestingar í vængjum að boga / bita, 2 hver"
+ },
+ "Bellcrank pivots in the cabin (K-BC pair through its K-CV bracket); Bellcrank pivots in the wings (K-BC pair through its K-CV bracket)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hornvogarásar í stjórnklefa (K-BC par gegnum K-CV festingu); hornvogarásar í vængjum (K-BC par gegnum K-CV festingu)"
+ },
+ "Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hornvogarplata, 4130 0.063in (pör, 55 mm armar)"
+ },
+ "Bellcranks: each is a pair of K-BC plates, 16 mm apart, on an AN4 pivot through a folded K-CV bracket. The rod ends sit between the plates on AN3 bolts. Five per side: aileron arch-foot, arch-top and outboard (at the rear spar); flap torque-tube arm and flap bellcrank.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hornvogir: hver er par K-BC platna með 16 mm millibili, á AN4 ás gegnum brotna K-CV festingu. Kúluliðirnir sitja milli platnanna á AN3 boltum. Fimm hvoru megin: hallastýri við bogafót, efst á boga og ytri (við aftari bitann); snúningsrörsarmur flapa og hornvog flapa."
+ },
+ "Bench vise with soft jaws": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Skrúfstykki með mjúkum kjöftum"
+ },
+ "Bend deduction": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Beygjufrádráttur"
+ },
+ "Bend on the brake: each channel is four 90° bends. Bend the two flanges first, then the two lips. Set the nose radius to 1 mm (about 2t for 0.020 in) and overbend about 2° for springback. Check every bend with a square.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Beygðu í beygjuvélinni: hver rás er fjórar 90° beygjur. Beygðu fyrst flansana tvo, síðan varirnar tvær. Stilltu nefradíusinn á 1 mm (um 2t fyrir 0.020 in) og ofbeygðu um 2° vegna fjöðrunar. Athugaðu hverja beygju með vinkli."
+ },
+ "Bend radius and springback": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Beygjuradíus og fjöðrun til baka"
+ },
+ "Best climb": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Besta klifur"
+ },
+ "Bill of materials": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Efnislisti"
+ },
+ "Blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Efnisstykki"
+ },
+ "Blind-rivet puller (hand or pneumatic)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Blindhnoðatöng (hand- eða loftknúin)"
+ },
+ "Bolt each main-gear spring leg through the floor doubler under the front arch: 2 x AN5 each, large washers both sides.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boltaðu hvern fjaðrafót aðalhjólabúnaðar gegnum gólfstyrkinguna undir fremri boganum: 2 x AN5 hvor, stórar skífur báðum megin."
+ },
+ "Bolt in the four harness anchors.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boltaðu fjórar beltisfestingarnar í."
+ },
+ "Bolt on the propeller and spinner. Torque to the prop maker's figure, then safety-wire.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boltaðu skrúfuna og nefkeiluna á. Hertu að gildi skrúfuframleiðandans, síðan öryggisvír."
+ },
+ "Bolt the 4130 engine mount through the firewall (4 x AN4) with large washers on the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boltaðu 4130 vélarfestinguna gegnum eldvegginn (4 x AN4) með stórum skífum að aftan."
+ },
+ "Bolt the four root clevises to the arch tops and the four strut-foot clevises to the arch feet with AN4 bolts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boltaðu rótargafflana fjóra á bogatoppana og stífufótargafflana fjóra á bogafæturna með AN4 boltum."
+ },
+ "Bolt the stabiliser halves to the tailcone side doublers, 4 x AN4 each. Bolt the fin spar to the tail post, 3 x AN4.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boltaðu helminga hæðarkambsins á hliðarstyrkingar stélkeilunnar, 4 x AN4 hvorn. Boltaðu kjölbitann á stélstoðina, 3 x AN4."
+ },
+ "Bolt the tailwheel spring to the tail post (2 x AN4). Fit the fork and the two steering springs to the rudder horn.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boltaðu stélhjólsfjöðrina á stélstoðina (2 x AN4). Settu gaffalinn og stýrisfjaðrirnar tvær á arm hliðarstýrisins."
+ },
+ "Bolt the tang pairs either side of each spar web at the root (4 x AN3), and the strut-top clevises under the spars at the 2.4 m rib.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boltaðu eyrnapörin hvoru megin við bitavegg hvers bita við rótina (4 x AN3), og efri stífugafflana undir bitunum við 2.4 m rifið."
+ },
+ "Bolts to the spar web with 4 x AN3 and reaches inboard past the spar end to the arch-top clevis pin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boltast á bitavegginn með 4 x AN3 og nær inn á við framhjá bitaendanum að gaffalpinnanum efst á boganum."
+ },
+ "Both sides are the same blank, mirrored. The openings have 50 mm corner radii because square corners start cracks.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Báðar hliðar eru sama efnisstykkið, spegluð. Opin hafa 50 mm hornradíusa vegna þess að ferköntuð horn hefja sprungur."
+ },
+ "Both tanks, up to MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Báðir tankar, upp að MTOW"
+ },
+ "Bottom + both chamfers + side flanges from one sheet: converging creases, still developable (frustum).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Botn + báðar skáskurðir + hliðarflansar úr einni plötu: samleitin brot, samt útflatanleg (stýfður pýramídi)."
+ },
+ "Bottom extends between the elevator halves.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Botninn nær á milli helminga hæðarstýrisins."
+ },
+ "Bought / fabricated items going on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Keyptir / smíðaðir hlutir sem fara á"
+ },
+ "Bought assemblies": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Keyptar samsetningar"
+ },
+ "Box-pleat hood 45°, nose bowl converging creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vélarhlíf með kassabrotum 45°, samleitin brot nefskálar"
+ },
+ "Brake drum": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bremsutromla"
+ },
+ "Build each section upside down on a straight edge: bulkheads Clecoed into the belly, then the sides, then the top.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Smíðaðu hvern hluta á hvolfi á beinni reglustiku: þverbönd með Cleco í kviðinn, síðan hliðarnar, síðan toppinn."
+ },
+ "Build up towards Vne in 5 kt steps, watching for buzz or flutter at every step.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Byggðu upp að Vne í 5 kt þrepum og fylgstu með suði eða flögri í hverju þrepi."
+ },
+ "CG range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Svið þyngdarpunkts"
+ },
+ "CHT/EGT instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CHT/EGT-mælir"
+ },
+ "CLmax, drag, propeller efficiency and the neutral point are handbook estimates. Measure stall speed and CG limits in flight test. The 35 kt SSDR stall limit is met with flaps:": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CLmax, viðnám, nýtni skrúfu og hlutlausi punkturinn eru handbókarmat. Mældu ofrishraða og þyngdarpunktsmörk í tilraunaflugi. 35 kt ofrismörk SSDR nást með flöpum:"
+ },
+ "Cabin roof (centre lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Þak stjórnklefa (miðja neðri klæðning)"
+ },
+ "Cabin side (x2, mirrored): door/window opening + front window": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hlið stjórnklefa (x2, spegluð): hurðar-/gluggaop + framgluggi"
+ },
+ "Cabin sides and seat": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hliðar stjórnklefa og sæti"
+ },
+ "Carries flap/aileron hinges and rear strut fitting. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ber flapa-/hallastýrislamir og aftari stífufestingu. Lagskipt: 2 hreiðruð lög af 0.020 in, brotin hvort fyrir sig og hnoðuð sem eitt; skerðu 0.5 mm á hvert innra lag af flansbrúnum."
+ },
+ "Case": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tilvik"
+ },
+ "Category": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flokkur"
+ },
+ "Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Afturbrúnarhlíf miðhluta (föst, milli flapanna)"
+ },
+ "Centre-section upper skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Efri klæðning miðhluta"
+ },
+ "Check stops, free play, friction and cable tension, then load every circuit to the pilot limit loads.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Athugaðu stoppara, hlaup, núning og spennu víra, hlaðdu síðan hverja rás að markálagi flugmanns."
+ },
+ "Check the cap angle every 500 mm with a square. Sight along the spar for twist.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Athugaðu flanshornið á 500 mm fresti með vinkli. Horfðu eftir bitanum eftir snúningi."
+ },
+ "Check twist by sighting a level across bulkheads 1 and 5. Then join the two sections at bulkhead 3.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Athugaðu snúning með því að miða hallamæli yfir þverbönd 1 og 5. Tengdu síðan hlutana tvo við þverband 3."
+ },
+ "Clean and prime. Steel fittings rust under paint if they aren't primed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hreinsaðu og grunnaðu. Stálfestingar ryðga undir málningu ef þær eru ekki grunnaðar."
+ },
+ "Clecos": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Clecos"
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gaffalveggir á bogatoppa og bogafætur, 2 á hvern gaffal; efri gafflar stífu og hjálparstífu gegnum bitaflansana, 2 hver"
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each; Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gaffalveggir á bogatoppa og bogafætur, 2 á hvern gaffal; efri gafflar stífu og hjálparstífu gegnum bitaflansana, 2 hver; hornvogarfestingar í stjórnklefa að boga / bita, 2 hver; hornvogarfestingar í vængjum að boga / bita, 2 hver"
+ },
+ "Clevis, 4130 0.063in (U, two folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gaffall, 4130 0.063in (U, tvö brot)"
+ },
+ "Clevis: two 90° bends at 3t radius": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gaffall: tvær 90° beygjur með 3t radíus"
+ },
+ "Click to explore": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Smelltu til að skoða"
+ },
+ "Clip on the strut fairings.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Smelltu stífuhlífunum á."
+ },
+ "Close the bay behind the centre-section rear spar with the W-CT trailing-edge fairing (same wedge fold as the flaps). Do it last, after the flap linkage is rigged and checked.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lokaðu rýminu aftan við aftari bita miðhlutans með W-CT afturbrúnarhlífinni (sama fleygbrot og á flöpunum). Gerðu það síðast, eftir að flapabúnaðurinn hefur verið stilltur og athugaður."
+ },
+ "Closes the control surface; carries hinge and mass-balance arm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lokar stýrifletinum; ber lömina og massajafnvægisarminn."
+ },
+ "Closes the control surface; carries hinge and mass-balance arm. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lokar stýrifletinum; ber lömina og massajafnvægisarminn. Lagskipt: 2 hreiðruð lög af 0.020 in, brotin hvort fyrir sig og hnoðuð sem eitt; skerðu 0.5 mm á hvert innra lag af flansbrúnum."
+ },
+ "Compass (on the glare shield)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Áttaviti (á glampaskyggninu)"
+ },
+ "Components": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Íhlutir"
+ },
+ "Consumables": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rekstrarvörur"
+ },
+ "Control stick": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stýrisstöng"
+ },
+ "Control system": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stýrikerfi"
+ },
+ "Control-circuit strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Styrkur stýrirása"
+ },
+ "Control-system free play": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hlaup í stýrikerfi"
+ },
+ "Controllable in all axes with trim available. Engine temperatures stable.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stjórnanleg um alla ása með tiltæka snyrtingu. Hitastig hreyfils stöðugt."
+ },
+ "Controls, instruments and systems": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stýri, mælar og kerfi"
+ },
+ "Controls: stick, torque tube, cables, pushrods": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stýri: stöng, snúningsrör, vírar, ýtistangir"
+ },
+ "Converging creases 44°, bulkhead flanges 96–100°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Samleitin brot 44°, þverbandsflansar 96–100°"
+ },
+ "Converted from UK prices": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Umreiknað úr breskum verðum"
+ },
+ "Copy it, change it, build it, sell it. No permission needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Afritaðu hana, breyttu henni, smíðaðu hana, seldu hana. Ekkert leyfi þarf."
+ },
+ "Cordless drill, #40 (2.5 mm) and #30 (3.3 mm) bits": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Þráðlaus borvél, #40 (2.5 mm) og #30 (3.3 mm) borar"
+ },
+ "Cost": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kostnaður"
+ },
+ "Cotter pins": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Splitti"
+ },
+ "Cotter-pin and safety-wire pliers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Töng fyrir splitti og öryggisvír"
+ },
+ "Coupons and processes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Prófsýni og ferli"
+ },
+ "Covers the top half of the firewall. Camlocks along the firewall flange and the split line.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hylur efri helming eldveggjarins. Camlock-lásar meðfram eldveggsflansinum og skilalínunni."
+ },
+ "Cowl to firewall flange and along the split line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vélarhlíf að eldveggsflansi og meðfram skilalínunni"
+ },
+ "Crippling stress at least {stress:ms_cc}, the design allowable. Layers must not separate before failure.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Staðbundin bognunarspenna að minnsta kosti {stress:ms_cc}, leyfilegt hönnunargildi. Lögin mega ekki skiljast að fyrir brot."
+ },
+ "Cruise 75 %": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Farflug 75 %"
+ },
+ "Crush 300 mm lengths of three-layer lipped channel, riveted at design pitch, five samples.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kremdu 300 mm búta af þriggja laga varaðri rás, hnoðaðri með hönnunarbili, fimm sýni."
+ },
+ "Currency": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gjaldmiðill"
+ },
+ "Cut and deburr: the stand blanks are on the same nest sheets as everything else. File every edge smooth and deburr each pilot hole on both faces. Look for burrs with your fingertip, not your eye.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Skera og afgráða: efnisstykki búkkanna eru á sömu skurðplötum og allt annað. Sverfðu hverja brún slétta og afgráðaðu hvert stýrigat báðum megin. Leitaðu að gráðum með fingurgómnum, ekki auganu."
+ },
+ "Cut files (DXF and nests), crease patterns, the prop model, the bill of materials and the design report.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Skurðskrár (DXF og skurðplötur), brotamynstur, skrúfulíkanið, efnislistinn og hönnunarskýrslan."
+ },
+ "Cut lengths": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Skurðlengdir"
+ },
+ "Cut list": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Skurðlisti"
+ },
+ "Cut the main struts to 2543 mm and the rear struts to 2547 mm pin-to-pin, minus the end-fitting length. All four are 6061-T6 1.75 x 0.065 in tube.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Skerðu aðalstífurnar í 2543 mm og aftari stífurnar í 2547 mm pinna-í-pinna, að frádreginni lengd endafestinganna. Allar fjórar eru 6061-T6 1.75 x 0.065 in rör."
+ },
+ "Cut, deburr, mark": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Skera, afgráða, merkja"
+ },
+ "Cylinder": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Strokkur"
+ },
+ "Deburr every edge and hole": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Afgráðaðu hverja brún og hvert gat"
+ },
+ "Deburr every edge with a file or deburring tool. A burr is where a fatigue crack starts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Afgráðaðu hverja brún með þjöl eða afgráðunartæki. Gráða er þar sem þreytusprunga byrjar."
+ },
+ "Deburr every pilot hole on both faces with a 10 mm bit turned by hand.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Afgráðaðu hvert stýrigat báðum megin með 10 mm bor sem snúið er með höndunum."
+ },
+ "Deburring tool, 10 mm drill bit (hole deburr), fine file": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Afgráðunartæki, 10 mm bor (gatafgráðun), fín þjöl"
+ },
+ "Don't overtighten: nylon washers, and stop when the washer just grips.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ekki herða of mikið: nælonskífur, og hættu um leið og skífan grípur."
+ },
+ "Door (left, hinged) / side window (right, fixed)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hurð (vinstri, á lömum) / hliðargluggi (hægri, fastur)"
+ },
+ "Download files (.zip)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sækja skrár (.zip)"
+ },
+ "Drawing": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Teikning"
+ },
+ "Drill and cleco: clamp the gussets in place, drill through the pilot holes to #30 (3.3 mm), and put a cleco in every fourth hole as you go. Then take everything apart, deburr the holes and the faying surfaces, and put it back together on clecos.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bora og Cleco: klemmdu styrktarplöturnar á sinn stað, boraðu gegnum stýrigötin í #30 (3.3 mm) og settu Cleco í fjórða hvert gat jafnóðum. Taktu síðan allt í sundur, afgráðaðu götin og snertifletina og settu aftur saman á Clecos."
+ },
+ "Drill press, 1/4 in and 5/16 in reamers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Súluborvél, 1/4 in og 5/16 in rýmar"
+ },
+ "Drill, deburr, prime, rivet the skeleton": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bora, afgráða, grunna, hnoða grindina"
+ },
+ "Duration": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tímalengd"
+ },
+ "Each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stykkjaverð"
+ },
+ "Each cable end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hver vírendi"
+ },
+ "Each spar is a laminate: three nested blanks for the main spar, two for the rear. Fold every layer separately, then nest them.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hver biti er lagskiptur: þrjú hreiðruð efnisstykki fyrir aðalbitann, tvö fyrir aftari. Brjóttu hvert lag sér, hreiðraðu þau síðan."
+ },
+ "Each wing pins on at two points. The struts set its angle.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hver vængur festist með pinnum á tveimur stöðum. Stífurnar ákvarða horn hans."
+ },
+ "Ears take an AN5 pin (fore-aft axis); web bolts with 2 x AN4. Bend radius 3t for normalised 4130 (Wanttaja).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eyrun taka AN5 pinna (lengdarás); veggurinn boltast með 2 x AN4. Beygjuradíus 3t fyrir staðlað 4130 (Wanttaja)."
+ },
+ "Electrics: 12 V LiFePO4 battery in a vented box under the seat. Run it via the master switch and fuses to the radio, with the antenna coax to a whip on the tailcone top. The mag P-lead goes through a firewall grommet. The half-VW's magneto needs no battery to run.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rafkerfi: 12 V LiFePO4 rafgeymir í loftræstum kassa undir sætinu. Leiddu hann um aðalrofa og öryggi að talstöðinni, með loftnetskapal að svipuloftneti ofan á stélkeilunni. P-leiðsla kveikjusegulsins fer gegnum hlífðarhring í eldveggnum. Kveikjusegull half-VW þarf engan rafgeymi til að ganga."
+ },
+ "Elevator bellcrank (under seat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hornvog hæðarstýris (undir sæti)"
+ },
+ "Elevator cable x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hæðarstýrisvír x2"
+ },
+ "Elevator cable x2: 1/8 in 7x19 galvanised": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hæðarstýrisvír x2: 1/8 in 7x19 galvaníseraður"
+ },
+ "Elevator cables: run one straight line each from the bellcrank to the tail-post grommet, 60 mm apart, up cable above down cable. Fit a phenolic fairlead where each line passes a bulkhead.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hæðarstýrisvírar: leggðu hvern í einni beinni línu frá hornvoginni að hlífðarhring stélstoðarinnar, 60 mm á milli, upp-vír fyrir ofan niður-vír. Settu fenól-vírstýringu þar sem hver lína fer gegnum þverband."
+ },
+ "Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hæðarstýrisarmur, 4130 0.063in (tvíenda, á snúningsröri hæðarstýrisins)"
+ },
+ "Elevator skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Klæðning hæðarstýris"
+ },
+ "Elevator spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Biti hæðarstýris"
+ },
+ "Elevators and rudder: fold them the same way as the ailerons in step 7 (pleats, then the trailing-edge fold, then the C-spar).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hæðarstýri og hliðarstýri: brjóttu þau á sama hátt og hallastýrin í skrefi 7 (fellingar, síðan afturbrúnarbrotið, síðan C-bitinn)."
+ },
+ "Empty / MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tóm / MTOW"
+ },
+ "Empty mass and balance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tóm þyngd og jafnvægi"
+ },
+ "Empty mass at or below {mass:empty} plus 3 %, and every loading case inside the CG range.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tóm þyngd í eða undir {mass:empty} plús 3 %, og hvert hleðslutilvik innan þyngdarpunktssviðs."
+ },
+ "Empty tanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tómir tankar"
+ },
+ "Empty tanks, 5 kg baggage (aftmost)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tómir tankar, 5 kg farangur (aftast)"
+ },
+ "Endurance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flugþol"
+ },
+ "Engine and prop": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hreyfill og skrúfa"
+ },
+ "Engine and propeller": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hreyfill og skrúfa"
+ },
+ "Engine mount": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vélarfesting"
+ },
+ "Engine mount to firewall, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vélarfesting að eldvegg, 4"
+ },
+ "Engine mount tube (4130)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rör vélarfestingar (4130)"
+ },
+ "Engine runs: full-power static run, mag check, then check cylinder head temperatures.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hreyfilkeyrslur: kyrrstæð keyrsla á fullu afli, segulprófun, athugaðu síðan hitastig strokkhausa."
+ },
+ "Engine to mount, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hreyfill að festingu, 4"
+ },
+ "Engine, cowl, prop": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hreyfill, vélarhlíf, skrúfa"
+ },
+ "Enter what one sheet costs where you are. The airframe needs about {n} of them, and the sheet lines below follow your price; everything else stays a converted UK estimate. Leave it empty to use the estimate of {price}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sláðu inn hvað ein plata kostar þar sem þú ert. Skrokkurinn þarf um {n} plötur, og plötulínurnar hér fyrir neðan fylgja verðinu þínu; allt annað er áfram umreiknað breskt mat. Skildu eftir autt til að nota matið {price}."
+ },
+ "Epoxy primer + etch/alodine": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Epoxý-grunnur + æting/alodine"
+ },
+ "Estimated": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Áætlað"
+ },
+ "Estimated flutter speed at least 1.2 × the design dive speed of {speed:Vd}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Áætlaður flögurhraði að minnsta kosti 1.2 × hönnunarsteypihraði {speed:Vd}."
+ },
+ "Every crease goes on the blank before anything is folded, the same order the origami book uses.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hvert brot er merkt á efnisstykkið áður en nokkuð er brotið, í sömu röð og origami-bókin notar."
+ },
+ "Every flange within ±0.5 mm of the drawing.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hver flans innan ±0.5 mm frá teikningunni."
+ },
+ "Every folded blank, every rivet by grip, every AN bolt by step, plus tube stock, bought assemblies, consumables and tools. Each line has an estimated price. The same list is in BOM.csv and HARDWARE_BY_STEP.csv in the download.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hvert brotið efnisstykki, hvert hnoð eftir gripþykkt, hver AN-bolti eftir skrefi, auk röra, keyptra samsetninga, rekstrarvara og verkfæra. Hver lína hefur áætlað verð. Sami listi er í BOM.csv og HARDWARE_BY_STEP.csv í niðurhalinu."
+ },
+ "Every number on this site is a calculation. This is the plan for turning them into evidence: cheap coupon tests first, then components, then the whole wing, then the ground and finally the air. Each phase retires a specific risk before money is spent on the next. Results go back into the repository, and measured values replace the estimates in aircraft.yaml.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hver tala á þessum vef er útreikningur. Þetta er áætlunin um að breyta þeim í sönnunargögn: fyrst ódýrar sýnaprófanir, síðan íhlutir, síðan allur vængurinn, síðan jörðin og loks loftið. Hver áfangi útilokar tiltekna áhættu áður en fé er eytt í þann næsta. Niðurstöður fara aftur í gagnasafnið og mæld gildi koma í stað matsins í aircraft.yaml."
+ },
+ "Every result, photo and failure goes into the repository.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hver niðurstaða, mynd og bilun fer í gagnasafnið."
+ },
+ "Every steel fitting is also a flat blank folded at most twice.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sérhver stálfesting er líka flatt efnisstykki brotið mest tvisvar."
+ },
+ "Everything that goes into one aircraft": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Allt sem fer í eina flugvél"
+ },
+ "Exact": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nákvæmt"
+ },
+ "Exchange rates: {date}, base GBP.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gengi: {date}, grunnur GBP."
+ },
+ "Export BOM (.csv)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flytja út efnislista (.csv)"
+ },
+ "Extinguisher and PLB": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Slökkvitæki og PLB"
+ },
+ "F-B1 Tailcone bulkhead x=1150": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B1 Þverband stélkeilu x=1150"
+ },
+ "F-B2 Tailcone bulkhead x=1948": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B2 Þverband stélkeilu x=1948"
+ },
+ "F-B3 Tailcone bulkhead x=2745": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B3 Þverband stélkeilu x=2745"
+ },
+ "F-B4 Tailcone bulkhead x=3542": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B4 Þverband stélkeilu x=3542"
+ },
+ "F-B5 Tailcone bulkhead x=4340 (tail post)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B5 Þverband stélkeilu x=4340 (stélstoð)"
+ },
+ "F-CL Lower cowl (box-pleat pan to the cabin floor line)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-CL Neðri vélarhlíf (bakki með kassabrotum að gólflínu stjórnklefa)"
+ },
+ "F-CU Upper cowl (hood, two 90 deg folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-CU Efri vélarhlíf (lok, tvö 90 deg brot)"
+ },
+ "F-DW Door (left, hinged) / side window (right, fixed)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-DW Hurð (vinstri, á lömum) / hliðargluggi (hægri, fastur)"
+ },
+ "F-FA Front arch (main-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FA Fremri bogi (rammi aðalbita)"
+ },
+ "F-FL Floor tray with two hat pleats": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FL Gólfbakki með tveimur hattfellingum"
+ },
+ "F-FW Firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FW Eldveggur"
+ },
+ "F-FWN Front side window (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FWN Fremri hliðargluggi (x2, speglaður)"
+ },
+ "F-IP Instrument panel (glare-shield fold, side tabs)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-IP Mælaborð (glampaskyggnisbrot, hliðarflipar)"
+ },
+ "F-NF Nose ring (prop-shaft hole + two cooling inlets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NF Nefhringur (gat fyrir skrúfuás + tvö kæliinntök)"
+ },
+ "F-NL Nose bowl, chin (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NL Nefskál, haka (3 samleitnir fletir)"
+ },
+ "F-NU Nose bowl, upper (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NU Nefskál, efri (3 samleitnir fletir)"
+ },
+ "F-RA Rear arch (rear-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-RA Aftari bogi (rammi aftari bita)"
+ },
+ "F-SD Cabin side (x2, mirrored): door/window opening + front window": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-SD Hlið stjórnklefa (x2, spegluð): hurðar-/gluggaop + framgluggi"
+ },
+ "F-ST Seat (pan + back, one sheet)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-ST Sæti (seta + bak, ein plata)"
+ },
+ "F-TB1 Tailcone belly, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TB1 Kviður stélkeilu, hluti 1"
+ },
+ "F-TB2 Tailcone belly, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TB2 Kviður stélkeilu, hluti 2"
+ },
+ "F-TS1 Tailcone side, section 1 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TS1 Hlið stélkeilu, hluti 1 (x2, spegluð)"
+ },
+ "F-TS2 Tailcone side, section 2 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TS2 Hlið stélkeilu, hluti 2 (x2, spegluð)"
+ },
+ "F-TT1 Tailcone top, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TT1 Toppur stélkeilu, hluti 1"
+ },
+ "F-TT2 Tailcone top, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TT2 Toppur stélkeilu, hluti 2"
+ },
+ "F-WS Windscreen (cold-bent flat polycarbonate)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-WS Framrúða (kaldbeygt flatt pólýkarbónat)"
+ },
+ "Faceted rib: every flange is a straight brake bend, no form block or fluting needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Fleta-rif: hver flans er ein bein beygja í vélinni, ekkert mótunarform eða riflur."
+ },
+ "Fairleads and pulleys": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vírstýringar og trissur"
+ },
+ "Fasteners": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Festingar"
+ },
+ "Fin nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nefrif kjalar"
+ },
+ "Fin skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Klæðning kjalar (ein umvafning)"
+ },
+ "Fin spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Biti kjalar"
+ },
+ "Final-drill every Cleco'd hole to #30 (3.3 mm), a few at a time, moving each Cleco to the next hole as you go.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lokaboraðu hvert Cleco-gat í #30 (3.3 mm), nokkur í einu, og færðu hvert Cleco í næsta gat jafnóðum."
+ },
+ "Fine felt marker, steel rule, square, MEK to clean": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Fínn tússpenni, stálreglustika, vinkill, MEK til hreinsunar"
+ },
+ "Finish: glue carpet on top of each beam so the wing skin can't be scratched. Load each stand with 40 kg and check it doesn't rack or rock. Keep the offcuts: they are your test pieces for the spar bend in step 2.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Frágangur: límdu teppi ofan á hvern bita svo vængklæðningin rispist ekki. Hlaðdu hvern búkka með 40 kg og athugaðu að hann skekkist hvorki né vaggi. Geymdu afskurðinn: hann er prófstykkin þín fyrir bitabeygjuna í skrefi 2."
+ },
+ "Fire extinguisher 1 kg (clip by the left seat rail)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Slökkvitæki 1 kg (klemmt við vinstri sætisbraut)"
+ },
+ "Firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eldveggur"
+ },
+ "Firewall flanges": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eldveggsflansar"
+ },
+ "First flights": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Fyrstu flug"
+ },
+ "First-pass strength: +4 / −2 g, ×1.5 ultimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Styrkur í fyrstu nálgun: +4 / −2 g, ×1.5 brotálag"
+ },
+ "Fit each rib by its attach flange: Cleco through the pilot holes into the spar web. Nose ribs go on the front face, main ribs on the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Settu hvert rif á eftir festiflansi þess: Cleco gegnum stýrigötin í bitavegginn. Nefrif fara á framhliðina, aðalrif á bakhliðina."
+ },
+ "Fit the axles, wheels and drum brakes. Castellated nut and cotter on each axle. The 21 x 8.00-6 tundra tyres run at 10-12 psi: check pressure before every flight, they are soft by design.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Settu öxlana, hjólin og tromlubremsurnar á. Krónuró og splitti á hvern öxul. 21 x 8.00-6 tundra-dekkin ganga á 10-12 psi: athugaðu þrýstinginn fyrir hvert flug, þau eru mjúk af ásettu ráði."
+ },
+ "Fit the cabin roof and the centre-section upper skin, back-drilled through the root ribs. Use the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Settu þak stjórnklefa og efri klæðningu miðhlutans á, boruð til baka gegnum rótarrifin. Notaðu hnoðlykkjuna."
+ },
+ "Fit the camlock receptacles on the firewall flange and along the split line. Trim the cowl until it clears the cylinders by at least 10 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Settu camlock-móttakarana á eldveggsflansinn og meðfram skilalínunni. Snyrtu vélarhlífina þar til hún er að minnsta kosti 10 mm frá strokkunum."
+ },
+ "Fit the jury struts (420 mm main, 425 mm rear) from the clamp ear to the jury-top clevis under the spar, AN3 at each end. They double the strut's buckling strength.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Settu hjálparstífurnar á (aðal 420 mm, aftari 425 mm) frá klemmueyranu að efri gaffli hjálparstífunnar undir bitanum, AN3 í hvorum enda. Þær tvöfalda bognunarstyrk stífunnar."
+ },
+ "Fit the sides outside the arches, firewall flange and floor flanges. Back-drill and Cleco.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Settu hliðarnar utan á bogana, eldveggsflansinn og gólfflansana. Boraðu til baka og Cleco."
+ },
+ "Fit the stick, the aileron torque tube under the seat and the elevator bellcrank. Connect the stick to the bellcrank with a short pushrod.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Settu stöngina, snúningsrör hallastýra undir sætinu og hornvog hæðarstýris í. Tengdu stöngina við hornvogina með stuttri ýtistöng."
+ },
+ "Five facets, chamfers matching the cabin floor. A louvre slot at the rear is the cooling-air exit.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Fimm fletir, skáskurðir sem passa við gólf stjórnklefa. Rimlarauf að aftan er útrás kæliloftsins."
+ },
+ "Flanges 90°, all toward the root": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flansar 90°, allir að rótinni"
+ },
+ "Flanges all round fold aft; engine mount bolts through 4 doublers.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flansar allan hringinn brotna aftur; vélarfestingin boltast gegnum 4 styrkingar."
+ },
+ "Flanges follow the frustum taper (fold < 90 deg).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flansar fylgja mjókkun stýfða pýramídans (brot < 90 deg)."
+ },
+ "Flanges follow the frustum taper (fold < 90 deg). Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flansar fylgja mjókkun stýfða pýramídans (brot < 90 deg). Lagskipt: 2 hreiðruð lög af 0.020 in, brotin hvort fyrir sig og hnoðuð sem eitt; skerðu 0.5 mm á hvert innra lag af flansbrúnum."
+ },
+ "Flanges follow the nose taper.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flansar fylgja mjókkun nefsins."
+ },
+ "Flap lever (overhead, Kitfox-style)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flapastöng (í lofti, í Kitfox-stíl)"
+ },
+ "Flap pushrod (wing) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flapaýtistöng (vængur) x2"
+ },
+ "Flap pushrod (wing) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flapaýtistöng (vængur) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Flap stall at or below 35 kt CAS, the SSDR limit; predicted {speed:Vs0}. Gentle stall, no wing drop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ofris með flöpum við eða undir 35 kt CAS, SSDR-mörkin; spá {speed:Vs0}. Mjúkt ofris, ekkert vængfall."
+ },
+ "Flaps and ailerons": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flapar og hallastýri"
+ },
+ "Flat panel; the top flange folds aft as a glare shield, side tabs fold forward onto the cabin sides. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flatt spjald; efri flansinn brotnar aftur sem glampaskyggni, hliðarflipar brotna fram á hliðar stjórnklefans. Lagskipt: 2 hreiðruð lög af 0.020 in, brotin hvort fyrir sig og hnoðuð sem eitt; skerðu 0.5 mm á hvert innra lag af flansbrúnum."
+ },
+ "Flat polycarbonate over the front cut-out, 20 mm lap, screws in 4.5 mm oversize holes.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flatt pólýkarbónat yfir fremri útskurðinn, 20 mm skörun, skrúfur í 4.5 mm yfirstærðargötum."
+ },
+ "Flight test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tilraunaflug"
+ },
+ "Floor tray with two hat pleats": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gólfbakki með tveimur hattfellingum"
+ },
+ "Floor, firewall, arches": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gólf, eldveggur, bogar"
+ },
+ "Flutter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flögur"
+ },
+ "Foam tape": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Svampteip"
+ },
+ "Fold 20 strips of 0.51 mm 6061-T6 at a 0.8 mm nose radius, across and along the grain. Inspect every bend under a 10× loupe.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu 20 ræmur af 0.51 mm 6061-T6 með 0.8 mm nefradíus, þvert á og langs eftir valsstefnu. Skoðaðu hverja beygju undir 10× stækkunargleri."
+ },
+ "Fold a 300 mm offcut of a rib and of a spar from the real DXFs and measure every flange.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu 300 mm afskurð af rifi og bita úr raunverulegu DXF-skránum og mældu hvern flans."
+ },
+ "Fold a 300 mm offcut of the same strip first and measure it to confirm the bend deduction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu fyrst 300 mm afskurð af sömu ræmu og mældu hann til að staðfesta beygjufrádráttinn."
+ },
+ "Fold all 52 ribs before assembling any: one brake set-up does the whole batch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu öll 52 rifin áður en nokkuð er sett saman: ein stilling beygjuvélarinnar dugar fyrir allan skammtinn."
+ },
+ "Fold coupons": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Beygjusýni"
+ },
+ "Fold each belly blank: bottom, both chamfers, then the side flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu hvert kviðstykki: botn, báðar skáskurðir, síðan hliðarflansana."
+ },
+ "Fold every rib flange 90° on the brake. Because the airfoil is faceted, each flange is one straight bend.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu hvern rifflans 90° í vélinni. Þar sem vængsniðið er með fleti er hver flans ein bein beygja."
+ },
+ "Fold the 12 clevises in the vise over a 5 mm radius block. Normalised 4130 needs at least 3t (Wanttaja).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu gafflana 12 í skrúfstykkinu yfir kubb með 5 mm radíus. Staðlað 4130 þarf að minnsta kosti 3t (Wanttaja)."
+ },
+ "Fold the 90° top flange and the windscreen flange on each side panel. The top flange is the longeron.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu 90° efri flansinn og framrúðuflansinn á hverju hliðarspjaldi. Efri flansinn er langbandið."
+ },
+ "Fold the bulkhead flanges. They are 96–100°, not 90°, because they follow the taper.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu þverbandsflansana. Þeir eru 96–100°, ekki 90°, því þeir fylgja mjókkuninni."
+ },
+ "Fold the firewall flanges, all aft. It is stainless, so drill it slowly with a sharp bit and cutting oil.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu eldveggsflansana, alla aftur. Hann er úr ryðfríu, svo boraðu hægt með beittum bor og skurðarolíu."
+ },
+ "Fold the floor tray's two hat pleats, then the chamfers and side flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu hattfellingar gólfbakkans tvær, síðan skáskurðina og hliðarflansana."
+ },
+ "Fold the instrument panel (glare shield and side tabs) and rivet it to the cabin sides at x = -400 mm. Fit the ASI, altimeter, tach, CHT/EGT, radio, master and mag switches and fuel valve, and put the compass on the glare shield.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu mælaborðið (skyggni og hliðarflipar) og hnoðaðu það við hliðar stjórnklefans við x = -400 mm. Settu í ASI, hæðarmæli, snúningsmæli, CHT/EGT, talstöð, aðal- og segulrofa og eldsneytisloka, og settu áttavitann á skyggnið."
+ },
+ "Fold the ribs, Cleco them on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu rifin, festu þau með Cleco"
+ },
+ "Fold the seat: pan and back from one sheet. Rivet its front lip to the floor and lean its back on the rear arch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu sætið: seta og bak úr einni plötu. Hnoðaðu fremri vörina við gólfið og hallaðu bakinu að aftari boganum."
+ },
+ "Fold the spars": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu bitana"
+ },
+ "Fold the stabiliser and fin spars and their nose ribs.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu bita hæðarkambs og kjalar og nefrif þeirra."
+ },
+ "Fold the trailing edge over a 0.6 mm radius bar in the brake, to about 165°. Squeeze gently in soft vise jaws until the TE is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu afturbrúnina yfir stöng með 0.6 mm radíus í vélinni, í um 165°. Kreistu varlega í mjúkum skrúfstykkiskjöftum þar til afturbrúnin er bein."
+ },
+ "Fold the two V-bead pleats in valley-mountain-valley order. Stop each bead at the marks.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu V-fellingarnar tvær í röðinni dalur-fjall-dalur. Stöðvaðu hverja fellingu við merkin."
+ },
+ "Fold the two arches: outer and inner flanges, all aft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu bogana tvo: ytri og innri flansa, alla aftur."
+ },
+ "Fold the two caps first (90°), then the two lips. Overbend by about 2° so the 6061-T6 springs back to 90°.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu fyrst flansana tvo (90°), síðan varirnar tvær. Ofbeygðu um 2° svo 6061-T6 fjaðri til baka í 90°."
+ },
+ "Fold the upper and lower cowls (four 45° creases each) and the nose-bowl halves. Rivet the nose bowls to the nose ring.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brjóttu efri og neðri vélarhlífina (fjögur 45° brot hvor) og helminga nefskálarinnar. Hnoðaðu nefskálarnar við nefhringinn."
+ },
+ "Folded blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brotin efnisstykki"
+ },
+ "Folds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brot"
+ },
+ "Four brake bends each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Fjórar beygjur hver"
+ },
+ "Four identical surfaces from one blank. The trailing edge is a single crease, so there's no separate strip to rivet on.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Fjórir eins fletir úr einu efnisstykki. Afturbrúnin er eitt brot, svo engin sér ræma er til að hnoða á."
+ },
+ "Four stands, 20 blanks, about 200 rivets. The cheapest place to learn to fold, drill and rivet is a part that never leaves the ground.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Fjórir búkkar, 20 efnisstykki, um 200 hnoð. Ódýrasti staðurinn til að læra að brjóta, bora og hnoða er hlutur sem fer aldrei frá jörðu."
+ },
+ "Free play under 1° at each surface, and full travel with no binding under load.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hlaup undir 1° á hverjum fleti, og full hreyfing án festu undir álagi."
+ },
+ "Front arch (main-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Fremri bogi (rammi aðalbita)"
+ },
+ "Front side window (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Fremri hliðargluggi (x2, speglaður)"
+ },
+ "Front side windows: screw over the cut-outs with a 20 mm lap.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Fremri hliðargluggar: skrúfaðu yfir útskurðina með 20 mm skörun."
+ },
+ "Frustum facets aimed at one point, so every crease is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Fletir stýfða pýramídans stefna á einn punkt, svo hvert brot er beint."
+ },
+ "Fuel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eldsneyti"
+ },
+ "Fuel allowed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Leyfilegt eldsneyti"
+ },
+ "Fuel and payload": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eldsneyti og burðargeta"
+ },
+ "Fuel feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eldsneytisaðfærsla"
+ },
+ "Fuel filler neck + cap (through the hood, ahead of the windscreen)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Áfyllingarháls + lok (gegnum vélarhlífina, framan við framrúðuna)"
+ },
+ "Fuel selector valve: HEADER / AUX / OFF": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eldsneytisvalloki: HEADER / AUX / OFF"
+ },
+ "Fuel system parts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hlutar eldsneytiskerfis"
+ },
+ "Fuel tank 19 L (rotomoulded polyethylene): header tank behind the firewall, ahead of the panel, Cub-style": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eldsneytistankur 19 L (snúningssteypt pólýetýlen): aðaltankur aftan við eldvegginn, framan við mælaborðið, Cub-stíll"
+ },
+ "Fuel tank 19 L (rotomoulded) + lines, valve, gascolator": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eldsneytistankur 19 L (snúningssteyptur) + lagnir, loki, botnfellir"
+ },
+ "Fuel, aux tank: a second 20 L tank strap-mounts high behind the seat, its bottom above the header tank top so it also gravity-feeds. Its line runs forward along the left roof rail to the selector; filler through the left cabin side, vent overboard under the roof. Never in the wings. Fill it only as far as the 300 kg MTOW allows: with a 100 kg pilot that is none at all. Burn the aux tank first, which keeps the CG moving forward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eldsneyti, aukatankur: annar 20 L tankur er festur með ólum hátt aftan við sætið, með botninn ofar en toppur aðaltanksins svo hann fóðrar líka með þyngdarafli. Lögn hans liggur fram eftir vinstri þakbrautinni að valanum; áfylling gegnum vinstri hlið stjórnklefa, öndun út undir þakinu. Aldrei í vængjunum. Fylltu hann aðeins svo mikið sem 300 kg MTOW leyfir: með 100 kg flugmanni er það alls ekkert. Brenndu aukatankinn fyrst, sem færir þyngdarpunktinn fram."
+ },
+ "Fuel, header tank: the 19 L rotomoulded tank sits behind the firewall, above the pilot's shins and under the windscreen, strapped to two angles riveted to the side panels (as on a J-3 Cub). It gravity-feeds: tank outlet, selector valve (HEADER / AUX / OFF), a fire-sleeved hose through a firewall grommet, the gascolator on the firewall, then the carburettor. The tank bottom is about 200 mm above the carburettor. The filler neck comes up through the hood just ahead of the windscreen, and the vent runs forward under the hood.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eldsneyti, aðaltankur: 19 L snúningssteypti tankurinn situr aftan við eldvegginn, ofan við sköflunga flugmannsins og undir framrúðunni, festur með ólum við tvö horn hnoðuð á hliðarspjöldin (eins og á J-3 Cub). Hann fóðrar með þyngdarafli: úttak tanks, valloki (HEADER / AUX / OFF), slanga með eldhlíf gegnum hlífðarhring í eldveggnum, botnfellirinn á eldveggnum, síðan blöndungurinn. Botn tanksins er um 200 mm fyrir ofan blöndunginn. Áfyllingarhálsinn kemur upp gegnum vélarhlífina rétt framan við framrúðuna og öndunin liggur fram undir hlífinni."
+ },
+ "Gascolator (fuel strainer) on the firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Botnfellir (eldsneytissía) á eldveggnum"
+ },
+ "Glide L/D": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Svifhlutfall L/D"
+ },
+ "Ground": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jörð"
+ },
+ "Ground vibration test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Titringsprófun á jörðu"
+ },
+ "Half-VW engine": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Half-VW hreyfill"
+ },
+ "Half-VW engine, dressed (carb, mag, exhaust)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Half-VW hreyfill, útbúinn (blöndungur, segull, púströr)"
+ },
+ "Hang the elevators and rudder on piano hinges. Check ±25° rudder travel clears the elevator halves.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hengdu hæðarstýrin og hliðarstýrið á píanólamir. Athugaðu að ±25° hreyfing hliðarstýrisins snerti ekki helminga hæðarstýrisins."
+ },
+ "Hang the half-VW on rubber isolators (4 x AN5).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hengdu half-VW á gúmmídempara (4 x AN5)."
+ },
+ "Hangar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flugskýli"
+ },
+ "Hardware": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Smávörur"
+ },
+ "Hardware for this step": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Smávörur fyrir þetta skref"
+ },
+ "Harness anchors to floor and rear arch, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Beltisfestingar að gólfi og aftari boga, 4"
+ },
+ "Hat pleats 56°, flanges 90°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hattfellingar 56°, flansar 90°"
+ },
+ "Have a BMAA or LAA inspector look at it before the first flight. Do first flights in calm air, over a long field.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Láttu skoðunarmann BMAA eða LAA líta á hana fyrir fyrsta flug. Fljúgðu fyrstu flugin í kyrru lofti, yfir löngum velli."
+ },
+ "Head": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Haus"
+ },
+ "Header tank full": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aðaltankur fullur"
+ },
+ "Holds ultimate load for 3 s in both directions.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Heldur brotálagi í 3 s í báðar áttir."
+ },
+ "Holds ultimate load for 3 s. Peak cap stress {stress:ms_sig} against an allowable of {stress:ms_cc}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Heldur brotálagi í 3 s. Hámarksspenna í flansi {stress:ms_sig} á móti leyfilegri {stress:ms_cc}."
+ },
+ "Holds {force:strut_T} in tension and {force:strut_C} in compression with no failure.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Heldur {force:strut_T} í togi og {force:strut_C} í þrýstingi án bilunar."
+ },
+ "Honesty": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Heiðarleiki"
+ },
+ "Horn: rod end bolts through the outer hole (AN3).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Armur: kúluliðurinn boltast gegnum ytra gatið (AN3)."
+ },
+ "Horns, bellcranks and brackets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Armar, hornvogir og festingar"
+ },
+ "How it gets proven": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hvernig það er sannað"
+ },
+ "Imperial": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bresk-amerísk"
+ },
+ "Inspect each rivet: head seated flat, mandrel broken off flush, no gap under the head.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Skoðaðu hvert hnoð: hausinn situr flatur, kjarninn brotinn sléttur, ekkert bil undir hausnum."
+ },
+ "Inspection": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Skoðun"
+ },
+ "Inspector sign-off before the aircraft is flown by anyone else.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Undirskrift skoðunarmanns áður en nokkur annar flýgur vélinni."
+ },
+ "Instructions": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Leiðbeiningar"
+ },
+ "Instrument panel (glare-shield fold, side tabs)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mælaborð (glampaskyggnisbrot, hliðarflipar)"
+ },
+ "Instruments (ASI, alt, tach, CHT, compass)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mælar (ASI, hæð, snúningur, CHT, áttaviti)"
+ },
+ "Inverted wing on its fittings, sandbags laid out to the spanwise lift distribution, to +4 g limit and then −2 g. Measure tip deflection at each step.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vængur á hvolfi á festingum sínum, sandpokar lagðir eftir lyftidreifingu á vænghafinu, upp að +4 g mörkum og síðan −2 g. Mældu oddsveigju í hverju þrepi."
+ },
+ "Item": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vara"
+ },
+ "Jury strut 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hjálparstífa 0.75 x 0.049 in"
+ },
+ "Jury strut x2 (main)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hjálparstífa x2 (aðal)"
+ },
+ "Jury strut x2 (main): 6061-T6 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hjálparstífa x2 (aðal): 6061-T6 0.75 x 0.049 in"
+ },
+ "Jury strut x2 (rear)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hjálparstífa x2 (aftari)"
+ },
+ "Jury strut x2 (rear): 6061-T6 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hjálparstífa x2 (aftari): 6061-T6 0.75 x 0.049 in"
+ },
+ "Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hnakkklemma hjálparstífu, 4130 0.063in (völsuð hálfskel með eyrum)"
+ },
+ "K-BC Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-BC Hornvogarplata, 4130 0.063in (pör, 55 mm armar)"
+ },
+ "K-CV Clevis, 4130 0.063in (U, two folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-CV Gaffall, 4130 0.063in (U, tvö brot)"
+ },
+ "K-HD Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HD Hæðarstýrisarmur, 4130 0.063in (tvíenda, á snúningsröri hæðarstýrisins)"
+ },
+ "K-HN Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HN Hallastýris- / flapaarmur, 4130 0.063in (eitt brot á neðri klæðninguna)"
+ },
+ "K-HR Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HR Hliðarstýrisarmur, 4130 0.063in (flatur, vír hvoru megin)"
+ },
+ "K-JC Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-JC Hnakkklemma hjálparstífu, 4130 0.063in (völsuð hálfskel með eyrum)"
+ },
+ "K-TG Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-TG Rótareyra bita, 4130 0.063in (flatt, pör hvoru megin við vegginn)"
+ },
+ "Laminate: each channel is two blanks. Fold both separately, nest the inner one inside the outer one, and check they sit tight with no gap. If the inner one fights, take 0.5 mm off its flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lagskipting: hver rás er tvö efnisstykki. Brjóttu bæði sér, hreiðraðu það innra í það ytra og athugaðu að þau sitji þétt án bils. Ef það innra streitist á móti, taktu 0.5 mm af flansbrúnum þess."
+ },
+ "Laminated channel crippling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Staðbundin bognun lagskiptrar rásar"
+ },
+ "Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lagskipt: 2 hreiðruð lög af 0.020 in, brotin hvort fyrir sig og hnoðuð sem eitt; skerðu 0.5 mm á hvert innra lag af flansbrúnum."
+ },
+ "Landing gear and tailwheel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lendingarbúnaður og stélhjól"
+ },
+ "Landing roll": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lendingarbrun"
+ },
+ "Language": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tungumál"
+ },
+ "Laps 30 mm under the upper skin at 8% chord.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Skarast 30 mm undir efri klæðninguna við 8% af vængstreng."
+ },
+ "Laser / waterjet cutting service": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laser- / vatnsskurðarþjónusta"
+ },
+ "Lay the spars on a flat table, webs vertical, 3.6 m apart for the two wings.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Leggðu bitana á slétt borð, veggi lóðrétta, með 3.6 m bili fyrir vængina tvo."
+ },
+ "Leans on the rear arch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hallast að aftari boganum."
+ },
+ "Leave the protective film on. Drill the polycarbonate with plastic bits, holes 6 mm for M4 screws so it can expand.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hafðu hlífðarfilmuna á. Boraðu pólýkarbónatið með plastborum, 6 mm göt fyrir M4 skrúfur svo það geti þanist út."
+ },
+ "Left door front edge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Frambrún vinstri hurðar"
+ },
+ "Licence": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Leyfi"
+ },
+ "Lift strut (main) 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lyftistífa (aðal) 1.75 x 0.065 in"
+ },
+ "Lift strut (rear) 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lyftistífa (aftari) 1.75 x 0.065 in"
+ },
+ "Lift strut, tension": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lyftistífa, tog"
+ },
+ "Lift strut, −2 g buckling (with jury strut)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lyftistífa, bognun við −2 g (með hjálparstífu)"
+ },
+ "Lift struts and jury struts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lyftistífur og hjálparstífur"
+ },
+ "Line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lína"
+ },
+ "Lipped channels: four 90° brake bends each, two nested layers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Varaðar rásir: fjórar 90° beygjur hver, tvö hreiðruð lög"
+ },
+ "Load each linkage part to 1.5 × the BCAR Section S pilot loads at the stick and pedals.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hlaðdu hvern hluta stýribúnaðarins í 1.5 × flugmannsálag BCAR Section S á stöng og pedala."
+ },
+ "Local-price estimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mat á staðarverði"
+ },
+ "Local-price estimate for {country}, in {currency}, before any local sales tax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mat á staðarverði fyrir {country}, í {currency}, án staðbundins söluskatts."
+ },
+ "Local-price estimate for {country}, in {currency}, including {tax} % VAT, GST or sales tax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mat á staðarverði fyrir {country}, í {currency}, með {tax} % virðisaukaskatti, GST eða söluskatti."
+ },
+ "Low-speed taxi, then fast taxi with the tail up, on the intended test field.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Akstur á lágum hraða, síðan hraður akstur með stélið uppi, á fyrirhuguðum prófunarvelli."
+ },
+ "Lower cowl (box-pleat pan to the cabin floor line)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Neðri vélarhlíf (bakki með kassabrotum að gólflínu stjórnklefa)"
+ },
+ "Lower skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Neðri klæðning, reitur 1"
+ },
+ "Lower skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Neðri klæðning, reitur 2"
+ },
+ "Lower skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Neðri klæðning, reitur 3"
+ },
+ "Lower skins": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Neðri klæðningar"
+ },
+ "M4 pan screw, nylon washer, M4 Nyloc nut, 6 mm oversize hole in polycarbonate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "M4 pönnuskrúfa, nælonskífa, M4 Nyloc ró, 6 mm yfirstærðargat í pólýkarbónati"
+ },
+ "MEK / cleaner, Scotch-Brite, gloves": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "MEK / hreinsiefni, Scotch-Brite, hanskar"
+ },
+ "Main gear leg x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aðalhjólafótur x2"
+ },
+ "Main gear leg x2: 6061-T6 bar 75 x 16 mm": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aðalhjólafótur x2: 6061-T6 flatjárn 75 x 16 mm"
+ },
+ "Main gear legs through floor doubler, 2 per leg": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aðalhjólafætur gegnum gólfstyrkingu, 2 á hvern fót"
+ },
+ "Main gear spring leg (6061-T6 bar)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Fjaðrafótur aðalhjólabúnaðar (6061-T6 flatjárn)"
+ },
+ "Main gear: 2 spring legs + axles": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aðalhjólabúnaður: 2 fjaðrafætur + öxlar"
+ },
+ "Main lift strut x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aðallyftistífa x2"
+ },
+ "Main lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aðallyftistífa x2: 6061-T6 1.75 x 0.065 in"
+ },
+ "Main rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aðalrif"
+ },
+ "Main rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aðalrif, rót/oddur"
+ },
+ "Main spar (lipped C, opens aft)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aðalbiti (varað C, opið aftur)"
+ },
+ "Main spar section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Þversnið aðalbita"
+ },
+ "Main spar web shear, limit": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Skerspenna í vegg aðalbita, mark"
+ },
+ "Main spar: lipped C, three layers of 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aðalbiti: varað C, þrjú lög af 0.020 in"
+ },
+ "Main wheel: 21 x 8.00-6 tundra tyre at 10-12 psi": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aðalhjól: 21 x 8.00-6 tundra-dekk á 10-12 psi"
+ },
+ "Main wheels": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aðalhjól"
+ },
+ "Margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vik"
+ },
+ "Mark fold lines on the marked face: red dashed = valley, blue dash-dot = mountain. Use a fine felt marker, never a scribe (Wanttaja: scribe lines start cracks).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Merktu brotalínur á merktu hliðina: rauð strikalína = dalur, blá strik-punktalína = fjall. Notaðu fínan tússpenna, aldrei rissnál (Wanttaja: risslínur hefja sprungur)."
+ },
+ "Mark folds with felt pen, never a scribe": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Merktu brot með tússpenna, aldrei rissnál"
+ },
+ "Mark the folds: red dashed is a valley, blue dash-dot is a mountain. Felt marker on the marked face only, never a scribe.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Merktu brotin: rauð strikalína er dalur, blá strik-punktalína er fjall. Tússpenni aðeins á merktu hliðina, aldrei rissnál."
+ },
+ "Mass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Massi"
+ },
+ "Mass balance weights": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Massajafnvægislóð"
+ },
+ "Mass-balance each aileron with lead on an arm ahead of the hinge until it hangs level, before it goes on the aircraft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Massajafnaðu hvert hallastýri með blýi á armi framan við lömina þar til það hangir lárétt, áður en það fer á flugvélina."
+ },
+ "Mass-balance horn at outboard end.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Massajafnvægisarmur á ytri enda."
+ },
+ "Mean strength at or above the value used in design, scatter under 10 %.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Meðalstyrkur jafn eða yfir gildinu sem notað var í hönnun, dreifing undir 10 %."
+ },
+ "Measure gravity flow from each tank, with the aircraft at its steepest climb attitude plus margin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mældu þyngdarflæði úr hvorum tanki, með flugvélina í brattasta klifurhalla að viðbættu vikmörkum."
+ },
+ "Measure twist under a known torque at the tip rib.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mældu snúning undir þekktu vægi við oddrifið."
+ },
+ "Measured climb, cruise and glide recorded against the predictions on the numbers tab.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mælt klifur, farflug og svif skráð á móti spánum á talnaflipanum."
+ },
+ "Measured values replace estimates in aircraft.yaml, and the build manual is revised.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mæld gildi koma í stað matsins í aircraft.yaml og smíðahandbókin er endurskoðuð."
+ },
+ "Member": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hluti"
+ },
+ "Method": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aðferð"
+ },
+ "Metric": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Metrakerfi"
+ },
+ "Mid CG, calm air, long field, circuit height only, an experienced test pilot.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Miðlægur þyngdarpunktur, kyrrt loft, langur völlur, aðeins hringflugshæð, reyndur tilraunaflugmaður."
+ },
+ "Month 10": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mánuður 10"
+ },
+ "Month 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mánuður 4"
+ },
+ "Month 5": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mánuður 5"
+ },
+ "Months 2–3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mánuðir 2–3"
+ },
+ "Months 6–9": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mánuðir 6–9"
+ },
+ "Move the CG from forward to aft in steps, checking stick-free stability at each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Færðu þyngdarpunktinn frá fremri til aftari í þrepum og athugaðu stöðugleika með lausa stöng í hverju."
+ },
+ "Nicopress sleeve + thimble (1/8 in cable)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nicopress-hólkur + kósi (1/8 in vír)"
+ },
+ "Nicopress tool + cable cutter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nicopress-verkfæri + víraklippur"
+ },
+ "No cracks, and springback within 2° of prediction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Engar sprungur, og fjöðrun innan 2° frá spá."
+ },
+ "No flutter or buzz up to {speed:Vne}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ekkert flögur eða suð upp að {speed:Vne}."
+ },
+ "No permanent set after unloading. Deflection within 15 % of prediction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Engin varanleg aflögun eftir afhleðslu. Sveigja innan 15 % frá spá."
+ },
+ "No permanent set at limit, no failure at ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Engin varanleg aflögun við markálag, engin bilun við brotálag."
+ },
+ "No physical part has been cut. Fold one rib and one spar offcut first to check the bend deduction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Enginn raunverulegur hlutur hefur verið skorinn. Brjóttu fyrst einn afskurð af rifi og einn af bita til að athuga beygjufrádráttinn."
+ },
+ "No yield at limit load, no failure at ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Engin flotmörk við markálag, engin bilun við brotálag."
+ },
+ "Nose bowl, chin (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nefskál, haka (3 samleitnir fletir)"
+ },
+ "Nose bowl, upper (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nefskál, efri (3 samleitnir fletir)"
+ },
+ "Nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nefrif"
+ },
+ "Nose rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nefrif, rót/oddur"
+ },
+ "Nose ring (prop-shaft hole + two cooling inlets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nefhringur (gat fyrir skrúfuás + tvö kæliinntök)"
+ },
+ "Nose rolled over 75 mm tube": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nef valsað yfir 75 mm rör"
+ },
+ "Nose zone is rolled over a 75 mm tube; aft creases are soft brake hits (2-6 deg).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nefsvæðið er valsað yfir 75 mm rör; aftari brotin eru léttir þrýstingar í vélinni (2-6 deg)."
+ },
+ "Not analysed yet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ekki greint enn"
+ },
+ "Not proven": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ekki sannað"
+ },
+ "Notes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Athugasemdir"
+ },
+ "One 90 degree flange stiffens the free edge. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Einn 90 gráðu flans stífir lausu brúnina. Lagskipt: 2 hreiðruð lög af 0.020 in, brotin hvort fyrir sig og hnoðuð sem eitt; skerðu 0.5 mm á hvert innra lag af flansbrúnum."
+ },
+ "One hour of progressive ground running, with cylinder head and exhaust temperatures logged.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ein klukkustund af stigvaxandi keyrslu á jörðu, með hitastig strokkhausa og útblásturs skráð."
+ },
+ "One-wrap skins, sharp trailing edges": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Klæðningar í einni umvafningu, hvassar afturbrúnir"
+ },
+ "Open-source aircraft": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flugvél með opnum kóða"
+ },
+ "Order as 12 ft strip. Lips turn the free flange edges into supported edges (k 0.43 -> ~4). Laminated: 3 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pantaðu sem 12 ft ræmu. Varirnar breyta lausum flansbrúnum í studdar brúnir (k 0.43 -> ~4). Lagskipt: 3 hreiðruð lög af 0.020 in, brotin hvert fyrir sig og hnoðuð sem eitt; skerðu 0.5 mm á hvert innra lag af flansbrúnum."
+ },
+ "Paint": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Málning"
+ },
+ "Paint, then weigh on three scales in the level attitude. Work out the empty CG and check every loading case falls inside the design range in DESIGN_REPORT.md (about 28–33 % MAC).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Málaðu, vigtaðu síðan á þremur vogum í láréttri stöðu. Reiknaðu tóman þyngdarpunkt og athugaðu að hvert hleðslutilvik falli innan hönnunarsviðsins í DESIGN_REPORT.md (um 28–33 % MAC)."
+ },
+ "Panel: glare-shield fold 90°, side tabs 90°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Spjald: skyggnisbrot 90°, hliðarflipar 90°"
+ },
+ "Parts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hlutar"
+ },
+ "Pass when": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stenst þegar"
+ },
+ "Performance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Afköst"
+ },
+ "Phases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Áfangar"
+ },
+ "Piano hinge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Píanólöm"
+ },
+ "Piano hinge MS20001 + door latch": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Píanólöm MS20001 + hurðarlás"
+ },
+ "Pilot": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flugmaður"
+ },
+ "Pilot (95th pct, for scale)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flugmaður (95. hundraðshlutamark, til viðmiðunar)"
+ },
+ "Pilot, fuel and baggage share one budget: maximum take-off mass minus empty mass. Both tanks are in the cabin, never in the wings: an 18 L header tank behind the firewall and a 20 L aux tank high behind the seat, both gravity-fed through one selector. A light pilot can fill both. A heavy pilot gets the header tank or less. Burn the aux tank first.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flugmaður, eldsneyti og farangur deila einni fjárhæð: hámarksflugtaksþyngd að frádreginni tómþyngd. Báðir tankar eru í stjórnklefanum, aldrei í vængjunum: 18 L aðaltankur aftan við eldvegginn og 20 L aukatankur hátt aftan við sætið, báðir með þyngdarafli gegnum einn vala. Léttur flugmaður getur fyllt báða. Þungur flugmaður fær aðaltankinn eða minna. Brenndu aukatankinn fyrst."
+ },
+ "Pitot tube (left wing, ahead of the LE)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pitotrör (vinstri vængur, framan við frambrúnina)"
+ },
+ "Pitot-static: pitot tube under the left wing at the 1.2 m rib. Run its line inside the wing ahead of the main spar to the root and down the A-pillar to the ASI. A static port on the left cabin side feeds the altimeter and ASI. Secure everything with Adel clamps every 300 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pitot-static: pitotrör undir vinstri vængnum við 1.2 m rifið. Leiddu lögnina inni í vængnum framan við aðalbitann að rótinni og niður A-stoðina að ASI. Stöðugátt á vinstri hlið stjórnklefans fóðrar hæðarmælinn og ASI. Festu allt með Adel-klemmum á 300 mm fresti."
+ },
+ "Planar: no forming, drill with plastic-cutting bits, slotted holes for expansion.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flatt: engin mótun, borað með plastborum, ílöng göt fyrir þenslu."
+ },
+ "Plastic-cutting drill bits / step drill": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Plastborar / þrepabor"
+ },
+ "Positive stability at the aft limit; predicted minimum static margin {pct:SM_min}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jákvæður stöðugleiki við aftari mörkin; spáð lágmarks stöðugleikavik {pct:SM_min}."
+ },
+ "Press or bolt a 4130 end fork into each tube end. Drill the AN5 pin hole after the final length check on the aircraft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Þrýstu eða boltaðu 4130 endagaffal í hvorn rörenda. Boraðu gatið fyrir AN5 pinnann eftir lokamælingu lengdar á flugvélinni."
+ },
+ "Prime the faying surfaces: Scotch-Brite, wash, etch or alodine, then epoxy primer. Wear gloves (Wanttaja: finger oils stop primer sticking).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Grunnaðu snertifletina: Scotch-Brite, þvottur, æting eða alodine, síðan epoxý-grunnur. Notaðu hanska (Wanttaja: fingurfita hindrar að grunnurinn festist)."
+ },
+ "Primer part: two nested layers folded on the brake and riveted as one. Glue carpet on the web. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Inngangshlutur: tvö hreiðruð lög brotin í vélinni og hnoðuð sem eitt. Límdu teppi á vegginn. Lagskipt: 2 hreiðruð lög af 0.020 in, brotin hvort fyrir sig og hnoðuð sem eitt; skerðu 0.5 mm á hvert innra lag af flansbrúnum."
+ },
+ "Primer: build the wing stands": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Inngangur: smíðaðu vængbúkkana"
+ },
+ "Proof-load the wing upside down with sandbags to +4 g limit load, spread spanwise. It must show no permanent set.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Álagsprófaðu vænginn á hvolfi með sandpokum að +4 g markálagi, dreift eftir vænghafinu. Hann má ekki sýna varanlega aflögun."
+ },
+ "Prop drive hub (flange)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Drifnaf skrúfu (flans)"
+ },
+ "Propeller 54 in wood + hub": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Viðarskrúfa 54 in + naf"
+ },
+ "Propeller 54 x 24 in, laminated wood (download the model)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Skrúfa 54 x 24 in, límtré (sæktu líkanið)"
+ },
+ "Propeller hub, 6": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Skrúfunaf, 6"
+ },
+ "Publish": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Birta"
+ },
+ "Pull a complete strut with its clevises and tangs to ultimate tension, then buckle a second at −2 g with the jury strut fitted.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Togaðu heila stífu með göfflum og eyrum upp í brottog, bognaðu síðan aðra við −2 g með hjálparstífuna á."
+ },
+ "Push the AN5 root pins through. Fit castellated nuts and cotter pins.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ýttu AN5 rótarpinnunum í gegn. Settu krónurær og splitti á."
+ },
+ "Put in the aft soft creases first.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Settu fyrst aftari mjúku brotin."
+ },
+ "Put in the soft creases with a light brake hit, or by hand over a straight-edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Settu mjúku brotin með léttum þrýstingi í vélinni, eða með höndunum yfir beina reglustiku."
+ },
+ "Qty": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Magn"
+ },
+ "Qualification": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hæfismat"
+ },
+ "Quarter-turn camlock (Dzus) + receptacle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Fjórðungssnúnings camlock (Dzus) + móttakari"
+ },
+ "RADIO instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "RADIO-mælir"
+ },
+ "Range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Drægni"
+ },
+ "Ream the pin holes to 5/16 in and the bolt holes to 1/4 in and 3/16 in, through both ears at once so they line up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rýmdu pinnagötin í 5/16 in og boltagötin í 1/4 in og 3/16 in, gegnum bæði eyrun í einu svo þau standist á."
+ },
+ "Rear arch (rear-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aftari bogi (rammi aftari bita)"
+ },
+ "Rear lift strut x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aftari lyftistífa x2"
+ },
+ "Rear lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aftari lyftistífa x2: 6061-T6 1.75 x 0.065 in"
+ },
+ "Rear spar (lipped C, opens forward)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aftari biti (varað C, opið fram)"
+ },
+ "Rear spar section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Þversnið aftari bita"
+ },
+ "Rear spar: lipped C, two layers of 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aftari biti: varað C, tvö lög af 0.020 in"
+ },
+ "Reassemble on Clecos, then pull the rivets from the middle of each joint outward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Settu aftur saman á Clecos, hnoðaðu síðan frá miðju hverrar samsetningar út á við."
+ },
+ "Ribs, skin buckling, fittings, landing gear, tail loads, the engine mount and flutter. Mass-balance every control surface.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rif, bognun klæðningar, festingar, lendingarbúnaður, stélálag, vélarfestingin og flögur. Massajafnaðu hvern stýriflöt."
+ },
+ "Right side: fixed window over the door opening. Left side: the same blank on a piano hinge at its front edge, with a latch at the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hægri hlið: fastur gluggi yfir hurðaropinu. Vinstri hlið: sama efnisstykki á píanólöm við frambrún sína, með lás að aftan."
+ },
+ "Rivet joints": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hnoðsamsetningar"
+ },
+ "Rivet strength in thin sheet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Styrkur hnoða í þunnri plötu"
+ },
+ "Rivet the piano hinge to the spar top, then hang the surface on the rear spar.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hnoðaðu píanólömina á topp bitans, hengdu síðan flötinn á aftari bitann."
+ },
+ "Rivet: pull 1/8 in blind rivets, working from the middle of each row outwards and swapping clecos for rivets one at a time. A good rivet sits flat, with no gap under the head. Drill out any bad one with a #30 bit and try again: practise this on purpose at least once.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hnoða: dragðu 1/8 in blindhnoð frá miðju hverrar raðar út á við og skiptu Clecos út fyrir hnoð einu í einu. Gott hnoð situr flatt, án bils undir hausnum. Boraðu út hvert slæmt með #30 bor og reyndu aftur: æfðu þetta viljandi að minnsta kosti einu sinni."
+ },
+ "Riveting loop, rivets from the main spar outward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hnoðlykkja, hnoð frá aðalbitanum út á við."
+ },
+ "Riveting loop, then join the tailcone to the cabin at bulkhead 1.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hnoðlykkja, tengdu síðan stélkeiluna við stjórnklefann við þverband 1."
+ },
+ "Riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hnoðlykkja."
+ },
+ "Riveting loop. The firewall takes stainless or Monel rivets: aluminium melts in a fire.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hnoðlykkja. Eldveggurinn fær ryðfrí eða Monel hnoð: ál bráðnar í eldi."
+ },
+ "Riveting loop: final-drill #30, take apart, deburr, prime, Cleco, rivet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hnoðlykkja: lokaborun #30, taka í sundur, afgráða, grunna, Cleco, hnoða."
+ },
+ "Rivets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hnoð"
+ },
+ "Rivets to the rear-spar flanges. Closes the bay behind the centre-section rear spar.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hnoðast á flansa aftari bitans. Lokar rýminu aftan við aftari bita miðhlutans."
+ },
+ "Rod ends": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kúluliðir"
+ },
+ "Roll each skin's leading edge, then wrap it round its ribs and spar. Back-drill and use the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Valsaðu frambrún hverrar klæðningar, vefðu hana síðan um rif hennar og bita. Boraðu til baka og notaðu hnoðlykkjuna."
+ },
+ "Roll the eight saddle-clamp halves round a 45 mm bar, then bolt a pair round each strut at mid-length (2 x AN3 through the ears).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Valsaðu átta helminga hnakkklemmanna um 45 mm stöng, boltaðu síðan par um hverja stífu á miðri lengd (2 x AN3 gegnum eyrun)."
+ },
+ "Roll the green zone: lay the skin over a 75 mm tube and pull it round with a strap, a little at a time. Don't crease it.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Valsaðu græna svæðið: leggðu klæðninguna yfir 75 mm rör og dragðu hana um með ól, smátt og smátt. Ekki brjóta hana."
+ },
+ "Root and tip ribs have their flanges facing into the panel.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rótar- og oddrif hafa flansa sína inn að spjaldinu."
+ },
+ "Rudder and elevator cables, 1 per cable, in the cabin where you can inspect them": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vírar hliðarstýris og hæðarstýris, 1 á hvern vír, í stjórnklefanum þar sem þú getur skoðað þá"
+ },
+ "Rudder cable x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hliðarstýrisvír x2"
+ },
+ "Rudder cable x2: 1/8 in 7x19 galvanised": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hliðarstýrisvír x2: 1/8 in 7x19 galvaníseraður"
+ },
+ "Rudder cables: pedal horn, then a pulley at the pedal, along the floor at y = ±200 mm through fairleads on both arch feet, a pulley at bulkhead 1, then one straight line each to the tail post. Because the tailcone is a frustum, a straight run between interior points never touches the skin, so no cable needs a mid-cone pulley.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hliðarstýrisvírar: pedalarmur, síðan trissa við pedalinn, eftir gólfinu við y = ±200 mm gegnum vírstýringar á báðum bogafótum, trissa við þverband 1, síðan hver í einni beinni línu að stélstoðinni. Þar sem stélkeilan er stýfður pýramídi snertir bein lína milli innri punkta aldrei klæðninguna, svo enginn vír þarf trissu í miðri keilu."
+ },
+ "Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hliðarstýrisarmur, 4130 0.063in (flatur, vír hvoru megin)"
+ },
+ "Rudder pedals": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hliðarstýrispedalar"
+ },
+ "Rudder skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Klæðning hliðarstýris"
+ },
+ "Rudder spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Biti hliðarstýris"
+ },
+ "S-BM Stand beam (lipped C, saddle on top)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-BM Búkkabiti (varað C, hnakkur ofan á)"
+ },
+ "S-FT Stand foot (lipped C, opens up)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-FT Búkkafótur (varað C, opið upp)"
+ },
+ "S-GF Stand foot gusset (flat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-GF Styrktarplata búkkafótar (flöt)"
+ },
+ "S-GT Stand top gusset (flanged hypotenuse)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-GT Efri styrktarplata búkka (langhlið með flansi)"
+ },
+ "S-LG Stand leg (lipped C)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-LG Búkkaleggur (varað C)"
+ },
+ "SSDR means no airworthiness approval is required, so all the testing is yours to do.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "SSDR þýðir að engrar lofthæfisvottunar er krafist, svo öll prófunin er þín að gera."
+ },
+ "Saddle clamps: rolled half-shells": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hnakkklemmur: valsaðar hálfskeljar"
+ },
+ "Saddle-clamp ears (one also carries the jury-strut fork), 2 per clamp; Jury strut top, through the jury clevis": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eyru hnakkklemmu (eitt ber einnig gaffal hjálparstífunnar), 2 á hverja klemmu; toppur hjálparstífu, gegnum gaffal hennar"
+ },
+ "Safety wire": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Öryggisvír"
+ },
+ "Same blank both sides. 20 mm lap all round. Left one hangs on a piano hinge at its front edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sama efnisstykki báðum megin. 20 mm skörun allan hringinn. Sá vinstri hangir á píanólöm við frambrún sína."
+ },
+ "Same blank for both flaps and both ailerons: modular-origami units.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sama efnisstykki fyrir báða flapa og bæði hallastýrin: einingar í mátorigami."
+ },
+ "Sandbags and tape measure (proof load)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sandpokar og málband (álagsprófun)"
+ },
+ "Sawtooth climbs, level speeds and glides.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sagtannarklifur, hraðar í láréttu flugi og svif."
+ },
+ "Scotch-Brite, etch/alodine, epoxy primer, spray kit, gloves": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Scotch-Brite, æting/alodine, epoxý-grunnur, sprautubúnaður, hanskar"
+ },
+ "Seat (pan + back, one sheet)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sæti (seta + bak, ein plata)"
+ },
+ "Seat cushion + 4-pt harness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sætispúði + 4 punkta belti"
+ },
+ "Select a row to see where that case sits.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Veldu línu til að sjá hvar það tilvik liggur."
+ },
+ "Send the nest DXFs to a laser or waterjet service, or cut on a CNC router. Bolt holes come out 0.5 mm undersize; ream them later.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sendu DXF-skurðplöturnar til laser- eða vatnsskurðarþjónustu, eða skerðu í CNC-fræsara. Boltagöt koma 0.5 mm of lítil; rýmdu þau síðar."
+ },
+ "Set dihedral to 1.5° and wash-out to 0° with a digital level on the root and tip ribs. Then pin the struts on: AN5, castellated nut, cotter pin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stilltu vængrís á 1.5° og snúning á 0° með stafrænum hallamæli á rótar- og oddrifin. Festu síðan stífurnar með pinnum: AN5, krónuró, splitti."
+ },
+ "Set the brake nose radius to 0.8 mm, about 1.6 times the 0.51 mm sheet (Table 5-2, 'normal' radius). Never tighter.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stilltu nefradíus beygjuvélarinnar á 0.8 mm, um 1.6 sinnum 0.51 mm platan (Table 5-2, 'eðlilegur' radíus). Aldrei þrengri."
+ },
+ "Set the travels: aileron +20/-15°, elevator +25/-20°, rudder ±25°, flaps 0/20°. Fit the stops.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stilltu hreyfingarnar: hallastýri +20/-15°, hæðarstýri +25/-20°, hliðarstýri ±25°, flapar 0/20°. Settu stopparana á."
+ },
+ "Sheet price": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Plötuverð"
+ },
+ "Single-lap shear and pull-through on one and two layers of 0.51 mm sheet with 3.2 mm blind rivets, 10 of each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Einskörunar-skerprófun og gegndráttur á einu og tveimur lögum af 0.51 mm plötu með 3.2 mm blindhnoðum, 10 af hvoru."
+ },
+ "Skin joints lap on a rib: the outboard skin goes under the inboard one.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Samskeyti klæðningar skarast á rifi: ytri klæðningin fer undir þá innri."
+ },
+ "Slide the C-spar in and Cleco it through the flanges. Riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Renndu C-bitanum inn og festu með Cleco gegnum flansana. Hnoðlykkja."
+ },
+ "Soft creases 2–6°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mjúk brot 2–6°"
+ },
+ "Source": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Heimild"
+ },
+ "Span / area": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vænghaf / flatarmál"
+ },
+ "Spanners, sockets, inch-pound torque wrench": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lyklar, toppar, átaksmælir í tommupundum"
+ },
+ "Spar strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Styrkur bita"
+ },
+ "Spar-root pins through tang pair + arch clevis": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rótarpinnar bita gegnum eyrnapar + bogagaffal"
+ },
+ "Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rótareyra bita, 4130 0.063in (flatt, pör hvoru megin við vegginn)"
+ },
+ "Spec": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lýsing"
+ },
+ "Speed envelope": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hraðasvið"
+ },
+ "Spinner": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nefkeila"
+ },
+ "Stabiliser nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nefrif hæðarkambs"
+ },
+ "Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rótarrif hæðarkambs að hliðarstyrkingum stélkeilu, 4 hvoru megin; kjölbiti að stélstoð, 3"
+ },
+ "Stabiliser skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Klæðning hæðarkambs (ein umvafning)"
+ },
+ "Stabiliser spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Biti hæðarkambs"
+ },
+ "Stability across the CG range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stöðugleiki yfir þyngdarpunktssviðið"
+ },
+ "Stall speed and handling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ofrishraði og flugeiginleikar"
+ },
+ "Stall speeds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ofrishraðar"
+ },
+ "Stall, flaps 20°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ofris, flapar 20°"
+ },
+ "Stand beam (lipped C, saddle on top)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Búkkabiti (varað C, hnakkur ofan á)"
+ },
+ "Stand foot (lipped C, opens up)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Búkkafótur (varað C, opið upp)"
+ },
+ "Stand foot gusset (flat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Styrktarplata búkkafótar (flöt)"
+ },
+ "Stand leg (lipped C)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Búkkaleggur (varað C)"
+ },
+ "Stand the arches and firewall on the floor tray, square and plumb. Their stations are 420 mm and 1008 mm aft of the wing LE, and the firewall is at -650 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Reistu bogana og eldvegginn á gólfbakkann, í vinkil og lóðrétt. Stöðvar þeirra eru 420 mm og 1008 mm aftan við frambrún vængsins, og eldveggurinn er við -650 mm."
+ },
+ "Stand top gusset (flanged hypotenuse)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Efri styrktarplata búkka (langhlið með flansi)"
+ },
+ "Static load to the Section S forward, side and vertical limit loads, then ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stöðugt álag að markálagi Section S fram, til hliðar og lóðrétt, síðan brotálag."
+ },
+ "Static margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stöðugleikavik"
+ },
+ "Static port": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stöðugátt"
+ },
+ "Status": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Staða"
+ },
+ "Step": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Skref"
+ },
+ "Stick pivot and torque-tube bearings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stangarás og legur snúningsrörs"
+ },
+ "Straight tracking, effective brakes and rudder, no shimmy.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bein rakning, virkar bremsur og hliðarstýri, enginn titringur."
+ },
+ "Stress": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Spenna"
+ },
+ "String line, digital level, plumb bob": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Snúra, stafrænn hallamælir, lóð"
+ },
+ "String-line the spars and check the ribs are square to them. Measure diagonals across each bay; they should match within 1 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Strektu snúru meðfram bitunum og athugaðu að rifin séu hornrétt á þá. Mældu hornalínur hvers reits; þær eiga að passa innan 1 mm."
+ },
+ "Structure": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Burðarvirki"
+ },
+ "Strut and fitting strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Styrkur stífu og festinga"
+ },
+ "Strut and fittings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stífa og festingar"
+ },
+ "Strut end fork (4130)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Endagaffall stífu (4130)"
+ },
+ "Strut end forks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Endagafflar stífa"
+ },
+ "Strut ends, both ends of 4 struts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stífuendar, báðir endar 4 stífa"
+ },
+ "Strut fairings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stífuhlífar"
+ },
+ "Support each tip on a trestle at 1.5° dihedral until the struts are on.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Styddu hvorn odd á búkka við 1.5° vængrís þar til stífurnar eru komnar á."
+ },
+ "Systems fit-out": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Uppsetning kerfa"
+ },
+ "T-EK Elevator skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-EK Klæðning hæðarstýris"
+ },
+ "T-ES Elevator spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-ES Biti hæðarstýris"
+ },
+ "T-FK Fin skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FK Klæðning kjalar (ein umvafning)"
+ },
+ "T-FR Fin nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FR Nefrif kjalar"
+ },
+ "T-FS Fin spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FS Biti kjalar"
+ },
+ "T-HK Stabiliser skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HK Klæðning hæðarkambs (ein umvafning)"
+ },
+ "T-HR Stabiliser nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HR Nefrif hæðarkambs"
+ },
+ "T-HS Stabiliser spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HS Biti hæðarkambs"
+ },
+ "T-RK Rudder skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-RK Klæðning hliðarstýris"
+ },
+ "T-RS Rudder spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-RS Biti hliðarstýris"
+ },
+ "TACH instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "TACH-mælir"
+ },
+ "Tail surfaces": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stélfletir"
+ },
+ "Tailcone belly, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kviður stélkeilu, hluti 1"
+ },
+ "Tailcone belly, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kviður stélkeilu, hluti 2"
+ },
+ "Tailcone bulkhead x=1150": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Þverband stélkeilu x=1150"
+ },
+ "Tailcone bulkhead x=1948": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Þverband stélkeilu x=1948"
+ },
+ "Tailcone bulkhead x=2745": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Þverband stélkeilu x=2745"
+ },
+ "Tailcone bulkhead x=3542": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Þverband stélkeilu x=3542"
+ },
+ "Tailcone bulkhead x=4340 (tail post)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Þverband stélkeilu x=4340 (stélstoð)"
+ },
+ "Tailcone frustum": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stélkeila sem stýfður pýramídi"
+ },
+ "Tailcone side, section 1 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hlið stélkeilu, hluti 1 (x2, spegluð)"
+ },
+ "Tailcone side, section 2 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hlið stélkeilu, hluti 2 (x2, spegluð)"
+ },
+ "Tailcone top, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Toppur stélkeilu, hluti 1"
+ },
+ "Tailcone top, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Toppur stélkeilu, hluti 2"
+ },
+ "Tailwheel 8 in pneumatic": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stélhjól 8 in loftfyllt"
+ },
+ "Tailwheel assembly, 8 in pneumatic": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stélhjólssamstæða, 8 in loftfyllt"
+ },
+ "Tailwheel fork": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stélhjólsgaffall"
+ },
+ "Tailwheel spring": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stélhjólsfjöður"
+ },
+ "Tailwheel spring (spring steel leaf)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stélhjólsfjöður (fjaðurstálsblað)"
+ },
+ "Tailwheel spring to tail post, 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stélhjólsfjöður að stélstoð, 2"
+ },
+ "Tailwheel spring to tail post, 2; Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stélhjólsfjöður að stélstoð, 2; rótarrif hæðarkambs að hliðarstyrkingum stélkeilu, 4 hvoru megin; kjölbiti að stélstoð, 3"
+ },
+ "Tailwheel spring: spring-steel leaf 45 x 8 mm": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stélhjólsfjöður: fjaðurstálsblað 45 x 8 mm"
+ },
+ "Tailwheel steering spring": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stýrisfjöður stélhjóls"
+ },
+ "Tailwheel: a leaf spring, a steerable fork and two springs to the rudder.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stélhjól: blaðfjöður, stýranlegur gaffall og tvær fjaðrir að hliðarstýrinu."
+ },
+ "Take the skeleton apart. Deburr every hole on both faces.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taktu grindina í sundur. Afgráðaðu hvert gat báðum megin."
+ },
+ "Take-off roll": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flugtaksbrun"
+ },
+ "Tank strap angle (L)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tankólarhorn (V)"
+ },
+ "Tank strap angle (R)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tankólarhorn (H)"
+ },
+ "Tap or shaker test for wing bending and torsion, aileron, elevator and rudder modes. Confirm the mass balance of every control surface.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bank- eða hristiprófun fyrir beygju- og snúningshætti vængs og hætti hallastýris, hæðarstýris og hliðarstýris. Staðfestu massajafnvægi hvers stýriflatar."
+ },
+ "Taxi tests": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Akstursprófanir"
+ },
+ "Taxi tests, then fast taxi with the tail up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Akstursprófanir, síðan hraður akstur með stélið uppi."
+ },
+ "Temperatures inside the engine maker's limits, static rpm 2,900–3,100, no abnormal vibration.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hitastig innan marka hreyfilframleiðandans, kyrrstöðusnúningur 2,900–3,100, enginn óeðlilegur titringur."
+ },
+ "Tension each cable with its turnbuckle in the cabin, where you can see it, then safety-wire it. Nicopress every end over a thimble.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Strektu hvern vír með strekkjara hans í stjórnklefanum, þar sem þú sérð hann, settu síðan öryggisvír. Nicopress á hvern enda yfir kósa."
+ },
+ "Test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Prófun"
+ },
+ "Test budget": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Prófunarfjárhagsáætlun"
+ },
+ "Test programme": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Prófunaráætlun"
+ },
+ "Test reports": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Prófunarskýrslur"
+ },
+ "Tests": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Prófanir"
+ },
+ "The aircraft is code: one file, aircraft.yaml, generates every part, file and figure on this page.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flugvélin er kóði: ein skrá, aircraft.yaml, býr til hvern hlut, skrá og tölu á þessari síðu."
+ },
+ "The arches sit at the spar stations, so the wing and strut loads go straight into two folded frames.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bogarnir sitja við bitastöðvarnar, svo álag vængs og stífa fer beint í tvo brotna ramma."
+ },
+ "The cowl and nose bowl are flat blanks too: a box-pleated hood and a frustum, with straight creases throughout.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vélarhlífin og nefskálin eru líka flöt efnisstykki: lok með kassabrotum og stýfður pýramídi, með beinum brotum alls staðar."
+ },
+ "The dot is the loading case selected in the table. The shaded band is the full CG range across all cases. The orange line is the neutral point: the CG must stay ahead of it, and the dashed gap between them is the static margin, the aircraft's pitch stability.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Punkturinn er hleðslutilvikið sem valið er í töflunni. Skyggða bandið er allt þyngdarpunktssviðið yfir öll tilvik. Appelsínugula línan er hlutlausi punkturinn: þyngdarpunkturinn verður að vera framan við hann, og strikaða bilið á milli er stöðugleikavikið, stöðugleiki flugvélarinnar um hliðarás."
+ },
+ "The fold geometry. Every panel in the 3D model is produced by refolding the DXF flat pattern, and the rib-to-spar pilot holes are coordinated between parts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brotarúmfræðin. Hvert spjald í 3D-líkaninu er búið til með því að brjóta flata DXF-mynstrið aftur, og stýrigöt rifs og bita eru samræmd milli hluta."
+ },
+ "The laminate acting as one section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lagskiptingin sem eitt þversnið"
+ },
+ "The lips are what let thin laminated sheet act as a spar. Without them a free cap edge buckles at about 26 MPa. With them the cap reaches yield before it buckles.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Varirnar eru það sem lætur þunna lagskipta plötu virka sem bita. Án þeirra bognar laus flansbrún við um 26 MPa. Með þeim nær flansinn flotmörkum áður en hann bognar."
+ },
+ "The local-price estimate takes UK VAT off the UK price, converts it at the day's exchange rate, takes about 20 % off US-made hardware, sheet and the engine kit when buying in the US, then adds the country's typical standard VAT, GST or sales tax. It leaves out import duty and shipping. Treat these as rough guides, not quotes.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Staðbundna verðmatið dregur breskan virðisaukaskatt frá bresku verði, umreiknar á gengi dagsins, dregur um 20 % frá bandarískt framleiddum smávörum, plötum og hreyfilsetti þegar keypt er í Bandaríkjunum, og bætir svo við dæmigerðum almennum virðisaukaskatti, GST eða söluskatti landsins. Það sleppir tollum og flutningi. Líttu á þetta sem grófar viðmiðanir, ekki tilboð."
+ },
+ "The numbers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tölurnar"
+ },
+ "The pilot sits under the wing between the two arches. Header fuel is ahead of the CG and aux fuel is behind it. The aftmost case is a light pilot with empty tanks and baggage, which gives the minimum static margin:": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flugmaðurinn situr undir vængnum milli boganna tveggja. Eldsneyti aðaltanks er framan við þyngdarpunktinn og aukaeldsneyti aftan við hann. Aftasta tilvikið er léttur flugmaður með tóma tanka og farangur, sem gefur lágmarks stöðugleikavik:"
+ },
+ "The rolled nose and the main spar together form a closed D-cell, which carries the wing's twisting loads.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Valsaða nefið og aðalbitinn mynda saman lokað D-hólf, sem ber snúningsálag vængsins."
+ },
+ "The skins carry no holes of their own. Drilling them from the structure means the holes can't be misaligned.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Klæðningarnar hafa engin eigin göt. Að bora þær út frá burðarvirkinu þýðir að götin geta ekki skekkst."
+ },
+ "The stabiliser and fin use one wrapped skin each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hæðarkambur og kjölur nota hvor um sig eina umvafða klæðningu."
+ },
+ "This is the sequence for every riveted joint from here on: Cleco, final-drill, take apart, deburr, prime, reassemble, rivet. Later steps call it the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Þetta er röðin fyrir hverja hnoðsamsetningu héðan í frá: Cleco, lokaborun, taka í sundur, afgráða, grunna, setja aftur saman, hnoða. Seinni skref kalla þetta hnoðlykkjuna."
+ },
+ "Three platform scales": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Þrjár pallvogir"
+ },
+ "Three platform scales in the level attitude.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Þrjár pallvogir í láréttri stöðu."
+ },
+ "Through tang pair + spar web at each spar root, 4 per pair": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gegnum eyrnapar + bitavegg við hverja bitarót, 4 á hvert par"
+ },
+ "Tools": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Verkfæri"
+ },
+ "Top flange = longeron": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Efri flans = langband"
+ },
+ "Top flange is the longeron: the fold is the stiffener. Openings have 50 mm corner radii (no square corners).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Efri flansinn er langbandið: brotið er stífingin. Op hafa 50 mm hornradíusa (engin ferköntuð horn)."
+ },
+ "Torsional stiffness recorded; it feeds the flutter estimate in phase D.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Snúningsstífni skráð; hún nærir flögurmatið í áfanga D."
+ },
+ "Total": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Samtals"
+ },
+ "Tube cutter, hacksaw, drill press": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rörskeri, járnsög, súluborvél"
+ },
+ "Tube, bar and cable": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rör, flatjárn og vír"
+ },
+ "Turn it back over. On its three wheels it should sit about 9–11° nose-up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Snúðu henni aftur við. Á þremur hjólum sínum ætti hún að sitja um 9–11° með nefið upp."
+ },
+ "Turn the fuselage upside down on padded trestles.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Snúðu skrokknum á hvolf á bólstraða búkka."
+ },
+ "Turn the skeleton upside down. Lay bay 1's skin on it, located at the root rib, with the edge 3 mm short of the rear-spar flange edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Snúðu grindinni á hvolf. Leggðu klæðningu reits 1 á hana, staðsetta við rótarrifið, með brúnina 3 mm frá brún aftari bitaflansins."
+ },
+ "Turn the wing upright. Wrap the skin from the trailing-edge shroud, over the nose, and under to lap the lower skin at 8 % chord.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Snúðu vængnum rétt. Vefðu klæðninguna frá afturbrúnarhlífinni, yfir nefið og undir til að skarast við neðri klæðninguna við 8 % af vængstreng."
+ },
+ "Turnbuckle AN130 class + safety wire": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Strekkjari í AN130 flokki + öryggisvír"
+ },
+ "Two halves round the 1.75 in strut tube; the ear bolts also carry the jury-strut end.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tveir helmingar um 1.75 in stífurörið; eyrnaboltarnir bera einnig enda hjálparstífunnar."
+ },
+ "Two hat pleats (step-folds) are the floor stiffeners; no separate stringers. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tvær hattfellingar (þrepabrot) eru gólfstífingarnar; engin sérstök langbönd. Lagskipt: 2 hreiðruð lög af 0.020 in, brotin hvort fyrir sig og hnoðuð sem eitt; skerðu 0.5 mm á hvert innra lag af flansbrúnum."
+ },
+ "Two plates sandwich each rod end; AN4 pivot, AN3 at each arm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tvær plötur umlykja hvern kúlulið; AN4 ás, AN3 á hverjum armi."
+ },
+ "UK retail prices (inc. 20 % VAT) converted to {currency}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bresk smásöluverð (með 20 % VSK) umreiknuð í {currency}."
+ },
+ "UK retail prices, including 20 % VAT.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bresk smásöluverð, með 20 % VSK."
+ },
+ "Ultimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brotálag"
+ },
+ "Ultimate load (×1.5). Colour is the worse of cap stress against its crippling allowable and web shear against buckling. Beam theory along the span, not a finite-element analysis. Grey parts are not analysed yet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brotálag (×1.5). Liturinn sýnir það versta af flansspennu miðað við leyfilegt staðbundið kiknunarmark og skerspennu í vefnum miðað við kiknun. Bitakenning eftir haflengdinni, ekki einingagreining. Gráir hlutar hafa ekki enn verið greindir."
+ },
+ "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Undir neikvæðu g fara stífurnar í þrýsting. Hjálparstífurnar helminga óstuddu lengd þeirra, sem fjórfaldar bognunarálag þeirra."
+ },
+ "Undercarriage": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lendingarbúnaður"
+ },
+ "Units": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Einingar"
+ },
+ "Unknowns for the next builder": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Óþekktar stærðir fyrir næsta smið"
+ },
+ "Upper cowl (hood, two 90 deg folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Efri vélarhlíf (lok, tvö 90 deg brot)"
+ },
+ "Upper skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Efri klæðning, reitur 1"
+ },
+ "Upper skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Efri klæðning, reitur 2"
+ },
+ "Upper skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Efri klæðning, reitur 3"
+ },
+ "Upper skins: roll the nose": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Efri klæðningar: valsaðu nefið"
+ },
+ "V-bead pleats + one 165° trailing-edge fold": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "V-fellingar + eitt 165° afturbrúnarbrot"
+ },
+ "VHF antenna whip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "VHF svipuloftnet"
+ },
+ "W-CL Cabin roof (centre lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CL Þak stjórnklefa (miðja neðri klæðning)"
+ },
+ "W-CS Aileron / flap skin (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CS Klæðning hallastýris / flapa (eins x4)"
+ },
+ "W-CSS Aileron / flap spar (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CSS Biti hallastýris / flapa (eins x4)"
+ },
+ "W-CT Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CT Afturbrúnarhlíf miðhluta (föst, milli flapanna)"
+ },
+ "W-CU Centre-section upper skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CU Efri klæðning miðhluta"
+ },
+ "W-MR Main rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MR Aðalrif"
+ },
+ "W-MRe Main rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MRe Aðalrif, rót/oddur"
+ },
+ "W-MS Main spar (lipped C, opens aft)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MS Aðalbiti (varað C, opið aftur)"
+ },
+ "W-NR Nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-NR Nefrif"
+ },
+ "W-NRe Nose rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-NRe Nefrif, rót/oddur"
+ },
+ "W-RS Rear spar (lipped C, opens forward)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-RS Aftari biti (varað C, opið fram)"
+ },
+ "W-SL1 Lower skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL1 Neðri klæðning, reitur 1"
+ },
+ "W-SL2 Lower skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL2 Neðri klæðning, reitur 2"
+ },
+ "W-SL3 Lower skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL3 Neðri klæðning, reitur 3"
+ },
+ "W-SU1 Upper skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU1 Efri klæðning, reitur 1"
+ },
+ "W-SU2 Upper skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU2 Efri klæðning, reitur 2"
+ },
+ "W-SU3 Upper skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU3 Efri klæðning, reitur 3"
+ },
+ "Weeks 1–4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vikur 1–4"
+ },
+ "Weigh and balance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vigtun og jafnvægi"
+ },
+ "Weigh, test, fly-off": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vigta, prófa, fljúga"
+ },
+ "Weight, not tank size, sets the range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Þyngd, ekki tankstærð, ræður drægni"
+ },
+ "What is known, and what is not": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hvað er vitað og hvað ekki"
+ },
+ "What it costs": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hvað hún kostar"
+ },
+ "Wheel hub": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hjólnaf"
+ },
+ "Wheels, 21 x 8.00-6 tundra tyres, drum brakes x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hjól, 21 x 8.00-6 tundra-dekk, tromlubremsur x2"
+ },
+ "Where it goes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hvert það fer"
+ },
+ "Where the balance point sits": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hvar jafnvægispunkturinn situr"
+ },
+ "Whole aircraft": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Öll flugvélin"
+ },
+ "Whole-wing strength and stiffness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Styrkur og stífni alls vængsins"
+ },
+ "Why start here: the four stands use every skill the aircraft needs, on parts that don't fly. Get it wrong here, not on a spar. You need the stands anyway: the wings are built and parked on them until step 15.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Af hverju að byrja hér: búkkarnir fjórir nota alla hæfni sem flugvélin krefst, á hlutum sem fljúga ekki. Gerðu mistökin hér, ekki á bita. Þú þarft búkkana hvort sem er: vængirnir eru smíðaðir og geymdir á þeim fram að skrefi 15."
+ },
+ "Will it fly well?": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mun hún fljúga vel?"
+ },
+ "Windscreen (cold-bent flat polycarbonate)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Framrúða (kaldbeygt flatt pólýkarbónat)"
+ },
+ "Windscreen, door and side windows": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Framrúða, hurð og hliðargluggar"
+ },
+ "Windscreen, side windows, door": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Framrúða, hliðargluggar, hurð"
+ },
+ "Windscreen: flat sheet, bedded on foam tape on the firewall and windscreen flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Framrúða: flöt plata, lögð á svampteip á eldveggs- og framrúðuflansana."
+ },
+ "Wing and airframe": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vængur og skrokkur"
+ },
+ "Wing lift uses a Schrenk distribution, with each wing pinned at the cabin arch and a V-strut at the 2.4 m rib. Gust loads are below the manoeuvre case. Laminated spars are checked as one section, which assumes rivet pitch close enough to stop the layers buckling separately.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lyfti vængsins notar Schrenk-dreifingu, hver vængur festur með pinna við boga stjórnklefans og V-stífu við 2.4 m rifið. Hviðuálag er undir hreyfingartilvikinu. Lagskiptir bitar eru athugaðir sem eitt þversnið, sem gerir ráð fyrir hnoðbili nógu þéttu til að lögin bogni ekki sitt í hvoru lagi."
+ },
+ "Wing loading": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vængálag"
+ },
+ "Wing proof load": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Álagsprófun vængs"
+ },
+ "Wing stands (step 0)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vængbúkkar (skref 0)"
+ },
+ "Wing torsion": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Snúningur vængs"
+ },
+ "Wings on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vængir á"
+ },
+ "With X-ray on, every run is colour-coded: orange rudder, cyan elevator, purple aileron, green flap, red fuel, white pitot, grey static, yellow 12 V, pink coax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Með röntgen á er hver lögn litakóðuð: appelsínugult hliðarstýri, blágrænt hæðarstýri, fjólublátt hallastýri, grænt flapi, rautt eldsneyti, hvítt pitot, grátt static, gult 12 V, bleikt kóax."
+ },
+ "With a helper at the tip, lift each wing until its root tangs slide into the arch-top clevises.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Með aðstoðarmann við oddinn, lyftu hvorum væng þar til rótareyrun renna inn í gafflana efst á bogunum."
+ },
+ "Write the part number on every blank. Keep the blanks in step order.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Skrifaðu hlutanúmerið á hvert efnisstykki. Geymdu efnisstykkin í skrefaröð."
+ },
+ "X-ray": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Röntgen"
+ },
+ "Yes, as a slow, gentle, lightly loaded single-seater: a strut-braced high wing, a half-VW engine and a tailwheel on big soft tyres. It is heavier than a typical ultralight because every aluminium part is cut from one gauge, with thicker parts made as nested folds of the same sheet. That puts it in UK SSDR (300 kg) rather than US Part 103. Every figure here comes from the same script that generates the cut files.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Já, sem hæg, ljúf og léttlestuð eins sætis vél: stífuð hávængja, half-VW hreyfill og stélhjól á stórum mjúkum dekkjum. Hún er þyngri en dæmigerð örflugvél af því að hver álhlutur er skorinn úr einni þykkt og þykkari hlutar eru hreiðruð brot úr sömu plötu. Það setur hana í breska SSDR (300 kg) frekar en bandaríska Part 103. Hver tala hér kemur úr sama skriftunni og býr til skurðarskrárnar."
+ },
+ "arch-foot bellcrank up the rear-arch leg to the arch-top bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "bogafótar-hornvog upp eftir aftari bogaleggnum að bogatopps-hornvog"
+ },
+ "arch-top bellcrank to outboard bellcrank, through rib lightening holes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "bogatopps-hornvog að ytri hornvog, gegnum léttigöt rifjanna"
+ },
+ "aux": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "auka"
+ },
+ "blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "efnisstykki"
+ },
+ "blanks in all": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "efnisstykki alls"
+ },
+ "bolts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "boltar"
+ },
+ "bought or welded": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "keypt eða soðið"
+ },
+ "buckling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "bognun"
+ },
+ "centre torque-tube arm to flap bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "miðarmur snúningsrörs að hornvog flapa"
+ },
+ "check, then commit": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "athuga, síðan staðfesta"
+ },
+ "clean": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "hreint"
+ },
+ "close up": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "loka"
+ },
+ "crease pattern": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "brotamynstur"
+ },
+ "crippling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "staðbundin bognun"
+ },
+ "each with a pass criterion": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "hvert með staðistsviðmið"
+ },
+ "fabricated or bought for half-VW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "smíðað eða keypt fyrir half-VW"
+ },
+ "faying surfaces and interior": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "snertifletir og innra rými"
+ },
+ "finished": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "lokið"
+ },
+ "flat blanks, one sheet gauge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "flöt efnisstykki, ein plötuþykkt"
+ },
+ "fold the same way": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "brjóttu eins"
+ },
+ "fold to the marks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "brjóttu að merkjunum"
+ },
+ "fuel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "eldsneyti"
+ },
+ "give it roundness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "gefðu því kúpingu"
+ },
+ "gravity feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "þyngdarafls-fóðrun"
+ },
+ "gust": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "hviða"
+ },
+ "hard": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "harkalega"
+ },
+ "header": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "aðal"
+ },
+ "header full": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "aðaltankur fullur"
+ },
+ "header tank + aux tank, both in the cabin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "aðaltankur + aukatankur, báðir í stjórnklefanum"
+ },
+ "includes 15 % spares": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "inniheldur 15 % varahluti"
+ },
+ "insert: the lock": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "setja í: lásinn"
+ },
+ "laminated wood, CC0 model": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "límtré, CC0 líkan"
+ },
+ "light braking": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "létt hemlun"
+ },
+ "make soft creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "gerðu mjúk brot"
+ },
+ "materials and hire, rough": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "efni og leiga, gróft"
+ },
+ "max take-off mass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "hámarksflugtaksþyngd"
+ },
+ "mountain": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "fjall"
+ },
+ "mountain and valley folds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "fjalla- og dalabrot"
+ },
+ "neutral point": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "hlutlaus punktur"
+ },
+ "no reserve": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "enginn varaforði"
+ },
+ "no sheet blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "engin plötustykki"
+ },
+ "none: over MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ekkert: yfir MTOW"
+ },
+ "one 8 x 4 ft sheet of 6061-T6 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ein 8 x 4 ft plata af 6061-T6, 0.020 in"
+ },
+ "open out": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "opnaðu"
+ },
+ "or a club CNC router": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "eða CNC-fræsari klúbbs"
+ },
+ "part-time, alongside the build": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "í hlutastarfi, samhliða smíðinni"
+ },
+ "pilot": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "flugmaður"
+ },
+ "pilot hole": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "stýrigat"
+ },
+ "pin-to-pin; AN5 each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "pinna-í-pinna; AN5 í hvorum enda"
+ },
+ "pleat": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "felling"
+ },
+ "practice piece": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "æfingastykki"
+ },
+ "public domain": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "almenningseign"
+ },
+ "radio optional in SSDR": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "talstöð valfrjáls í SSDR"
+ },
+ "reference points": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "viðmiðunarpunktar"
+ },
+ "right angle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "rétt horn"
+ },
+ "rivets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "hnoð"
+ },
+ "rolled zone": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "valsað svæði"
+ },
+ "rough build cost": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "grófur smíðakostnaður"
+ },
+ "same angle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "sama horn"
+ },
+ "same angle: converging creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "sama horn: samleitin brot"
+ },
+ "same length": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "sama lengd"
+ },
+ "short grass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "stutt gras"
+ },
+ "static margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "stöðugleikavik"
+ },
+ "still air, 75 % power": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "logn, 75 % afl"
+ },
+ "subtotal": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "millisamtala"
+ },
+ "tool, reused": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "verkfæri, endurnýtt"
+ },
+ "torque-tube arm to arch-foot bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "armur snúningsrörs að bogafótar-hornvog"
+ },
+ "tundra tyres at 10–12 psi, 8 in tailwheel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "tundra-dekk á 10–12 psi, 8 in stélhjól"
+ },
+ "turn it over": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "snúðu henni við"
+ },
+ "unique": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "einstök"
+ },
+ "unique blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "einstök efnisstykki"
+ },
+ "useful load": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "burðargeta"
+ },
+ "valley": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "dalur"
+ },
+ "via floor pulley + 3 fairleads; Nicopress + thimble each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "um gólftrissu + 3 vírstýringar; Nicopress + kósi í hvorum enda"
+ },
+ "via pulley at bulkhead 1 + 3 fairleads; turnbuckle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "um trissu við þverband 1 + 3 vírstýringar; strekkjari"
+ },
+ "wingspan": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "vænghaf"
+ },
+ "{w} x {h} mm flat, {f} folds, {p} pilot holes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "{w} x {h} mm flatt, {f} brot, {p} stýrigöt"
+ }
+}

@@ -1,0 +1,4087 @@
+{
+ "1 m hand bending brake (or hardwood bending blocks in a vise)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1 m käsikanttikone (tai kovapuiset taivutuspalat ruuvipenkissä)"
+ },
+ "1/8 in Clecos (300) + Cleco pliers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in Clecot (300) + Cleco-pihdit"
+ },
+ "1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in kupukantainen alumiininen vetoniitti, puristusalue -1 (enintään 1.6 mm)"
+ },
+ "1/8 in domed aluminium blind rivet, grip -2 (1.6-3.2 mm)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in kupukantainen alumiininen vetoniitti, puristusalue -2 (1.6-3.2 mm)"
+ },
+ "1/8 in hole duplicator": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in reiänsiirrin"
+ },
+ "1/8 in stainless/Monel blind rivet (fire-zone)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in ruostumaton/Monel-vetoniitti (palovyöhyke)"
+ },
+ "2 m section in four-point bending, loaded in steps to 1.5 × the +4 g limit bending moment.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "2 m:n osa nelipistetaivutuksessa, kuormitettuna portaittain 1.5 × +4 g:n rajataivutusmomenttiin."
+ },
+ "2 x AN4 at the tail post": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "2 x AN4 pyrstötolpassa"
+ },
+ "2 x AN5 holes at the top, axle boss at the bottom": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "2 x AN5-reikää ylhäällä, akselinapa alhaalla"
+ },
+ "4 x 1.79 m wing, 2 x 1.0 m elevators, 1.24 m rudder, door": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siipi 4 x 1.79 m, korkeusperäsimet 2 x 1.0 m, sivuperäsin 1.24 m, ovi"
+ },
+ "4130 fittings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "4130-helat"
+ },
+ "75 mm tube + ratchet strap (nose roller)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "75 mm putki + räikkäliina (nokkatela)"
+ },
+ "; {n} parts x {l} laminated layers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "; {n} osaa x {l} laminoitua kerrosta"
+ },
+ "A BMAA or LAA inspector reviews the aircraft and the evidence.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "BMAA:n tai LAA:n tarkastaja käy läpi lentokoneen ja todisteet."
+ },
+ "A UK SSDR aircraft needs no airworthiness approval, so all the responsibility is the builder's. Proof-load the wing with sandbags to +4 g and have a BMAA or LAA inspector look at it before it flies. Elsewhere, check your national microlight rules.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brittiläinen SSDR-lentokone ei tarvitse lentokelpoisuushyväksyntää, joten kaikki vastuu on rakentajalla. Koekuormita siipi hiekkasäkeillä +4 g:hen ja anna BMAA:n tai LAA:n tarkastajan katsoa se ennen lentoa. Muualla tarkista kansalliset ultrakevyitä koskevat säännöt."
+ },
+ "A concept design, published for study. It is not an approved design, and nothing here is airworthiness advice.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Konseptisuunnitelma, julkaistu tutkittavaksi. Se ei ole hyväksytty rakenne, eikä mikään tässä ole lentokelpoisuusneuvontaa."
+ },
+ "A single-seat microlight anyone can build. Every sheet part is a flat blank with straight folds, cut from one gauge of aluminium.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yksipaikkainen ultrakevyt, jonka kuka tahansa voi rakentaa. Jokainen levyosa on tasainen aihio suorin taittein, leikattu yhdestä alumiinipaksuudesta."
+ },
+ "A4-1 blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vetoniitti A4-1"
+ },
+ "A4-2 blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vetoniitti A4-2"
+ },
+ "A4-SS blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vetoniitti A4-SS"
+ },
+ "ALT instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ALT-mittari"
+ },
+ "AN3 bolt (10-32), AN365-1032 nut, AN960-10 washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3-pultti (10-32), AN365-1032-mutteri, AN960-10-aluslevyt"
+ },
+ "AN3 bolt, AN365-1032 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3-pultti, AN365-1032-mutteri"
+ },
+ "AN3 bolt, AN365-1032 nut, rod end between the plates": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3-pultti, AN365-1032-mutteri, nivelpää levyjen välissä"
+ },
+ "AN3 bolt, AN365-1032 nut, through 3/16 in rod end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3-pultti, AN365-1032-mutteri, 3/16 in nivelpään läpi"
+ },
+ "AN3 each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 kummassakin päässä"
+ },
+ "AN4 bolt (1/4-28), AN365-428 nut, 2 x AN960-416 washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4-pultti (1/4-28), AN365-428-mutteri, 2 x AN960-416-aluslevyä"
+ },
+ "AN4 bolt, AN310-4 + cotter (pivot)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4-pultti, AN310-4 + sokka (kääntöpiste)"
+ },
+ "AN4 bolt, AN310-4 castle nut + cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4-pultti, AN310-4-kruunumutteri + sokka"
+ },
+ "AN4 bolt, AN365-428 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4-pultti, AN365-428-mutteri"
+ },
+ "AN4 bolt, AN365-428 nut, AN970-4 washer each side": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4-pultti, AN365-428-mutteri, AN970-4-aluslevy kummallakin puolella"
+ },
+ "AN5 bolt (5/16-24), AN365-524 nut, AN970-5 large washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5-pultti (5/16-24), AN365-524-mutteri, suuret AN970-5-aluslevyt"
+ },
+ "AN5 bolt + rubber isolator (Lord-type) + AN365-524": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5-pultti + kumivaimennin (Lord-tyyppi) + AN365-524"
+ },
+ "AN5 bolt, AN310-5 castellated nut, MS24665 cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5-pultti, AN310-5-kruunumutteri, MS24665-sokka"
+ },
+ "AN5 bolt, AN365-524 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5-pultti, AN365-524-mutteri"
+ },
+ "AN5 clevis pin (bolt), AN310-5 castellated nut, MS24665 cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5-haarukkatappi (pultti), AN310-5-kruunumutteri, MS24665-sokka"
+ },
+ "AN5 prop bolt, AN310-5 + safety wire (per prop maker)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5-potkuripultti, AN310-5 + varmistuslanka (potkurivalmistajan ohjeen mukaan)"
+ },
+ "ASI instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ASI-mittari"
+ },
+ "About 10 months": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Noin 10 kuukautta"
+ },
+ "Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siivekkeen / laipan sarvi, 4130 0.063in (yksi taitto alapintalevyyn)"
+ },
+ "Aileron / flap skin (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siivekkeen / laipan pintalevy (identtinen x4)"
+ },
+ "Aileron / flap spar (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siivekkeen / laipan salko (identtinen x4)"
+ },
+ "Aileron and flap horns (K-HN), 1 per surface": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siivekkeiden ja laippojen sarvet (K-HN), 1 per pinta"
+ },
+ "Aileron link (cabin) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siivekkeen linkki (ohjaamo) x2"
+ },
+ "Aileron link (cabin) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siivekkeen linkki (ohjaamo) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Aileron pushrod (arch) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siivekkeen työntötanko (kaari) x2"
+ },
+ "Aileron pushrod (arch) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siivekkeen työntötanko (kaari) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Aileron pushrod (wing) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siivekkeen työntötanko (siipi) x2"
+ },
+ "Aileron pushrod (wing) x2: 6061-T6 1/2 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siivekkeen työntötanko (siipi) x2: 6061-T6 1/2 x 0.035 in"
+ },
+ "Aileron torque tube": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siivekkeiden vääntöputki"
+ },
+ "Ailerons: a short link from the torque-tube arm to the arch-foot bellcrank, a pushrod up the rear-arch leg to the arch-top bellcrank, then out through the rib lightening holes to the outboard bellcrank, which drives the K-HN horn on the aileron. Flaps: overhead lever, a short rod to the centre-section torque-tube arms, then pushrods to the flap bellcranks and K-HN horns.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siivekkeet: lyhyt linkki vääntöputken varresta kaaren jalan kulmavipuun, työntötanko takakaaren jalkaa ylös kaaren huipun kulmavipuun, sitten ulospäin kylkiluiden keventämisreikien läpi uloimpaan kulmavipuun, joka liikuttaa siivekkeen K-HN-sarvea. Laipat: kattovipu, lyhyt tanko keskiosan vääntöputken varsiin, sitten työntötangot laippojen kulmavipuihin ja K-HN-sarviin."
+ },
+ "All 52 ribs are the same two blanks. The pilot holes locate them, so no jig is needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kaikki 52 kylkiluuta tehdään samoista kahdesta aihiosta. Ohjausreiät paikoittavat ne, joten jigiä ei tarvita."
+ },
+ "All six faces aim at one vanishing point, so each face is flat and every crease is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kaikki kuusi tahkoa osoittavat yhteen katoamispisteeseen, joten jokainen tahko on tasainen ja jokainen taite suora."
+ },
+ "All the glazing is flat sheet: no forming and no moulds.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kaikki ikkunat ovat tasolevyä: ei muovausta eikä muotteja."
+ },
+ "Allowable": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sallittu"
+ },
+ "Amount": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Summa"
+ },
+ "An engineering test plan modelled on BCAR Section S practice, not a regulatory approval route. Costs are rough ranges for materials, hire and consumables, not labour, and exclude the airframe itself. The plan lives in qualification.yaml in the repository, and its pass criteria use the live numbers from the build.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "BCAR Section S -käytäntöä mukaileva tekninen koeohjelma, ei viranomaishyväksynnän reitti. Kustannukset ovat karkeita haarukoita materiaaleille, vuokralle ja tarvikkeille ilman työtä ja ilman itse runkoa. Suunnitelma on tiedostossa qualification.yaml repositoriossa, ja sen hyväksymiskriteerit käyttävät rakennuksen ajantasaisia lukuja."
+ },
+ "Approach the stall in 1 kt steps, flaps up and down, at forward and aft CG.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lähesty sakkausta 1 kt:n askelin, laipat ylhäällä ja alhaalla, etu- ja takapainopisteellä."
+ },
+ "Arch over the pilot. Spar-root fittings bolt to its top corners, strut fittings to its feet. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kaari lentäjän yläpuolella. Salon tyvihelat pultataan sen yläkulmiin, tukisauvojen helat sen jalkoihin. Laminoitu: 2 sisäkkäistä 0.020 in kerrosta, taivutettu erikseen ja niitattu yhtenä; leikkaa 0.5 mm per sisäkerros laippojen reunoista."
+ },
+ "As above, including the reversed load case at −2 g.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kuten yllä, mukaan lukien käänteinen kuormitustapaus −2 g:ssä."
+ },
+ "At least 1.5 × the full-power fuel flow from either tank.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vähintään 1.5 × täyden tehon polttoainevirtaus kummasta tahansa säiliöstä."
+ },
+ "Aux fuel tank 20 L (rotomoulded), high behind the seat, gravity feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lisäsäiliö 20 L (rotaatiovalettu), korkealla istuimen takana, painovoimasyöttö"
+ },
+ "Aux tank 20 L behind the seat + selector valve + line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lisäsäiliö 20 L istuimen takana + valintaventtiili + putki"
+ },
+ "Aux tank filler (through the left cabin side, behind the door)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lisäsäiliön täyttöaukko (ohjaamon vasemman kyljen läpi, oven takana)"
+ },
+ "Aviation snips (straight, left, right)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ilmailupeltisakset (suorat, vasen, oikea)"
+ },
+ "Axle bolt AN6 + castellated nut AN310-6 + cotter MS24665": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Akselipultti AN6 + kruunumutteri AN310-6 + sokka MS24665"
+ },
+ "Back-drill #40 through the rib and spar-cap pilot holes, using the hole duplicator where you can't reach from inside. Cleco as you go.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Takaporaa #40:llä kylkiluiden ja salkolaippojen ohjausreikien läpi, reiänsiirtimellä siellä minne et ylety sisältä. Laita Clecot sitä mukaa."
+ },
+ "Back-drill through the rib flanges and spar caps. Do the nose last, working from the spar forward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Takaporaa kylkiluiden laippojen ja salkolaippojen läpi. Tee nokka viimeisenä, salosta eteenpäin."
+ },
+ "Baggage locker behind the seat (net, 5 kg max)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Matkatavaratila istuimen takana (verkko, enintään 5 kg)"
+ },
+ "Battery + radio + antenna": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Akku + radio + antenni"
+ },
+ "Battery 12 V LiFePO4 in vented box (under the seat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Akku 12 V LiFePO4 tuuletetussa kotelossa (istuimen alla)"
+ },
+ "Bellcrank arms in the cabin, 2 per bellcrank; Bellcrank arms in the wings, 2 per bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kulmavipujen varret ohjaamossa, 2 per kulmavipu; kulmavipujen varret siivissä, 2 per kulmavipu"
+ },
+ "Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kulmavipujen kannakkeet ohjaamossa kaareen / salkoon, kutakin 2; kulmavipujen kannakkeet siivissä kaareen / salkoon, kutakin 2"
+ },
+ "Bellcrank pivots in the cabin (K-BC pair through its K-CV bracket); Bellcrank pivots in the wings (K-BC pair through its K-CV bracket)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kulmavipujen akselit ohjaamossa (K-BC-pari K-CV-kannakkeensa läpi); kulmavipujen akselit siivissä (K-BC-pari K-CV-kannakkeensa läpi)"
+ },
+ "Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kulmavipulevy, 4130 0.063in (pareittain, 55 mm varret)"
+ },
+ "Bellcranks: each is a pair of K-BC plates, 16 mm apart, on an AN4 pivot through a folded K-CV bracket. The rod ends sit between the plates on AN3 bolts. Five per side: aileron arch-foot, arch-top and outboard (at the rear spar); flap torque-tube arm and flap bellcrank.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kulmavivut: kukin on K-BC-levypari 16 mm:n välein AN4-akselilla taivutetun K-CV-kannakkeen läpi. Nivelpäät ovat levyjen välissä AN3-pulteilla. Viisi per puoli: siiveke kaaren jalassa, kaaren huipulla ja uloimpana (takasalossa); laipan vääntöputken varsi ja laipan kulmavipu."
+ },
+ "Bench vise with soft jaws": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ruuvipenkki pehmeillä leuoilla"
+ },
+ "Bend deduction": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivutusvähennys"
+ },
+ "Bend on the brake: each channel is four 90° bends. Bend the two flanges first, then the two lips. Set the nose radius to 1 mm (about 2t for 0.020 in) and overbend about 2° for springback. Check every bend with a square.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta kanttikoneessa: jokaisessa profiilissa on neljä 90° taivutusta. Ensin kaksi laippaa, sitten kaksi huulta. Aseta nokan säde 1 mm:iin (noin 2t 0.020 in:lle) ja ylitaivuta noin 2° takaisinjouston vuoksi. Tarkista jokainen taivutus suorakulmalla."
+ },
+ "Bend radius and springback": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivutussäde ja takaisinjousto"
+ },
+ "Best climb": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Paras nousu"
+ },
+ "Bill of materials": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Materiaaliluettelo"
+ },
+ "Blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aihiot"
+ },
+ "Blind-rivet puller (hand or pneumatic)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vetoniittipihdit (käsi- tai paineilmakäyttöiset)"
+ },
+ "Bolt each main-gear spring leg through the floor doubler under the front arch: 2 x AN5 each, large washers both sides.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pulttaa kumpikin päälaskutelineen jousijalka etukaaren alla olevan lattiavahvikkeen läpi: kumpaankin 2 x AN5, suuret aluslevyt molemmin puolin."
+ },
+ "Bolt in the four harness anchors.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pulttaa neljä valjaiden kiinnityspistettä."
+ },
+ "Bolt on the propeller and spinner. Torque to the prop maker's figure, then safety-wire.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pulttaa potkuri ja kartio. Kiristä potkurivalmistajan momenttiin ja varmista langalla."
+ },
+ "Bolt the 4130 engine mount through the firewall (4 x AN4) with large washers on the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pulttaa 4130-moottoripukki palolaipion läpi (4 x AN4) suurin aluslevyin takana."
+ },
+ "Bolt the four root clevises to the arch tops and the four strut-foot clevises to the arch feet with AN4 bolts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pulttaa neljä tyvihaarukkaa kaarten huipuille ja neljä tukisauvan jalkahaarukkaa kaarten jalkoihin AN4-pulteilla."
+ },
+ "Bolt the stabiliser halves to the tailcone side doublers, 4 x AN4 each. Bolt the fin spar to the tail post, 3 x AN4.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pulttaa vakaajan puolikkaat pyrstökartion sivuvahvikkeisiin, kumpaankin 4 x AN4. Pulttaa kölisalko pyrstötolppaan, 3 x AN4."
+ },
+ "Bolt the tailwheel spring to the tail post (2 x AN4). Fit the fork and the two steering springs to the rudder horn.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pulttaa kannuspyörän jousi pyrstötolppaan (2 x AN4). Asenna haarukka ja kaksi ohjausjousta sivuperäsimen sarveen."
+ },
+ "Bolt the tang pairs either side of each spar web at the root (4 x AN3), and the strut-top clevises under the spars at the 2.4 m rib.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pulttaa korvaparit kunkin salkouuman molemmin puolin tyveen (4 x AN3), ja tukisauvan yläpään haarukat salkojen alle 2.4 m:n kylkiluun kohdalle."
+ },
+ "Bolts to the spar web with 4 x AN3 and reaches inboard past the spar end to the arch-top clevis pin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pultataan salkouumaan 4 x AN3:lla ja ulottuu sisäänpäin salon pään ohi kaaren huipun haarukkatappiin."
+ },
+ "Both sides are the same blank, mirrored. The openings have 50 mm corner radii because square corners start cracks.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Molemmat puolet ovat samaa aihiota peilattuna. Aukoissa on 50 mm:n kulmasäteet, koska terävät kulmat aloittavat halkeamia."
+ },
+ "Both tanks, up to MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Molemmat säiliöt, MTOW:iin asti"
+ },
+ "Bottom + both chamfers + side flanges from one sheet: converging creases, still developable (frustum).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pohja + molemmat viisteet + sivulaipat yhdestä levystä: suppenevat taitteet, silti levitettävä (katkaistu pyramidi)."
+ },
+ "Bottom extends between the elevator halves.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pohja ulottuu korkeusperäsimen puolikkaiden väliin."
+ },
+ "Bought / fabricated items going on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Asennettavat ostetut / valmistetut osat"
+ },
+ "Bought assemblies": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ostetut kokoonpanot"
+ },
+ "Box-pleat hood 45°, nose bowl converging creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laatikkolaskoksinen konepelti 45°, nokkakupin suppenevat taitteet"
+ },
+ "Brake drum": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jarrurumpu"
+ },
+ "Build each section upside down on a straight edge: bulkheads Clecoed into the belly, then the sides, then the top.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rakenna kukin osa ylösalaisin suoran viivaimen päällä: laipiot Clecoilla pohjaan, sitten kyljet, sitten yläpinta."
+ },
+ "Build up towards Vne in 5 kt steps, watching for buzz or flutter at every step.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Etene kohti Vne:tä 5 kt:n askelin ja tarkkaile surinaa tai lepatusta joka askeleella."
+ },
+ "CG range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Painopistealue"
+ },
+ "CHT/EGT instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CHT/EGT-mittari"
+ },
+ "CLmax, drag, propeller efficiency and the neutral point are handbook estimates. Measure stall speed and CG limits in flight test. The 35 kt SSDR stall limit is met with flaps:": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CLmax, vastus, potkurin hyötysuhde ja neutraalipiste ovat käsikirja-arvioita. Mittaa sakkausnopeus ja painopisterajat koelennoilla. SSDR:n 35 kt:n sakkausraja täyttyy laipoilla:"
+ },
+ "Cabin roof (centre lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ohjaamon katto (keskimmäinen alapintalevy)"
+ },
+ "Cabin side (x2, mirrored): door/window opening + front window": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ohjaamon kylki (x2, peilattu): oven/ikkunan aukko + etuikkuna"
+ },
+ "Cabin sides and seat": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ohjaamon kyljet ja istuin"
+ },
+ "Carries flap/aileron hinges and rear strut fitting. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kantaa laipan/siivekkeen saranat ja takimmaisen tukisauvan helan. Laminoitu: 2 sisäkkäistä 0.020 in kerrosta, taivutettu erikseen ja niitattu yhtenä; leikkaa 0.5 mm per sisäkerros laippojen reunoista."
+ },
+ "Case": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tapaus"
+ },
+ "Category": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Luokka"
+ },
+ "Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Keskiosan jättöreunan suojus (kiinteä, laippojen välissä)"
+ },
+ "Centre-section upper skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Keskiosan yläpintalevy"
+ },
+ "Check stops, free play, friction and cable tension, then load every circuit to the pilot limit loads.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tarkista rajoittimet, välykset, kitka ja vaijerien kireys, ja kuormita sitten jokainen piiri lentäjän rajakuormiin."
+ },
+ "Check the cap angle every 500 mm with a square. Sight along the spar for twist.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tarkista laipan kulma 500 mm:n välein suorakulmalla. Tähtää salkoa pitkin kierouden varalta."
+ },
+ "Check twist by sighting a level across bulkheads 1 and 5. Then join the two sections at bulkhead 3.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tarkista kierous tähtäämällä vesivaa'an yli laipioilla 1 ja 5. Liitä sitten osat laipion 3 kohdalla."
+ },
+ "Clean and prime. Steel fittings rust under paint if they aren't primed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Puhdista ja pohjamaalaa. Teräshelat ruostuvat maalin alla, jos niitä ei ole pohjamaalattu."
+ },
+ "Clecos": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Clecot"
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Haarukoiden uumat kaarten huipuille ja jalkoihin, 2 per haarukka; tukisauvan ja apusauvan yläpään haarukat salkolaippojen läpi, kumpaakin 2"
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each; Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Haarukoiden uumat kaarten huipuille ja jalkoihin, 2 per haarukka; tukisauvan ja apusauvan yläpään haarukat salkolaippojen läpi, kumpaakin 2; kulmavipujen kannakkeet ohjaamossa kaareen / salkoon, kutakin 2; kulmavipujen kannakkeet siivissä kaareen / salkoon, kutakin 2"
+ },
+ "Clevis, 4130 0.063in (U, two folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Haarukka, 4130 0.063in (U, kaksi taittoa)"
+ },
+ "Clevis: two 90° bends at 3t radius": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Haarukka: kaksi 90° taivutusta säteellä 3t"
+ },
+ "Click to explore": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Napsauta tutkiaksesi"
+ },
+ "Clip on the strut fairings.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Napsauta tukisauvojen suojukset paikalleen."
+ },
+ "Close the bay behind the centre-section rear spar with the W-CT trailing-edge fairing (same wedge fold as the flaps). Do it last, after the flap linkage is rigged and checked.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sulje keskiosan takasalon takainen lokero jättöreunan suojuksella W-CT (sama kiilataitto kuin laipoissa). Tee se viimeisenä, kun laippojen ohjaus on säädetty ja tarkistettu."
+ },
+ "Closes the control surface; carries hinge and mass-balance arm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sulkee ohjainpinnan; kantaa saranan ja massatasapainovarren."
+ },
+ "Closes the control surface; carries hinge and mass-balance arm. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sulkee ohjainpinnan; kantaa saranan ja massatasapainovarren. Laminoitu: 2 sisäkkäistä 0.020 in kerrosta, taivutettu erikseen ja niitattu yhtenä; leikkaa 0.5 mm per sisäkerros laippojen reunoista."
+ },
+ "Compass (on the glare shield)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kompassi (häikäisysuojalla)"
+ },
+ "Components": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Komponentit"
+ },
+ "Consumables": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tarvikkeet"
+ },
+ "Control stick": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ohjaussauva"
+ },
+ "Control system": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ohjausjärjestelmä"
+ },
+ "Control-circuit strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ohjauspiirien lujuus"
+ },
+ "Control-system free play": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ohjausjärjestelmän välys"
+ },
+ "Controllable in all axes with trim available. Engine temperatures stable.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ohjattavissa kaikilla akseleilla trimmivaraa jäljellä. Moottorin lämpötilat vakaat."
+ },
+ "Controls, instruments and systems": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ohjaimet, mittarit ja järjestelmät"
+ },
+ "Controls: stick, torque tube, cables, pushrods": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ohjaimet: sauva, vääntöputki, vaijerit, työntötangot"
+ },
+ "Converging creases 44°, bulkhead flanges 96–100°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Suppenevat taitteet 44°, laipioiden laipat 96–100°"
+ },
+ "Converted from UK prices": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Muunnettu brittiläisistä hinnoista"
+ },
+ "Copy it, change it, build it, sell it. No permission needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kopioi, muuta, rakenna, myy. Lupaa ei tarvita."
+ },
+ "Cordless drill, #40 (2.5 mm) and #30 (3.3 mm) bits": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Akkuporakone, terät #40 (2.5 mm) ja #30 (3.3 mm)"
+ },
+ "Cost": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kustannus"
+ },
+ "Cotter pins": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sokat"
+ },
+ "Cotter-pin and safety-wire pliers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sokka- ja varmistuslankapihdit"
+ },
+ "Coupons and processes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Koekappaleet ja menetelmät"
+ },
+ "Covers the top half of the firewall. Camlocks along the firewall flange and the split line.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Peittää palolaipion yläpuoliskon. Camlockit palolaipion laippaa ja jakoviivaa pitkin."
+ },
+ "Cowl to firewall flange and along the split line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Konepelti palolaipion laippaan ja jakoviivaa pitkin"
+ },
+ "Crippling stress at least {stress:ms_cc}, the design allowable. Layers must not separate before failure.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Paikallisen lommahduksen jännitys vähintään {stress:ms_cc}, suunnittelun sallittu arvo. Kerrokset eivät saa irrota ennen murtumaa."
+ },
+ "Cruise 75 %": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Matka 75 %"
+ },
+ "Crush 300 mm lengths of three-layer lipped channel, riveted at design pitch, five samples.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Murskaa 300 mm:n pätkiä kolmikerroksista huulellista profiilia, niitattu suunnittelujaolla, viisi näytettä."
+ },
+ "Currency": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Valuutta"
+ },
+ "Cut and deburr: the stand blanks are on the same nest sheets as everything else. File every edge smooth and deburr each pilot hole on both faces. Look for burrs with your fingertip, not your eye.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Leikkaa ja purseenpoista: pukkien aihiot ovat samoilla sijoittelulevyillä kuin kaikki muukin. Viilaa jokainen reuna sileäksi ja poista purse jokaisesta ohjausreiästä molemmilta puolilta. Etsi purseet sormenpäällä, ei silmällä."
+ },
+ "Cut files (DXF and nests), crease patterns, the prop model, the bill of materials and the design report.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Leikkaustiedostot (DXF ja sijoittelut), taittokuviot, potkurimalli, materiaaliluettelo ja suunnitteluraportti."
+ },
+ "Cut lengths": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Katkaisupituudet"
+ },
+ "Cut list": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Katkaisuluettelo"
+ },
+ "Cut the main struts to 2543 mm and the rear struts to 2547 mm pin-to-pin, minus the end-fitting length. All four are 6061-T6 1.75 x 0.065 in tube.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Katkaise päätukisauvat 2543 mm:iin ja takasauvat 2547 mm:iin tapista tappiin, miinus päähelojen pituus. Kaikki neljä ovat putkea 6061-T6 1.75 x 0.065 in."
+ },
+ "Cut, deburr, mark": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Leikkaa, purseenpoista, merkitse"
+ },
+ "Cylinder": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sylinteri"
+ },
+ "Deburr every edge and hole": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Purseenpoista jokainen reuna ja reikä"
+ },
+ "Deburr every edge with a file or deburring tool. A burr is where a fatigue crack starts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Purseenpoista jokainen reuna viilalla tai purseenpoistotyökalulla. Purse on paikka, josta väsymissärö alkaa."
+ },
+ "Deburr every pilot hole on both faces with a 10 mm bit turned by hand.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Poista purse jokaisesta ohjausreiästä molemmilta puolilta käsin pyöritetyllä 10 mm:n terällä."
+ },
+ "Deburring tool, 10 mm drill bit (hole deburr), fine file": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Purseenpoistotyökalu, 10 mm:n pora (reikien purseenpoisto), hieno viila"
+ },
+ "Don't overtighten: nylon washers, and stop when the washer just grips.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Älä kiristä liikaa: nailonaluslevyt, ja lopeta kun aluslevy juuri tarttuu."
+ },
+ "Door (left, hinged) / side window (right, fixed)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ovi (vasen, saranoitu) / sivuikkuna (oikea, kiinteä)"
+ },
+ "Download files (.zip)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lataa tiedostot (.zip)"
+ },
+ "Drawing": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Piirustus"
+ },
+ "Drill and cleco: clamp the gussets in place, drill through the pilot holes to #30 (3.3 mm), and put a cleco in every fourth hole as you go. Then take everything apart, deburr the holes and the faying surfaces, and put it back together on clecos.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Poraa ja Clecoa: kiinnitä nurkkalevyt paikalleen, poraa ohjausreikien läpi #30:een (3.3 mm) ja laita Cleco joka neljänteen reikään sitä mukaa. Pura sitten kaikki, purseenpoista reiät ja liitospinnat ja kokoa uudelleen Clecoille."
+ },
+ "Drill press, 1/4 in and 5/16 in reamers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pylväsporakone, kalvaimet 1/4 in ja 5/16 in"
+ },
+ "Drill, deburr, prime, rivet the skeleton": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Poraa, purseenpoista, pohjamaalaa, niittaa runko"
+ },
+ "Duration": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kesto"
+ },
+ "Each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kpl-hinta"
+ },
+ "Each cable end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jokainen vaijerin pää"
+ },
+ "Each spar is a laminate: three nested blanks for the main spar, two for the rear. Fold every layer separately, then nest them.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jokainen salko on laminaatti: kolme sisäkkäistä aihiota pääsalkoon, kaksi takasalkoon. Taivuta jokainen kerros erikseen ja aseta ne sitten sisäkkäin."
+ },
+ "Each wing pins on at two points. The struts set its angle.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jokainen siipi kiinnitetään tapeilla kahdesta pisteestä. Tukisauvat määräävät sen kulman."
+ },
+ "Ears take an AN5 pin (fore-aft axis); web bolts with 2 x AN4. Bend radius 3t for normalised 4130 (Wanttaja).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Korviin tulee AN5-tappi (pitkittäinen akseli); uuma pultataan 2 x AN4:llä. Taivutussäde 3t normalisoidulle 4130:lle (Wanttaja)."
+ },
+ "Electrics: 12 V LiFePO4 battery in a vented box under the seat. Run it via the master switch and fuses to the radio, with the antenna coax to a whip on the tailcone top. The mag P-lead goes through a firewall grommet. The half-VW's magneto needs no battery to run.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sähköt: akku 12 V LiFePO4 tuuletetussa kotelossa istuimen alla. Vie pääkytkimen ja sulakkeiden kautta radioon, antennin koaksiaali pyrstökartion päällä olevaan piiska-antenniin. Magneeton P-johto kulkee palolaipion läpivientikumin läpi. Half-VW:n magneetto ei tarvitse akkua käydäkseen."
+ },
+ "Elevator bellcrank (under seat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Korkeusperäsimen kulmavipu (istuimen alla)"
+ },
+ "Elevator cable x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Korkeusperäsimen vaijeri x2"
+ },
+ "Elevator cable x2: 1/8 in 7x19 galvanised": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Korkeusperäsimen vaijeri x2: 1/8 in 7x19 sinkitty"
+ },
+ "Elevator cables: run one straight line each from the bellcrank to the tail-post grommet, 60 mm apart, up cable above down cable. Fit a phenolic fairlead where each line passes a bulkhead.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Korkeusperäsimen vaijerit: vedä kumpikin yhtenä suorana linjana kulmavivusta pyrstötolpan läpivientiin, 60 mm:n välein, ylös-vaijeri alas-vaijerin yläpuolella. Asenna fenolihartsinen vaijeriohjain kohtaan, jossa linja ohittaa laipion."
+ },
+ "Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Korkeusperäsimen sarvi, 4130 0.063in (kaksipäinen, korkeusperäsimen vääntöputkella)"
+ },
+ "Elevator skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Korkeusperäsimen pintalevy"
+ },
+ "Elevator spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Korkeusperäsimen salko"
+ },
+ "Elevators and rudder: fold them the same way as the ailerons in step 7 (pleats, then the trailing-edge fold, then the C-spar).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Korkeus- ja sivuperäsin: taivuta ne kuten siivekkeet vaiheessa 7 (laskokset, sitten jättöreunan taitto, sitten C-salko)."
+ },
+ "Empty / MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tyhjä / MTOW"
+ },
+ "Empty mass and balance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tyhjäpaino ja tasapaino"
+ },
+ "Empty mass at or below {mass:empty} plus 3 %, and every loading case inside the CG range.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tyhjäpaino enintään {mass:empty} plus 3 %, ja jokainen kuormitustapaus painopistealueen sisällä."
+ },
+ "Empty tanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tyhjät säiliöt"
+ },
+ "Empty tanks, 5 kg baggage (aftmost)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tyhjät säiliöt, 5 kg matkatavaroita (takimmainen)"
+ },
+ "Endurance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lentoaika"
+ },
+ "Engine and prop": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Moottori ja potkuri"
+ },
+ "Engine and propeller": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Moottori ja potkuri"
+ },
+ "Engine mount": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Moottoripukki"
+ },
+ "Engine mount to firewall, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Moottoripukki palolaipioon, 4"
+ },
+ "Engine mount tube (4130)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Moottoripukin putki (4130)"
+ },
+ "Engine runs: full-power static run, mag check, then check cylinder head temperatures.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Moottorin koekäytöt: täyden tehon paikallaankäyttö, magneettotarkistus, sitten sylinterinkannen lämpötilojen tarkistus."
+ },
+ "Engine to mount, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Moottori pukkiin, 4"
+ },
+ "Engine, cowl, prop": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Moottori, konepelti, potkuri"
+ },
+ "Enter what one sheet costs where you are. The airframe needs about {n} of them, and the sheet lines below follow your price; everything else stays a converted UK estimate. Leave it empty to use the estimate of {price}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Syötä, mitä yksi levy maksaa siellä missä olet. Runko tarvitsee niitä noin {n}, ja alla olevat levyrivit seuraavat hintaasi; kaikki muu pysyy muunnettuna brittiläisenä arviona. Jätä tyhjäksi käyttääksesi arviota {price}."
+ },
+ "Epoxy primer + etch/alodine": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Epoksipohjamaali + peittaus/alodine"
+ },
+ "Estimated": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Arvioitu"
+ },
+ "Estimated flutter speed at least 1.2 × the design dive speed of {speed:Vd}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Arvioitu lepatusnopeus vähintään 1.2 × suunnittelusyöksynopeus {speed:Vd}."
+ },
+ "Every crease goes on the blank before anything is folded, the same order the origami book uses.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jokainen taite piirretään aihioon ennen kuin mitään taitetaan, samassa järjestyksessä kuin origamikirjassa."
+ },
+ "Every flange within ±0.5 mm of the drawing.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jokainen laippa ±0.5 mm:n sisällä piirustuksesta."
+ },
+ "Every folded blank, every rivet by grip, every AN bolt by step, plus tube stock, bought assemblies, consumables and tools. Each line has an estimated price. The same list is in BOM.csv and HARDWARE_BY_STEP.csv in the download.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jokainen taivutettu aihio, jokainen niitti puristuspituuden mukaan, jokainen AN-pultti vaiheittain, sekä putket, ostetut kokoonpanot, kulutustarvikkeet ja työkalut. Jokaisella rivillä on arvioitu hinta. Sama luettelo on latauksessa tiedostoissa BOM.csv ja HARDWARE_BY_STEP.csv."
+ },
+ "Every number on this site is a calculation. This is the plan for turning them into evidence: cheap coupon tests first, then components, then the whole wing, then the ground and finally the air. Each phase retires a specific risk before money is spent on the next. Results go back into the repository, and measured values replace the estimates in aircraft.yaml.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jokainen luku tällä sivulla on laskelma. Tämä on suunnitelma niiden muuttamiseksi näytöksi: ensin halvat koekappalekokeet, sitten komponentit, sitten koko siipi, sitten maassa ja lopulta ilmassa. Jokainen vaihe poistaa tietyn riskin ennen kuin rahaa käytetään seuraavaan. Tulokset palaavat repositorioon, ja mitatut arvot korvaavat arviot tiedostossa aircraft.yaml."
+ },
+ "Every result, photo and failure goes into the repository.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jokainen tulos, kuva ja vika menee repositorioon."
+ },
+ "Every steel fitting is also a flat blank folded at most twice.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jokainen teräshela on myös tasainen aihio, taitettu enintään kahdesti."
+ },
+ "Everything that goes into one aircraft": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kaikki, mitä yhteen lentokoneeseen tulee"
+ },
+ "Exact": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tarkka"
+ },
+ "Exchange rates: {date}, base GBP.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Valuuttakurssit: {date}, perusta GBP."
+ },
+ "Export BOM (.csv)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vie materiaaliluettelo (.csv)"
+ },
+ "Extinguisher and PLB": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sammutin ja PLB"
+ },
+ "F-B1 Tailcone bulkhead x=1150": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B1 Pyrstökartion laipio x=1150"
+ },
+ "F-B2 Tailcone bulkhead x=1948": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B2 Pyrstökartion laipio x=1948"
+ },
+ "F-B3 Tailcone bulkhead x=2745": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B3 Pyrstökartion laipio x=2745"
+ },
+ "F-B4 Tailcone bulkhead x=3542": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B4 Pyrstökartion laipio x=3542"
+ },
+ "F-B5 Tailcone bulkhead x=4340 (tail post)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B5 Pyrstökartion laipio x=4340 (pyrstötolppa)"
+ },
+ "F-CL Lower cowl (box-pleat pan to the cabin floor line)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-CL Alempi konepelti (laatikkolaskoksinen kaukalo ohjaamon lattialinjaan asti)"
+ },
+ "F-CU Upper cowl (hood, two 90 deg folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-CU Ylempi konepelti (kansi, kaksi 90 deg taittoa)"
+ },
+ "F-DW Door (left, hinged) / side window (right, fixed)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-DW Ovi (vasen, saranoitu) / sivuikkuna (oikea, kiinteä)"
+ },
+ "F-FA Front arch (main-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FA Etukaari (pääsalon kehys)"
+ },
+ "F-FL Floor tray with two hat pleats": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FL Lattiakaukalo kahdella hattulaskoksella"
+ },
+ "F-FW Firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FW Palolaipio"
+ },
+ "F-FWN Front side window (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FWN Etusivuikkuna (x2, peilattu)"
+ },
+ "F-IP Instrument panel (glare-shield fold, side tabs)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-IP Mittaritaulu (häikäisysuojan taitto, sivukielekkeet)"
+ },
+ "F-NF Nose ring (prop-shaft hole + two cooling inlets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NF Nokkarengas (potkuriakselin reikä + kaksi jäähdytysilman ottoaukkoa)"
+ },
+ "F-NL Nose bowl, chin (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NL Nokkakuppi, leuka (3 suppenevaa tahkoa)"
+ },
+ "F-NU Nose bowl, upper (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NU Nokkakuppi, ylä (3 suppenevaa tahkoa)"
+ },
+ "F-RA Rear arch (rear-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-RA Takakaari (takasalon kehys)"
+ },
+ "F-SD Cabin side (x2, mirrored): door/window opening + front window": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-SD Ohjaamon kylki (x2, peilattu): oven/ikkunan aukko + etuikkuna"
+ },
+ "F-ST Seat (pan + back, one sheet)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-ST Istuin (istuinosa + selkänoja, yksi levy)"
+ },
+ "F-TB1 Tailcone belly, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TB1 Pyrstökartion vatsa, osa 1"
+ },
+ "F-TB2 Tailcone belly, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TB2 Pyrstökartion vatsa, osa 2"
+ },
+ "F-TS1 Tailcone side, section 1 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TS1 Pyrstökartion kylki, osa 1 (x2, peilattu)"
+ },
+ "F-TS2 Tailcone side, section 2 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TS2 Pyrstökartion kylki, osa 2 (x2, peilattu)"
+ },
+ "F-TT1 Tailcone top, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TT1 Pyrstökartion yläpinta, osa 1"
+ },
+ "F-TT2 Tailcone top, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TT2 Pyrstökartion yläpinta, osa 2"
+ },
+ "F-WS Windscreen (cold-bent flat polycarbonate)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-WS Tuulilasi (kylmätaivutettu tasainen polykarbonaatti)"
+ },
+ "Faceted rib: every flange is a straight brake bend, no form block or fluting needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tahkoinen kylkiluu: jokainen laippa on yksi suora kanttikonetaivutus, ei muottipalaa eikä uria."
+ },
+ "Fairleads and pulleys": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vaijeriohjaimet ja väkipyörät"
+ },
+ "Fasteners": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kiinnittimet"
+ },
+ "Fin nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kölin nokkakylkiluu"
+ },
+ "Fin skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kölin pintalevy (yksi kiedonta)"
+ },
+ "Fin spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kölisalko"
+ },
+ "Final-drill every Cleco'd hole to #30 (3.3 mm), a few at a time, moving each Cleco to the next hole as you go.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Loppuporaa jokainen Clecolla kiinnitetty reikä #30:een (3.3 mm) muutama kerrallaan, siirtäen kunkin Clecon seuraavaan reikään sitä mukaa."
+ },
+ "Fine felt marker, steel rule, square, MEK to clean": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hieno huopakynä, teräsviivain, suorakulma, MEK puhdistukseen"
+ },
+ "Finish: glue carpet on top of each beam so the wing skin can't be scratched. Load each stand with 40 kg and check it doesn't rack or rock. Keep the offcuts: they are your test pieces for the spar bend in step 2.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Viimeistely: liimaa matto kunkin palkin päälle, jotta siiven pintalevy ei naarmuunnu. Kuormita jokainen pukki 40 kg:lla ja tarkista, ettei se vääntyile eikä keiku. Säästä hukkapalat: ne ovat koekappaleesi salon taivutukseen vaiheessa 2."
+ },
+ "Fire extinguisher 1 kg (clip by the left seat rail)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sammutin 1 kg (pidikkeessä vasemman istuinkiskon vieressä)"
+ },
+ "Firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Palolaipio"
+ },
+ "Firewall flanges": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Palolaipion laipat"
+ },
+ "First flights": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ensilennot"
+ },
+ "First-pass strength: +4 / −2 g, ×1.5 ultimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ensimmäisen kertaluvun lujuus: +4 / −2 g, ×1.5 murto"
+ },
+ "Fit each rib by its attach flange: Cleco through the pilot holes into the spar web. Nose ribs go on the front face, main ribs on the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kiinnitä kukin kylkiluu kiinnityslaipastaan: Cleco ohjausreikien läpi salkouumaan. Nokkakylkiluut etupuolelle, pääkylkiluut takapuolelle."
+ },
+ "Fit the axles, wheels and drum brakes. Castellated nut and cotter on each axle. The 21 x 8.00-6 tundra tyres run at 10-12 psi: check pressure before every flight, they are soft by design.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Asenna akselit, pyörät ja rumpujarrut. Kruunumutteri ja sokka jokaiseen akseliin. Tundrarenkaat 21 x 8.00-6 ajetaan 10-12 psi:n paineella: tarkista paine ennen jokaista lentoa, ne ovat tarkoituksella pehmeät."
+ },
+ "Fit the cabin roof and the centre-section upper skin, back-drilled through the root ribs. Use the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Asenna ohjaamon katto ja keskiosan yläpintalevy, takaporattuina tyvikylkiluiden läpi. Käytä niittaussilmukkaa."
+ },
+ "Fit the camlock receptacles on the firewall flange and along the split line. Trim the cowl until it clears the cylinders by at least 10 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Asenna Camlock-vastakappaleet palolaipion laippaan ja jakoviivaa pitkin. Sovita konepeltiä, kunnes se on vähintään 10 mm:n päässä sylintereistä."
+ },
+ "Fit the jury struts (420 mm main, 425 mm rear) from the clamp ear to the jury-top clevis under the spar, AN3 at each end. They double the strut's buckling strength.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Asenna apusauvat (pää 420 mm, taka 425 mm) kiristimen korvasta apusauvan yläpään haarukkaan salon alla, AN3 kummassakin päässä. Ne kaksinkertaistavat tukisauvan nurjahduslujuuden."
+ },
+ "Fit the sides outside the arches, firewall flange and floor flanges. Back-drill and Cleco.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Asenna kyljet kaarten, palolaipion laipan ja lattialaippojen ulkopuolelle. Takaporaa ja Clecoa."
+ },
+ "Fit the stick, the aileron torque tube under the seat and the elevator bellcrank. Connect the stick to the bellcrank with a short pushrod.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Asenna sauva, siivekkeiden vääntöputki istuimen alle ja korkeusperäsimen kulmavipu. Yhdistä sauva kulmavipuun lyhyellä työntötangolla."
+ },
+ "Five facets, chamfers matching the cabin floor. A louvre slot at the rear is the cooling-air exit.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Viisi tahkoa, viisteet ohjaamon lattian mukaiset. Takaosan säleikkörako on jäähdytysilman poistoaukko."
+ },
+ "Flanges 90°, all toward the root": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laipat 90°, kaikki tyveä kohti"
+ },
+ "Flanges all round fold aft; engine mount bolts through 4 doublers.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laipat ympäriinsä taitettu taaksepäin; moottoripukki pultataan 4 vahvikkeen läpi."
+ },
+ "Flanges follow the frustum taper (fold < 90 deg).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laipat seuraavat katkaistun pyramidin kapenemista (taitto < 90 deg)."
+ },
+ "Flanges follow the frustum taper (fold < 90 deg). Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laipat seuraavat katkaistun pyramidin kapenemista (taitto < 90 deg). Laminoitu: 2 sisäkkäistä 0.020 in kerrosta, taivutettu erikseen ja niitattu yhtenä; leikkaa 0.5 mm per sisäkerros laippojen reunoista."
+ },
+ "Flanges follow the nose taper.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laipat seuraavat nokan kapenemista."
+ },
+ "Flap lever (overhead, Kitfox-style)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laippavipu (katossa, Kitfox-tyyliin)"
+ },
+ "Flap pushrod (wing) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laipan työntötanko (siipi) x2"
+ },
+ "Flap pushrod (wing) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laipan työntötanko (siipi) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Flap stall at or below 35 kt CAS, the SSDR limit; predicted {speed:Vs0}. Gentle stall, no wing drop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sakkaus laipoilla enintään 35 kt CAS, SSDR-raja; ennuste {speed:Vs0}. Lempeä sakkaus, ei siiven putoamista."
+ },
+ "Flaps and ailerons": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laipat ja siivekkeet"
+ },
+ "Flat panel; the top flange folds aft as a glare shield, side tabs fold forward onto the cabin sides. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tasainen paneeli; yläreunan laippa taitetaan taaksepäin häikäisysuojaksi, sivukielekkeet eteenpäin ohjaamon kylkiin. Laminoitu: 2 sisäkkäistä 0.020 in kerrosta, taivutettu erikseen ja niitattu yhtenä; leikkaa 0.5 mm per sisäkerros laippojen reunoista."
+ },
+ "Flat polycarbonate over the front cut-out, 20 mm lap, screws in 4.5 mm oversize holes.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tasainen polykarbonaatti etuleikkauksen päällä, 20 mm limitys, ruuvit 4.5 mm:n ylisuurissa rei'issä."
+ },
+ "Flight test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Koelento"
+ },
+ "Floor tray with two hat pleats": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lattiakaukalo kahdella hattulaskoksella"
+ },
+ "Floor, firewall, arches": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lattia, palolaipio, kaaret"
+ },
+ "Flutter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lepatus"
+ },
+ "Foam tape": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vaahtomuoviteippi"
+ },
+ "Fold 20 strips of 0.51 mm 6061-T6 at a 0.8 mm nose radius, across and along the grain. Inspect every bend under a 10× loupe.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta 20 liuskaa 0.51 mm 6061-T6:ta 0.8 mm:n nokkasäteellä, valssaussuuntaa vastaan ja sen suuntaan. Tarkasta jokainen taivutus 10×-luupilla."
+ },
+ "Fold a 300 mm offcut of a rib and of a spar from the real DXFs and measure every flange.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta 300 mm:n hukkapala kylkiluusta ja salosta oikeiden DXF-tiedostojen mukaan ja mittaa jokainen laippa."
+ },
+ "Fold a 300 mm offcut of the same strip first and measure it to confirm the bend deduction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta ensin 300 mm:n hukkapala samasta liuskasta ja mittaa se taivutusvähennyksen varmistamiseksi."
+ },
+ "Fold all 52 ribs before assembling any: one brake set-up does the whole batch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta kaikki 52 kylkiluuta ennen kuin kokoat yhtäkään: yksi kanttikoneen asetus riittää koko erälle."
+ },
+ "Fold coupons": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivutuskoekappaleet"
+ },
+ "Fold each belly blank: bottom, both chamfers, then the side flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta jokainen vatsa-aihio: pohja, molemmat viisteet, sitten sivulaipat."
+ },
+ "Fold every rib flange 90° on the brake. Because the airfoil is faceted, each flange is one straight bend.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta jokainen kylkiluun laippa 90° kanttikoneessa. Koska profiili on tahkoinen, jokainen laippa on yksi suora taivutus."
+ },
+ "Fold the 12 clevises in the vise over a 5 mm radius block. Normalised 4130 needs at least 3t (Wanttaja).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta 12 haarukkaa ruuvipenkissä 5 mm:n säteisen palan yli. Normalisoitu 4130 vaatii vähintään 3t (Wanttaja)."
+ },
+ "Fold the 90° top flange and the windscreen flange on each side panel. The top flange is the longeron.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta kunkin sivupaneelin 90° yläreunan laippa ja tuulilasin laippa. Yläreunan laippa on pitkittäispalkki."
+ },
+ "Fold the bulkhead flanges. They are 96–100°, not 90°, because they follow the taper.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta laipioiden laipat. Ne ovat 96–100°, eivät 90°, koska ne seuraavat kapenemista."
+ },
+ "Fold the firewall flanges, all aft. It is stainless, so drill it slowly with a sharp bit and cutting oil.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta palolaipion laipat, kaikki taaksepäin. Se on ruostumatonta, joten poraa hitaasti terävällä terällä ja leikkuuöljyllä."
+ },
+ "Fold the floor tray's two hat pleats, then the chamfers and side flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta lattiakaukalon kaksi hattulaskosta, sitten viisteet ja sivulaipat."
+ },
+ "Fold the instrument panel (glare shield and side tabs) and rivet it to the cabin sides at x = -400 mm. Fit the ASI, altimeter, tach, CHT/EGT, radio, master and mag switches and fuel valve, and put the compass on the glare shield.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta mittaritaulu (häikäisysuoja ja sivukielekkeet) ja niittaa se ohjaamon kylkiin kohdassa x = -400 mm. Asenna ASI, korkeusmittari, kierroslukumittari, CHT/EGT, radio, pää- ja magneettokytkimet sekä polttoainehana, ja aseta kompassi häikäisysuojalle."
+ },
+ "Fold the ribs, Cleco them on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta kylkiluut, kiinnitä Clecoilla"
+ },
+ "Fold the seat: pan and back from one sheet. Rivet its front lip to the floor and lean its back on the rear arch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta istuin: istuinosa ja selkänoja yhdestä levystä. Niittaa sen etuhuuli lattiaan ja nojaa selkänoja takakaareen."
+ },
+ "Fold the spars": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta salot"
+ },
+ "Fold the stabiliser and fin spars and their nose ribs.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta vakaajan ja kölin salot sekä niiden nokkakylkiluut."
+ },
+ "Fold the trailing edge over a 0.6 mm radius bar in the brake, to about 165°. Squeeze gently in soft vise jaws until the TE is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta jättöreuna 0.6 mm:n säteisen tangon yli kanttikoneessa noin 165°:een. Purista varovasti pehmeissä leuoissa, kunnes jättöreuna on suora."
+ },
+ "Fold the two V-bead pleats in valley-mountain-valley order. Stop each bead at the marks.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta kaksi V-uraa järjestyksessä laakso-vuori-laakso. Lopeta kukin ura merkkeihin."
+ },
+ "Fold the two arches: outer and inner flanges, all aft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta kaksi kaarta: ulko- ja sisälaipat, kaikki taaksepäin."
+ },
+ "Fold the two caps first (90°), then the two lips. Overbend by about 2° so the 6061-T6 springs back to 90°.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta ensin kaksi laippaa (90°), sitten kaksi huulta. Ylitaivuta noin 2°, jotta 6061-T6 joustaa takaisin 90°:een."
+ },
+ "Fold the upper and lower cowls (four 45° creases each) and the nose-bowl halves. Rivet the nose bowls to the nose ring.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivuta ylempi ja alempi konepelti (kumpikin neljä 45° taitetta) sekä nokkakupin puolikkaat. Niittaa nokkakupit nokkarenkaaseen."
+ },
+ "Folded blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taivutetut aihiot"
+ },
+ "Folds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taitteet"
+ },
+ "Four brake bends each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kukin neljä taivutusta"
+ },
+ "Four identical surfaces from one blank. The trailing edge is a single crease, so there's no separate strip to rivet on.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Neljä identtistä pintaa yhdestä aihiosta. Jättöreuna on yksi taite, joten erillistä niitattavaa listaa ei ole."
+ },
+ "Four stands, 20 blanks, about 200 rivets. The cheapest place to learn to fold, drill and rivet is a part that never leaves the ground.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Neljä pukkia, 20 aihiota, noin 200 niittiä. Halvin paikka opetella taivuttamaan, poraamaan ja niittaamaan on osa, joka ei koskaan irtoa maasta."
+ },
+ "Free play under 1° at each surface, and full travel with no binding under load.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Välys alle 1° jokaisessa pinnassa, ja täysi liike ilman jumittamista kuormitettuna."
+ },
+ "Front arch (main-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Etukaari (pääsalon kehys)"
+ },
+ "Front side window (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Etusivuikkuna (x2, peilattu)"
+ },
+ "Front side windows: screw over the cut-outs with a 20 mm lap.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Etusivuikkunat: ruuvaa ne leikkausten päälle 20 mm:n limityksellä."
+ },
+ "Frustum facets aimed at one point, so every crease is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Katkaistun pyramidin tahkot osoittavat yhteen pisteeseen, joten jokainen taite on suora."
+ },
+ "Fuel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Polttoaine"
+ },
+ "Fuel allowed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sallittu polttoaine"
+ },
+ "Fuel and payload": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Polttoaine ja kuorma"
+ },
+ "Fuel feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Polttoaineen syöttö"
+ },
+ "Fuel filler neck + cap (through the hood, ahead of the windscreen)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Täyttökaula + korkki (konepellin läpi, tuulilasin edessä)"
+ },
+ "Fuel selector valve: HEADER / AUX / OFF": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Polttoaineen valintaventtiili: HEADER / AUX / OFF"
+ },
+ "Fuel system parts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Polttoainejärjestelmän osat"
+ },
+ "Fuel tank 19 L (rotomoulded polyethylene): header tank behind the firewall, ahead of the panel, Cub-style": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Polttoainesäiliö 19 L (rotaatiovalettu polyeteeni): pääsäiliö palolaipion takana, mittaritaulun edessä, Cub-tyyliin"
+ },
+ "Fuel tank 19 L (rotomoulded) + lines, valve, gascolator": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Polttoainesäiliö 19 L (rotaatiovalettu) + putket, hana, gascolator"
+ },
+ "Fuel, aux tank: a second 20 L tank strap-mounts high behind the seat, its bottom above the header tank top so it also gravity-feeds. Its line runs forward along the left roof rail to the selector; filler through the left cabin side, vent overboard under the roof. Never in the wings. Fill it only as far as the 300 kg MTOW allows: with a 100 kg pilot that is none at all. Burn the aux tank first, which keeps the CG moving forward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Polttoaine, lisäsäiliö: toinen 20 L:n säiliö on hihnoitettu korkealle istuimen taakse, sen pohja pääsäiliön yläpinnan yläpuolella, jotta sekin syöttää painovoimalla. Sen putki kulkee eteenpäin vasenta kattokiskoa pitkin valitsimeen; täyttö ohjaamon vasemman kyljen läpi, huohotin ulos katon alta. Ei koskaan siivissä. Täytä se vain niin paljon kuin 300 kg:n MTOW sallii: 100 kg:n lentäjällä ei lainkaan. Käytä lisäsäiliö ensin, jolloin painopiste siirtyy eteenpäin."
+ },
+ "Fuel, header tank: the 19 L rotomoulded tank sits behind the firewall, above the pilot's shins and under the windscreen, strapped to two angles riveted to the side panels (as on a J-3 Cub). It gravity-feeds: tank outlet, selector valve (HEADER / AUX / OFF), a fire-sleeved hose through a firewall grommet, the gascolator on the firewall, then the carburettor. The tank bottom is about 200 mm above the carburettor. The filler neck comes up through the hood just ahead of the windscreen, and the vent runs forward under the hood.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Polttoaine, pääsäiliö: 19 L:n rotaatiovalettu säiliö on palolaipion takana, lentäjän säärten yläpuolella ja tuulilasin alla, hihnoitettuna kahteen sivupaneeleihin niitattuun kulmaraudaan (kuten J-3 Cubissa). Se syöttää painovoimalla: säiliön lähtö, valintaventtiili (HEADER / AUX / OFF), palosuojattu letku palolaipion läpivientikumin läpi, gascolator palolaipiossa, sitten kaasutin. Säiliön pohja on noin 200 mm kaasuttimen yläpuolella. Täyttökaula nousee konepellin läpi juuri tuulilasin edestä, ja huohotin kulkee eteenpäin konepellin alla."
+ },
+ "Gascolator (fuel strainer) on the firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gascolator (polttoainesiivilä) palolaipiossa"
+ },
+ "Glide L/D": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Liitosuhde L/D"
+ },
+ "Ground": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Maa"
+ },
+ "Ground vibration test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Maavärähtelykoe"
+ },
+ "Half-VW engine": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Half-VW-moottori"
+ },
+ "Half-VW engine, dressed (carb, mag, exhaust)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Half-VW-moottori, varusteltu (kaasutin, magneetto, pakoputki)"
+ },
+ "Hang the elevators and rudder on piano hinges. Check ±25° rudder travel clears the elevator halves.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ripusta korkeus- ja sivuperäsin pianosaranoihin. Tarkista, että sivuperäsimen ±25° liike ei osu korkeusperäsimen puolikkaisiin."
+ },
+ "Hang the half-VW on rubber isolators (4 x AN5).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ripusta half-VW kumivaimentimiin (4 x AN5)."
+ },
+ "Hangar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Halli"
+ },
+ "Hardware": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pientarvikkeet"
+ },
+ "Hardware for this step": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tämän vaiheen pientarvikkeet"
+ },
+ "Harness anchors to floor and rear arch, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Valjaiden kiinnityspisteet lattiaan ja takakaareen, 4"
+ },
+ "Hat pleats 56°, flanges 90°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hattulaskokset 56°, laipat 90°"
+ },
+ "Have a BMAA or LAA inspector look at it before the first flight. Do first flights in calm air, over a long field.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Anna BMAA:n tai LAA:n tarkastajan katsoa se ennen ensilentoa. Tee ensilennot tyynellä säällä pitkän kentän yllä."
+ },
+ "Head": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kansi"
+ },
+ "Header tank full": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pääsäiliö täynnä"
+ },
+ "Holds ultimate load for 3 s in both directions.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kestää murtokuorman 3 s molempiin suuntiin."
+ },
+ "Holds ultimate load for 3 s. Peak cap stress {stress:ms_sig} against an allowable of {stress:ms_cc}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kestää murtokuorman 3 s. Laipan huippujännitys {stress:ms_sig}, sallittu {stress:ms_cc}."
+ },
+ "Holds {force:strut_T} in tension and {force:strut_C} in compression with no failure.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kestää {force:strut_T} vetoa ja {force:strut_C} puristusta murtumatta."
+ },
+ "Honesty": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rehellisyys"
+ },
+ "Horn: rod end bolts through the outer hole (AN3).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sarvi: nivelpää pultataan uloimman reiän läpi (AN3)."
+ },
+ "Horns, bellcranks and brackets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sarvet, kulmavivut ja kannakkeet"
+ },
+ "How it gets proven": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Miten se todistetaan"
+ },
+ "Imperial": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brittiläiset yksiköt"
+ },
+ "Inspect each rivet: head seated flat, mandrel broken off flush, no gap under the head.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tarkasta jokainen niitti: kanta tasaisesti paikallaan, tuurna katkennut tasaisesti, ei rakoa kannan alla."
+ },
+ "Inspection": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tarkastus"
+ },
+ "Inspector sign-off before the aircraft is flown by anyone else.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tarkastajan hyväksyntä ennen kuin kukaan muu lentää konetta."
+ },
+ "Instructions": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ohjeet"
+ },
+ "Instrument panel (glare-shield fold, side tabs)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mittaritaulu (häikäisysuojan taitto, sivukielekkeet)"
+ },
+ "Instruments (ASI, alt, tach, CHT, compass)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mittarit (ASI, korkeus, kierrokset, CHT, kompassi)"
+ },
+ "Inverted wing on its fittings, sandbags laid out to the spanwise lift distribution, to +4 g limit and then −2 g. Measure tip deflection at each step.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siipi ylösalaisin helojensa varassa, hiekkasäkit jänteen suuntaisen nostovoimajakauman mukaan, +4 g:n rajaan ja sitten −2 g:hen. Mittaa kärjen taipuma joka vaiheessa."
+ },
+ "Item": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nimike"
+ },
+ "Jury strut 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Apusauva 0.75 x 0.049 in"
+ },
+ "Jury strut x2 (main)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Apusauva x2 (pää)"
+ },
+ "Jury strut x2 (main): 6061-T6 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Apusauva x2 (pää): 6061-T6 0.75 x 0.049 in"
+ },
+ "Jury strut x2 (rear)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Apusauva x2 (taka)"
+ },
+ "Jury strut x2 (rear): 6061-T6 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Apusauva x2 (taka): 6061-T6 0.75 x 0.049 in"
+ },
+ "Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Apusauvan satulakiristin, 4130 0.063in (valssattu puolikuori korvilla)"
+ },
+ "K-BC Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-BC Kulmavipulevy, 4130 0.063in (pareittain, 55 mm varret)"
+ },
+ "K-CV Clevis, 4130 0.063in (U, two folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-CV Haarukka, 4130 0.063in (U, kaksi taittoa)"
+ },
+ "K-HD Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HD Korkeusperäsimen sarvi, 4130 0.063in (kaksipäinen, korkeusperäsimen vääntöputkella)"
+ },
+ "K-HN Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HN Siivekkeen / laipan sarvi, 4130 0.063in (yksi taitto alapintalevyyn)"
+ },
+ "K-HR Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HR Sivuperäsimen sarvi, 4130 0.063in (tasainen, vaijeri kummallakin puolella)"
+ },
+ "K-JC Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-JC Apusauvan satulakiristin, 4130 0.063in (valssattu puolikuori korvilla)"
+ },
+ "K-TG Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-TG Salon tyvikorva, 4130 0.063in (tasainen, pareittain uuman molemmin puolin)"
+ },
+ "Laminate: each channel is two blanks. Fold both separately, nest the inner one inside the outer one, and check they sit tight with no gap. If the inner one fights, take 0.5 mm off its flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laminaatti: jokainen profiili on kaksi aihiota. Taivuta molemmat erikseen, aseta sisempi ulomman sisään ja tarkista, että ne istuvat tiiviisti ilman rakoa. Jos sisempi vastustaa, poista 0.5 mm sen laippojen reunoista."
+ },
+ "Laminated channel crippling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laminoidun profiilin paikallinen lommahdus"
+ },
+ "Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laminoitu: 2 sisäkkäistä 0.020 in kerrosta, taivutettu erikseen ja niitattu yhtenä; leikkaa 0.5 mm per sisäkerros laippojen reunoista."
+ },
+ "Landing gear and tailwheel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laskuteline ja kannuspyörä"
+ },
+ "Landing roll": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laskeutumiskiito"
+ },
+ "Language": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kieli"
+ },
+ "Laps 30 mm under the upper skin at 8% chord.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Limittyy 30 mm yläpintalevyn alle 8%:n jänteen kohdalla."
+ },
+ "Laser / waterjet cutting service": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laser- / vesileikkauspalvelu"
+ },
+ "Lay the spars on a flat table, webs vertical, 3.6 m apart for the two wings.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aseta salot tasaiselle pöydälle, uumat pystyssä, 3.6 m:n päähän toisistaan kahta siipeä varten."
+ },
+ "Leans on the rear arch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nojaa takakaareen."
+ },
+ "Leave the protective film on. Drill the polycarbonate with plastic bits, holes 6 mm for M4 screws so it can expand.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jätä suojakalvo paikalleen. Poraa polykarbonaatti muoviterillä, 6 mm:n reiät M4-ruuveille, jotta se voi laajeta."
+ },
+ "Left door front edge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vasemman oven etureuna"
+ },
+ "Licence": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lisenssi"
+ },
+ "Lift strut (main) 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tukisauva (pää) 1.75 x 0.065 in"
+ },
+ "Lift strut (rear) 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tukisauva (taka) 1.75 x 0.065 in"
+ },
+ "Lift strut, tension": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tukisauva, veto"
+ },
+ "Lift strut, −2 g buckling (with jury strut)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tukisauva, nurjahdus −2 g:ssä (apusauvan kanssa)"
+ },
+ "Lift struts and jury struts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tukisauvat ja apusauvat"
+ },
+ "Line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rivi"
+ },
+ "Lipped channels: four 90° brake bends each, two nested layers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Huulelliset profiilit: kukin neljä 90° taivutusta, kaksi sisäkkäistä kerrosta"
+ },
+ "Load each linkage part to 1.5 × the BCAR Section S pilot loads at the stick and pedals.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kuormita jokainen ohjausosa 1.5 × BCAR Section S:n lentäjäkuormiin sauvalla ja polkimilla."
+ },
+ "Local-price estimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Paikallinen hinta-arvio"
+ },
+ "Local-price estimate for {country}, in {currency}, before any local sales tax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Paikallinen hinta-arvio maalle {country}, valuuttana {currency}, ennen paikallisia myyntiveroja."
+ },
+ "Local-price estimate for {country}, in {currency}, including {tax} % VAT, GST or sales tax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Paikallinen hinta-arvio maalle {country}, valuuttana {currency}, sisältäen {tax} % ALV:n, GST:n tai myyntiveron."
+ },
+ "Low-speed taxi, then fast taxi with the tail up, on the intended test field.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rullaus hitaasti, sitten nopea rullaus pyrstö ylhäällä, suunnitellulla koekentällä."
+ },
+ "Lower cowl (box-pleat pan to the cabin floor line)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Alempi konepelti (laatikkolaskoksinen kaukalo ohjaamon lattialinjaan asti)"
+ },
+ "Lower skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Alapintalevy, lokero 1"
+ },
+ "Lower skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Alapintalevy, lokero 2"
+ },
+ "Lower skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Alapintalevy, lokero 3"
+ },
+ "Lower skins": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Alapintalevyt"
+ },
+ "M4 pan screw, nylon washer, M4 Nyloc nut, 6 mm oversize hole in polycarbonate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "M4-kupukantaruuvi, nailonaluslevy, M4 Nyloc -mutteri, 6 mm:n ylisuuri reikä polykarbonaatissa"
+ },
+ "MEK / cleaner, Scotch-Brite, gloves": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "MEK / puhdistusaine, Scotch-Brite, käsineet"
+ },
+ "Main gear leg x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Päälaskutelineen jalka x2"
+ },
+ "Main gear leg x2: 6061-T6 bar 75 x 16 mm": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Päälaskutelineen jalka x2: 6061-T6 lattatanko 75 x 16 mm"
+ },
+ "Main gear legs through floor doubler, 2 per leg": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Päälaskutelineen jalat lattiavahvikkeen läpi, 2 per jalka"
+ },
+ "Main gear spring leg (6061-T6 bar)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Päälaskutelineen jousijalka (6061-T6 lattatanko)"
+ },
+ "Main gear: 2 spring legs + axles": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Päälaskuteline: 2 jousijalkaa + akselit"
+ },
+ "Main lift strut x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Päätukisauva x2"
+ },
+ "Main lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Päätukisauva x2: 6061-T6 1.75 x 0.065 in"
+ },
+ "Main rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pääkylkiluu"
+ },
+ "Main rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pääkylkiluu, tyvi/kärki"
+ },
+ "Main spar (lipped C, opens aft)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pääsalko (huulellinen C, avautuu taaksepäin)"
+ },
+ "Main spar section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pääsalon osa"
+ },
+ "Main spar web shear, limit": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pääsalon uuman leikkaus, raja"
+ },
+ "Main spar: lipped C, three layers of 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pääsalko: huulellinen C, kolme 0.020 in kerrosta"
+ },
+ "Main wheel: 21 x 8.00-6 tundra tyre at 10-12 psi": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pääpyörä: tundrarengas 21 x 8.00-6, 10-12 psi"
+ },
+ "Main wheels": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pääpyörät"
+ },
+ "Margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Marginaali"
+ },
+ "Mark fold lines on the marked face: red dashed = valley, blue dash-dot = mountain. Use a fine felt marker, never a scribe (Wanttaja: scribe lines start cracks).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Piirrä taittoviivat merkitylle puolelle: punainen katkoviiva = laakso, sininen pistekatkoviiva = vuori. Käytä hienoa huopakynää, älä koskaan piirtopuikkoa (Wanttaja: piirtopuikon jäljet aloittavat halkeamia)."
+ },
+ "Mark folds with felt pen, never a scribe": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Merkitse taitteet huopakynällä, ei koskaan piirtopuikolla"
+ },
+ "Mark the folds: red dashed is a valley, blue dash-dot is a mountain. Felt marker on the marked face only, never a scribe.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Merkitse taitteet: punainen katkoviiva on laakso, sininen pistekatkoviiva on vuori. Huopakynä vain merkitylle puolelle, ei koskaan piirtopuikkoa."
+ },
+ "Mass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Massa"
+ },
+ "Mass balance weights": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Massatasapainopainot"
+ },
+ "Mass-balance each aileron with lead on an arm ahead of the hinge until it hangs level, before it goes on the aircraft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tasapainota jokainen siiveke lyijyllä saranan edessä olevassa varressa, kunnes se roikkuu vaakasuorassa, ennen kuin se asennetaan koneeseen."
+ },
+ "Mass-balance horn at outboard end.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Massatasapainosarvi ulkopäässä."
+ },
+ "Mean strength at or above the value used in design, scatter under 10 %.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Keskimääräinen lujuus vähintään suunnittelussa käytetty arvo, hajonta alle 10 %."
+ },
+ "Measure gravity flow from each tank, with the aircraft at its steepest climb attitude plus margin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mittaa painovoimavirtaus kustakin säiliöstä koneen ollessa jyrkimmässä nousuasennossaan plus marginaali."
+ },
+ "Measure twist under a known torque at the tip rib.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mittaa kiertymä tunnetulla momentilla kärkikylkiluussa."
+ },
+ "Measured climb, cruise and glide recorded against the predictions on the numbers tab.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mitattu nousu, matka ja liito kirjattuna lukujen välilehden ennusteita vastaan."
+ },
+ "Measured values replace estimates in aircraft.yaml, and the build manual is revised.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mitatut arvot korvaavat arviot tiedostossa aircraft.yaml, ja rakennusohjetta päivitetään."
+ },
+ "Member": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Osa"
+ },
+ "Method": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Menetelmä"
+ },
+ "Metric": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Metriset"
+ },
+ "Mid CG, calm air, long field, circuit height only, an experienced test pilot.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Keskipainopiste, tyyni ilma, pitkä kenttä, vain laskukierroskorkeus, kokenut koelentäjä."
+ },
+ "Month 10": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kuukausi 10"
+ },
+ "Month 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kuukausi 4"
+ },
+ "Month 5": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kuukausi 5"
+ },
+ "Months 2–3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kuukaudet 2–3"
+ },
+ "Months 6–9": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kuukaudet 6–9"
+ },
+ "Move the CG from forward to aft in steps, checking stick-free stability at each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siirrä painopistettä edestä taakse portaittain ja tarkista joka portaalla vakavuus sauva vapaana."
+ },
+ "Nicopress sleeve + thimble (1/8 in cable)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nicopress-holkki + kaussi (vaijeri 1/8 in)"
+ },
+ "Nicopress tool + cable cutter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nicopress-työkalu + vaijerileikkuri"
+ },
+ "No cracks, and springback within 2° of prediction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ei halkeamia, ja takaisinjousto 2°:n sisällä ennusteesta."
+ },
+ "No flutter or buzz up to {speed:Vne}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ei lepatusta eikä surinaa {speed:Vne}:hen asti."
+ },
+ "No permanent set after unloading. Deflection within 15 % of prediction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ei pysyvää muodonmuutosta kuorman poiston jälkeen. Taipuma 15 %:n sisällä ennusteesta."
+ },
+ "No permanent set at limit, no failure at ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ei pysyvää muodonmuutosta rajakuormalla, ei murtumaa murtokuormalla."
+ },
+ "No physical part has been cut. Fold one rib and one spar offcut first to check the bend deduction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yhtään fyysistä osaa ei ole vielä leikattu. Taivuta ensin kylkiluun ja salon hukkapala taivutusvähennyksen tarkistamiseksi."
+ },
+ "No yield at limit load, no failure at ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ei myötöä rajakuormalla, ei murtumaa murtokuormalla."
+ },
+ "Nose bowl, chin (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nokkakuppi, leuka (3 suppenevaa tahkoa)"
+ },
+ "Nose bowl, upper (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nokkakuppi, ylä (3 suppenevaa tahkoa)"
+ },
+ "Nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nokkakylkiluu"
+ },
+ "Nose rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nokkakylkiluu, tyvi/kärki"
+ },
+ "Nose ring (prop-shaft hole + two cooling inlets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nokkarengas (potkuriakselin reikä + kaksi jäähdytysilman ottoaukkoa)"
+ },
+ "Nose rolled over 75 mm tube": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nokka rullattu 75 mm:n putken yli"
+ },
+ "Nose zone is rolled over a 75 mm tube; aft creases are soft brake hits (2-6 deg).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nokka-alue rullataan 75 mm:n putken yli; takimmaiset taitteet ovat kevyitä kanttikoneen painalluksia (2-6 deg)."
+ },
+ "Not analysed yet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ei vielä analysoitu"
+ },
+ "Not proven": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ei todistettu"
+ },
+ "Notes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Huomiot"
+ },
+ "One 90 degree flange stiffens the free edge. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yksi 90 asteen laippa jäykistää vapaan reunan. Laminoitu: 2 sisäkkäistä 0.020 in kerrosta, taivutettu erikseen ja niitattu yhtenä; leikkaa 0.5 mm per sisäkerros laippojen reunoista."
+ },
+ "One hour of progressive ground running, with cylinder head and exhaust temperatures logged.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tunnin asteittainen maakäyttö, sylinterinkannen ja pakokaasun lämpötilat kirjataan."
+ },
+ "One-wrap skins, sharp trailing edges": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yhdellä kiedonnalla tehdyt pintalevyt, terävät jättöreunat"
+ },
+ "Open-source aircraft": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Avoimen lähdekoodin lentokone"
+ },
+ "Order as 12 ft strip. Lips turn the free flange edges into supported edges (k 0.43 -> ~4). Laminated: 3 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tilaa 12 ft:n liuskana. Huulet tekevät laippojen vapaista reunoista tuettuja (k 0.43 -> ~4). Laminoitu: 3 sisäkkäistä 0.020 in kerrosta, taivutettu erikseen ja niitattu yhtenä; leikkaa 0.5 mm per sisäkerros laippojen reunoista."
+ },
+ "Paint": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Maalaus"
+ },
+ "Paint, then weigh on three scales in the level attitude. Work out the empty CG and check every loading case falls inside the design range in DESIGN_REPORT.md (about 28–33 % MAC).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Maalaa, punnitse sitten kolmella vaa'alla vaaka-asennossa. Laske tyhjän painopiste ja tarkista, että jokainen kuormitustapaus on DESIGN_REPORT.md:n suunnittelualueella (noin 28–33 % MAC)."
+ },
+ "Panel: glare-shield fold 90°, side tabs 90°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taulu: häikäisysuojan taitto 90°, sivukielekkeet 90°"
+ },
+ "Parts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Osat"
+ },
+ "Pass when": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hyväksytty, kun"
+ },
+ "Performance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Suoritusarvot"
+ },
+ "Phases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vaiheet"
+ },
+ "Piano hinge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pianosarana"
+ },
+ "Piano hinge MS20001 + door latch": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pianosarana MS20001 + oven salpa"
+ },
+ "Pilot": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lentäjä"
+ },
+ "Pilot (95th pct, for scale)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lentäjä (95. persentiili, mittakaavaksi)"
+ },
+ "Pilot, fuel and baggage share one budget: maximum take-off mass minus empty mass. Both tanks are in the cabin, never in the wings: an 18 L header tank behind the firewall and a 20 L aux tank high behind the seat, both gravity-fed through one selector. A light pilot can fill both. A heavy pilot gets the header tank or less. Burn the aux tank first.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lentäjä, polttoaine ja matkatavarat jakavat yhden budjetin: suurin lentoonlähtömassa miinus tyhjäpaino. Molemmat säiliöt ovat ohjaamossa, ei koskaan siivissä: 18 L:n pääsäiliö palolaipion takana ja 20 L:n lisäsäiliö korkealla istuimen takana, molemmat painovoimalla yhden valitsimen kautta. Kevyt lentäjä voi täyttää molemmat. Painava lentäjä saa pääsäiliön tai vähemmän. Käytä lisäsäiliö ensin."
+ },
+ "Pitot tube (left wing, ahead of the LE)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pitot-putki (vasen siipi, johtoreunan edessä)"
+ },
+ "Pitot-static: pitot tube under the left wing at the 1.2 m rib. Run its line inside the wing ahead of the main spar to the root and down the A-pillar to the ASI. A static port on the left cabin side feeds the altimeter and ASI. Secure everything with Adel clamps every 300 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pitot-staattinen: pitot-putki vasemman siiven alla 1.2 m:n kylkiluun kohdalla. Vedä sen putki siiven sisällä pääsalon edestä tyveen ja A-pilaria alas ASI:hin. Ohjaamon vasemman kyljen staattinen aukko syöttää korkeusmittaria ja ASI:ta. Kiinnitä kaikki Adel-kiristimillä 300 mm:n välein."
+ },
+ "Planar: no forming, drill with plastic-cutting bits, slotted holes for expansion.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tasomainen: ei muovausta, poraa muoviterillä, soikeat reiät lämpölaajenemista varten."
+ },
+ "Plastic-cutting drill bits / step drill": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Muoviterät / porrasterä"
+ },
+ "Positive stability at the aft limit; predicted minimum static margin {pct:SM_min}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Positiivinen vakavuus takarajalla; ennustettu pienin staattinen marginaali {pct:SM_min}."
+ },
+ "Press or bolt a 4130 end fork into each tube end. Drill the AN5 pin hole after the final length check on the aircraft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Purista tai pulttaa 4130-päähaarukka jokaiseen putken päähän. Poraa AN5-tapin reikä vasta lopullisen pituustarkistuksen jälkeen koneessa."
+ },
+ "Prime the faying surfaces: Scotch-Brite, wash, etch or alodine, then epoxy primer. Wear gloves (Wanttaja: finger oils stop primer sticking).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pohjamaalaa liitospinnat: Scotch-Brite, pesu, peittaus tai alodine, sitten epoksipohjamaali. Käytä käsineitä (Wanttaja: sormien rasva estää pohjamaalin tarttumisen)."
+ },
+ "Primer part: two nested layers folded on the brake and riveted as one. Glue carpet on the web. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Johdanto-osa: kaksi sisäkkäistä kerrosta taivutettuna kanttikoneessa ja niitattuna yhtenä. Liimaa matto uumaan. Laminoitu: 2 sisäkkäistä 0.020 in kerrosta, taivutettu erikseen ja niitattu yhtenä; leikkaa 0.5 mm per sisäkerros laippojen reunoista."
+ },
+ "Primer: build the wing stands": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Johdanto: rakenna siipipukit"
+ },
+ "Proof-load the wing upside down with sandbags to +4 g limit load, spread spanwise. It must show no permanent set.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Koekuormita siipi ylösalaisin hiekkasäkeillä +4 g:n rajakuormaan, jaettuna jännevälille. Siinä ei saa näkyä pysyvää muodonmuutosta."
+ },
+ "Prop drive hub (flange)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Potkurin vetonapa (laippa)"
+ },
+ "Propeller 54 in wood + hub": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Puupotkuri 54 in + napa"
+ },
+ "Propeller 54 x 24 in, laminated wood (download the model)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Potkuri 54 x 24 in, laminoitu puu (lataa malli)"
+ },
+ "Propeller hub, 6": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Potkurin napa, 6"
+ },
+ "Publish": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Julkaise"
+ },
+ "Pull a complete strut with its clevises and tangs to ultimate tension, then buckle a second at −2 g with the jury strut fitted.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vedä kokonainen tukisauva haarukoineen ja korvineen murtovetoon, nurjahduta sitten toinen −2 g:ssä apusauva asennettuna."
+ },
+ "Push the AN5 root pins through. Fit castellated nuts and cotter pins.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Työnnä AN5-tyvitapit läpi. Asenna kruunumutterit ja sokat."
+ },
+ "Put in the aft soft creases first.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tee takimmaiset pehmeät taitteet ensin."
+ },
+ "Put in the soft creases with a light brake hit, or by hand over a straight-edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tee pehmeät taitteet kevyellä kanttikoneen painalluksella tai käsin suoran viivaimen yli."
+ },
+ "Qty": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Määrä"
+ },
+ "Qualification": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kelpuutus"
+ },
+ "Quarter-turn camlock (Dzus) + receptacle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Neljänneskierroksen lukko Camlock (Dzus) + vastakappale"
+ },
+ "RADIO instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "RADIO-mittari"
+ },
+ "Range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Toimintamatka"
+ },
+ "Ream the pin holes to 5/16 in and the bolt holes to 1/4 in and 3/16 in, through both ears at once so they line up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kalvaa tappireiät 5/16 in:iin ja pulttireiät 1/4 in:iin ja 3/16 in:iin, molempien korvien läpi kerralla, jotta ne ovat linjassa."
+ },
+ "Rear arch (rear-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Takakaari (takasalon kehys)"
+ },
+ "Rear lift strut x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Takatukisauva x2"
+ },
+ "Rear lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Takatukisauva x2: 6061-T6 1.75 x 0.065 in"
+ },
+ "Rear spar (lipped C, opens forward)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Takasalko (huulellinen C, avautuu eteenpäin)"
+ },
+ "Rear spar section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Takasalon osa"
+ },
+ "Rear spar: lipped C, two layers of 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Takasalko: huulellinen C, kaksi 0.020 in kerrosta"
+ },
+ "Reassemble on Clecos, then pull the rivets from the middle of each joint outward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kokoa uudelleen Clecoille, vedä sitten niitit kunkin liitoksen keskeltä ulospäin."
+ },
+ "Ribs, skin buckling, fittings, landing gear, tail loads, the engine mount and flutter. Mass-balance every control surface.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kylkiluut, pintalevyn lommahdus, helat, laskuteline, pyrstökuormat, moottoripukki ja lepatus. Tasapainota jokainen ohjainpinta."
+ },
+ "Right side: fixed window over the door opening. Left side: the same blank on a piano hinge at its front edge, with a latch at the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Oikea puoli: kiinteä ikkuna oviaukon päällä. Vasen puoli: sama aihio pianosaranalla etureunassa, salpa takana."
+ },
+ "Rivet joints": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Niittiliitokset"
+ },
+ "Rivet strength in thin sheet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Niittien lujuus ohuessa levyssä"
+ },
+ "Rivet the piano hinge to the spar top, then hang the surface on the rear spar.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Niittaa pianosarana salon yläpintaan, ripusta sitten pinta takasalkoon."
+ },
+ "Rivet: pull 1/8 in blind rivets, working from the middle of each row outwards and swapping clecos for rivets one at a time. A good rivet sits flat, with no gap under the head. Drill out any bad one with a #30 bit and try again: practise this on purpose at least once.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Niittaa: vedä 1/8 in vetoniitit kunkin rivin keskeltä ulospäin, vaihtaen Clecot niitteihin yksi kerrallaan. Hyvä niitti istuu tasaisesti ilman rakoa kannan alla. Poraa huono ulos #30-terällä ja yritä uudelleen: harjoittele tätä tarkoituksella ainakin kerran."
+ },
+ "Riveting loop, rivets from the main spar outward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Niittaussilmukka, niitit pääsalosta ulospäin."
+ },
+ "Riveting loop, then join the tailcone to the cabin at bulkhead 1.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Niittaussilmukka, liitä sitten pyrstökartio ohjaamoon laipion 1 kohdalla."
+ },
+ "Riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Niittaussilmukka."
+ },
+ "Riveting loop. The firewall takes stainless or Monel rivets: aluminium melts in a fire.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Niittaussilmukka. Palolaipioon tulee ruostumattomat tai Monel-niitit: alumiini sulaa tulipalossa."
+ },
+ "Riveting loop: final-drill #30, take apart, deburr, prime, Cleco, rivet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Niittaussilmukka: loppuporaus #30, purku, purseenpoisto, pohjamaali, Cleco, niittaus."
+ },
+ "Rivets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Niitit"
+ },
+ "Rivets to the rear-spar flanges. Closes the bay behind the centre-section rear spar.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Niitataan takasalon laippoihin. Sulkee keskiosan takasalon takaisen lokeron."
+ },
+ "Rod ends": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nivelpäät"
+ },
+ "Roll each skin's leading edge, then wrap it round its ribs and spar. Back-drill and use the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rullaa kunkin pintalevyn johtoreuna ja kiedo se kylkiluiden ja salon ympärille. Takaporaa ja käytä niittaussilmukkaa."
+ },
+ "Roll the eight saddle-clamp halves round a 45 mm bar, then bolt a pair round each strut at mid-length (2 x AN3 through the ears).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rullaa kahdeksan satulakiristimen puolikasta 45 mm:n tangon ympäri ja pulttaa pari kunkin tukisauvan ympärille puoliväliin (2 x AN3 korvien läpi)."
+ },
+ "Roll the green zone: lay the skin over a 75 mm tube and pull it round with a strap, a little at a time. Don't crease it.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rullaa vihreä alue: aseta pintalevy 75 mm:n putken päälle ja vedä sitä hihnalla ympäri vähän kerrallaan. Älä anna sen taittua."
+ },
+ "Root and tip ribs have their flanges facing into the panel.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tyvi- ja kärkikylkiluiden laipat osoittavat paneelin sisään."
+ },
+ "Rudder and elevator cables, 1 per cable, in the cabin where you can inspect them": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sivu- ja korkeusperäsimen vaijerit, 1 per vaijeri, ohjaamossa missä voit tarkastaa ne"
+ },
+ "Rudder cable x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sivuperäsimen vaijeri x2"
+ },
+ "Rudder cable x2: 1/8 in 7x19 galvanised": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sivuperäsimen vaijeri x2: 1/8 in 7x19 sinkitty"
+ },
+ "Rudder cables: pedal horn, then a pulley at the pedal, along the floor at y = ±200 mm through fairleads on both arch feet, a pulley at bulkhead 1, then one straight line each to the tail post. Because the tailcone is a frustum, a straight run between interior points never touches the skin, so no cable needs a mid-cone pulley.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sivuperäsimen vaijerit: polkimen sarvi, sitten väkipyörä polkimella, lattiaa pitkin kohdassa y = ±200 mm molempien kaarten jalkojen vaijeriohjainten läpi, väkipyörä laipiossa 1, sitten kumpikin yhtenä suorana linjana pyrstötolppaan. Koska pyrstökartio on katkaistu pyramidi, sisäpisteiden välinen suora ei koskaan kosketa pintalevyä, joten mikään vaijeri ei tarvitse väkipyörää kartion keskellä."
+ },
+ "Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sivuperäsimen sarvi, 4130 0.063in (tasainen, vaijeri kummallakin puolella)"
+ },
+ "Rudder pedals": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sivuperäsinpolkimet"
+ },
+ "Rudder skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sivuperäsimen pintalevy"
+ },
+ "Rudder spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sivuperäsimen salko"
+ },
+ "S-BM Stand beam (lipped C, saddle on top)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-BM Pukin palkki (huulellinen C, satula päällä)"
+ },
+ "S-FT Stand foot (lipped C, opens up)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-FT Pukin jalka (huulellinen C, avautuu ylöspäin)"
+ },
+ "S-GF Stand foot gusset (flat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-GF Pukin jalan nurkkalevy (tasainen)"
+ },
+ "S-GT Stand top gusset (flanged hypotenuse)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-GT Pukin ylänurkkalevy (laipallinen hypotenuusa)"
+ },
+ "S-LG Stand leg (lipped C)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-LG Pukin jalkatuki (huulellinen C)"
+ },
+ "SSDR means no airworthiness approval is required, so all the testing is yours to do.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "SSDR tarkoittaa, ettei lentokelpoisuushyväksyntää tarvita, joten kaikki kokeet ovat sinun tehtäviäsi."
+ },
+ "Saddle clamps: rolled half-shells": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Satulakiristimet: valssatut puolikuoret"
+ },
+ "Saddle-clamp ears (one also carries the jury-strut fork), 2 per clamp; Jury strut top, through the jury clevis": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Satulakiristimen korvat (yksi kantaa myös apusauvan haarukan), 2 per kiristin; apusauvan yläpää, haarukkansa läpi"
+ },
+ "Safety wire": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Varmistuslanka"
+ },
+ "Same blank both sides. 20 mm lap all round. Left one hangs on a piano hinge at its front edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sama aihio molemmilla puolilla. 20 mm:n limitys ympäriinsä. Vasen roikkuu pianosaranassa etureunastaan."
+ },
+ "Same blank for both flaps and both ailerons: modular-origami units.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sama aihio molemmille laipoille ja molemmille siivekkeille: modulaarisia origamiyksiköitä."
+ },
+ "Sandbags and tape measure (proof load)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hiekkasäkit ja mittanauha (koekuorma)"
+ },
+ "Sawtooth climbs, level speeds and glides.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sahalaitanousut, vaakalentonopeudet ja liidot."
+ },
+ "Scotch-Brite, etch/alodine, epoxy primer, spray kit, gloves": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Scotch-Brite, peittaus/alodine, epoksipohjamaali, ruiskutusvälineet, käsineet"
+ },
+ "Seat (pan + back, one sheet)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Istuin (istuinosa + selkänoja, yksi levy)"
+ },
+ "Seat cushion + 4-pt harness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Istuintyyny + 4-pistevaljaat"
+ },
+ "Select a row to see where that case sits.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Valitse rivi nähdäksesi, mihin se tapaus sijoittuu."
+ },
+ "Send the nest DXFs to a laser or waterjet service, or cut on a CNC router. Bolt holes come out 0.5 mm undersize; ream them later.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lähetä sijoittelu-DXF:t laser- tai vesileikkauspalveluun tai leikkaa CNC-jyrsimellä. Pulttireiät tulevat 0.5 mm alamittaisina; kalvaa ne myöhemmin."
+ },
+ "Set dihedral to 1.5° and wash-out to 0° with a digital level on the root and tip ribs. Then pin the struts on: AN5, castellated nut, cotter pin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aseta V-kulma 1.5°:een ja kierto 0°:een digitaalisella vesivaa'alla tyvi- ja kärkikylkiluissa. Kiinnitä sitten tukisauvat: AN5, kruunumutteri, sokka."
+ },
+ "Set the brake nose radius to 0.8 mm, about 1.6 times the 0.51 mm sheet (Table 5-2, 'normal' radius). Never tighter.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aseta kanttikoneen nokkasäde 0.8 mm:iin, noin 1.6 kertaa 0.51 mm:n levy (Table 5-2, 'normaali' säde). Ei koskaan tiukempaa."
+ },
+ "Set the travels: aileron +20/-15°, elevator +25/-20°, rudder ±25°, flaps 0/20°. Fit the stops.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aseta liikkeet: siiveke +20/-15°, korkeusperäsin +25/-20°, sivuperäsin ±25°, laipat 0/20°. Asenna rajoittimet."
+ },
+ "Sheet price": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Levyn hinta"
+ },
+ "Single-lap shear and pull-through on one and two layers of 0.51 mm sheet with 3.2 mm blind rivets, 10 of each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yksileikkeinen limiliitosleikkaus ja läpivetokoe yhdellä ja kahdella 0.51 mm:n levykerroksella 3.2 mm:n vetoniiteillä, 10 kutakin."
+ },
+ "Skin joints lap on a rib: the outboard skin goes under the inboard one.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pintalevyjen saumat limittyvät kylkiluun päällä: ulompi pintalevy menee sisemmän alle."
+ },
+ "Slide the C-spar in and Cleco it through the flanges. Riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Liu'uta C-salko paikalleen ja Clecoa se laippojen läpi. Niittaussilmukka."
+ },
+ "Soft creases 2–6°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pehmeät taitteet 2–6°"
+ },
+ "Source": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lähde"
+ },
+ "Span / area": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kärkiväli / pinta-ala"
+ },
+ "Spanners, sockets, inch-pound torque wrench": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kiintoavaimet, hylsyt, momenttiavain tuumapaunoissa"
+ },
+ "Spar strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Salon lujuus"
+ },
+ "Spar-root pins through tang pair + arch clevis": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Salon tyvitapit korvaparin + kaaren haarukan läpi"
+ },
+ "Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Salon tyvikorva, 4130 0.063in (tasainen, pareittain uuman molemmin puolin)"
+ },
+ "Spec": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Erittely"
+ },
+ "Speed envelope": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nopeusalue"
+ },
+ "Spinner": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kartio"
+ },
+ "Stabiliser nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vakaajan nokkakylkiluu"
+ },
+ "Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vakaajan tyvikylkiluut pyrstökartion sivuvahvikkeisiin, 4 per puoli; kölisalko pyrstötolppaan, 3"
+ },
+ "Stabiliser skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vakaajan pintalevy (yksi kiedonta)"
+ },
+ "Stabiliser spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vakaajan salko"
+ },
+ "Stability across the CG range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vakavuus koko painopistealueella"
+ },
+ "Stall speed and handling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sakkausnopeus ja ohjattavuus"
+ },
+ "Stall speeds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sakkausnopeudet"
+ },
+ "Stall, flaps 20°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sakkaus, laipat 20°"
+ },
+ "Stand beam (lipped C, saddle on top)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pukin palkki (huulellinen C, satula päällä)"
+ },
+ "Stand foot (lipped C, opens up)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pukin jalka (huulellinen C, avautuu ylöspäin)"
+ },
+ "Stand foot gusset (flat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pukin jalan nurkkalevy (tasainen)"
+ },
+ "Stand leg (lipped C)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pukin jalkatuki (huulellinen C)"
+ },
+ "Stand the arches and firewall on the floor tray, square and plumb. Their stations are 420 mm and 1008 mm aft of the wing LE, and the firewall is at -650 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nosta kaaret ja palolaipio lattiakaukalon päälle suoraan ja luotisuoraan. Niiden asemat ovat 420 mm ja 1008 mm siiven johtoreunan takana, ja palolaipio kohdassa -650 mm."
+ },
+ "Stand top gusset (flanged hypotenuse)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pukin ylänurkkalevy (laipallinen hypotenuusa)"
+ },
+ "Static load to the Section S forward, side and vertical limit loads, then ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Staattinen kuorma Section S:n eteen-, sivu- ja pystysuuntaisiin rajakuormiin, sitten murto."
+ },
+ "Static margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Staattinen marginaali"
+ },
+ "Static port": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Staattinen aukko"
+ },
+ "Status": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tila"
+ },
+ "Step": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vaihe"
+ },
+ "Stick pivot and torque-tube bearings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sauvan nivel ja vääntöputken laakerit"
+ },
+ "Straight tracking, effective brakes and rudder, no shimmy.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Suora kulku, tehokkaat jarrut ja peräsin, ei shimmyä."
+ },
+ "Stress": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Jännitys"
+ },
+ "String line, digital level, plumb bob": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Linjalanka, digitaalinen vesivaaka, luotilanka"
+ },
+ "String-line the spars and check the ribs are square to them. Measure diagonals across each bay; they should match within 1 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vedä linjalanka salkoja pitkin ja tarkista, että kylkiluut ovat niihin nähden suorassa kulmassa. Mittaa kunkin lokeron lävistäjät; niiden pitää täsmätä 1 mm:n sisällä."
+ },
+ "Structure": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rakenne"
+ },
+ "Strut and fitting strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tukisauvan ja helojen lujuus"
+ },
+ "Strut and fittings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tukisauva ja helat"
+ },
+ "Strut end fork (4130)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tukisauvan päähaarukka (4130)"
+ },
+ "Strut end forks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tukisauvojen päähaarukat"
+ },
+ "Strut ends, both ends of 4 struts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tukisauvojen päät, 4 sauvan molemmat päät"
+ },
+ "Strut fairings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tukisauvojen suojukset"
+ },
+ "Support each tip on a trestle at 1.5° dihedral until the struts are on.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tue kukin siivenkärki pukilla 1.5°:n V-kulmaan, kunnes tukisauvat ovat paikallaan."
+ },
+ "Systems fit-out": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Järjestelmien asennus"
+ },
+ "T-EK Elevator skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-EK Korkeusperäsimen pintalevy"
+ },
+ "T-ES Elevator spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-ES Korkeusperäsimen salko"
+ },
+ "T-FK Fin skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FK Kölin pintalevy (yksi kiedonta)"
+ },
+ "T-FR Fin nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FR Kölin nokkakylkiluu"
+ },
+ "T-FS Fin spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FS Kölisalko"
+ },
+ "T-HK Stabiliser skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HK Vakaajan pintalevy (yksi kiedonta)"
+ },
+ "T-HR Stabiliser nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HR Vakaajan nokkakylkiluu"
+ },
+ "T-HS Stabiliser spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HS Vakaajan salko"
+ },
+ "T-RK Rudder skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-RK Sivuperäsimen pintalevy"
+ },
+ "T-RS Rudder spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-RS Sivuperäsimen salko"
+ },
+ "TACH instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "TACH-mittari"
+ },
+ "Tail surfaces": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pyrstöpinnat"
+ },
+ "Tailcone belly, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pyrstökartion vatsa, osa 1"
+ },
+ "Tailcone belly, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pyrstökartion vatsa, osa 2"
+ },
+ "Tailcone bulkhead x=1150": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pyrstökartion laipio x=1150"
+ },
+ "Tailcone bulkhead x=1948": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pyrstökartion laipio x=1948"
+ },
+ "Tailcone bulkhead x=2745": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pyrstökartion laipio x=2745"
+ },
+ "Tailcone bulkhead x=3542": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pyrstökartion laipio x=3542"
+ },
+ "Tailcone bulkhead x=4340 (tail post)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pyrstökartion laipio x=4340 (pyrstötolppa)"
+ },
+ "Tailcone frustum": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pyrstökartio katkaistuna pyramidina"
+ },
+ "Tailcone side, section 1 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pyrstökartion kylki, osa 1 (x2, peilattu)"
+ },
+ "Tailcone side, section 2 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pyrstökartion kylki, osa 2 (x2, peilattu)"
+ },
+ "Tailcone top, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pyrstökartion yläpinta, osa 1"
+ },
+ "Tailcone top, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pyrstökartion yläpinta, osa 2"
+ },
+ "Tailwheel 8 in pneumatic": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kannuspyörä 8 in ilmarengas"
+ },
+ "Tailwheel assembly, 8 in pneumatic": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kannuspyöräyksikkö, 8 in ilmarengas"
+ },
+ "Tailwheel fork": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kannuspyörän haarukka"
+ },
+ "Tailwheel spring": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kannuspyörän jousi"
+ },
+ "Tailwheel spring (spring steel leaf)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kannuspyörän jousi (jousiteräksinen lehti)"
+ },
+ "Tailwheel spring to tail post, 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kannuspyörän jousi pyrstötolppaan, 2"
+ },
+ "Tailwheel spring to tail post, 2; Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kannuspyörän jousi pyrstötolppaan, 2; vakaajan tyvikylkiluut pyrstökartion sivuvahvikkeisiin, 4 per puoli; kölisalko pyrstötolppaan, 3"
+ },
+ "Tailwheel spring: spring-steel leaf 45 x 8 mm": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kannuspyörän jousi: jousiteräslehti 45 x 8 mm"
+ },
+ "Tailwheel steering spring": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kannuspyörän ohjausjousi"
+ },
+ "Tailwheel: a leaf spring, a steerable fork and two springs to the rudder.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kannuspyörä: lehtijousi, ohjattava haarukka ja kaksi jousta sivuperäsimeen."
+ },
+ "Take the skeleton apart. Deburr every hole on both faces.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pura runko. Purseenpoista jokainen reikä molemmilta puolilta."
+ },
+ "Take-off roll": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lentoonlähtökiito"
+ },
+ "Tank strap angle (L)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Säiliön hihnan kulmarauta (V)"
+ },
+ "Tank strap angle (R)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Säiliön hihnan kulmarauta (O)"
+ },
+ "Tap or shaker test for wing bending and torsion, aileron, elevator and rudder modes. Confirm the mass balance of every control surface.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Koputus- tai täristinkoe siiven taivutus- ja vääntömuodoille sekä siivekkeen, korkeus- ja sivuperäsimen muodoille. Varmista jokaisen ohjainpinnan massatasapaino."
+ },
+ "Taxi tests": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rullauskokeet"
+ },
+ "Taxi tests, then fast taxi with the tail up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rullauskokeet, sitten nopea rullaus pyrstö ylhäällä."
+ },
+ "Temperatures inside the engine maker's limits, static rpm 2,900–3,100, no abnormal vibration.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lämpötilat moottorivalmistajan rajoissa, paikallaankierrokset 2,900–3,100, ei poikkeavaa tärinää."
+ },
+ "Tension each cable with its turnbuckle in the cabin, where you can see it, then safety-wire it. Nicopress every end over a thimble.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kiristä kukin vaijeri sen vanttiruuvilla ohjaamossa, jossa näet sen, ja varmista sitten langalla. Purista jokainen pää Nicopressillä kaussin yli."
+ },
+ "Test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Koe"
+ },
+ "Test budget": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Koebudjetti"
+ },
+ "Test programme": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Koeohjelma"
+ },
+ "Test reports": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Koeraportit"
+ },
+ "Tests": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kokeet"
+ },
+ "The aircraft is code: one file, aircraft.yaml, generates every part, file and figure on this page.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lentokone on koodia: yksi tiedosto, aircraft.yaml, tuottaa jokaisen osan, tiedoston ja luvun tällä sivulla."
+ },
+ "The arches sit at the spar stations, so the wing and strut loads go straight into two folded frames.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kaaret ovat salkojen asemilla, joten siipi- ja tukisauvakuormat menevät suoraan kahteen taivutettuun kehykseen."
+ },
+ "The cowl and nose bowl are flat blanks too: a box-pleated hood and a frustum, with straight creases throughout.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Konepelti ja nokkakuppi ovat myös tasaisia aihioita: laatikkolaskoksinen kansi ja katkaistu pyramidi, suorat taitteet kauttaaltaan."
+ },
+ "The dot is the loading case selected in the table. The shaded band is the full CG range across all cases. The orange line is the neutral point: the CG must stay ahead of it, and the dashed gap between them is the static margin, the aircraft's pitch stability.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Piste on taulukosta valittu kuormitustapaus. Varjostettu kaista on koko painopistealue kaikissa tapauksissa. Oranssi viiva on neutraalipiste: painopisteen on pysyttävä sen edessä, ja katkoviivainen väli niiden välillä on staattinen marginaali, koneen pituusvakavuus."
+ },
+ "The fold geometry. Every panel in the 3D model is produced by refolding the DXF flat pattern, and the rib-to-spar pilot holes are coordinated between parts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taittogeometria. Jokainen 3D-mallin paneeli tuotetaan taittamalla DXF-levitys uudelleen, ja kylkiluun ja salon ohjausreiät on yhteensovitettu osien välillä."
+ },
+ "The laminate acting as one section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laminaatti toimii yhtenä poikkileikkauksena"
+ },
+ "The lips are what let thin laminated sheet act as a spar. Without them a free cap edge buckles at about 26 MPa. With them the cap reaches yield before it buckles.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Huulet antavat ohuen laminoidun levyn toimia salkona. Ilman niitä vapaa laipan reuna lommahtaa noin 26 MPa:ssa. Niiden kanssa laippa saavuttaa myötörajan ennen lommahtamista."
+ },
+ "The local-price estimate takes UK VAT off the UK price, converts it at the day's exchange rate, takes about 20 % off US-made hardware, sheet and the engine kit when buying in the US, then adds the country's typical standard VAT, GST or sales tax. It leaves out import duty and shipping. Treat these as rough guides, not quotes.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Paikallinen hinta-arvio vähentää Ison-Britannian arvonlisäveron brittihinnasta, muuntaa päivän kurssilla, vähentää noin 20 % Yhdysvalloissa valmistetuista pientarvikkeista, levyistä ja moottorisarjasta Yhdysvalloista ostettaessa, ja lisää sitten maan tavanomaisen yleisen arvonlisäveron, GST:n tai myyntiveron. Tullit ja rahti eivät sisälly. Pidä tätä karkeana ohjeena, ei tarjouksena."
+ },
+ "The numbers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Luvut"
+ },
+ "The pilot sits under the wing between the two arches. Header fuel is ahead of the CG and aux fuel is behind it. The aftmost case is a light pilot with empty tanks and baggage, which gives the minimum static margin:": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lentäjä istuu siiven alla kahden kaaren välissä. Pääsäiliön polttoaine on painopisteen edessä ja lisäsäiliön takana. Takimmainen tapaus on kevyt lentäjä tyhjin säiliöin ja matkatavaroin, mikä antaa pienimmän staattisen marginaalin:"
+ },
+ "The rolled nose and the main spar together form a closed D-cell, which carries the wing's twisting loads.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rullattu nokka ja pääsalko muodostavat yhdessä suljetun D-kotelon, joka kantaa siiven vääntökuormat."
+ },
+ "The skins carry no holes of their own. Drilling them from the structure means the holes can't be misaligned.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pintalevyissä ei ole omia reikiä. Kun ne porataan rakenteesta, reiät eivät voi mennä vinoon."
+ },
+ "The stabiliser and fin use one wrapped skin each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vakaajassa ja kölissä on kummassakin yksi kiedottu pintalevy."
+ },
+ "This is the sequence for every riveted joint from here on: Cleco, final-drill, take apart, deburr, prime, reassemble, rivet. Later steps call it the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tästä eteenpäin tämä on järjestys jokaiselle niittiliitokselle: Cleco, loppuporaus, purku, purseenpoisto, pohjamaali, uudelleenkokoonpano, niittaus. Myöhemmät vaiheet kutsuvat tätä niittaussilmukaksi."
+ },
+ "Three platform scales": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kolme tasovaakaa"
+ },
+ "Three platform scales in the level attitude.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kolme tasovaakaa vaaka-asennossa."
+ },
+ "Through tang pair + spar web at each spar root, 4 per pair": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Korvaparin + salkouuman läpi kunkin salon tyvessä, 4 per pari"
+ },
+ "Tools": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Työkalut"
+ },
+ "Top flange = longeron": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yläreunan laippa = pitkittäispalkki"
+ },
+ "Top flange is the longeron: the fold is the stiffener. Openings have 50 mm corner radii (no square corners).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yläreunan laippa on pitkittäispalkki: taite on jäykiste. Aukoissa 50 mm:n kulmasäteet (ei teräviä kulmia)."
+ },
+ "Torsional stiffness recorded; it feeds the flutter estimate in phase D.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vääntöjäykkyys kirjattu; se syöttää vaiheen D lepatusarviota."
+ },
+ "Total": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yhteensä"
+ },
+ "Tube cutter, hacksaw, drill press": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Putkileikkuri, rautasaha, pylväsporakone"
+ },
+ "Tube, bar and cable": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Putki, lattatanko ja vaijeri"
+ },
+ "Turn it back over. On its three wheels it should sit about 9–11° nose-up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Käännä takaisin. Kolmella pyörällään sen pitäisi olla noin 9–11° nokka ylhäällä."
+ },
+ "Turn the fuselage upside down on padded trestles.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Käännä runko ylösalaisin pehmustettujen pukkien päälle."
+ },
+ "Turn the skeleton upside down. Lay bay 1's skin on it, located at the root rib, with the edge 3 mm short of the rear-spar flange edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Käännä runko ylösalaisin. Aseta lokeron 1 pintalevy sen päälle tyvikylkiluun kohdalle, reuna 3 mm ennen takasalon laipan reunaa."
+ },
+ "Turn the wing upright. Wrap the skin from the trailing-edge shroud, over the nose, and under to lap the lower skin at 8 % chord.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Käännä siipi oikein päin. Kiedo pintalevy jättöreunan suojuksesta nokan yli ja alle, kunnes se limittyy alapintalevyn kanssa 8 %:n jänteen kohdalla."
+ },
+ "Turnbuckle AN130 class + safety wire": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vanttiruuvi luokka AN130 + varmistuslanka"
+ },
+ "Two halves round the 1.75 in strut tube; the ear bolts also carry the jury-strut end.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kaksi puolikasta 1.75 in tukisauvaputken ympärillä; korvien pultit kantavat myös apusauvan pään."
+ },
+ "Two hat pleats (step-folds) are the floor stiffeners; no separate stringers. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kaksi hattulaskosta (porrastaitteet) ovat lattian jäykisteet; ei erillisiä pitkittäisjäykisteitä. Laminoitu: 2 sisäkkäistä 0.020 in kerrosta, taivutettu erikseen ja niitattu yhtenä; leikkaa 0.5 mm per sisäkerros laippojen reunoista."
+ },
+ "Two plates sandwich each rod end; AN4 pivot, AN3 at each arm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kaksi levyä puristaa kunkin nivelpään väliinsä; AN4-akseli, AN3 kussakin varressa."
+ },
+ "UK retail prices (inc. 20 % VAT) converted to {currency}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brittiläiset vähittäishinnat (sis. 20 % ALV) muunnettuna valuuttaan {currency}."
+ },
+ "UK retail prices, including 20 % VAT.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Brittiläiset vähittäishinnat, sisältäen 20 % ALV:n."
+ },
+ "Ultimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Murto"
+ },
+ "Ultimate load (×1.5). Colour is the worse of cap stress against its crippling allowable and web shear against buckling. Beam theory along the span, not a finite-element analysis. Grey parts are not analysed yet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Murtokuorma (×1.5). Väri näyttää huonomman kahdesta: laipan jännitys suhteessa paikallisen lommahduksen sallittuun arvoon ja uuman leikkausjännitys suhteessa lommahdukseen. Palkkiteoria kärkivälin suunnassa, ei elementtimenetelmäanalyysi. Harmaita osia ei ole vielä analysoitu."
+ },
+ "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Negatiivisella g:llä tukisauvat ovat puristuksessa. Apusauvat puolittavat niiden tukemattoman pituuden, mikä nelinkertaistaa nurjahduskuorman."
+ },
+ "Undercarriage": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laskuteline"
+ },
+ "Units": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yksiköt"
+ },
+ "Unknowns for the next builder": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tuntemattomat seuraavalle rakentajalle"
+ },
+ "Upper cowl (hood, two 90 deg folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ylempi konepelti (kansi, kaksi 90 deg taittoa)"
+ },
+ "Upper skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yläpintalevy, lokero 1"
+ },
+ "Upper skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yläpintalevy, lokero 2"
+ },
+ "Upper skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yläpintalevy, lokero 3"
+ },
+ "Upper skins: roll the nose": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yläpintalevyt: rullaa nokka"
+ },
+ "V-bead pleats + one 165° trailing-edge fold": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "V-urat + yksi 165° jättöreunan taitto"
+ },
+ "VHF antenna whip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "VHF-piiska-antenni"
+ },
+ "W-CL Cabin roof (centre lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CL Ohjaamon katto (keskimmäinen alapintalevy)"
+ },
+ "W-CS Aileron / flap skin (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CS Siivekkeen / laipan pintalevy (identtinen x4)"
+ },
+ "W-CSS Aileron / flap spar (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CSS Siivekkeen / laipan salko (identtinen x4)"
+ },
+ "W-CT Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CT Keskiosan jättöreunan suojus (kiinteä, laippojen välissä)"
+ },
+ "W-CU Centre-section upper skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CU Keskiosan yläpintalevy"
+ },
+ "W-MR Main rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MR Pääkylkiluu"
+ },
+ "W-MRe Main rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MRe Pääkylkiluu, tyvi/kärki"
+ },
+ "W-MS Main spar (lipped C, opens aft)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MS Pääsalko (huulellinen C, avautuu taaksepäin)"
+ },
+ "W-NR Nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-NR Nokkakylkiluu"
+ },
+ "W-NRe Nose rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-NRe Nokkakylkiluu, tyvi/kärki"
+ },
+ "W-RS Rear spar (lipped C, opens forward)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-RS Takasalko (huulellinen C, avautuu eteenpäin)"
+ },
+ "W-SL1 Lower skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL1 Alapintalevy, lokero 1"
+ },
+ "W-SL2 Lower skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL2 Alapintalevy, lokero 2"
+ },
+ "W-SL3 Lower skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL3 Alapintalevy, lokero 3"
+ },
+ "W-SU1 Upper skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU1 Yläpintalevy, lokero 1"
+ },
+ "W-SU2 Upper skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU2 Yläpintalevy, lokero 2"
+ },
+ "W-SU3 Upper skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU3 Yläpintalevy, lokero 3"
+ },
+ "Weeks 1–4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Viikot 1–4"
+ },
+ "Weigh and balance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Punnitus ja tasapaino"
+ },
+ "Weigh, test, fly-off": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Punnitse, kokeile, lennä hyväksyntälento"
+ },
+ "Weight, not tank size, sets the range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Paino, ei säiliön koko, ratkaisee toimintamatkan"
+ },
+ "What is known, and what is not": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mitä tiedetään ja mitä ei"
+ },
+ "What it costs": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mitä se maksaa"
+ },
+ "Wheel hub": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pyörän napa"
+ },
+ "Wheels, 21 x 8.00-6 tundra tyres, drum brakes x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pyörät, tundrarenkaat 21 x 8.00-6, rumpujarrut x2"
+ },
+ "Where it goes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mihin se tulee"
+ },
+ "Where the balance point sits": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Missä painopiste on"
+ },
+ "Whole aircraft": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Koko lentokone"
+ },
+ "Whole-wing strength and stiffness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Koko siiven lujuus ja jäykkyys"
+ },
+ "Why start here: the four stands use every skill the aircraft needs, on parts that don't fly. Get it wrong here, not on a spar. You need the stands anyway: the wings are built and parked on them until step 15.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Miksi aloittaa tästä: neljä pukkia vaativat jokaista taitoa, jota lentokone tarvitsee, osissa jotka eivät lennä. Tee virheet tässä, älä salossa. Pukit tarvitset joka tapauksessa: siivet rakennetaan ja säilytetään niiden päällä vaiheeseen 15 asti."
+ },
+ "Will it fly well?": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lentääkö se hyvin?"
+ },
+ "Windscreen (cold-bent flat polycarbonate)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tuulilasi (kylmätaivutettu tasainen polykarbonaatti)"
+ },
+ "Windscreen, door and side windows": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tuulilasi, ovi ja sivuikkunat"
+ },
+ "Windscreen, side windows, door": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tuulilasi, sivuikkunat, ovi"
+ },
+ "Windscreen: flat sheet, bedded on foam tape on the firewall and windscreen flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tuulilasi: tasainen levy, asetettu vaahtomuoviteipille palolaipion ja tuulilasin laippoihin."
+ },
+ "Wing and airframe": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siipi ja runko"
+ },
+ "Wing lift uses a Schrenk distribution, with each wing pinned at the cabin arch and a V-strut at the 2.4 m rib. Gust loads are below the manoeuvre case. Laminated spars are checked as one section, which assumes rivet pitch close enough to stop the layers buckling separately.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siiven nostovoima noudattaa Schrenk-jakaumaa, kukin siipi nivelöity ohjaamon kaareen ja V-tukisauvalla 2.4 m:n kylkiluun kohdalla. Puuskakuormat ovat liikehtimistapausta pienemmät. Laminoidut salot tarkastetaan yhtenä poikkileikkauksena, mikä edellyttää niin tiheää niittijakoa, etteivät kerrokset lommahda erikseen."
+ },
+ "Wing loading": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siipikuormitus"
+ },
+ "Wing proof load": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siiven koekuorma"
+ },
+ "Wing stands (step 0)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siipipukit (vaihe 0)"
+ },
+ "Wing torsion": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siiven vääntö"
+ },
+ "Wings on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Siivet paikallaan"
+ },
+ "With X-ray on, every run is colour-coded: orange rudder, cyan elevator, purple aileron, green flap, red fuel, white pitot, grey static, yellow 12 V, pink coax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Röntgen päällä jokainen reititys on värikoodattu: oranssi sivuperäsin, syaani korkeusperäsin, violetti siiveke, vihreä laippa, punainen polttoaine, valkoinen pitot, harmaa staattinen, keltainen 12 V, vaaleanpunainen koaksiaali."
+ },
+ "With a helper at the tip, lift each wing until its root tangs slide into the arch-top clevises.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Avustaja kärjessä, nosta kumpaakin siipeä, kunnes tyvikorvat liukuvat kaaren huipun haarukoihin."
+ },
+ "Write the part number on every blank. Keep the blanks in step order.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kirjoita osanumero jokaiseen aihioon. Säilytä aihiot vaihejärjestyksessä."
+ },
+ "X-ray": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Röntgen"
+ },
+ "Yes, as a slow, gentle, lightly loaded single-seater: a strut-braced high wing, a half-VW engine and a tailwheel on big soft tyres. It is heavier than a typical ultralight because every aluminium part is cut from one gauge, with thicker parts made as nested folds of the same sheet. That puts it in UK SSDR (300 kg) rather than US Part 103. Every figure here comes from the same script that generates the cut files.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kyllä, hitaana, lempeänä ja kevyesti kuormitettuna yksipaikkaisena: tuettu yläsiipi, half-VW-moottori ja kannuspyörä isoilla pehmeillä renkailla. Se on tavallista ultrakevyttä raskaampi, koska jokainen alumiiniosa leikataan yhdestä levypaksuudesta ja paksummat osat tehdään saman levyn sisäkkäisinä taitteina. Siksi se kuuluu brittiläiseen SSDR-luokkaan (300 kg) eikä yhdysvaltalaiseen Part 103 -luokkaan. Jokainen luku tässä tulee samasta skriptistä, joka tuottaa leikkaustiedostot."
+ },
+ "arch-foot bellcrank up the rear-arch leg to the arch-top bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "kaaren jalan kulmavipu takakaaren jalkaa ylös kaaren huipun kulmavipuun"
+ },
+ "arch-top bellcrank to outboard bellcrank, through rib lightening holes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "kaaren huipun kulmavipu uloimpaan kulmavipuun, kylkiluiden keventämisreikien läpi"
+ },
+ "aux": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "lisä"
+ },
+ "blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "aihiot"
+ },
+ "blanks in all": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "aihioita yhteensä"
+ },
+ "bolts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "pultit"
+ },
+ "bought or welded": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ostettu tai hitsattu"
+ },
+ "buckling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "nurjahdus"
+ },
+ "centre torque-tube arm to flap bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "keskimmäinen vääntöputken varsi laipan kulmavipuun"
+ },
+ "check, then commit": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "tarkista, sitten vahvista"
+ },
+ "clean": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "puhdas"
+ },
+ "close up": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "sulje"
+ },
+ "crease pattern": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "taittokuvio"
+ },
+ "crippling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "paikallinen lommahdus"
+ },
+ "each with a pass criterion": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "kullakin hyväksymiskriteeri"
+ },
+ "fabricated or bought for half-VW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "valmistettu tai ostettu half-VW:hen"
+ },
+ "faying surfaces and interior": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "liitospinnat ja sisäpuoli"
+ },
+ "finished": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "valmis"
+ },
+ "flat blanks, one sheet gauge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "tasaiset aihiot, yksi levyn paksuus"
+ },
+ "fold the same way": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "taita samalla tavalla"
+ },
+ "fold to the marks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "taita merkkeihin"
+ },
+ "fuel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "polttoaine"
+ },
+ "give it roundness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "anna sille pyöreyttä"
+ },
+ "gravity feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "painovoimasyöttö"
+ },
+ "gust": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "puuska"
+ },
+ "hard": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "kova"
+ },
+ "header": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "pää"
+ },
+ "header full": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "pää täynnä"
+ },
+ "header tank + aux tank, both in the cabin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "pääsäiliö + lisäsäiliö, molemmat ohjaamossa"
+ },
+ "includes 15 % spares": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "sisältää 15 % varaosia"
+ },
+ "insert: the lock": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "aseta: lukitus"
+ },
+ "laminated wood, CC0 model": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "laminoitu puu, CC0-malli"
+ },
+ "light braking": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "kevyt jarrutus"
+ },
+ "make soft creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "tee pehmeät taitteet"
+ },
+ "materials and hire, rough": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "materiaalit ja vuokra, karkeasti"
+ },
+ "max take-off mass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "suurin lentoonlähtömassa"
+ },
+ "mountain": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "vuori"
+ },
+ "mountain and valley folds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "vuori- ja laaksotaitteet"
+ },
+ "neutral point": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "neutraalipiste"
+ },
+ "no reserve": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ei varaa"
+ },
+ "no sheet blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ei levyaihioita"
+ },
+ "none: over MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ei mitään: yli MTOW:n"
+ },
+ "one 8 x 4 ft sheet of 6061-T6 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "yksi 8 x 4 ft levy 6061-T6:ta, 0.020 in"
+ },
+ "open out": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "avaa"
+ },
+ "or a club CNC router": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "tai kerhon CNC-jyrsin"
+ },
+ "part-time, alongside the build": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "osa-aikaisesti, rakentamisen ohessa"
+ },
+ "pilot": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "lentäjä"
+ },
+ "pilot hole": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ohjausreikä"
+ },
+ "pin-to-pin; AN5 each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "tapista tappiin; AN5 kummassakin päässä"
+ },
+ "pleat": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "laskos"
+ },
+ "practice piece": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "harjoituskappale"
+ },
+ "public domain": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "vapaa käyttöoikeus"
+ },
+ "radio optional in SSDR": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "radio vapaaehtoinen SSDR:ssä"
+ },
+ "reference points": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "vertailupisteet"
+ },
+ "right angle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "suora kulma"
+ },
+ "rivets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "niitit"
+ },
+ "rolled zone": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "rullattu alue"
+ },
+ "rough build cost": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "karkea rakennuskustannus"
+ },
+ "same angle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "sama kulma"
+ },
+ "same angle: converging creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "sama kulma: suppenevat taitteet"
+ },
+ "same length": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "sama pituus"
+ },
+ "short grass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "lyhyt nurmi"
+ },
+ "static margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "staattinen marginaali"
+ },
+ "still air, 75 % power": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "tyyni ilma, 75 % teho"
+ },
+ "subtotal": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "välisumma"
+ },
+ "tool, reused": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "työkalu, uudelleenkäytetty"
+ },
+ "torque-tube arm to arch-foot bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "vääntöputken varsi kaaren jalan kulmavipuun"
+ },
+ "tundra tyres at 10–12 psi, 8 in tailwheel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "tundrarenkaat 10–12 psi, kannuspyörä 8 in"
+ },
+ "turn it over": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "käännä"
+ },
+ "unique": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ainutkertaiset"
+ },
+ "unique blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ainutkertaiset aihiot"
+ },
+ "useful load": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "hyötykuorma"
+ },
+ "valley": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "laakso"
+ },
+ "via floor pulley + 3 fairleads; Nicopress + thimble each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "lattiaväkipyörän + 3 vaijeriohjaimen kautta; Nicopress + kaussi kummassakin päässä"
+ },
+ "via pulley at bulkhead 1 + 3 fairleads; turnbuckle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "laipion 1 väkipyörän + 3 vaijeriohjaimen kautta; vanttiruuvi"
+ },
+ "wingspan": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "kärkiväli"
+ },
+ "{w} x {h} mm flat, {f} folds, {p} pilot holes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "{w} x {h} mm tasona, {f} taitetta, {p} ohjausreikää"
+ }
+}

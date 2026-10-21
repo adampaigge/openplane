@@ -1,0 +1,169 @@
+Category,Item,Spec,Qty,Unit,Build step,Notes
+Folded blanks,"W-MS Main spar (lipped C, opens aft)",6061-T6 0.020in,6,blanks,2,"309 x 3600 mm flat, 4 folds, 284 pilot holes; 2 parts x 3 laminated layers"
+Folded blanks,"W-RS Rear spar (lipped C, opens forward)",6061-T6 0.020in,4,blanks,2,"220 x 3600 mm flat, 4 folds, 206 pilot holes; 2 parts x 2 laminated layers"
+Folded blanks,W-NR Nose rib,6061-T6 0.020in,22,blanks,3,"373 x 423 mm flat, 19 folds, 23 pilot holes"
+Folded blanks,W-MR Main rib,6061-T6 0.020in,22,blanks,3,"638 x 233 mm flat, 7 folds, 31 pilot holes"
+Folded blanks,"W-NRe Nose rib, root/tip",6061-T6 0.020in,4,blanks,3,"373 x 423 mm flat, 19 folds, 23 pilot holes"
+Folded blanks,"W-MRe Main rib, root/tip",6061-T6 0.020in,4,blanks,3,"638 x 233 mm flat, 7 folds, 31 pilot holes"
+Folded blanks,"W-SL1 Lower skin, bay 1",6061-T6 0.020in,2,blanks,5,"899 x 1200 mm flat, 3 folds, 0 pilot holes"
+Folded blanks,"W-SU1 Upper skin, bay 1",6061-T6 0.020in,2,blanks,6,"1264 x 1200 mm flat, 20 folds, 0 pilot holes"
+Folded blanks,"W-SL2 Lower skin, bay 2",6061-T6 0.020in,2,blanks,5,"899 x 1200 mm flat, 3 folds, 0 pilot holes"
+Folded blanks,"W-SU2 Upper skin, bay 2",6061-T6 0.020in,2,blanks,6,"1264 x 1200 mm flat, 20 folds, 0 pilot holes"
+Folded blanks,"W-SL3 Lower skin, bay 3",6061-T6 0.020in,2,blanks,5,"899 x 1200 mm flat, 3 folds, 0 pilot holes"
+Folded blanks,"W-SU3 Upper skin, bay 3",6061-T6 0.020in,2,blanks,6,"1264 x 1200 mm flat, 20 folds, 0 pilot holes"
+Folded blanks,W-CSS Aileron / flap spar (identical x4),6061-T6 0.020in,8,blanks,7,"175 x 1790 mm flat, 2 folds, 90 pilot holes; 4 parts x 2 laminated layers"
+Folded blanks,W-CS Aileron / flap skin (identical x4),6061-T6 0.020in,4,blanks,7,"761 x 1790 mm flat, 7 folds, 0 pilot holes"
+Folded blanks,F-FL Floor tray with two hat pleats,6061-T6 0.020in,2,blanks,8,"874 x 1800 mm flat, 12 folds, 90 pilot holes; 1 parts x 2 laminated layers"
+Folded blanks,F-FW Firewall,Stainless 304 0.5 mm,1,blanks,8,"738 x 728 mm flat, 6 folds, 64 pilot holes"
+Folded blanks,F-FA Front arch (main-spar frame),6061-T6 0.020in,2,blanks,8,"889 x 738 mm flat, 6 folds, 113 pilot holes; 1 parts x 2 laminated layers"
+Folded blanks,F-RA Rear arch (rear-spar frame),6061-T6 0.020in,2,blanks,8,"889 x 738 mm flat, 6 folds, 113 pilot holes; 1 parts x 2 laminated layers"
+Folded blanks,"F-SD Cabin side (x2, mirrored): door/window opening + front window",6061-T6 0.020in,2,blanks,9,"1808 x 934 mm flat, 2 folds, 46 pilot holes"
+Folded blanks,"F-ST Seat (pan + back, one sheet)",6061-T6 0.020in,1,blanks,9,"865 x 500 mm flat, 2 folds, 0 pilot holes"
+Folded blanks,"F-TT1 Tailcone top, section 1",6061-T6 0.020in,1,blanks,10,"747 x 1610 mm flat, 2 folds, 70 pilot holes"
+Folded blanks,"F-TS1 Tailcone side, section 1 (x2, mirrored)",6061-T6 0.020in,2,blanks,10,"910 x 1602 mm flat, 0 folds, 0 pilot holes"
+Folded blanks,"F-TB1 Tailcone belly, section 1",6061-T6 0.020in,1,blanks,10,"812 x 1628 mm flat, 4 folds, 70 pilot holes"
+Folded blanks,"F-TT2 Tailcone top, section 2",6061-T6 0.020in,1,blanks,10,"446 x 1610 mm flat, 2 folds, 70 pilot holes"
+Folded blanks,"F-TS2 Tailcone side, section 2 (x2, mirrored)",6061-T6 0.020in,2,blanks,10,"519 x 1602 mm flat, 0 folds, 0 pilot holes"
+Folded blanks,"F-TB2 Tailcone belly, section 2",6061-T6 0.020in,1,blanks,10,"483 x 1622 mm flat, 4 folds, 70 pilot holes"
+Folded blanks,F-B1 Tailcone bulkhead x=1150,6061-T6 0.020in,2,blanks,10,"733 x 1023 mm flat, 6 folds, 78 pilot holes; 1 parts x 2 laminated layers"
+Folded blanks,F-B2 Tailcone bulkhead x=1948,6061-T6 0.020in,1,blanks,10,"583 x 810 mm flat, 6 folds, 61 pilot holes"
+Folded blanks,F-B3 Tailcone bulkhead x=2745,6061-T6 0.020in,1,blanks,10,"432 x 598 mm flat, 6 folds, 42 pilot holes"
+Folded blanks,F-B4 Tailcone bulkhead x=3542,6061-T6 0.020in,1,blanks,10,"282 x 385 mm flat, 6 folds, 25 pilot holes"
+Folded blanks,F-B5 Tailcone bulkhead x=4340 (tail post),6061-T6 0.020in,2,blanks,10,"132 x 173 mm flat, 6 folds, 9 pilot holes; 1 parts x 2 laminated layers"
+Folded blanks,T-HK Stabiliser skin (one wrap),6061-T6 0.020in,2,blanks,11,"1102 x 1190 mm flat, 21 folds, 0 pilot holes"
+Folded blanks,T-HS Stabiliser spar,6061-T6 0.020in,4,blanks,11,"119 x 1190 mm flat, 2 folds, 60 pilot holes; 2 parts x 2 laminated layers"
+Folded blanks,T-HR Stabiliser nose rib,6061-T6 0.020in,6,blanks,11,"567 x 122 mm flat, 23 folds, 27 pilot holes"
+Folded blanks,T-EK Elevator skin,6061-T6 0.020in,2,blanks,11,"703 x 1100 mm flat, 7 folds, 0 pilot holes"
+Folded blanks,T-ES Elevator spar,6061-T6 0.020in,2,blanks,11,"128 x 1100 mm flat, 2 folds, 54 pilot holes"
+Folded blanks,T-FK Fin skin (one wrap),6061-T6 0.020in,1,blanks,11,"1062 x 1060 mm flat, 21 folds, 0 pilot holes"
+Folded blanks,T-FS Fin spar,6061-T6 0.020in,2,blanks,11,"124 x 1060 mm flat, 2 folds, 52 pilot holes; 1 parts x 2 laminated layers"
+Folded blanks,T-FR Fin nose rib,6061-T6 0.020in,3,blanks,11,"547 x 123 mm flat, 23 folds, 25 pilot holes"
+Folded blanks,T-RK Rudder skin,6061-T6 0.020in,1,blanks,11,"782 x 1239 mm flat, 7 folds, 0 pilot holes"
+Folded blanks,T-RS Rudder spar,6061-T6 0.020in,1,blanks,11,"134 x 1239 mm flat, 2 folds, 62 pilot holes"
+Folded blanks,"F-CU Upper cowl (hood, two 90 deg folds)",6061-T6 0.020in,1,blanks,14,"1298 x 510 mm flat, 2 folds, 0 pilot holes"
+Folded blanks,F-CL Lower cowl (box-pleat pan to the cabin floor line),6061-T6 0.020in,1,blanks,14,"1385 x 510 mm flat, 4 folds, 0 pilot holes"
+Folded blanks,"F-NU Nose bowl, upper (3 converging facets)",6061-T6 0.020in,1,blanks,14,"1292 x 533 mm flat, 2 folds, 0 pilot holes"
+Folded blanks,"F-NL Nose bowl, chin (3 converging facets)",6061-T6 0.020in,1,blanks,14,"719 x 355 mm flat, 2 folds, 0 pilot holes"
+Folded blanks,F-NF Nose ring (prop-shaft hole + two cooling inlets),6061-T6 0.020in,1,blanks,14,"361 x 356 mm flat, 6 folds, 34 pilot holes"
+4130 fittings,"K-CV Clevis, 4130 0.063in (U, two folds)",4130 steel 0.063in,26,blanks,12,"123 x 60 mm flat, 2 folds, 0 pilot holes"
+4130 fittings,"K-TG Spar-root tang, 4130 0.063in (flat, pairs either side of web)",4130 steel 0.063in,8,blanks,12,"215 x 115 mm flat, 0 folds, 0 pilot holes"
+4130 fittings,"K-JC Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)",4130 steel 0.063in,8,blanks,16,"106 x 30 mm flat, 9 folds, 0 pilot holes"
+4130 fittings,"K-HN Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)",4130 steel 0.063in,4,blanks,7,"62 x 63 mm flat, 1 folds, 2 pilot holes"
+4130 fittings,"K-HD Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)",4130 steel 0.063in,1,blanks,11,"40 x 162 mm flat, 0 folds, 0 pilot holes"
+4130 fittings,"K-HR Rudder horn, 4130 0.063in (flat, cable each side)",4130 steel 0.063in,1,blanks,11,"44 x 184 mm flat, 0 folds, 0 pilot holes"
+4130 fittings,"K-BC Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)",4130 steel 0.063in,20,blanks,17,"85 x 85 mm flat, 0 folds, 0 pilot holes"
+Wing stands (step 0),"S-BM Stand beam (lipped C, saddle on top)",6061-T6 0.020in,8,blanks,0,"146 x 1500 mm flat, 4 folds, 0 pilot holes; 4 parts x 2 laminated layers"
+Wing stands (step 0),S-LG Stand leg (lipped C),6061-T6 0.020in,16,blanks,0,"136 x 819 mm flat, 4 folds, 0 pilot holes; 8 parts x 2 laminated layers"
+Wing stands (step 0),"S-FT Stand foot (lipped C, opens up)",6061-T6 0.020in,16,blanks,0,"146 x 600 mm flat, 4 folds, 0 pilot holes; 8 parts x 2 laminated layers"
+Wing stands (step 0),S-GT Stand top gusset (flanged hypotenuse),6061-T6 0.020in,32,blanks,0,"189 x 189 mm flat, 1 folds, 10 pilot holes; 16 parts x 2 laminated layers"
+Wing stands (step 0),S-GF Stand foot gusset (flat),6061-T6 0.020in,16,blanks,0,"380 x 206 mm flat, 0 folds, 16 pilot holes; 8 parts x 2 laminated layers"
+Folded blanks,W-CL Cabin roof (centre lower skin),6061-T6 0.020in,1,blanks,15,"899 x 700 mm flat, 3 folds, 0 pilot holes"
+Folded blanks,W-CU Centre-section upper skin,6061-T6 0.020in,1,blanks,15,"1264 x 700 mm flat, 20 folds, 0 pilot holes"
+Folded blanks,"W-CT Centre-section trailing-edge fairing (fixed, between the flaps)",6061-T6 0.020in,1,blanks,17,"785 x 700 mm flat, 7 folds, 0 pilot holes"
+Folded blanks,"F-IP Instrument panel (glare-shield fold, side tabs)",6061-T6 0.020in,2,blanks,17,"734 x 264 mm flat, 3 folds, 24 pilot holes; 1 parts x 2 laminated layers"
+Folded blanks,F-WS Windscreen (cold-bent flat polycarbonate),Polycarbonate 2 mm,1,blanks,18,"700 x 689 mm flat, 0 folds, 0 pilot holes"
+Folded blanks,"F-DW Door (left, hinged) / side window (right, fixed)",Polycarbonate 2 mm,2,blanks,18,"627 x 739 mm flat, 0 folds, 0 pilot holes"
+Folded blanks,"F-FWN Front side window (x2, mirrored)",Polycarbonate 2 mm,2,blanks,18,"830 x 390 mm flat, 0 folds, 0 pilot holes"
+Fasteners,A4-SS blind rivet,"1/8 in stainless/Monel, domed (firewall)",74,pcs,8,includes 15 % spares
+Fasteners,A4-1 blind rivet,"1/8 in aluminium, domed, grip -1",4306,pcs,4-15,includes 15 % spares
+Fasteners,A4-2 blind rivet,"1/8 in aluminium, domed, grip -2",662,pcs,4-15,includes 15 % spares
+Fasteners,AN4,"AN4 bolt (1/4-28), AN365-428 nut, 2 x AN960-416 washers",52,sets,"12,17","Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each; Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each"
+Fasteners,AN3,"AN3 bolt (10-32), AN365-1032 nut, AN960-10 washers",16,sets,12,"Through tang pair + spar web at each spar root, 4 per pair"
+Fasteners,AN5,"AN5 bolt (5/16-24), AN365-524 nut, AN970-5 large washers",4,sets,13,"Main gear legs through floor doubler, 2 per leg"
+Fasteners,AXLE,Axle bolt AN6 + castellated nut AN310-6 + cotter MS24665,2,sets,13,Main wheels
+Fasteners,AN4,"AN4 bolt, AN365-428 nut",13,sets,"11,13","Tailwheel spring to tail post, 2; Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3"
+Fasteners,AN4,"AN4 bolt, AN365-428 nut, AN970-4 washer each side",4,sets,14,"Engine mount to firewall, 4"
+Fasteners,AN5,AN5 bolt + rubber isolator (Lord-type) + AN365-524,4,sets,14,"Engine to mount, 4"
+Fasteners,AN5,"AN5 prop bolt, AN310-5 + safety wire (per prop maker)",6,sets,14,"Propeller hub, 6"
+Fasteners,DZUS,Quarter-turn camlock (Dzus) + receptacle,19,sets,14,Cowl to firewall flange and along the split line
+Fasteners,PIN5,"AN5 clevis pin (bolt), AN310-5 castellated nut, MS24665 cotter",4,sets,15,Spar-root pins through tang pair + arch clevis
+Fasteners,PIN5,"AN5 bolt, AN310-5 castellated nut, MS24665 cotter",8,sets,16,"Strut ends, both ends of 4 struts"
+Fasteners,AN3,"AN3 bolt, AN365-1032 nut",12,sets,16,"Saddle-clamp ears (one also carries the jury-strut fork), 2 per clamp; Jury strut top, through the jury clevis"
+Fasteners,AN3,"AN3 bolt, AN365-1032 nut, through 3/16 in rod end",4,sets,17,"Aileron and flap horns (K-HN), 1 per surface"
+Fasteners,AN4,"AN4 bolt, AN310-4 castle nut + cotter",10,sets,17,Bellcrank pivots in the cabin (K-BC pair through its K-CV bracket); Bellcrank pivots in the wings (K-BC pair through its K-CV bracket)
+Fasteners,AN3,"AN3 bolt, AN365-1032 nut, rod end between the plates",20,sets,17,"Bellcrank arms in the cabin, 2 per bellcrank; Bellcrank arms in the wings, 2 per bellcrank"
+Fasteners,AN4,"AN4 bolt, AN310-4 + cotter (pivot)",3,sets,17,Stick pivot and torque-tube bearings
+Fasteners,TB,Turnbuckle AN130 class + safety wire,4,sets,17,"Rudder and elevator cables, 1 per cable, in the cabin where you can inspect them"
+Fasteners,NICO,Nicopress sleeve + thimble (1/8 in cable),8,sets,17,Each cable end
+Fasteners,AN5,"AN5 bolt, AN365-524 nut",4,sets,9,"Harness anchors to floor and rear arch, 4"
+Fasteners,M4,"M4 pan screw, nylon washer, M4 Nyloc nut, 6 mm oversize hole in polycarbonate",102,sets,18,"Windscreen, door and side windows"
+Fasteners,HINGE,Piano hinge MS20001 + door latch,1,sets,18,Left door front edge
+Fasteners,Clecos,1/8 in spring Clecos + pliers,300,pcs,3-15,"tool, reused"
+"Tube, bar and cable",Main gear leg x2,6061-T6 bar 75 x 16 mm,2,x 667 mm,,"2 x AN5 holes at the top, axle boss at the bottom"
+"Tube, bar and cable",Tailwheel spring,spring-steel leaf 45 x 8 mm,1,x 369 mm,,2 x AN4 at the tail post
+"Tube, bar and cable",Main lift strut x2,6061-T6 1.75 x 0.065 in,2,x 2543 mm,,pin-to-pin; AN5 each end
+"Tube, bar and cable",Rear lift strut x2,6061-T6 1.75 x 0.065 in,2,x 2547 mm,,pin-to-pin; AN5 each end
+"Tube, bar and cable",Jury strut x2 (main),6061-T6 0.75 x 0.049 in,2,x 420 mm,,AN3 each end
+"Tube, bar and cable",Jury strut x2 (rear),6061-T6 0.75 x 0.049 in,2,x 425 mm,,AN3 each end
+"Tube, bar and cable",Rudder cable x2,1/8 in 7x19 galvanised,2,x 4960 mm,,via floor pulley + 3 fairleads; Nicopress + thimble each end
+"Tube, bar and cable",Elevator cable x2,1/8 in 7x19 galvanised,2,x 4150 mm,,via pulley at bulkhead 1 + 3 fairleads; turnbuckle
+"Tube, bar and cable",Aileron pushrod (arch) x2,6061-T6 3/8 x 0.035 in,2,x 960 mm,,arch-foot bellcrank up the rear-arch leg to the arch-top bellcrank
+"Tube, bar and cable",Aileron pushrod (wing) x2,6061-T6 1/2 x 0.035 in,2,x 2652 mm,,"arch-top bellcrank to outboard bellcrank, through rib lightening holes"
+"Tube, bar and cable",Aileron link (cabin) x2,6061-T6 3/8 x 0.035 in,2,x 258 mm,,torque-tube arm to arch-foot bellcrank
+"Tube, bar and cable",Flap pushrod (wing) x2,6061-T6 3/8 x 0.035 in,2,x 892 mm,,centre torque-tube arm to flap bellcrank
+"Tube, bar and cable",Strut end forks,"4130, tube insert + tang, AN5 hole",8,pcs,16,bought or welded
+"Tube, bar and cable",Strut fairings,Clip-on extruded plastic fairing for 1.75 in tube,4,x 2.6 m,16,
+"Tube, bar and cable",Engine mount,"4130 tube, welded, 4-point",1,pcs,14,fabricated or bought for half-VW
+Bought assemblies,"Half-VW engine, dressed (carb, mag, exhaust)",,1,set,,40.0 kg
+Bought assemblies,Propeller 54 in wood + hub,,1,set,,2.5 kg
+Bought assemblies,Main gear: 2 spring legs + axles,,1,set,,5.0 kg
+Bought assemblies,"Wheels, 21 x 8.00-6 tundra tyres, drum brakes x2",,1,set,,9.0 kg
+Bought assemblies,"Tailwheel assembly, 8 in pneumatic",,1,set,,1.8 kg
+Bought assemblies,Mass balance weights,,1,set,,1.6 kg
+Bought assemblies,"Controls: stick, torque tube, cables, pushrods",,1,set,,5.0 kg
+Bought assemblies,Seat cushion + 4-pt harness,,1,set,,2.5 kg
+Bought assemblies,"Fuel tank 19 L (rotomoulded) + lines, valve, gascolator",,1,set,,2.8 kg
+Bought assemblies,Aux tank 20 L behind the seat + selector valve + line,,1,set,,2.4 kg
+Bought assemblies,"Instruments (ASI, alt, tach, CHT, compass)",,1,set,,1.5 kg
+Bought assemblies,Rod ends,3/16 in bore male rod end + check nut,12,pcs,17,
+Bought assemblies,Systems fit-out,"Adel P-clamps x40, firewall grommets x4, pitot tube, static port, 4 m pitot/static tubing, 10 m tefzel wire, fuses, master + mag switches",1,set,17,
+Bought assemblies,Battery + radio + antenna,"12 V LiFePO4 + vented box, panel-mount VHF, whip antenna, coax",1,set,17,radio optional in SSDR
+Bought assemblies,Extinguisher and PLB,1 kg extinguisher + personal locator beacon,1,set,17,
+Bought assemblies,Fuel system parts,"Shut-off valve, gascolator, 1.5 m 1/4 in fuel hose + fire sleeve, firewall grommet, vented filler cap",1,set,14,gravity feed
+Bought assemblies,Piano hinge,"MS20001, 0.040 in",14,m,"7,11,18","4 x 1.79 m wing, 2 x 1.0 m elevators, 1.24 m rudder, door"
+Bought assemblies,Fairleads and pulleys,"Phenolic fairleads, 3 in pulleys",1,set,17,
+Consumables,Epoxy primer + etch/alodine,"2-part epoxy primer, chromate-free",4,L,4-15,faying surfaces and interior
+Consumables,Cotter pins,MS24665 assorted,50,pcs,13-17,
+Consumables,Safety wire,0.032 in stainless,1,roll,14-17,
+Consumables,Foam tape,"Closed-cell, windscreen bedding",5,m,18,
+Consumables,"MEK / cleaner, Scotch-Brite, gloves",,1,set,1-19,
+Consumables,Paint,Polyurethane topcoat,4,L,19,
+Tools,1 m hand bending brake (or hardwood bending blocks in a vise),,1,set,"0,2,3,5,6,7,8,9,10,11,12,14",
+Tools,"Cordless drill, #40 (2.5 mm) and #30 (3.3 mm) bits",,1,set,"0,4,5,6,7,8,9,10,11,14,17",
+Tools,1/8 in Clecos (300) + Cleco pliers,,1,set,"0,3,4,5,6,7,8,9,10,11,14",
+Tools,Blind-rivet puller (hand or pneumatic),,1,set,"0,4,5,6,7,8,9,10,11,14,17",
+Tools,"Deburring tool, 10 mm drill bit (hole deburr), fine file",,1,set,"0,1,4,5,6,8,9,10,11",
+Tools,"Fine felt marker, steel rule, square, MEK to clean",,1,set,"0,1,2,3,18",
+Tools,"Aviation snips (straight, left, right)",,1,set,"0,1",
+Tools,75 mm tube + ratchet strap (nose roller),,1,set,"6,11",
+Tools,"String line, digital level, plumb bob",,1,set,"4,8,10,11,13,15,16,17,19",
+Tools,"Spanners, sockets, inch-pound torque wrench",,1,set,"7,9,11,12,13,14,15,16,17,18,19",
+Tools,Cotter-pin and safety-wire pliers,,1,set,"13,14,15,16,17",
+Tools,"Tube cutter, hacksaw, drill press",,1,set,"16,17",
+Tools,"Drill press, 1/4 in and 5/16 in reamers",,1,set,"12,13,14,16",
+Tools,"Scotch-Brite, etch/alodine, epoxy primer, spray kit, gloves",,1,set,"4,5,6,8,9,10,11,12",
+Tools,Nicopress tool + cable cutter,,1,set,17,
+Tools,Plastic-cutting drill bits / step drill,,1,set,18,
+Tools,Three platform scales,,1,set,19,
+Tools,Sandbags and tape measure (proof load),,1,set,19,
+Tools,1/8 in hole duplicator,,1,set,"5,6,9",
+Tools,Bench vise with soft jaws,,1,set,"2,7,12",
+Bought assemblies,Laser / waterjet cutting service,"all nests, incl. 4130 and polycarbonate",1,job,1,or a club CNC router
+
+Stock sheets (from nest)
+Stock,6061-T6 0.020in,12 ft x 4 ft sheet (spar strips),3,sheets,1,
+Stock,6061-T6 0.020in,8 ft x 4 ft sheet,27,sheets,1,
+Stock,Stainless 304 0.5 mm,2000 x 1000 sheet,1,sheets,1,
+Stock,4130 steel 0.063in,4130 sheet 4 ft x 2 ft,2,sheets,1,
+Stock,Polycarbonate 2 mm,2050 x 1250 sheet,2,sheets,1,
+
+"Rough cost (GBP, 2026 UK retail, estimate)"
+Cost,Folded blanks,,11460.0,GBP,,
+Cost,4130 fittings,,320.0,GBP,,
+Cost,Wing stands (step 0),,1080.0,GBP,,
+Cost,Fasteners,,1270.0,GBP,,
+Cost,"Tube, bar and cable",,1000.0,GBP,,
+Cost,Bought assemblies,,11230,GBP,,
+Cost,Consumables,,390.0,GBP,,
+Cost,Tools,,1460,GBP,,
+Cost,TOTAL,,28200.0,GBP,,

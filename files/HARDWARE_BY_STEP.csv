@@ -1,0 +1,40 @@
+Step,Title,Code,Description,Qty,Where
+0,Primer: build the wing stands,A4-1,"1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)",288,
+4,"Drill, deburr, prime, rivet the skeleton",A4-1,"1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)",52,
+4,"Drill, deburr, prime, rivet the skeleton",A4-2,"1/8 in domed aluminium blind rivet, grip -2 (1.6-3.2 mm)",208,
+5,Lower skins,A4-1,"1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)",752,
+5,Lower skins,A4-2,"1/8 in domed aluminium blind rivet, grip -2 (1.6-3.2 mm)",180,
+6,Upper skins: roll the nose,A4-1,"1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)",752,
+6,Upper skins: roll the nose,A4-2,"1/8 in domed aluminium blind rivet, grip -2 (1.6-3.2 mm)",180,
+7,Flaps and ailerons,A4-1,"1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)",360,
+7,Flaps and ailerons,A4-2,"1/8 in domed aluminium blind rivet, grip -2 (1.6-3.2 mm)",8,
+8,"Floor, firewall, arches",A4-SS,1/8 in stainless/Monel blind rivet (fire-zone),64,Firewall flanges
+8,"Floor, firewall, arches",A4-1,"1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)",316,
+9,Cabin sides and seat,A4-1,"1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)",92,
+9,Cabin sides and seat,AN5,"AN5 bolt, AN365-524 nut",4,"Harness anchors to floor and rear arch, 4"
+10,Tailcone frustum,A4-1,"1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)",495,
+11,Tail surfaces,A4-1,"1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)",579,
+11,Tail surfaces,AN4,"AN4 bolt, AN365-428 nut",11,"Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3"
+12,4130 fittings,AN4,"AN4 bolt (1/4-28), AN365-428 nut, 2 x AN960-416 washers",32,"Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each"
+12,4130 fittings,AN3,"AN3 bolt (10-32), AN365-1032 nut, AN960-10 washers",16,"Through tang pair + spar web at each spar root, 4 per pair"
+13,Landing gear and tailwheel,AN5,"AN5 bolt (5/16-24), AN365-524 nut, AN970-5 large washers",4,"Main gear legs through floor doubler, 2 per leg"
+13,Landing gear and tailwheel,AXLE,Axle bolt AN6 + castellated nut AN310-6 + cotter MS24665,2,Main wheels
+13,Landing gear and tailwheel,AN4,"AN4 bolt, AN365-428 nut",2,"Tailwheel spring to tail post, 2"
+14,"Engine, cowl, prop",A4-1,"1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)",34,
+14,"Engine, cowl, prop",AN4,"AN4 bolt, AN365-428 nut, AN970-4 washer each side",4,"Engine mount to firewall, 4"
+14,"Engine, cowl, prop",AN5,AN5 bolt + rubber isolator (Lord-type) + AN365-524,4,"Engine to mount, 4"
+14,"Engine, cowl, prop",AN5,"AN5 prop bolt, AN310-5 + safety wire (per prop maker)",6,"Propeller hub, 6"
+14,"Engine, cowl, prop",DZUS,Quarter-turn camlock (Dzus) + receptacle,19,Cowl to firewall flange and along the split line
+15,Wings on,PIN5,"AN5 clevis pin (bolt), AN310-5 castellated nut, MS24665 cotter",4,Spar-root pins through tang pair + arch clevis
+16,Lift struts and jury struts,PIN5,"AN5 bolt, AN310-5 castellated nut, MS24665 cotter",8,"Strut ends, both ends of 4 struts"
+16,Lift struts and jury struts,AN3,"AN3 bolt, AN365-1032 nut",12,"Saddle-clamp ears (one also carries the jury-strut fork), 2 per clamp; Jury strut top, through the jury clevis"
+17,"Controls, instruments and systems",A4-1,"1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)",24,
+17,"Controls, instruments and systems",AN3,"AN3 bolt, AN365-1032 nut, through 3/16 in rod end",4,"Aileron and flap horns (K-HN), 1 per surface"
+17,"Controls, instruments and systems",AN4,"AN4 bolt, AN310-4 castle nut + cotter",10,Bellcrank pivots in the cabin (K-BC pair through its K-CV bracket); Bellcrank pivots in the wings (K-BC pair through its K-CV bracket)
+17,"Controls, instruments and systems",AN3,"AN3 bolt, AN365-1032 nut, rod end between the plates",20,"Bellcrank arms in the cabin, 2 per bellcrank; Bellcrank arms in the wings, 2 per bellcrank"
+17,"Controls, instruments and systems",AN4,"AN4 bolt (1/4-28), AN365-428 nut, 2 x AN960-416 washers",20,"Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each"
+17,"Controls, instruments and systems",AN4,"AN4 bolt, AN310-4 + cotter (pivot)",3,Stick pivot and torque-tube bearings
+17,"Controls, instruments and systems",TB,Turnbuckle AN130 class + safety wire,4,"Rudder and elevator cables, 1 per cable, in the cabin where you can inspect them"
+17,"Controls, instruments and systems",NICO,Nicopress sleeve + thimble (1/8 in cable),8,Each cable end
+18,"Windscreen, side windows, door",M4,"M4 pan screw, nylon washer, M4 Nyloc nut, 6 mm oversize hole in polycarbonate",102,"Windscreen, door and side windows"
+18,"Windscreen, side windows, door",HINGE,Piano hinge MS20001 + door latch,1,Left door front edge

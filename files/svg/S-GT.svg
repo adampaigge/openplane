@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 229.9 229.9" width="230mm" height="230mm">
+<rect width="100%" height="100%" fill="#fbf7ef"/>
+<path d="M29.90,209.90 L29.90,209.90 L20.00,200.00 L200.00,20.00 L209.90,29.90 L209.90,209.90 L29.90,209.90 L29.90,209.90 L29.90,209.90 Z" fill="#e9e3d6" fill-rule="evenodd" stroke="#111" stroke-width="1.2"/>
+<line x1="29.90" y1="209.90" x2="209.90" y2="29.90" stroke="#25a" stroke-width="1.2" stroke-dasharray="10 4 2 4"/>
+<circle cx="44.90" cy="194.90" r="1.6" fill="#111"/>
+<circle cx="193.90" cy="45.90" r="1.6" fill="#111"/>
+<circle cx="72.90" cy="194.90" r="1.6" fill="#111"/>
+<circle cx="192.90" cy="72.90" r="1.6" fill="#111"/>
+<circle cx="100.90" cy="194.90" r="1.6" fill="#111"/>
+<circle cx="192.90" cy="100.90" r="1.6" fill="#111"/>
+<circle cx="128.90" cy="194.90" r="1.6" fill="#111"/>
+<circle cx="192.90" cy="128.90" r="1.6" fill="#111"/>
+<circle cx="156.90" cy="194.90" r="1.6" fill="#111"/>
+<circle cx="192.90" cy="156.90" r="1.6" fill="#111"/>
+<text x="20" y="224" font-family="sans-serif" font-size="14">S-GT Stand top gusset (flanged hypotenuse) | 6061-T6 0.020in | qty 16</text>
+</svg>

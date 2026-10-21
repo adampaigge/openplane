@@ -1,0 +1,4087 @@
+{
+ "1 m hand bending brake (or hardwood bending blocks in a vise)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1 m гар нугалах машин (эсвэл хавчаарт хатуу модон нугалах блок)"
+ },
+ "1/8 in Clecos (300) + Cleco pliers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in Cleco (300) + Cleco хавчуур"
+ },
+ "1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in бөмбөгөр толгойтой хөнгөн цагаан сохор тав, grip -1 (1.6 mm хүртэл)"
+ },
+ "1/8 in domed aluminium blind rivet, grip -2 (1.6-3.2 mm)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in бөмбөгөр толгойтой хөнгөн цагаан сохор тав, grip -2 (1.6-3.2 mm)"
+ },
+ "1/8 in hole duplicator": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in нүх хуулбарлагч"
+ },
+ "1/8 in stainless/Monel blind rivet (fire-zone)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in зэвэрдэггүй/Monel сохор тав (галын бүс)"
+ },
+ "2 m section in four-point bending, loaded in steps to 1.5 × the +4 g limit bending moment.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "2 m хэсэг дөрвөн цэгийн нугаралтад, +4 g хязгаарын нугалах моментийн 1.5 × хүртэл шатлан ачаалсан."
+ },
+ "2 x AN4 at the tail post": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "2 x AN4 сүүлний баганад"
+ },
+ "2 x AN5 holes at the top, axle boss at the bottom": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "2 x AN5 нүх дээд талд, тэнхлэгийн бут доод талд"
+ },
+ "4 x 1.79 m wing, 2 x 1.0 m elevators, 1.24 m rudder, door": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "4 x 1.79 m далавч, 2 x 1.0 m өндрийн жолоо, 1.24 m чиглэлийн жолоо, хаалга"
+ },
+ "4130 fittings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "4130 бэхэлгээ"
+ },
+ "75 mm tube + ratchet strap (nose roller)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "75 mm хоолой + чангалах оосор (хамрын өнхрүүш)"
+ },
+ "; {n} parts x {l} laminated layers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "; {n} эд анги x {l} давхарласан давхарга"
+ },
+ "A BMAA or LAA inspector reviews the aircraft and the evidence.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "BMAA эсвэл LAA байцаагч нисэх онгоц болон нотолгоог хянана."
+ },
+ "A UK SSDR aircraft needs no airworthiness approval, so all the responsibility is the builder's. Proof-load the wing with sandbags to +4 g and have a BMAA or LAA inspector look at it before it flies. Elsewhere, check your national microlight rules.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "UK SSDR нисэх онгоцонд нислэгт тэнцэх зөвшөөрөл шаардлагагүй тул бүх хариуцлага бүтээгчид ногдоно. Далавчийг элсний уутаар +4 g хүртэл туршиж, нисэхээс өмнө BMAA эсвэл LAA байцаагчаар үзүүлээрэй. Бусад газар өөрийн улсын микро онгоцны дүрмийг шалгаарай."
+ },
+ "A concept design, published for study. It is not an approved design, and nothing here is airworthiness advice.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Судлах зорилгоор нийтэлсэн концепц загвар. Энэ нь батлагдсан загвар биш бөгөөд энд байгаа юу ч нислэгт тэнцэх зөвлөгөө биш."
+ },
+ "A single-seat microlight anyone can build. Every sheet part is a flat blank with straight folds, cut from one gauge of aluminium.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хэн ч бүтээж болох нэг суудалтай микро онгоц. Хуудсан эд анги бүр нэг зузаантай хөнгөн цагаанаас огтолсон, шулуун нугалаастай хавтгай бэлдэц юм."
+ },
+ "A4-1 blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "A4-1 сохор тав"
+ },
+ "A4-2 blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "A4-2 сохор тав"
+ },
+ "A4-SS blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "A4-SS сохор тав"
+ },
+ "ALT instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ALT багаж"
+ },
+ "AN3 bolt (10-32), AN365-1032 nut, AN960-10 washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 боолт (10-32), AN365-1032 самар, AN960-10 жийргэвч"
+ },
+ "AN3 bolt, AN365-1032 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 боолт, AN365-1032 самар"
+ },
+ "AN3 bolt, AN365-1032 nut, rod end between the plates": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 боолт, AN365-1032 самар, ялтсуудын хооронд саваа үзүүр"
+ },
+ "AN3 bolt, AN365-1032 nut, through 3/16 in rod end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 боолт, AN365-1032 самар, 3/16 in саваа үзүүрээр дамжуулан"
+ },
+ "AN3 each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 үзүүр бүрт"
+ },
+ "AN4 bolt (1/4-28), AN365-428 nut, 2 x AN960-416 washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 боолт (1/4-28), AN365-428 самар, 2 x AN960-416 жийргэвч"
+ },
+ "AN4 bolt, AN310-4 + cotter (pivot)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 боолт, AN310-4 + шплинт (тэнхлэг)"
+ },
+ "AN4 bolt, AN310-4 castle nut + cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 боолт, AN310-4 титэм самар + шплинт"
+ },
+ "AN4 bolt, AN365-428 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 боолт, AN365-428 самар"
+ },
+ "AN4 bolt, AN365-428 nut, AN970-4 washer each side": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 боолт, AN365-428 самар, тал бүрт AN970-4 жийргэвч"
+ },
+ "AN5 bolt (5/16-24), AN365-524 nut, AN970-5 large washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 боолт (5/16-24), AN365-524 самар, AN970-5 том жийргэвч"
+ },
+ "AN5 bolt + rubber isolator (Lord-type) + AN365-524": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 боолт + резин тусгаарлагч (Lord төрлийн) + AN365-524"
+ },
+ "AN5 bolt, AN310-5 castellated nut, MS24665 cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 боолт, AN310-5 титэм самар, MS24665 шплинт"
+ },
+ "AN5 bolt, AN365-524 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 боолт, AN365-524 самар"
+ },
+ "AN5 clevis pin (bolt), AN310-5 castellated nut, MS24665 cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 сэрээний хадаас (боолт), AN310-5 титэм самар, MS24665 шплинт"
+ },
+ "AN5 prop bolt, AN310-5 + safety wire (per prop maker)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 сэнсний боолт, AN310-5 + хамгаалалтын утас (сэнс үйлдвэрлэгчийн дагуу)"
+ },
+ "ASI instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ASI багаж"
+ },
+ "About 10 months": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ойролцоогоор 10 сар"
+ },
+ "Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Элерон / хаалтны хөшүүрэг, 4130 0.063in (доод бүрээс дээр нэг нугалаа)"
+ },
+ "Aileron / flap skin (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Элерон / хаалтны бүрээс (ижил x4)"
+ },
+ "Aileron / flap spar (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Элерон / хаалтны лонжерон (ижил x4)"
+ },
+ "Aileron and flap horns (K-HN), 1 per surface": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Элерон болон хаалтны хөшүүрэг (K-HN), гадаргуу бүрт 1"
+ },
+ "Aileron link (cabin) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Элероны холбоос (бүхээг) x2"
+ },
+ "Aileron link (cabin) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Элероны холбоос (бүхээг) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Aileron pushrod (arch) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Элероны түлхүүр саваа (нуман) x2"
+ },
+ "Aileron pushrod (arch) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Элероны түлхүүр саваа (нуман) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Aileron pushrod (wing) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Элероны түлхүүр саваа (далавч) x2"
+ },
+ "Aileron pushrod (wing) x2: 6061-T6 1/2 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Элероны түлхүүр саваа (далавч) x2: 6061-T6 1/2 x 0.035 in"
+ },
+ "Aileron torque tube": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Элероны мушгих хоолой"
+ },
+ "Ailerons: a short link from the torque-tube arm to the arch-foot bellcrank, a pushrod up the rear-arch leg to the arch-top bellcrank, then out through the rib lightening holes to the outboard bellcrank, which drives the K-HN horn on the aileron. Flaps: overhead lever, a short rod to the centre-section torque-tube arms, then pushrods to the flap bellcranks and K-HN horns.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Элерон: мушгих хоолойн гараас нуман хаалганы хөлийн тохой хөшүүрэг хүртэл богино холбоос, арын нуман хаалганы хөлөөр дээш нуман хаалганы оройн тохой хөшүүрэг хүртэл түлхүүр саваа, дараа нь хавирганы хөнгөрүүлэх нүхээр гадна тохой хөшүүрэг хүртэл, энэ нь элерон дээрх K-HN хөшүүргийг хөдөлгөнө. Хаалт: дээд бариул, төв хэсгийн мушгих хоолойн гар хүртэл богино саваа, дараа нь хаалтны тохой хөшүүрэг болон K-HN хөшүүрэг хүртэл түлхүүр саваа."
+ },
+ "All 52 ribs are the same two blanks. The pilot holes locate them, so no jig is needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүх 52 хавирга нь ижил хоёр бэлдэц. Чиглүүлэх нүхнүүд байрлалыг тодорхойлдог тул загварлах хэрэгсэл шаардлагагүй."
+ },
+ "All six faces aim at one vanishing point, so each face is flat and every crease is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Зургаан нүүр бүгд нэг алга болох цэг рүү чиглэсэн тул нүүр бүр хавтгай, нугалаа бүр шулуун."
+ },
+ "All the glazing is flat sheet: no forming and no moulds.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүх шил нь хавтгай хуудас: хэлбэржүүлэлт ч, хэв ч байхгүй."
+ },
+ "Allowable": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Зөвшөөрөгдөх"
+ },
+ "Amount": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Дүн"
+ },
+ "An engineering test plan modelled on BCAR Section S practice, not a regulatory approval route. Costs are rough ranges for materials, hire and consumables, not labour, and exclude the airframe itself. The plan lives in qualification.yaml in the repository, and its pass criteria use the live numbers from the build.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "BCAR Section S практикт суурилсан инженерийн туршилтын төлөвлөгөө, зохицуулалтын баталгаажуулалтын зам биш. Зардал нь материал, түрээс болон хэрэглээний материалын ойролцоо хүрээ бөгөөд хөдөлмөр ороогүй, их биеийг өөрийг нь оруулаагүй. Төлөвлөгөө нь репозиторийн qualification.yaml файлд байх ба тэнцэх шалгуур нь бүтээлийн бодит тоонуудыг ашигладаг."
+ },
+ "Approach the stall in 1 kt steps, flaps up and down, at forward and aft CG.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хурд алдалт руу 1 kt алхамаар ойртоно, хаалт дээш болон доош, урд болон арын CG-д."
+ },
+ "Arch over the pilot. Spar-root fittings bolt to its top corners, strut fittings to its feet. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нисгэгчийн дээрх нуман хаалга. Лонжероны үндсэн бэхэлгээ дээд булангуудад, тулгуурын бэхэлгээ хөлд нь боолтлогдоно. Давхарласан: 0.020 in-ийн 2 шигтгэсэн давхарга, тусад нь нугалж нэг мэт тавлана; дотоод давхарга бүрт фланцын ирмэгээс 0.5 mm тайрна."
+ },
+ "As above, including the reversed load case at −2 g.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Дээрхтэй адил, −2 g-ийн урвуу ачааллын тохиолдлыг оруулан."
+ },
+ "At least 1.5 × the full-power fuel flow from either tank.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Аль ч савнаас бүрэн хүчин чадлын түлшний зарцуулалтын дор хаяж 1.5 ×."
+ },
+ "Aux fuel tank 20 L (rotomoulded), high behind the seat, gravity feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нэмэлт түлшний сав 20 L (эргэлтийн цутгамал), суудлын ард өндөрт, өөрийн урсгалаар тэжээл"
+ },
+ "Aux tank 20 L behind the seat + selector valve + line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нэмэлт сав 20 L суудлын ард + сэлгэх хавхлага + шугам"
+ },
+ "Aux tank filler (through the left cabin side, behind the door)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нэмэлт савны цэнэглэх ам (бүхээгийн зүүн талаар, хаалганы ард)"
+ },
+ "Aviation snips (straight, left, right)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нисэхийн хайч (шулуун, зүүн, баруун)"
+ },
+ "Axle bolt AN6 + castellated nut AN310-6 + cotter MS24665": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тэнхлэгийн боолт AN6 + титэм самар AN310-6 + шплинт MS24665"
+ },
+ "Back-drill #40 through the rib and spar-cap pilot holes, using the hole duplicator where you can't reach from inside. Cleco as you go.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хавирга болон лонжероны тавиурын чиглүүлэх нүхээр #40 буцаан өрөмдөнө, дотроос хүрэхгүй газарт нүх хуулбарлагч ашиглана. Явцад нь Cleco хийнэ."
+ },
+ "Back-drill through the rib flanges and spar caps. Do the nose last, working from the spar forward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хавирганы фланц болон лонжероны тавиураар буцаан өрөмдөнө. Хамрыг хамгийн сүүлд, лонжероноос урагш хийнэ."
+ },
+ "Baggage locker behind the seat (net, 5 kg max)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Суудлын ард ачааны тасаг (тор, хамгийн ихдээ 5 kg)"
+ },
+ "Battery + radio + antenna": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Батарей + радио + антен"
+ },
+ "Battery 12 V LiFePO4 in vented box (under the seat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Батарей 12 V LiFePO4 агааржуулалттай хайрцагт (суудлын доор)"
+ },
+ "Bellcrank arms in the cabin, 2 per bellcrank; Bellcrank arms in the wings, 2 per bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүхээг дэх тохой хөшүүргийн гар, тохой хөшүүрэг бүрт 2; Далавч дахь тохой хөшүүргийн гар, тохой хөшүүрэг бүрт 2"
+ },
+ "Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүхээг дэх тохой хөшүүргийн кронштейн нуман хаалга / лонжерон руу, тус бүр 2; Далавч дахь тохой хөшүүргийн кронштейн нуман хаалга / лонжерон руу, тус бүр 2"
+ },
+ "Bellcrank pivots in the cabin (K-BC pair through its K-CV bracket); Bellcrank pivots in the wings (K-BC pair through its K-CV bracket)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүхээг дэх тохой хөшүүргийн тэнхлэг (K-BC хос өөрийн K-CV кронштейнээр); Далавч дахь тохой хөшүүргийн тэнхлэг (K-BC хос өөрийн K-CV кронштейнээр)"
+ },
+ "Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тохой хөшүүргийн ялтас, 4130 0.063in (хосоор, 55 mm гар)"
+ },
+ "Bellcranks: each is a pair of K-BC plates, 16 mm apart, on an AN4 pivot through a folded K-CV bracket. The rod ends sit between the plates on AN3 bolts. Five per side: aileron arch-foot, arch-top and outboard (at the rear spar); flap torque-tube arm and flap bellcrank.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тохой хөшүүрэг: тус бүр нь 16 mm зайтай K-BC ялтсын хос, нугалсан K-CV кронштейнээр дамжсан AN4 тэнхлэг дээр. Саваа үзүүрүүд ялтсуудын хооронд AN3 боолт дээр байрлана. Тал бүрт тав: элероны нуман хаалганы хөл, нуман хаалганы орой болон гадна (арын лонжеронд); хаалтны мушгих хоолойн гар болон хаалтны тохой хөшүүрэг."
+ },
+ "Bench vise with soft jaws": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Зөөлөн эрүүтэй ширээний хавчаар"
+ },
+ "Bend deduction": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нугалааны хасалт"
+ },
+ "Bend on the brake: each channel is four 90° bends. Bend the two flanges first, then the two lips. Set the nose radius to 1 mm (about 2t for 0.020 in) and overbend about 2° for springback. Check every bend with a square.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Машин дээр нугална: суваг бүр дөрвөн 90° нугалаа. Эхлээд хоёр фланцыг, дараа нь хоёр уруулыг нугална. Хамрын радиусыг 1 mm (0.020 in-д ойролцоогоор 2t) болгож, буцаж хаврах тул ойролцоогоор 2° илүү нугална. Нугалаа бүрийг өнцөгтөөр шалгана."
+ },
+ "Bend radius and springback": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нугалааны радиус ба буцаж хаврах"
+ },
+ "Best climb": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хамгийн сайн өгсөлт"
+ },
+ "Bill of materials": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Материалын жагсаалт"
+ },
+ "Blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бэлдэц"
+ },
+ "Blind-rivet puller (hand or pneumatic)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сохор тавны хавчуур (гар эсвэл пневматик)"
+ },
+ "Bolt each main-gear spring leg through the floor doubler under the front arch: 2 x AN5 each, large washers both sides.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндсэн явах эд ангийн пүрштэй хөл бүрийг урд нуман хаалганы доорх шалны бэхжүүлэгчээр боолтлоно: тус бүр 2 x AN5, хоёр талд том жийргэвч."
+ },
+ "Bolt in the four harness anchors.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Оосрын дөрвөн бэхэлгээг боолтлоно."
+ },
+ "Bolt on the propeller and spinner. Torque to the prop maker's figure, then safety-wire.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сэнс болон хамрын бүрхүүлийг боолтлоно. Сэнс үйлдвэрлэгчийн заасан моментоор чангалж, дараа нь утсаар бэхэлнэ."
+ },
+ "Bolt the 4130 engine mount through the firewall (4 x AN4) with large washers on the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "4130 хөдөлгүүрийн хүрээг галын хананд (4 x AN4) арын талд том жийргэвчтэй боолтлоно."
+ },
+ "Bolt the four root clevises to the arch tops and the four strut-foot clevises to the arch feet with AN4 bolts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндэсний дөрвөн сэрээг нуман хаалганы оройд, тулгуурын хөлийн дөрвөн сэрээг нуман хаалганы хөлд AN4 боолтоор боолтлоно."
+ },
+ "Bolt the stabiliser halves to the tailcone side doublers, 4 x AN4 each. Bolt the fin spar to the tail post, 3 x AN4.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тогтворжуулагчийн хагасуудыг сүүлний конусын хажуугийн бэхжүүлэгчид тус бүр 4 x AN4-өөр боолтлоно. Кильны лонжероныг сүүлний баганад 3 x AN4-өөр боолтлоно."
+ },
+ "Bolt the tailwheel spring to the tail post (2 x AN4). Fit the fork and the two steering springs to the rudder horn.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний дугуйн пүршийг сүүлний баганад (2 x AN4) боолтлоно. Сэрээ болон хоёр жолоодлогын пүршийг чиглэлийн жолооны хөшүүрэгт суулгана."
+ },
+ "Bolt the tang pairs either side of each spar web at the root (4 x AN3), and the strut-top clevises under the spars at the 2.4 m rib.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хэлбэрийн хосуудыг лонжероны хана бүрийн хоёр талд үндсэнд (4 x AN3), тулгуурын оройн сэрээг лонжероны доор 2.4 m хавирганд боолтлоно."
+ },
+ "Bolts to the spar web with 4 x AN3 and reaches inboard past the spar end to the arch-top clevis pin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Лонжероны хананд 4 x AN3-аар боолтлогдож, лонжероны үзүүрийг давж нуман хаалганы оройн сэрээний хадаас хүртэл дотогшоо хүрнэ."
+ },
+ "Both sides are the same blank, mirrored. The openings have 50 mm corner radii because square corners start cracks.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хоёр тал нь ижил бэлдэц, толин тусгал. Шулуун булан хагарал үүсгэдэг тул нүхнүүд 50 mm булангийн радиустай."
+ },
+ "Both tanks, up to MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хоёр сав, MTOW хүртэл"
+ },
+ "Bottom + both chamfers + side flanges from one sheet: converging creases, still developable (frustum).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ёроол + хоёр ташуу + хажуугийн фланц нэг хуудаснаас: нийлэх нугалаа, задлах боломжтой хэвээр (тайрсан конус)."
+ },
+ "Bottom extends between the elevator halves.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ёроол нь өндрийн жолооны хагасуудын хооронд үргэлжилнэ."
+ },
+ "Bought / fabricated items going on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Суурилуулах худалдаж авсан / хийсэн эд зүйлс"
+ },
+ "Bought assemblies": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Худалдаж авсан угсралт"
+ },
+ "Box-pleat hood 45°, nose bowl converging creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хайрцаг нугалаатай бүрхүүл 45°, хамрын аягын нийлэх нугалаа"
+ },
+ "Brake drum": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тоормосны хүрд"
+ },
+ "Build each section upside down on a straight edge: bulkheads Clecoed into the belly, then the sides, then the top.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хэсэг бүрийг шулуун ирмэг дээр урвуугаар бүтээнэ: хаалтуудыг гэдсэнд Cleco-гоор, дараа нь хажуу, дараа нь дээд хэсэг."
+ },
+ "Build up towards Vne in 5 kt steps, watching for buzz or flutter at every step.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vne хүртэл 5 kt алхамаар нэмж, алхам бүрт чичиргээ эсвэл флаттерыг ажиглана."
+ },
+ "CG range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CG хүрээ"
+ },
+ "CHT/EGT instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CHT/EGT багаж"
+ },
+ "CLmax, drag, propeller efficiency and the neutral point are handbook estimates. Measure stall speed and CG limits in flight test. The 35 kt SSDR stall limit is met with flaps:": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CLmax, эсэргүүцэл, сэнсний үр ашиг болон саармаг цэг нь лавлахын тооцоо. Хурд алдалтын хурд болон CG хязгаарыг нислэгийн туршилтаар хэмжинэ. 35 kt SSDR хурд алдалтын хязгаарыг хаалтаар хангана:"
+ },
+ "Cabin roof (centre lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүхээгийн дээвэр (төв доод бүрээс)"
+ },
+ "Cabin side (x2, mirrored): door/window opening + front window": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүхээгийн хажуу (x2, толин тусгал): хаалга/цонхны нүх + урд цонх"
+ },
+ "Cabin sides and seat": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүхээгийн хажуу ба суудал"
+ },
+ "Carries flap/aileron hinges and rear strut fitting. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хаалт/элероны нугас болон арын тулгуурын бэхэлгээг даана. Давхарласан: 0.020 in-ийн 2 шигтгэсэн давхарга, тусад нь нугалж нэг мэт тавлана; дотоод давхарга бүрт фланцын ирмэгээс 0.5 mm тайрна."
+ },
+ "Case": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тохиолдол"
+ },
+ "Category": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ангилал"
+ },
+ "Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Төв хэсгийн арын ирмэгийн бүрхүүл (тогтмол, хаалтуудын хооронд)"
+ },
+ "Centre-section upper skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Төв хэсгийн дээд бүрээс"
+ },
+ "Check stops, free play, friction and cable tension, then load every circuit to the pilot limit loads.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хязгаарлагч, сул зай, үрэлт болон тросын таталтыг шалгаад, хэлхээ бүрийг нисгэгчийн хязгаарын ачаалал хүртэл ачаална."
+ },
+ "Check the cap angle every 500 mm with a square. Sight along the spar for twist.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "500 mm тутамд тавиурын өнцгийг өнцөгтөөр шалгана. Мушгиралтыг лонжероны дагуу харж шалгана."
+ },
+ "Check twist by sighting a level across bulkheads 1 and 5. Then join the two sections at bulkhead 3.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1 ба 5-р хаалтын дээгүүр түвшин хэмжигчээр харж мушгиралтыг шалгана. Дараа нь хоёр хэсгийг 3-р хаалтад холбоно."
+ },
+ "Clean and prime. Steel fittings rust under paint if they aren't primed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Цэвэрлэж праймердана. Ган бэхэлгээ праймердаагүй бол будгийн доор зэврэнэ."
+ },
+ "Clecos": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Cleco"
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сэрээний ханыг нуман хаалганы орой болон хөлд, сэрээ бүрт 2; Тулгуур болон туслах тулгуурын оройн сэрээ лонжероны тавиураар, тус бүр 2"
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each; Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сэрээний ханыг нуман хаалганы орой болон хөлд, сэрээ бүрт 2; Тулгуур болон туслах тулгуурын оройн сэрээ лонжероны тавиураар, тус бүр 2; Бүхээг дэх тохой хөшүүргийн кронштейн нуман хаалга / лонжерон руу, тус бүр 2; Далавч дахь тохой хөшүүргийн кронштейн нуман хаалга / лонжерон руу, тус бүр 2"
+ },
+ "Clevis, 4130 0.063in (U, two folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сэрээ, 4130 0.063in (U, хоёр нугалаа)"
+ },
+ "Clevis: two 90° bends at 3t radius": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сэрээ: 3t радиустай хоёр 90° нугалаа"
+ },
+ "Click to explore": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Судлахын тулд дарна уу"
+ },
+ "Clip on the strut fairings.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тулгуурын бүрхүүлийг хавчина."
+ },
+ "Close the bay behind the centre-section rear spar with the W-CT trailing-edge fairing (same wedge fold as the flaps). Do it last, after the flap linkage is rigged and checked.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Төв хэсгийн арын лонжероны ард байгаа тасгийг W-CT арын ирмэгийн бүрхүүлээр хаана (хаалттай ижил шаантаг нугалаа). Хаалтны хөдөлгүүрийг тохируулж шалгасны дараа хамгийн сүүлд хийнэ."
+ },
+ "Closes the control surface; carries hinge and mass-balance arm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Удирдлагын гадаргууг хаана; нугас болон массын тэнцвэржүүлэх гарыг даана."
+ },
+ "Closes the control surface; carries hinge and mass-balance arm. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Удирдлагын гадаргууг хаана; нугас болон массын тэнцвэржүүлэх гарыг даана. Давхарласан: 0.020 in-ийн 2 шигтгэсэн давхарга, тусад нь нугалж нэг мэт тавлана; дотоод давхарга бүрт фланцын ирмэгээс 0.5 mm тайрна."
+ },
+ "Compass (on the glare shield)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Луужин (гялбаанаас хамгаалах хавтан дээр)"
+ },
+ "Components": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүрэлдэхүүн хэсэг"
+ },
+ "Consumables": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хэрэглээний материал"
+ },
+ "Control stick": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Удирдлагын бариул"
+ },
+ "Control system": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Удирдлагын систем"
+ },
+ "Control-circuit strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Удирдлагын хэлхээний бат бөх"
+ },
+ "Control-system free play": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Удирдлагын системийн сул зай"
+ },
+ "Controllable in all axes with trim available. Engine temperatures stable.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүх тэнхлэгээр удирдагдах, тэнцвэржүүлэгчтэй. Хөдөлгүүрийн температур тогтвортой."
+ },
+ "Controls, instruments and systems": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Удирдлага, багаж болон систем"
+ },
+ "Controls: stick, torque tube, cables, pushrods": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Удирдлага: бариул, мушгих хоолой, трос, түлхүүр саваа"
+ },
+ "Converging creases 44°, bulkhead flanges 96–100°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нийлэх нугалаа 44°, хаалтын фланц 96–100°"
+ },
+ "Converted from UK prices": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "UK үнээс хөрвүүлсэн"
+ },
+ "Copy it, change it, build it, sell it. No permission needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хуулж, өөрчилж, бүтээж, зарж болно. Зөвшөөрөл шаардлагагүй."
+ },
+ "Cordless drill, #40 (2.5 mm) and #30 (3.3 mm) bits": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Утасгүй өрөм, #40 (2.5 mm) ба #30 (3.3 mm) өрмийн хошуу"
+ },
+ "Cost": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Зардал"
+ },
+ "Cotter pins": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Шплинт"
+ },
+ "Cotter-pin and safety-wire pliers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Шплинт болон хамгаалалтын утасны хавчуур"
+ },
+ "Coupons and processes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Дээж ба процесс"
+ },
+ "Covers the top half of the firewall. Camlocks along the firewall flange and the split line.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Галын хананы дээд хагасыг бүрхэнэ. Галын хананы фланц болон хуваах шугамын дагуу Camlock."
+ },
+ "Cowl to firewall flange and along the split line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүрхүүлийг галын хананы фланцад болон хуваах шугамын дагуу"
+ },
+ "Crippling stress at least {stress:ms_cc}, the design allowable. Layers must not separate before failure.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Орон нутгийн тогтвортой байдал алдах хүчдэл дор хаяж {stress:ms_cc}, загварын зөвшөөрөгдөх утга. Эвдрэхээс өмнө давхаргууд салах ёсгүй."
+ },
+ "Cruise 75 %": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Аялах 75 %"
+ },
+ "Crush 300 mm lengths of three-layer lipped channel, riveted at design pitch, five samples.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Загварын алхамаар тавласан, 300 mm урттай гурван давхар уруултай сувгийг шахна, таван дээж."
+ },
+ "Currency": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Валют"
+ },
+ "Cut and deburr: the stand blanks are on the same nest sheets as everything else. File every edge smooth and deburr each pilot hole on both faces. Look for burrs with your fingertip, not your eye.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Огтолж, сэвсэг арилгана: тавиурын бэлдэц бусад бүх зүйлтэй ижил байршуулалтын хуудсан дээр байна. Ирмэг бүрийг өнгөлж, чиглүүлэх нүх бүрийн сэвсгийг хоёр талаас арилгана. Сэвсгийг нүдээр биш хурууны үзүүрээр хайна."
+ },
+ "Cut files (DXF and nests), crease patterns, the prop model, the bill of materials and the design report.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Огтлох файл (DXF ба байршуулалт), нугалааны схем, сэнсний загвар, материалын жагсаалт болон загварын тайлан."
+ },
+ "Cut lengths": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Огтлох урт"
+ },
+ "Cut list": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Огтлох жагсаалт"
+ },
+ "Cut the main struts to 2543 mm and the rear struts to 2547 mm pin-to-pin, minus the end-fitting length. All four are 6061-T6 1.75 x 0.065 in tube.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндсэн тулгуурыг хадааснаас хадаас хүртэл 2543 mm, арын тулгуурыг 2547 mm болгож, үзүүрийн бэхэлгээний уртыг хасаж огтолно. Дөрвүүлээ 6061-T6 1.75 x 0.065 in хоолой."
+ },
+ "Cut, deburr, mark": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Огтлох, сэвсэг арилгах, тэмдэглэх"
+ },
+ "Cylinder": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Цилиндр"
+ },
+ "Deburr every edge and hole": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ирмэг болон нүх бүрийн сэвсгийг арилгана"
+ },
+ "Deburr every edge with a file or deburring tool. A burr is where a fatigue crack starts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ирмэг бүрийн сэвсгийг өнгөлөгч эсвэл сэвсэг арилгах хэрэгслээр арилгана. Сэвсэг бол ядралтын хагарал эхэлдэг газар."
+ },
+ "Deburr every pilot hole on both faces with a 10 mm bit turned by hand.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Чиглүүлэх нүх бүрийн сэвсгийг хоёр талаас гараар эргүүлсэн 10 mm өрмийн хошуугаар арилгана."
+ },
+ "Deburring tool, 10 mm drill bit (hole deburr), fine file": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сэвсэг арилгах хэрэгсэл, 10 mm өрмийн хошуу (нүхний сэвсэг), нарийн өнгөлөгч"
+ },
+ "Don't overtighten: nylon washers, and stop when the washer just grips.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хэт чангалахгүй: нейлон жийргэвч, жийргэвч дөнгөж барих үед зогсоно."
+ },
+ "Door (left, hinged) / side window (right, fixed)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хаалга (зүүн, нугастай) / хажуугийн цонх (баруун, тогтмол)"
+ },
+ "Download files (.zip)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Файл татах (.zip)"
+ },
+ "Drawing": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Зураг"
+ },
+ "Drill and cleco: clamp the gussets in place, drill through the pilot holes to #30 (3.3 mm), and put a cleco in every fourth hole as you go. Then take everything apart, deburr the holes and the faying surfaces, and put it back together on clecos.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Өрөмдөж Cleco хийнэ: булангийн ялтсуудыг байранд нь хавчиж, чиглүүлэх нүхээр #30 (3.3 mm) хүртэл өрөмдөж, явцад нь дөрөв дэх нүх бүрт Cleco хийнэ. Дараа нь бүгдийг задалж, нүх болон шүргэлцэх гадаргуугийн сэвсгийг арилгаад, Cleco дээр буцааж угсарна."
+ },
+ "Drill press, 1/4 in and 5/16 in reamers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Суурин өрөм, 1/4 in ба 5/16 in өргөсгөгч"
+ },
+ "Drill, deburr, prime, rivet the skeleton": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Өрөмдөх, сэвсэг арилгах, праймердах, араг ясыг тавлах"
+ },
+ "Duration": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үргэлжлэх хугацаа"
+ },
+ "Each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ширхэг"
+ },
+ "Each cable end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тросын үзүүр бүр"
+ },
+ "Each spar is a laminate: three nested blanks for the main spar, two for the rear. Fold every layer separately, then nest them.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Лонжерон бүр давхарласан: үндсэн лонжеронд гурван шигтгэсэн бэлдэц, арынхад хоёр. Давхарга бүрийг тусад нь нугалж, дараа нь шигтгэнэ."
+ },
+ "Each wing pins on at two points. The struts set its angle.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Далавч бүр хоёр цэгт хадаасаар бэхлэгдэнэ. Тулгуурууд өнцгийг нь тогтооно."
+ },
+ "Ears take an AN5 pin (fore-aft axis); web bolts with 2 x AN4. Bend radius 3t for normalised 4130 (Wanttaja).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Чих нь AN5 хадаас авна (урд-хойд тэнхлэг); хана 2 x AN4-өөр боолтлогдоно. Нормчилсон 4130-д нугалааны радиус 3t (Wanttaja)."
+ },
+ "Electrics: 12 V LiFePO4 battery in a vented box under the seat. Run it via the master switch and fuses to the radio, with the antenna coax to a whip on the tailcone top. The mag P-lead goes through a firewall grommet. The half-VW's magneto needs no battery to run.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Цахилгаан: суудлын доорх агааржуулалттай хайрцагт 12 V LiFePO4 батарей. Үндсэн унтраалга болон гал хамгаалагчаар радио хүртэл, антены коаксиал кабелиар сүүлний конусын орой дээрх шилбэн антен хүртэл татна. Магнетогийн P утас галын хананы бутаар дамжина. Half-VW-ийн магнетод ажиллахад батарей хэрэггүй."
+ },
+ "Elevator bellcrank (under seat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Өндрийн жолооны тохой хөшүүрэг (суудлын доор)"
+ },
+ "Elevator cable x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Өндрийн жолооны трос x2"
+ },
+ "Elevator cable x2: 1/8 in 7x19 galvanised": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Өндрийн жолооны трос x2: 1/8 in 7x19 цайрдсан"
+ },
+ "Elevator cables: run one straight line each from the bellcrank to the tail-post grommet, 60 mm apart, up cable above down cable. Fit a phenolic fairlead where each line passes a bulkhead.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Өндрийн жолооны трос: тус бүрийг тохой хөшүүргээс сүүлний баганын бут хүртэл нэг шулуун шугамаар, 60 mm зайтай, өргөх трос буулгах тросын дээр. Шугам бүр хаалтаар дамжих газарт фенол чиглүүлэгч суулгана."
+ },
+ "Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Өндрийн жолооны хөшүүрэг, 4130 0.063in (хоёр үзүүртэй, өндрийн жолооны мушгих хоолой дээр)"
+ },
+ "Elevator skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Өндрийн жолооны бүрээс"
+ },
+ "Elevator spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Өндрийн жолооны лонжерон"
+ },
+ "Elevators and rudder: fold them the same way as the ailerons in step 7 (pleats, then the trailing-edge fold, then the C-spar).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Өндрийн жолоо ба чиглэлийн жолоо: 7-р алхамын элеронтой ижил аргаар нугална (нугалаа, дараа нь арын ирмэгийн нугалаа, дараа нь C лонжерон)."
+ },
+ "Empty / MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хоосон / MTOW"
+ },
+ "Empty mass and balance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хоосон масс ба тэнцвэр"
+ },
+ "Empty mass at or below {mass:empty} plus 3 %, and every loading case inside the CG range.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хоосон масс {mass:empty} нэмэх 3 %-аас ихгүй, ачааллын тохиолдол бүр CG хүрээнд."
+ },
+ "Empty tanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хоосон сав"
+ },
+ "Empty tanks, 5 kg baggage (aftmost)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хоосон сав, 5 kg ачаа (хамгийн ар)"
+ },
+ "Endurance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нислэгийн хугацаа"
+ },
+ "Engine and prop": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хөдөлгүүр ба сэнс"
+ },
+ "Engine and propeller": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хөдөлгүүр ба сэнс"
+ },
+ "Engine mount": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хөдөлгүүрийн хүрээ"
+ },
+ "Engine mount to firewall, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хөдөлгүүрийн хүрээг галын хананд, 4"
+ },
+ "Engine mount tube (4130)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хөдөлгүүрийн хүрээний хоолой (4130)"
+ },
+ "Engine runs: full-power static run, mag check, then check cylinder head temperatures.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хөдөлгүүрийн туршилт: бүрэн хүчин чадлын статик ажиллагаа, магнетогийн шалгалт, дараа нь цилиндрийн толгойн температурыг шалгана."
+ },
+ "Engine to mount, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хөдөлгүүрийг хүрээнд, 4"
+ },
+ "Engine, cowl, prop": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хөдөлгүүр, бүрхүүл, сэнс"
+ },
+ "Enter what one sheet costs where you are. The airframe needs about {n} of them, and the sheet lines below follow your price; everything else stays a converted UK estimate. Leave it empty to use the estimate of {price}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Таны байгаа газарт нэг хуудас ямар үнэтэйг оруулна уу. Их биед ойролцоогоор {n} ширхэг хэрэгтэй бөгөөд доорх хуудасны мөрүүд таны үнийг дагана; бусад бүх зүйл хөрвүүлсэн UK тооцоо хэвээр үлдэнэ. {price} тооцоог ашиглахын тулд хоосон орхино уу."
+ },
+ "Epoxy primer + etch/alodine": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Эпокси праймер + идэвхжүүлэлт/alodine"
+ },
+ "Estimated": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тооцоолсон"
+ },
+ "Estimated flutter speed at least 1.2 × the design dive speed of {speed:Vd}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тооцоолсон флаттерын хурд дор хаяж 1.2 × загварын шумбах хурд {speed:Vd}."
+ },
+ "Every crease goes on the blank before anything is folded, the same order the origami book uses.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Юу ч нугалахаас өмнө нугалаа бүрийг бэлдэц дээр хийнэ, оригамийн номтой ижил дарааллаар."
+ },
+ "Every flange within ±0.5 mm of the drawing.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Фланц бүр зургаас ±0.5 mm дотор."
+ },
+ "Every folded blank, every rivet by grip, every AN bolt by step, plus tube stock, bought assemblies, consumables and tools. Each line has an estimated price. The same list is in BOM.csv and HARDWARE_BY_STEP.csv in the download.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нугалсан бэлдэц бүр, grip-ээр тав бүр, алхмаар AN боолт бүр, нэмээд хоолой, худалдаж авсан угсралт, хэрэглээний материал болон багаж. Мөр бүр тооцоолсон үнэтэй. Ижил жагсаалт татаж авах файлын BOM.csv ба HARDWARE_BY_STEP.csv-д байна."
+ },
+ "Every number on this site is a calculation. This is the plan for turning them into evidence: cheap coupon tests first, then components, then the whole wing, then the ground and finally the air. Each phase retires a specific risk before money is spent on the next. Results go back into the repository, and measured values replace the estimates in aircraft.yaml.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Энэ сайтын тоо бүр тооцоо юм. Энэ бол тэдгээрийг нотолгоо болгох төлөвлөгөө: эхлээд хямд дээжийн туршилт, дараа нь бүрэлдэхүүн хэсэг, дараа нь бүтэн далавч, дараа нь газар, эцэст нь агаар. Үе шат бүр дараагийнхад мөнгө зарцуулахаас өмнө тодорхой эрсдэлийг арилгана. Үр дүн репозитор руу буцаж, хэмжсэн утга нь aircraft.yaml дахь тооцоог орлоно."
+ },
+ "Every result, photo and failure goes into the repository.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үр дүн, зураг, эвдрэл бүр репозитор руу орно."
+ },
+ "Every steel fitting is also a flat blank folded at most twice.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ган бэхэлгээ бүр мөн хамгийн ихдээ хоёр удаа нугалсан хавтгай бэлдэц."
+ },
+ "Everything that goes into one aircraft": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нэг нисэх онгоцонд орох бүх зүйл"
+ },
+ "Exact": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Яг"
+ },
+ "Exchange rates: {date}, base GBP.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ханш: {date}, суурь GBP."
+ },
+ "Export BOM (.csv)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "BOM экспортлох (.csv)"
+ },
+ "Extinguisher and PLB": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Гал унтраагуур ба PLB"
+ },
+ "F-B1 Tailcone bulkhead x=1150": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B1 Сүүлний конусын хаалт x=1150"
+ },
+ "F-B2 Tailcone bulkhead x=1948": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B2 Сүүлний конусын хаалт x=1948"
+ },
+ "F-B3 Tailcone bulkhead x=2745": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B3 Сүүлний конусын хаалт x=2745"
+ },
+ "F-B4 Tailcone bulkhead x=3542": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B4 Сүүлний конусын хаалт x=3542"
+ },
+ "F-B5 Tailcone bulkhead x=4340 (tail post)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B5 Сүүлний конусын хаалт x=4340 (сүүлний багана)"
+ },
+ "F-CL Lower cowl (box-pleat pan to the cabin floor line)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-CL Доод бүрхүүл (бүхээгийн шалны шугам хүртэл хайрцаг нугалаатай тавиур)"
+ },
+ "F-CU Upper cowl (hood, two 90 deg folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-CU Дээд бүрхүүл (таг, хоёр 90 deg нугалаа)"
+ },
+ "F-DW Door (left, hinged) / side window (right, fixed)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-DW Хаалга (зүүн, нугастай) / хажуугийн цонх (баруун, тогтмол)"
+ },
+ "F-FA Front arch (main-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FA Урд нуман хаалга (үндсэн лонжероны хүрээ)"
+ },
+ "F-FL Floor tray with two hat pleats": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FL Хоёр малгай нугалаатай шалны тавиур"
+ },
+ "F-FW Firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FW Галын хана"
+ },
+ "F-FWN Front side window (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FWN Урд хажуугийн цонх (x2, толин тусгал)"
+ },
+ "F-IP Instrument panel (glare-shield fold, side tabs)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-IP Багажны самбар (гялбаанаас хамгаалах нугалаа, хажуугийн хэл)"
+ },
+ "F-NF Nose ring (prop-shaft hole + two cooling inlets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NF Хамрын цагираг (сэнсний голын нүх + хөргөлтийн хоёр оролт)"
+ },
+ "F-NL Nose bowl, chin (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NL Хамрын аяга, эрүү (3 нийлэх нүүр)"
+ },
+ "F-NU Nose bowl, upper (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NU Хамрын аяга, дээд (3 нийлэх нүүр)"
+ },
+ "F-RA Rear arch (rear-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-RA Арын нуман хаалга (арын лонжероны хүрээ)"
+ },
+ "F-SD Cabin side (x2, mirrored): door/window opening + front window": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-SD Бүхээгийн хажуу (x2, толин тусгал): хаалга/цонхны нүх + урд цонх"
+ },
+ "F-ST Seat (pan + back, one sheet)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-ST Суудал (суух хэсэг + түшлэг, нэг хуудас)"
+ },
+ "F-TB1 Tailcone belly, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TB1 Сүүлний конусын гэдэс, 1-р хэсэг"
+ },
+ "F-TB2 Tailcone belly, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TB2 Сүүлний конусын гэдэс, 2-р хэсэг"
+ },
+ "F-TS1 Tailcone side, section 1 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TS1 Сүүлний конусын хажуу, 1-р хэсэг (x2, толин тусгал)"
+ },
+ "F-TS2 Tailcone side, section 2 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TS2 Сүүлний конусын хажуу, 2-р хэсэг (x2, толин тусгал)"
+ },
+ "F-TT1 Tailcone top, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TT1 Сүүлний конусын дээд, 1-р хэсэг"
+ },
+ "F-TT2 Tailcone top, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TT2 Сүүлний конусын дээд, 2-р хэсэг"
+ },
+ "F-WS Windscreen (cold-bent flat polycarbonate)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-WS Салхины шил (хүйтнээр нугалсан хавтгай поликарбонат)"
+ },
+ "Faceted rib: every flange is a straight brake bend, no form block or fluting needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Талст хавирга: фланц бүр машин дээрх шулуун нугалаа, хэлбэржүүлэх блок эсвэл долгиолох шаардлагагүй."
+ },
+ "Fairleads and pulleys": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Чиглүүлэгч ба дамар"
+ },
+ "Fasteners": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бэхэлгээ"
+ },
+ "Fin nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Кильны хамрын хавирга"
+ },
+ "Fin skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Кильны бүрээс (нэг ороолт)"
+ },
+ "Fin spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Кильны лонжерон"
+ },
+ "Final-drill every Cleco'd hole to #30 (3.3 mm), a few at a time, moving each Cleco to the next hole as you go.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Cleco-тай нүх бүрийг #30 (3.3 mm) хүртэл эцсийн өрөмдөлт хийнэ, хэдийг нь зэрэг, явцад Cleco бүрийг дараагийн нүх рүү шилжүүлнэ."
+ },
+ "Fine felt marker, steel rule, square, MEK to clean": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нарийн маркер, ган шугам, өнцөгт, цэвэрлэх MEK"
+ },
+ "Finish: glue carpet on top of each beam so the wing skin can't be scratched. Load each stand with 40 kg and check it doesn't rack or rock. Keep the offcuts: they are your test pieces for the spar bend in step 2.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Төгсгөл: далавчны бүрээс зурагдахгүйн тулд дам нуруу бүрийн дээд талд хивс наана. Тавиур бүрийг 40 kg-аар ачаалж, мушгирах эсвэл ганхахгүй байгааг шалгана. Үлдэгдлийг хадгална: тэдгээр нь 2-р алхамын лонжероны нугалааны туршилтын хэсэг."
+ },
+ "Fire extinguisher 1 kg (clip by the left seat rail)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Гал унтраагуур 1 kg (зүүн суудлын төмөр замын дэргэд хавчаартай)"
+ },
+ "Firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Галын хана"
+ },
+ "Firewall flanges": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Галын хананы фланц"
+ },
+ "First flights": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Анхны нислэг"
+ },
+ "First-pass strength: +4 / −2 g, ×1.5 ultimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Анхан шатны бат бөх: +4 / −2 g, ×1.5 эвдрэх"
+ },
+ "Fit each rib by its attach flange: Cleco through the pilot holes into the spar web. Nose ribs go on the front face, main ribs on the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хавирга бүрийг бэхэлгээний фланцаар нь суулгана: чиглүүлэх нүхээр лонжероны хананд Cleco. Хамрын хавирга урд талд, үндсэн хавирга ар талд."
+ },
+ "Fit the axles, wheels and drum brakes. Castellated nut and cotter on each axle. The 21 x 8.00-6 tundra tyres run at 10-12 psi: check pressure before every flight, they are soft by design.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тэнхлэг, дугуй болон хүрдэн тоормосыг суулгана. Тэнхлэг бүрт титэм самар ба шплинт. 21 x 8.00-6 тундрын дугуй 10-12 psi-д ажиллана: нислэг бүрийн өмнө даралтыг шалгана, тэд зориуд зөөлөн."
+ },
+ "Fit the cabin roof and the centre-section upper skin, back-drilled through the root ribs. Use the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүхээгийн дээвэр болон төв хэсгийн дээд бүрээсийг үндэсний хавиргаар буцаан өрөмдөж суулгана. Тавлах давталтыг ашиглана."
+ },
+ "Fit the camlock receptacles on the firewall flange and along the split line. Trim the cowl until it clears the cylinders by at least 10 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Галын хананы фланц болон хуваах шугамын дагуу camlock-ийн үүрийг суулгана. Бүрхүүлийг цилиндрээс дор хаяж 10 mm зайтай болтол тайрна."
+ },
+ "Fit the jury struts (420 mm main, 425 mm rear) from the clamp ear to the jury-top clevis under the spar, AN3 at each end. They double the strut's buckling strength.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Туслах тулгуурыг (420 mm үндсэн, 425 mm арын) хавчаарын чихнээс лонжероны доорх туслах тулгуурын оройн сэрээ хүртэл, үзүүр бүрт AN3-аар суулгана. Тэд тулгуурын тахийлтын бат бөхийг хоёр дахин нэмэгдүүлнэ."
+ },
+ "Fit the sides outside the arches, firewall flange and floor flanges. Back-drill and Cleco.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хажуу талуудыг нуман хаалга, галын хананы фланц болон шалны фланцын гадна суулгана. Буцаан өрөмдөж Cleco хийнэ."
+ },
+ "Fit the stick, the aileron torque tube under the seat and the elevator bellcrank. Connect the stick to the bellcrank with a short pushrod.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бариул, суудлын доорх элероны мушгих хоолой болон өндрийн жолооны тохой хөшүүргийг суулгана. Бариулыг тохой хөшүүрэгт богино түлхүүр саваагаар холбоно."
+ },
+ "Five facets, chamfers matching the cabin floor. A louvre slot at the rear is the cooling-air exit.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Таван нүүр, ташуу нь бүхээгийн шалтай таарна. Ар талын жалюзи ангархай нь хөргөлтийн агаарын гарц."
+ },
+ "Flanges 90°, all toward the root": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Фланц 90°, бүгд үндэс рүү"
+ },
+ "Flanges all round fold aft; engine mount bolts through 4 doublers.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Эргэн тойрны фланц хойш нугална; хөдөлгүүрийн хүрээ 4 бэхжүүлэгчээр боолтлогдоно."
+ },
+ "Flanges follow the frustum taper (fold < 90 deg).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Фланц тайрсан конусын нарийсалтыг дагана (нугалаа < 90 deg)."
+ },
+ "Flanges follow the frustum taper (fold < 90 deg). Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Фланц тайрсан конусын нарийсалтыг дагана (нугалаа < 90 deg). Давхарласан: 0.020 in-ийн 2 шигтгэсэн давхарга, тусад нь нугалж нэг мэт тавлана; дотоод давхарга бүрт фланцын ирмэгээс 0.5 mm тайрна."
+ },
+ "Flanges follow the nose taper.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Фланц хамрын нарийсалтыг дагана."
+ },
+ "Flap lever (overhead, Kitfox-style)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хаалтны бариул (дээд, Kitfox маягийн)"
+ },
+ "Flap pushrod (wing) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хаалтны түлхүүр саваа (далавч) x2"
+ },
+ "Flap pushrod (wing) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хаалтны түлхүүр саваа (далавч) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Flap stall at or below 35 kt CAS, the SSDR limit; predicted {speed:Vs0}. Gentle stall, no wing drop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хаалттай хурд алдалт 35 kt CAS-аас ихгүй, SSDR хязгаар; таамаг {speed:Vs0}. Зөөлөн хурд алдалт, далавч унахгүй."
+ },
+ "Flaps and ailerons": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хаалт ба элерон"
+ },
+ "Flat panel; the top flange folds aft as a glare shield, side tabs fold forward onto the cabin sides. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хавтгай самбар; дээд фланц хойш нугалж гялбаанаас хамгаалах хавтан болно, хажуугийн хэлнүүд урагш нугалж бүхээгийн хажууд наалдана. Давхарласан: 0.020 in-ийн 2 шигтгэсэн давхарга, тусад нь нугалж нэг мэт тавлана; дотоод давхарга бүрт фланцын ирмэгээс 0.5 mm тайрна."
+ },
+ "Flat polycarbonate over the front cut-out, 20 mm lap, screws in 4.5 mm oversize holes.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Урд хайчилбарын дээр хавтгай поликарбонат, 20 mm давхцал, 4.5 mm томсгосон нүхэнд шураг."
+ },
+ "Flight test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нислэгийн туршилт"
+ },
+ "Floor tray with two hat pleats": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хоёр малгай нугалаатай шалны тавиур"
+ },
+ "Floor, firewall, arches": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Шал, галын хана, нуман хаалга"
+ },
+ "Flutter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Флаттер"
+ },
+ "Foam tape": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хөөсөн тууз"
+ },
+ "Fold 20 strips of 0.51 mm 6061-T6 at a 0.8 mm nose radius, across and along the grain. Inspect every bend under a 10× loupe.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "0.51 mm 6061-T6-ийн 20 туузыг 0.8 mm хамрын радиусаар, ширхэгийн дагуу болон хөндлөн нугална. Нугалаа бүрийг 10× томруулагчаар шалгана."
+ },
+ "Fold a 300 mm offcut of a rib and of a spar from the real DXFs and measure every flange.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бодит DXF-ээс хавирга болон лонжероны 300 mm үлдэгдлийг нугалж, фланц бүрийг хэмжинэ."
+ },
+ "Fold a 300 mm offcut of the same strip first and measure it to confirm the bend deduction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нугалааны хасалтыг баталгаажуулахын тулд эхлээд ижил туузны 300 mm үлдэгдлийг нугалж хэмжинэ."
+ },
+ "Fold all 52 ribs before assembling any: one brake set-up does the whole batch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Юуг ч угсрахаас өмнө бүх 52 хавиргыг нугална: машины нэг тохиргоо бүх багцыг хийнэ."
+ },
+ "Fold coupons": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нугалааны дээж"
+ },
+ "Fold each belly blank: bottom, both chamfers, then the side flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Гэдэсний бэлдэц бүрийг нугална: ёроол, хоёр ташуу, дараа нь хажуугийн фланц."
+ },
+ "Fold every rib flange 90° on the brake. Because the airfoil is faceted, each flange is one straight bend.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хавирганы фланц бүрийг машин дээр 90° нугална. Аэродинамик профиль талст тул фланц бүр нэг шулуун нугалаа."
+ },
+ "Fold the 12 clevises in the vise over a 5 mm radius block. Normalised 4130 needs at least 3t (Wanttaja).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "12 сэрээг хавчаарт 5 mm радиусын блок дээр нугална. Нормчилсон 4130-д дор хаяж 3t шаардлагатай (Wanttaja)."
+ },
+ "Fold the 90° top flange and the windscreen flange on each side panel. The top flange is the longeron.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хажуугийн самбар бүр дээр 90° дээд фланц болон салхины шилний фланцыг нугална. Дээд фланц нь уртааш дам нуруу."
+ },
+ "Fold the bulkhead flanges. They are 96–100°, not 90°, because they follow the taper.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хаалтын фланцыг нугална. Нарийсалтыг дагадаг тул 90° биш 96–100° байна."
+ },
+ "Fold the firewall flanges, all aft. It is stainless, so drill it slowly with a sharp bit and cutting oil.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Галын хананы фланцыг бүгдийг нь хойш нугална. Зэвэрдэггүй тул хурц хошуу болон огтлох тосоор удаан өрөмдөнө."
+ },
+ "Fold the floor tray's two hat pleats, then the chamfers and side flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Шалны тавиурын хоёр малгай нугалааг, дараа нь ташуу болон хажуугийн фланцыг нугална."
+ },
+ "Fold the instrument panel (glare shield and side tabs) and rivet it to the cabin sides at x = -400 mm. Fit the ASI, altimeter, tach, CHT/EGT, radio, master and mag switches and fuel valve, and put the compass on the glare shield.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Багажны самбарыг (гялбаанаас хамгаалах хавтан болон хажуугийн хэл) нугалж, бүхээгийн хажууд x = -400 mm-д тавлана. ASI, өндөр хэмжигч, тахометр, CHT/EGT, радио, үндсэн болон магнетогийн унтраалга, түлшний хавхлагыг суулгаж, луужинг гялбаанаас хамгаалах хавтан дээр тавина."
+ },
+ "Fold the ribs, Cleco them on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хавиргыг нугалж, Cleco-гоор бэхэлнэ"
+ },
+ "Fold the seat: pan and back from one sheet. Rivet its front lip to the floor and lean its back on the rear arch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Суудлыг нугална: суух хэсэг ба түшлэг нэг хуудаснаас. Урд уруулыг шалд тавлаж, түшлэгийг арын нуман хаалгад түшүүлнэ."
+ },
+ "Fold the spars": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Лонжероныг нугална"
+ },
+ "Fold the stabiliser and fin spars and their nose ribs.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тогтворжуулагч болон кильны лонжерон, тэдгээрийн хамрын хавиргыг нугална."
+ },
+ "Fold the trailing edge over a 0.6 mm radius bar in the brake, to about 165°. Squeeze gently in soft vise jaws until the TE is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Арын ирмэгийг машинд 0.6 mm радиусын саваан дээр ойролцоогоор 165° хүртэл нугална. TE шулуун болтол зөөлөн эрүүнд аажуухан шахна."
+ },
+ "Fold the two V-bead pleats in valley-mountain-valley order. Stop each bead at the marks.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хоёр V-ховилын нугалааг хөндий-уул-хөндий дарааллаар нугална. Ховил бүрийг тэмдэгт зогсооно."
+ },
+ "Fold the two arches: outer and inner flanges, all aft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хоёр нуман хаалгыг нугална: гадна болон дотор фланц, бүгд хойш."
+ },
+ "Fold the two caps first (90°), then the two lips. Overbend by about 2° so the 6061-T6 springs back to 90°.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Эхлээд хоёр тавиурыг (90°), дараа нь хоёр уруулыг нугална. 6061-T6 90° хүртэл буцаж хаврахын тулд ойролцоогоор 2° илүү нугална."
+ },
+ "Fold the upper and lower cowls (four 45° creases each) and the nose-bowl halves. Rivet the nose bowls to the nose ring.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Дээд болон доод бүрхүүлийг (тус бүр дөрвөн 45° нугалаа) болон хамрын аягын хагасуудыг нугална. Хамрын аягыг хамрын цагирагт тавлана."
+ },
+ "Folded blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нугалсан бэлдэц"
+ },
+ "Folds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нугалаа"
+ },
+ "Four brake bends each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тус бүр машин дээр дөрвөн нугалаа"
+ },
+ "Four identical surfaces from one blank. The trailing edge is a single crease, so there's no separate strip to rivet on.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нэг бэлдэцээс дөрвөн ижил гадаргуу. Арын ирмэг нь нэг нугалаа тул тусдаа тууз тавлах шаардлагагүй."
+ },
+ "Four stands, 20 blanks, about 200 rivets. The cheapest place to learn to fold, drill and rivet is a part that never leaves the ground.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Дөрвөн тавиур, 20 бэлдэц, ойролцоогоор 200 тав. Нугалах, өрөмдөх, тавлахыг сурах хамгийн хямд газар бол газраас хэзээ ч хөндийрөхгүй эд анги."
+ },
+ "Free play under 1° at each surface, and full travel with no binding under load.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Гадаргуу бүрт сул зай 1°-аас бага, ачаалалтай үед гацахгүй бүтэн явалт."
+ },
+ "Front arch (main-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Урд нуман хаалга (үндсэн лонжероны хүрээ)"
+ },
+ "Front side window (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Урд хажуугийн цонх (x2, толин тусгал)"
+ },
+ "Front side windows: screw over the cut-outs with a 20 mm lap.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Урд хажуугийн цонх: хайчилбарын дээр 20 mm давхцалтай шургална."
+ },
+ "Frustum facets aimed at one point, so every crease is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тайрсан конусын нүүр нэг цэг рүү чиглэсэн тул нугалаа бүр шулуун."
+ },
+ "Fuel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Түлш"
+ },
+ "Fuel allowed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Зөвшөөрөгдөх түлш"
+ },
+ "Fuel and payload": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Түлш ба ашигт ачаа"
+ },
+ "Fuel feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Түлшний тэжээл"
+ },
+ "Fuel filler neck + cap (through the hood, ahead of the windscreen)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Түлшний цэнэглэх хүзүү + таг (тагаар дамжин, салхины шилний өмнө)"
+ },
+ "Fuel selector valve: HEADER / AUX / OFF": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Түлшний сэлгэх хавхлага: HEADER / AUX / OFF"
+ },
+ "Fuel system parts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Түлшний системийн эд анги"
+ },
+ "Fuel tank 19 L (rotomoulded polyethylene): header tank behind the firewall, ahead of the panel, Cub-style": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Түлшний сав 19 L (эргэлтийн цутгамал полиэтилен): галын хананы ард, самбарын өмнө үндсэн сав, Cub маягаар"
+ },
+ "Fuel tank 19 L (rotomoulded) + lines, valve, gascolator": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Түлшний сав 19 L (эргэлтийн цутгамал) + шугам, хавхлага, тунгаагуур"
+ },
+ "Fuel, aux tank: a second 20 L tank strap-mounts high behind the seat, its bottom above the header tank top so it also gravity-feeds. Its line runs forward along the left roof rail to the selector; filler through the left cabin side, vent overboard under the roof. Never in the wings. Fill it only as far as the 300 kg MTOW allows: with a 100 kg pilot that is none at all. Burn the aux tank first, which keeps the CG moving forward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Түлш, нэмэлт сав: хоёр дахь 20 L савыг суудлын ард өндөрт оосроор бэхэлнэ, ёроол нь үндсэн савны оройноос дээр байх тул мөн өөрийн урсгалаар тэжээнэ. Шугам нь дээврийн зүүн төмөр замын дагуу урагш сэлгэгч хүртэл явна; цэнэглэх ам бүхээгийн зүүн талаар, агааржуулалт дээврийн доор гадагш. Хэзээ ч далавчинд биш. 300 kg MTOW зөвшөөрөх хэмжээгээр л дүүргэнэ: 100 kg нисгэгчтэй бол огт байхгүй. Нэмэлт савыг эхэлж зарцуулна, энэ нь CG-г урагш хөдөлгөнө."
+ },
+ "Fuel, header tank: the 19 L rotomoulded tank sits behind the firewall, above the pilot's shins and under the windscreen, strapped to two angles riveted to the side panels (as on a J-3 Cub). It gravity-feeds: tank outlet, selector valve (HEADER / AUX / OFF), a fire-sleeved hose through a firewall grommet, the gascolator on the firewall, then the carburettor. The tank bottom is about 200 mm above the carburettor. The filler neck comes up through the hood just ahead of the windscreen, and the vent runs forward under the hood.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Түлш, үндсэн сав: 19 L эргэлтийн цутгамал сав галын хананы ард, нисгэгчийн шилбэний дээр болон салхины шилний доор байрлах ба хажуугийн самбарт тавласан хоёр өнцөгт оосроор бэхлэгдсэн (J-3 Cub шиг). Өөрийн урсгалаар тэжээнэ: савны гарц, сэлгэх хавхлага (HEADER / AUX / OFF), галын хананы бутаар галд тэсвэртэй хоолой, галын хананд тунгаагуур, дараа нь карбюратор. Савны ёроол карбюратороос ойролцоогоор 200 mm өндөр. Цэнэглэх хүзүү салхины шилний яг өмнө тагаар гарч ирэх ба агааржуулалт тагны доор урагш явна."
+ },
+ "Gascolator (fuel strainer) on the firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тунгаагуур (түлшний шүүлтүүр) галын хананд"
+ },
+ "Glide L/D": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Гулсалтын L/D"
+ },
+ "Ground": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Газар"
+ },
+ "Ground vibration test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Газрын чичиргээний туршилт"
+ },
+ "Half-VW engine": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Half-VW хөдөлгүүр"
+ },
+ "Half-VW engine, dressed (carb, mag, exhaust)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Half-VW хөдөлгүүр, тоноглосон (карбюратор, магнето, яндан)"
+ },
+ "Hang the elevators and rudder on piano hinges. Check ±25° rudder travel clears the elevator halves.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Өндрийн жолоо ба чиглэлийн жолоог төгөлдөр хуурын нугаснаас өлгөнө. Чиглэлийн жолооны ±25° явалт өндрийн жолооны хагасуудад хүрэхгүй байгааг шалгана."
+ },
+ "Hang the half-VW on rubber isolators (4 x AN5).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Half-VW-г резин тусгаарлагч дээр (4 x AN5) өлгөнө."
+ },
+ "Hangar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ангар"
+ },
+ "Hardware": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бэхэлгээ"
+ },
+ "Hardware for this step": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Энэ алхамын бэхэлгээ"
+ },
+ "Harness anchors to floor and rear arch, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Оосрын бэхэлгээ шал болон арын нуман хаалгад, 4"
+ },
+ "Hat pleats 56°, flanges 90°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Малгай нугалаа 56°, фланц 90°"
+ },
+ "Have a BMAA or LAA inspector look at it before the first flight. Do first flights in calm air, over a long field.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Анхны нислэгээс өмнө BMAA эсвэл LAA байцаагчаар үзүүлнэ. Анхны нислэгийг тайван агаарт, урт талбайн дээгүүр хийнэ."
+ },
+ "Head": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Толгой"
+ },
+ "Header tank full": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндсэн сав дүүрэн"
+ },
+ "Holds ultimate load for 3 s in both directions.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Эвдрэх ачааллыг хоёр чиглэлд 3 s тэсвэрлэнэ."
+ },
+ "Holds ultimate load for 3 s. Peak cap stress {stress:ms_sig} against an allowable of {stress:ms_cc}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Эвдрэх ачааллыг 3 s тэсвэрлэнэ. Тавиурын оргил хүчдэл {stress:ms_sig}, зөвшөөрөгдөх {stress:ms_cc}-тэй харьцуулахад."
+ },
+ "Holds {force:strut_T} in tension and {force:strut_C} in compression with no failure.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Суналтад {force:strut_T}, шахалтад {force:strut_C}-г эвдрэлгүй тэсвэрлэнэ."
+ },
+ "Honesty": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Шударга байдал"
+ },
+ "Horn: rod end bolts through the outer hole (AN3).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хөшүүрэг: саваа үзүүр гадна нүхээр боолтлогдоно (AN3)."
+ },
+ "Horns, bellcranks and brackets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хөшүүрэг, тохой хөшүүрэг болон кронштейн"
+ },
+ "How it gets proven": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хэрхэн нотлогддог вэ"
+ },
+ "Imperial": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Империал"
+ },
+ "Inspect each rivet: head seated flat, mandrel broken off flush, no gap under the head.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тав бүрийг шалгана: толгой хавтгай суусан, гол нь тэгш хугарсан, толгойн доор зай байхгүй."
+ },
+ "Inspection": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үзлэг"
+ },
+ "Inspector sign-off before the aircraft is flown by anyone else.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нисэх онгоцыг өөр хэн нэгэн нисэхээс өмнө байцаагчийн баталгаа."
+ },
+ "Instructions": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Заавар"
+ },
+ "Instrument panel (glare-shield fold, side tabs)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Багажны самбар (гялбаанаас хамгаалах нугалаа, хажуугийн хэл)"
+ },
+ "Instruments (ASI, alt, tach, CHT, compass)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Багаж (ASI, өндөр хэмжигч, тахометр, CHT, луужин)"
+ },
+ "Inverted wing on its fittings, sandbags laid out to the spanwise lift distribution, to +4 g limit and then −2 g. Measure tip deflection at each step.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Урвуу далавч өөрийн бэхэлгээн дээр, элсний уутыг далавчны дагуух өргөх хүчний тархалтаар байрлуулж, +4 g хязгаар хүртэл, дараа нь −2 g. Алхам бүрт үзүүрийн хазайлтыг хэмжинэ."
+ },
+ "Item": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Зүйл"
+ },
+ "Jury strut 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Туслах тулгуур 0.75 x 0.049 in"
+ },
+ "Jury strut x2 (main)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Туслах тулгуур x2 (үндсэн)"
+ },
+ "Jury strut x2 (main): 6061-T6 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Туслах тулгуур x2 (үндсэн): 6061-T6 0.75 x 0.049 in"
+ },
+ "Jury strut x2 (rear)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Туслах тулгуур x2 (арын)"
+ },
+ "Jury strut x2 (rear): 6061-T6 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Туслах тулгуур x2 (арын): 6061-T6 0.75 x 0.049 in"
+ },
+ "Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Туслах тулгуурын эмээл хавчаар, 4130 0.063in (чихтэй өнхрүүлсэн хагас бүрхүүл)"
+ },
+ "K-BC Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-BC Тохой хөшүүргийн ялтас, 4130 0.063in (хосоор, 55 mm гар)"
+ },
+ "K-CV Clevis, 4130 0.063in (U, two folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-CV Сэрээ, 4130 0.063in (U, хоёр нугалаа)"
+ },
+ "K-HD Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HD Өндрийн жолооны хөшүүрэг, 4130 0.063in (хоёр үзүүртэй, өндрийн жолооны мушгих хоолой дээр)"
+ },
+ "K-HN Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HN Элерон / хаалтны хөшүүрэг, 4130 0.063in (доод бүрээс дээр нэг нугалаа)"
+ },
+ "K-HR Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HR Чиглэлийн жолооны хөшүүрэг, 4130 0.063in (хавтгай, тал бүрт трос)"
+ },
+ "K-JC Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-JC Туслах тулгуурын эмээл хавчаар, 4130 0.063in (чихтэй өнхрүүлсэн хагас бүрхүүл)"
+ },
+ "K-TG Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-TG Лонжероны үндэсний хэл, 4130 0.063in (хавтгай, хананы хоёр талд хосоор)"
+ },
+ "Laminate: each channel is two blanks. Fold both separately, nest the inner one inside the outer one, and check they sit tight with no gap. If the inner one fights, take 0.5 mm off its flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Давхарга: суваг бүр хоёр бэлдэц. Хоёуланг нь тусад нь нугалж, дотоодыг гаднынх руу шигтгэж, зайгүй нягт суусныг шалгана. Дотоод нь орохгүй бол фланцын ирмэгээс 0.5 mm тайрна."
+ },
+ "Laminated channel crippling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Давхарласан сувгийн орон нутгийн тогтвортой байдал алдах"
+ },
+ "Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Давхарласан: 0.020 in-ийн 2 шигтгэсэн давхарга, тусад нь нугалж нэг мэт тавлана; дотоод давхарга бүрт фланцын ирмэгээс 0.5 mm тайрна."
+ },
+ "Landing gear and tailwheel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Явах эд анги ба сүүлний дугуй"
+ },
+ "Landing roll": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Буултын гүйлт"
+ },
+ "Language": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хэл"
+ },
+ "Laps 30 mm under the upper skin at 8% chord.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Дээд бүрээсний доор хөвчийн 8%-д 30 mm давхцана."
+ },
+ "Laser / waterjet cutting service": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Лазер / усан тийрэлтэт огтлох үйлчилгээ"
+ },
+ "Lay the spars on a flat table, webs vertical, 3.6 m apart for the two wings.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Лонжероныг хавтгай ширээн дээр, ханыг босоо, хоёр далавчинд 3.6 m зайтай тавина."
+ },
+ "Leans on the rear arch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Арын нуман хаалгад түшнэ."
+ },
+ "Leave the protective film on. Drill the polycarbonate with plastic bits, holes 6 mm for M4 screws so it can expand.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хамгаалалтын хальсыг үлдээнэ. Поликарбонатыг хуванцар огтлох хошуугаар өрөмдөнө, тэлэх боломжтой байхаар M4 шурагт 6 mm нүх."
+ },
+ "Left door front edge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Зүүн хаалганы урд ирмэг"
+ },
+ "Licence": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Лиценз"
+ },
+ "Lift strut (main) 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндсэн тулгуур 1.75 x 0.065 in"
+ },
+ "Lift strut (rear) 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Арын тулгуур 1.75 x 0.065 in"
+ },
+ "Lift strut, tension": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тулгуур, суналт"
+ },
+ "Lift strut, −2 g buckling (with jury strut)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тулгуур, −2 g тахийлт (туслах тулгууртай)"
+ },
+ "Lift struts and jury struts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тулгуур ба туслах тулгуур"
+ },
+ "Line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Мөр"
+ },
+ "Lipped channels: four 90° brake bends each, two nested layers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Уруултай суваг: тус бүр машин дээр дөрвөн 90° нугалаа, хоёр шигтгэсэн давхарга"
+ },
+ "Load each linkage part to 1.5 × the BCAR Section S pilot loads at the stick and pedals.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хөдөлгүүрийн эд анги бүрийг бариул болон дөрөө дээр BCAR Section S нисгэгчийн ачааллын 1.5 × хүртэл ачаална."
+ },
+ "Local-price estimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Орон нутгийн үнийн тооцоо"
+ },
+ "Local-price estimate for {country}, in {currency}, before any local sales tax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "{country}-ийн орон нутгийн үнийн тооцоо, {currency}-аар, орон нутгийн борлуулалтын татвараас өмнө."
+ },
+ "Local-price estimate for {country}, in {currency}, including {tax} % VAT, GST or sales tax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "{country}-ийн орон нутгийн үнийн тооцоо, {currency}-аар, {tax} % VAT, GST эсвэл борлуулалтын татвар орсон."
+ },
+ "Low-speed taxi, then fast taxi with the tail up, on the intended test field.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Туршилтын талбайд удаан таксидалт, дараа нь сүүлээ өргөсөн хурдан таксидалт."
+ },
+ "Lower cowl (box-pleat pan to the cabin floor line)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Доод бүрхүүл (бүхээгийн шалны шугам хүртэл хайрцаг нугалаатай тавиур)"
+ },
+ "Lower skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Доод бүрээс, 1-р тасаг"
+ },
+ "Lower skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Доод бүрээс, 2-р тасаг"
+ },
+ "Lower skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Доод бүрээс, 3-р тасаг"
+ },
+ "Lower skins": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Доод бүрээс"
+ },
+ "M4 pan screw, nylon washer, M4 Nyloc nut, 6 mm oversize hole in polycarbonate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "M4 хавтгай толгойт шураг, нейлон жийргэвч, M4 Nyloc самар, поликарбонатад 6 mm томсгосон нүх"
+ },
+ "MEK / cleaner, Scotch-Brite, gloves": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "MEK / цэвэрлэгч, Scotch-Brite, бээлий"
+ },
+ "Main gear leg x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндсэн явах эд ангийн хөл x2"
+ },
+ "Main gear leg x2: 6061-T6 bar 75 x 16 mm": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндсэн явах эд ангийн хөл x2: 6061-T6 саваа 75 x 16 mm"
+ },
+ "Main gear legs through floor doubler, 2 per leg": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндсэн явах эд ангийн хөлийг шалны бэхжүүлэгчээр, хөл бүрт 2"
+ },
+ "Main gear spring leg (6061-T6 bar)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндсэн явах эд ангийн пүрштэй хөл (6061-T6 саваа)"
+ },
+ "Main gear: 2 spring legs + axles": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндсэн явах эд анги: 2 пүрштэй хөл + тэнхлэг"
+ },
+ "Main lift strut x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндсэн тулгуур x2"
+ },
+ "Main lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндсэн тулгуур x2: 6061-T6 1.75 x 0.065 in"
+ },
+ "Main rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндсэн хавирга"
+ },
+ "Main rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндсэн хавирга, үндэс/үзүүр"
+ },
+ "Main spar (lipped C, opens aft)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндсэн лонжерон (уруултай C, хойшоо нээлттэй)"
+ },
+ "Main spar section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндсэн лонжероны огтлол"
+ },
+ "Main spar web shear, limit": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндсэн лонжероны хананы шилжилт, хязгаар"
+ },
+ "Main spar: lipped C, three layers of 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндсэн лонжерон: уруултай C, 0.020 in-ийн гурван давхарга"
+ },
+ "Main wheel: 21 x 8.00-6 tundra tyre at 10-12 psi": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндсэн дугуй: 21 x 8.00-6 тундрын дугуй 10-12 psi-д"
+ },
+ "Main wheels": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндсэн дугуй"
+ },
+ "Margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нөөц"
+ },
+ "Mark fold lines on the marked face: red dashed = valley, blue dash-dot = mountain. Use a fine felt marker, never a scribe (Wanttaja: scribe lines start cracks).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тэмдэглэсэн тал дээр нугалааны шугамыг тэмдэглэнэ: улаан тасархай = хөндий, цэнхэр зураас-цэг = уул. Нарийн маркер ашиглана, хэзээ ч зураас татагч бүү ашигла (Wanttaja: зураасны шугам хагарал үүсгэдэг)."
+ },
+ "Mark folds with felt pen, never a scribe": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нугалааг маркероор тэмдэглэ, хэзээ ч зураас татагчаар бүү"
+ },
+ "Mark the folds: red dashed is a valley, blue dash-dot is a mountain. Felt marker on the marked face only, never a scribe.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нугалааг тэмдэглэнэ: улаан тасархай нь хөндий, цэнхэр зураас-цэг нь уул. Маркерыг зөвхөн тэмдэглэсэн талд, хэзээ ч зураас татагч бүү."
+ },
+ "Mass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Масс"
+ },
+ "Mass balance weights": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Массын тэнцвэржүүлэх ачаа"
+ },
+ "Mass-balance each aileron with lead on an arm ahead of the hinge until it hangs level, before it goes on the aircraft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Элерон бүрийг онгоцонд суулгахаас өмнө, нугаснаас урдах гар дээрх хар тугалгаар хэвтээ өлгөгдөх хүртэл тэнцвэржүүлнэ."
+ },
+ "Mass-balance horn at outboard end.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Гадна үзүүрт массын тэнцвэржүүлэх гар."
+ },
+ "Mean strength at or above the value used in design, scatter under 10 %.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Дундаж бат бөх загварт ашигласан утгаас багагүй, тархалт 10 %-аас бага."
+ },
+ "Measure gravity flow from each tank, with the aircraft at its steepest climb attitude plus margin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Онгоцыг хамгийн эгц өгсөлтийн байрлал дээр нэмэх нөөцтэйгөөр байлгаж, сав бүрээс өөрийн урсгалын хэмжээг хэмжинэ."
+ },
+ "Measure twist under a known torque at the tip rib.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үзүүрийн хавирганд мэдэгдэх мушгих моментын дор мушгиралтыг хэмжинэ."
+ },
+ "Measured climb, cruise and glide recorded against the predictions on the numbers tab.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хэмжсэн өгсөлт, аялал, гулсалтыг тоонуудын табын таамагтай харьцуулан бүртгэнэ."
+ },
+ "Measured values replace estimates in aircraft.yaml, and the build manual is revised.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хэмжсэн утга нь aircraft.yaml дахь тооцоог орлож, бүтээх гарын авлагыг шинэчилнэ."
+ },
+ "Member": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Элемент"
+ },
+ "Method": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Арга"
+ },
+ "Metric": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Метрийн"
+ },
+ "Mid CG, calm air, long field, circuit height only, an experienced test pilot.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Дунд CG, тайван агаар, урт талбай, зөвхөн тойргийн өндөр, туршлагатай туршилтын нисгэгч."
+ },
+ "Month 10": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "10-р сар"
+ },
+ "Month 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "4-р сар"
+ },
+ "Month 5": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "5-р сар"
+ },
+ "Months 2–3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "2–3-р сар"
+ },
+ "Months 6–9": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "6–9-р сар"
+ },
+ "Move the CG from forward to aft in steps, checking stick-free stability at each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CG-г урдаас хойш алхамаар шилжүүлж, тус бүрт чөлөөт бариултай тогтвортой байдлыг шалгана."
+ },
+ "Nicopress sleeve + thimble (1/8 in cable)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nicopress ханцуй + коуш (1/8 in трос)"
+ },
+ "Nicopress tool + cable cutter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nicopress хэрэгсэл + трос огтлогч"
+ },
+ "No cracks, and springback within 2° of prediction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хагарал байхгүй, буцаж хаврах нь таамагаас 2° дотор."
+ },
+ "No flutter or buzz up to {speed:Vne}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "{speed:Vne} хүртэл флаттер эсвэл чичиргээ байхгүй."
+ },
+ "No permanent set after unloading. Deflection within 15 % of prediction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ачааллаас чөлөөлсний дараа үлдэгдэл хэв гажилт байхгүй. Хазайлт таамагаас 15 % дотор."
+ },
+ "No permanent set at limit, no failure at ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хязгаарт үлдэгдэл хэв гажилт байхгүй, эвдрэх ачааллаар эвдрэл байхгүй."
+ },
+ "No physical part has been cut. Fold one rib and one spar offcut first to check the bend deduction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ямар ч бодит эд анги огтлоогүй байна. Нугалааны хасалтыг шалгахын тулд эхлээд нэг хавирга ба нэг лонжероны үлдэгдлийг нугална."
+ },
+ "No yield at limit load, no failure at ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хязгаарын ачааллаар урсалт байхгүй, эвдрэх ачааллаар эвдрэл байхгүй."
+ },
+ "Nose bowl, chin (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хамрын аяга, эрүү (3 нийлэх нүүр)"
+ },
+ "Nose bowl, upper (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хамрын аяга, дээд (3 нийлэх нүүр)"
+ },
+ "Nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хамрын хавирга"
+ },
+ "Nose rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хамрын хавирга, үндэс/үзүүр"
+ },
+ "Nose ring (prop-shaft hole + two cooling inlets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хамрын цагираг (сэнсний голын нүх + хөргөлтийн хоёр оролт)"
+ },
+ "Nose rolled over 75 mm tube": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хамрыг 75 mm хоолой дээр өнхрүүлсэн"
+ },
+ "Nose zone is rolled over a 75 mm tube; aft creases are soft brake hits (2-6 deg).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хамрын бүсийг 75 mm хоолой дээр өнхрүүлнэ; арын нугалаа нь машины зөөлөн цохилт (2-6 deg)."
+ },
+ "Not analysed yet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Одоогоор шинжлээгүй"
+ },
+ "Not proven": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нотлогдоогүй"
+ },
+ "Notes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тэмдэглэл"
+ },
+ "One 90 degree flange stiffens the free edge. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нэг 90 градусын фланц чөлөөт ирмэгийг хатууруулна. Давхарласан: 0.020 in-ийн 2 шигтгэсэн давхарга, тусад нь нугалж нэг мэт тавлана; дотоод давхарга бүрт фланцын ирмэгээс 0.5 mm тайрна."
+ },
+ "One hour of progressive ground running, with cylinder head and exhaust temperatures logged.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Цилиндрийн толгой болон яндангийн температурыг бүртгэн, нэг цагийн турш газар дээр аажмаар ажиллуулна."
+ },
+ "One-wrap skins, sharp trailing edges": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нэг ороолттой бүрээс, хурц арын ирмэг"
+ },
+ "Open-source aircraft": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нээлттэй эхийн нисэх онгоц"
+ },
+ "Order as 12 ft strip. Lips turn the free flange edges into supported edges (k 0.43 -> ~4). Laminated: 3 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "12 ft тууз болгон захиална. Уруул нь фланцын чөлөөт ирмэгийг тулгууртай ирмэг болгоно (k 0.43 -> ~4). Давхарласан: 0.020 in-ийн 3 шигтгэсэн давхарга, тусад нь нугалж нэг мэт тавлана; дотоод давхарга бүрт фланцын ирмэгээс 0.5 mm тайрна."
+ },
+ "Paint": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Будаг"
+ },
+ "Paint, then weigh on three scales in the level attitude. Work out the empty CG and check every loading case falls inside the design range in DESIGN_REPORT.md (about 28–33 % MAC).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Будаад, хэвтээ байрлалд гурван жин дээр жигнэнэ. Хоосон CG-г тооцоолж, ачааллын тохиолдол бүр DESIGN_REPORT.md дахь загварын хүрээнд (ойролцоогоор 28–33 % MAC) багтаж байгааг шалгана."
+ },
+ "Panel: glare-shield fold 90°, side tabs 90°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Самбар: гялбаанаас хамгаалах нугалаа 90°, хажуугийн хэл 90°"
+ },
+ "Parts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Эд анги"
+ },
+ "Pass when": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тэнцэх нөхцөл"
+ },
+ "Performance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Гүйцэтгэл"
+ },
+ "Phases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үе шат"
+ },
+ "Piano hinge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Төгөлдөр хуурын нугас"
+ },
+ "Piano hinge MS20001 + door latch": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Төгөлдөр хуурын нугас MS20001 + хаалганы түгжээ"
+ },
+ "Pilot": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нисгэгч"
+ },
+ "Pilot (95th pct, for scale)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нисгэгч (95-р перцентиль, масштабад)"
+ },
+ "Pilot, fuel and baggage share one budget: maximum take-off mass minus empty mass. Both tanks are in the cabin, never in the wings: an 18 L header tank behind the firewall and a 20 L aux tank high behind the seat, both gravity-fed through one selector. A light pilot can fill both. A heavy pilot gets the header tank or less. Burn the aux tank first.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нисгэгч, түлш, ачаа нэг төсвийг хуваалцана: хамгийн их хөөрөх масс хасах хоосон масс. Хоёр сав хоёулаа бүхээгт, хэзээ ч далавчинд биш: галын хананы ард 18 L үндсэн сав ба суудлын ард өндөрт 20 L нэмэлт сав, хоёулаа нэг сэлгэгчээр өөрийн урсгалаар тэжээнэ. Хөнгөн нисгэгч хоёуланг нь дүүргэж болно. Хүнд нисгэгч үндсэн сав эсвэл түүнээс бага авна. Нэмэлт савыг эхэлж зарцуулна."
+ },
+ "Pitot tube (left wing, ahead of the LE)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Пито хоолой (зүүн далавч, LE-ийн өмнө)"
+ },
+ "Pitot-static: pitot tube under the left wing at the 1.2 m rib. Run its line inside the wing ahead of the main spar to the root and down the A-pillar to the ASI. A static port on the left cabin side feeds the altimeter and ASI. Secure everything with Adel clamps every 300 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Пито-статик: зүүн далавчны доор 1.2 m хавирганд пито хоолой. Шугамыг далавчин дотор үндсэн лонжероны өмнүүр үндэс хүртэл, A-баганаар доош ASI хүртэл татна. Бүхээгийн зүүн талын статик нүх өндөр хэмжигч болон ASI-г тэжээнэ. Бүгдийг 300 mm тутамд Adel хавчаараар бэхэлнэ."
+ },
+ "Planar: no forming, drill with plastic-cutting bits, slotted holes for expansion.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хавтгай: хэлбэржүүлэлтгүй, хуванцар огтлох хошуугаар өрөмдөнө, тэлэлтэд зориулсан урт нүх."
+ },
+ "Plastic-cutting drill bits / step drill": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хуванцар огтлох өрмийн хошуу / шаталсан өрөм"
+ },
+ "Positive stability at the aft limit; predicted minimum static margin {pct:SM_min}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Арын хязгаарт эерэг тогтвортой байдал; таамагласан хамгийн бага статик нөөц {pct:SM_min}."
+ },
+ "Press or bolt a 4130 end fork into each tube end. Drill the AN5 pin hole after the final length check on the aircraft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хоолойн үзүүр бүрт 4130 үзүүрийн сэрээг шахаж эсвэл боолтлоно. AN5 хадаасны нүхийг онгоцон дээр эцсийн уртыг шалгасны дараа өрөмдөнө."
+ },
+ "Prime the faying surfaces: Scotch-Brite, wash, etch or alodine, then epoxy primer. Wear gloves (Wanttaja: finger oils stop primer sticking).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Шүргэлцэх гадаргууг праймердана: Scotch-Brite, угаах, идэвхжүүлэх эсвэл alodine, дараа нь эпокси праймер. Бээлий өмсөнө (Wanttaja: хурууны тос праймерыг наалдуулахгүй)."
+ },
+ "Primer part: two nested layers folded on the brake and riveted as one. Glue carpet on the web. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Эхлэлийн эд анги: машин дээр нугалж нэг мэт тавласан хоёр шигтгэсэн давхарга. Хананд хивс наана. Давхарласан: 0.020 in-ийн 2 шигтгэсэн давхарга, тусад нь нугалж нэг мэт тавлана; дотоод давхарга бүрт фланцын ирмэгээс 0.5 mm тайрна."
+ },
+ "Primer: build the wing stands": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Эхлэл: далавчны тавиур бүтээх"
+ },
+ "Proof-load the wing upside down with sandbags to +4 g limit load, spread spanwise. It must show no permanent set.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Далавчийг урвуугаар элсний уутаар далавчны дагуу тараасан +4 g хязгаарын ачаалал хүртэл туршина. Үлдэгдэл хэв гажилт байх ёсгүй."
+ },
+ "Prop drive hub (flange)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сэнсний хөтлөх төв (фланц)"
+ },
+ "Propeller 54 in wood + hub": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сэнс 54 in мод + төв"
+ },
+ "Propeller 54 x 24 in, laminated wood (download the model)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сэнс 54 x 24 in, давхарласан мод (загварыг татаж авна)"
+ },
+ "Propeller hub, 6": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сэнсний төв, 6"
+ },
+ "Publish": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нийтлэх"
+ },
+ "Pull a complete strut with its clevises and tangs to ultimate tension, then buckle a second at −2 g with the jury strut fitted.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүтэн тулгуурыг сэрээ, хэлтэй нь эвдрэх суналт хүртэл татаж, дараа нь хоёр дахийг туслах тулгууртайгаар −2 g-д тахийлгана."
+ },
+ "Push the AN5 root pins through. Fit castellated nuts and cotter pins.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 үндэсний хадаасыг шургуулна. Титэм самар болон шплинт суулгана."
+ },
+ "Put in the aft soft creases first.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Эхлээд арын зөөлөн нугалааг хийнэ."
+ },
+ "Put in the soft creases with a light brake hit, or by hand over a straight-edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Зөөлөн нугалааг машины хөнгөн цохилтоор эсвэл гараар шулуун ирмэг дээр хийнэ."
+ },
+ "Qty": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тоо"
+ },
+ "Qualification": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Мэргэшүүлэлт"
+ },
+ "Quarter-turn camlock (Dzus) + receptacle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Дөрөвний нэг эргэлтийн camlock (Dzus) + үүр"
+ },
+ "RADIO instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "RADIO багаж"
+ },
+ "Range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нислэгийн зай"
+ },
+ "Ream the pin holes to 5/16 in and the bolt holes to 1/4 in and 3/16 in, through both ears at once so they line up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хадаасны нүхийг 5/16 in, боолтны нүхийг 1/4 in ба 3/16 in хүртэл, хоёр чихээр зэрэг өргөсгөж давхцуулна."
+ },
+ "Rear arch (rear-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Арын нуман хаалга (арын лонжероны хүрээ)"
+ },
+ "Rear lift strut x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Арын тулгуур x2"
+ },
+ "Rear lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Арын тулгуур x2: 6061-T6 1.75 x 0.065 in"
+ },
+ "Rear spar (lipped C, opens forward)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Арын лонжерон (уруултай C, урагшаа нээлттэй)"
+ },
+ "Rear spar section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Арын лонжероны огтлол"
+ },
+ "Rear spar: lipped C, two layers of 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Арын лонжерон: уруултай C, 0.020 in-ийн хоёр давхарга"
+ },
+ "Reassemble on Clecos, then pull the rivets from the middle of each joint outward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Cleco дээр буцааж угсраад, холбоос бүрийн дундаас гадагш тавлана."
+ },
+ "Ribs, skin buckling, fittings, landing gear, tail loads, the engine mount and flutter. Mass-balance every control surface.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хавирга, бүрээсний тахийлт, бэхэлгээ, явах эд анги, сүүлний ачаалал, хөдөлгүүрийн хүрээ болон флаттер. Удирдлагын гадаргуу бүрийг тэнцвэржүүлнэ."
+ },
+ "Right side: fixed window over the door opening. Left side: the same blank on a piano hinge at its front edge, with a latch at the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Баруун тал: хаалганы нүхний дээр тогтмол цонх. Зүүн тал: ижил бэлдэц урд ирмэгтээ төгөлдөр хуурын нугастай, ард нь түгжээтэй."
+ },
+ "Rivet joints": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тавлах холбоос"
+ },
+ "Rivet strength in thin sheet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нимгэн хуудсан дахь тавны бат бөх"
+ },
+ "Rivet the piano hinge to the spar top, then hang the surface on the rear spar.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Төгөлдөр хуурын нугасыг лонжероны оройд тавлаад, гадаргууг арын лонжеронд өлгөнө."
+ },
+ "Rivet: pull 1/8 in blind rivets, working from the middle of each row outwards and swapping clecos for rivets one at a time. A good rivet sits flat, with no gap under the head. Drill out any bad one with a #30 bit and try again: practise this on purpose at least once.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тавлах: 1/8 in сохор тавыг эгнээ бүрийн дундаас гадагш, Cleco-г нэг нэгээр нь таваар солин татна. Сайн тав хавтгай сууж, толгойн доор зай байхгүй. Мууг #30 хошуугаар өрөмдөж гаргаад дахин оролдоно: үүнийг дор хаяж нэг удаа зориуд дадлагажуулна."
+ },
+ "Riveting loop, rivets from the main spar outward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тавлах давталт, тав үндсэн лонжероноос гадагш."
+ },
+ "Riveting loop, then join the tailcone to the cabin at bulkhead 1.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тавлах давталт, дараа нь сүүлний конусыг бүхээгт 1-р хаалтад холбоно."
+ },
+ "Riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тавлах давталт."
+ },
+ "Riveting loop. The firewall takes stainless or Monel rivets: aluminium melts in a fire.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тавлах давталт. Галын хананд зэвэрдэггүй эсвэл Monel тав хэрэглэнэ: хөнгөн цагаан галд хайлдаг."
+ },
+ "Riveting loop: final-drill #30, take apart, deburr, prime, Cleco, rivet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тавлах давталт: эцсийн өрөмдөлт #30, задлах, сэвсэг арилгах, праймердах, Cleco, тавлах."
+ },
+ "Rivets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тав"
+ },
+ "Rivets to the rear-spar flanges. Closes the bay behind the centre-section rear spar.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Арын лонжероны фланцад тавлагдана. Төв хэсгийн арын лонжероны ард байгаа тасгийг хаана."
+ },
+ "Rod ends": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Саваа үзүүр"
+ },
+ "Roll each skin's leading edge, then wrap it round its ribs and spar. Back-drill and use the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүрээс бүрийн урд ирмэгийг өнхрүүлж, дараа нь хавирга болон лонжероны эргэн тойронд ороож буцаан өрөмдөөд тавлах давталтыг ашиглана."
+ },
+ "Roll the eight saddle-clamp halves round a 45 mm bar, then bolt a pair round each strut at mid-length (2 x AN3 through the ears).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Эмээл хавчаарын найман хагасыг 45 mm саваан дээр өнхрүүлж, дараа нь тулгуур бүрийн дунд хэсэгт хосыг боолтлоно (чихээр 2 x AN3)."
+ },
+ "Roll the green zone: lay the skin over a 75 mm tube and pull it round with a strap, a little at a time. Don't crease it.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ногоон бүсийг өнхрүүлнэ: бүрээсийг 75 mm хоолой дээр тавьж, оосроор бага багаар эргүүлж татна. Бүү нугал."
+ },
+ "Root and tip ribs have their flanges facing into the panel.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндэс болон үзүүрийн хавирганы фланц самбар дотогш харсан."
+ },
+ "Rudder and elevator cables, 1 per cable, in the cabin where you can inspect them": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Чиглэлийн болон өндрийн жолооны трос, трос бүрт 1, шалгаж болох бүхээгт"
+ },
+ "Rudder cable x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Чиглэлийн жолооны трос x2"
+ },
+ "Rudder cable x2: 1/8 in 7x19 galvanised": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Чиглэлийн жолооны трос x2: 1/8 in 7x19 цайрдсан"
+ },
+ "Rudder cables: pedal horn, then a pulley at the pedal, along the floor at y = ±200 mm through fairleads on both arch feet, a pulley at bulkhead 1, then one straight line each to the tail post. Because the tailcone is a frustum, a straight run between interior points never touches the skin, so no cable needs a mid-cone pulley.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Чиглэлийн жолооны трос: дөрөөний хөшүүрэг, дараа нь дөрөөн дээрх дамар, шалны дагуу y = ±200 mm-д хоёр нуман хаалганы хөл дээрх чиглүүлэгчээр, 1-р хаалт дахь дамар, дараа нь тус бүр сүүлний багана хүртэл нэг шулуун шугам. Сүүлний конус нь тайрсан конус тул дотоод цэгүүдийн хоорондох шулуун шугам бүрээсэнд хэзээ ч хүрэхгүй, тиймээс аль ч трост конусын дунд дамар хэрэггүй."
+ },
+ "Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Чиглэлийн жолооны хөшүүрэг, 4130 0.063in (хавтгай, тал бүрт трос)"
+ },
+ "Rudder pedals": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Чиглэлийн жолооны дөрөө"
+ },
+ "Rudder skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Чиглэлийн жолооны бүрээс"
+ },
+ "Rudder spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Чиглэлийн жолооны лонжерон"
+ },
+ "S-BM Stand beam (lipped C, saddle on top)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-BM Тавиурын дам нуруу (уруултай C, дээрээ эмээл)"
+ },
+ "S-FT Stand foot (lipped C, opens up)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-FT Тавиурын хөл (уруултай C, дээшээ нээлттэй)"
+ },
+ "S-GF Stand foot gusset (flat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-GF Тавиурын хөлийн булангийн ялтас (хавтгай)"
+ },
+ "S-GT Stand top gusset (flanged hypotenuse)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-GT Тавиурын оройн булангийн ялтас (фланцтай гипотенуз)"
+ },
+ "S-LG Stand leg (lipped C)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-LG Тавиурын хөл (уруултай C)"
+ },
+ "SSDR means no airworthiness approval is required, so all the testing is yours to do.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "SSDR гэдэг нь нислэгт тэнцэх зөвшөөрөл шаардлагагүй гэсэн үг тул бүх туршилтыг та өөрөө хийнэ."
+ },
+ "Saddle clamps: rolled half-shells": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Эмээл хавчаар: өнхрүүлсэн хагас бүрхүүл"
+ },
+ "Saddle-clamp ears (one also carries the jury-strut fork), 2 per clamp; Jury strut top, through the jury clevis": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Эмээл хавчаарын чих (нэг нь туслах тулгуурын сэрээг бас даана), хавчаар бүрт 2; Туслах тулгуурын орой, туслах сэрээгээр"
+ },
+ "Safety wire": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хамгаалалтын утас"
+ },
+ "Same blank both sides. 20 mm lap all round. Left one hangs on a piano hinge at its front edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хоёр талд ижил бэлдэц. Эргэн тойрон 20 mm давхцал. Зүүн тал нь урд ирмэгтээ төгөлдөр хуурын нугаснаас өлгөгдөнө."
+ },
+ "Same blank for both flaps and both ailerons: modular-origami units.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хоёр хаалт ба хоёр элеронд ижил бэлдэц: модульчлагдсан оригамийн нэгж."
+ },
+ "Sandbags and tape measure (proof load)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Элсний уут ба хэмжих тууз (туршилтын ачаалал)"
+ },
+ "Sawtooth climbs, level speeds and glides.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хөрөөн шүдэн өгсөлт, хэвтээ хурд ба гулсалт."
+ },
+ "Scotch-Brite, etch/alodine, epoxy primer, spray kit, gloves": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Scotch-Brite, идэвхжүүлэлт/alodine, эпокси праймер, шүршигч иж бүрдэл, бээлий"
+ },
+ "Seat (pan + back, one sheet)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Суудал (суух хэсэг + түшлэг, нэг хуудас)"
+ },
+ "Seat cushion + 4-pt harness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Суудлын дэр + 4 цэгт оосор"
+ },
+ "Select a row to see where that case sits.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тухайн тохиолдол хаана байгааг харахын тулд мөр сонгоно уу."
+ },
+ "Send the nest DXFs to a laser or waterjet service, or cut on a CNC router. Bolt holes come out 0.5 mm undersize; ream them later.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Байршуулалтын DXF-ийг лазер эсвэл усан тийрэлтэт үйлчилгээ рүү илгээх, эсвэл CNC фрезээр огтолно. Боолтны нүх 0.5 mm жижиг гарна; дараа нь өргөсгөнө."
+ },
+ "Set dihedral to 1.5° and wash-out to 0° with a digital level on the root and tip ribs. Then pin the struts on: AN5, castellated nut, cotter pin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үндэс ба үзүүрийн хавирга дээр дижитал түвшин хэмжигчээр хөндлөн V-г 1.5°, мушгиралтыг 0° болгоно. Дараа нь тулгуурыг хадаасаар бэхэлнэ: AN5, титэм самар, шплинт."
+ },
+ "Set the brake nose radius to 0.8 mm, about 1.6 times the 0.51 mm sheet (Table 5-2, 'normal' radius). Never tighter.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Машины хамрын радиусыг 0.8 mm, 0.51 mm хуудасны ойролцоогоор 1.6 дахин болгоно (Table 5-2, 'normal' радиус). Хэзээ ч үүнээс нарийн биш."
+ },
+ "Set the travels: aileron +20/-15°, elevator +25/-20°, rudder ±25°, flaps 0/20°. Fit the stops.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Явалтыг тохируулна: элерон +20/-15°, өндрийн жолоо +25/-20°, чиглэлийн жолоо ±25°, хаалт 0/20°. Хязгаарлагчийг суулгана."
+ },
+ "Sheet price": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хуудасны үнэ"
+ },
+ "Single-lap shear and pull-through on one and two layers of 0.51 mm sheet with 3.2 mm blind rivets, 10 of each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "0.51 mm хуудасны нэг ба хоёр давхарга дээр 3.2 mm сохор тавтай нэг давхцалтай зүсэлт ба татан гаргалт, тус бүр 10."
+ },
+ "Skin joints lap on a rib: the outboard skin goes under the inboard one.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүрээсний холбоос хавирга дээр давхцана: гадна бүрээс дотоодынхоо доогуур орно."
+ },
+ "Slide the C-spar in and Cleco it through the flanges. Riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "C лонжероныг гулсуулж оруулаад фланцаар Cleco-гоор бэхэлнэ. Тавлах давталт."
+ },
+ "Soft creases 2–6°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Зөөлөн нугалаа 2–6°"
+ },
+ "Source": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Эх сурвалж"
+ },
+ "Span / area": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Далавчны хүрээ / талбай"
+ },
+ "Spanners, sockets, inch-pound torque wrench": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Түлхүүр, толгой, инч-фунт моментын түлхүүр"
+ },
+ "Spar strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Лонжероны бат бөх"
+ },
+ "Spar-root pins through tang pair + arch clevis": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Лонжероны үндэсний хадаас хэлний хос + нуман хаалганы сэрээгээр"
+ },
+ "Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Лонжероны үндэсний хэл, 4130 0.063in (хавтгай, хананы хоёр талд хосоор)"
+ },
+ "Spec": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тодорхойлолт"
+ },
+ "Speed envelope": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хурдны хүрээ"
+ },
+ "Spinner": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хамрын бүрхүүл"
+ },
+ "Stabiliser nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тогтворжуулагчийн хамрын хавирга"
+ },
+ "Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тогтворжуулагчийн үндэсний хавиргыг сүүлний конусын хажуугийн бэхжүүлэгчид, тал бүрт 4; Кильны лонжероныг сүүлний баганад, 3"
+ },
+ "Stabiliser skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тогтворжуулагчийн бүрээс (нэг ороолт)"
+ },
+ "Stabiliser spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тогтворжуулагчийн лонжерон"
+ },
+ "Stability across the CG range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CG-ийн бүх хүрээнд тогтвортой байдал"
+ },
+ "Stall speed and handling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хурд алдалтын хурд ба удирдлага"
+ },
+ "Stall speeds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хурд алдалтын хурд"
+ },
+ "Stall, flaps 20°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хурд алдалт, хаалт 20°"
+ },
+ "Stand beam (lipped C, saddle on top)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тавиурын дам нуруу (уруултай C, дээрээ эмээл)"
+ },
+ "Stand foot (lipped C, opens up)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тавиурын хөл (уруултай C, дээшээ нээлттэй)"
+ },
+ "Stand foot gusset (flat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тавиурын хөлийн булангийн ялтас (хавтгай)"
+ },
+ "Stand leg (lipped C)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тавиурын хөл (уруултай C)"
+ },
+ "Stand the arches and firewall on the floor tray, square and plumb. Their stations are 420 mm and 1008 mm aft of the wing LE, and the firewall is at -650 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нуман хаалга болон галын ханыг шалны тавиур дээр тэгш өнцөгт, босоо байрлуулна. Тэдгээрийн байрлал далавчны LE-ээс 420 mm ба 1008 mm хойно, галын хана -650 mm-д байна."
+ },
+ "Stand top gusset (flanged hypotenuse)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тавиурын оройн булангийн ялтас (фланцтай гипотенуз)"
+ },
+ "Static load to the Section S forward, side and vertical limit loads, then ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Section S урд, хажуу, босоо хязгаарын ачаалал хүртэл статик ачаалал, дараа нь эвдрэх."
+ },
+ "Static margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Статик нөөц"
+ },
+ "Static port": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Статик нүх"
+ },
+ "Status": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Төлөв"
+ },
+ "Step": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Алхам"
+ },
+ "Stick pivot and torque-tube bearings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бариулын тэнхлэг ба мушгих хоолойн холхивч"
+ },
+ "Straight tracking, effective brakes and rudder, no shimmy.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Шулуун хөдөлгөөн, үр дүнтэй тоормос ба чиглэлийн жолоо, чичиргээгүй."
+ },
+ "Stress": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хүчдэл"
+ },
+ "String line, digital level, plumb bob": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Утас, дижитал түвшин хэмжигч, тэнхлэг утас"
+ },
+ "String-line the spars and check the ribs are square to them. Measure diagonals across each bay; they should match within 1 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Лонжеронуудын дагуу утас татаж, хавирга тэдгээрт тэгш өнцөгт байгааг шалгана. Тасаг бүрийн диагоналийг хэмжинэ; 1 mm дотор таарах ёстой."
+ },
+ "Structure": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүтэц"
+ },
+ "Strut and fitting strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тулгуур ба бэхэлгээний бат бөх"
+ },
+ "Strut and fittings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тулгуур ба бэхэлгээ"
+ },
+ "Strut end fork (4130)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тулгуурын үзүүрийн сэрээ (4130)"
+ },
+ "Strut end forks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тулгуурын үзүүрийн сэрээ"
+ },
+ "Strut ends, both ends of 4 struts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тулгуурын үзүүр, 4 тулгуурын хоёр үзүүр"
+ },
+ "Strut fairings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тулгуурын бүрхүүл"
+ },
+ "Support each tip on a trestle at 1.5° dihedral until the struts are on.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тулгуур суулгах хүртэл үзүүр бүрийг 1.5° хөндлөн V-д тавиур дээр тулна."
+ },
+ "Systems fit-out": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Системийн суурилуулалт"
+ },
+ "T-EK Elevator skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-EK Өндрийн жолооны бүрээс"
+ },
+ "T-ES Elevator spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-ES Өндрийн жолооны лонжерон"
+ },
+ "T-FK Fin skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FK Кильны бүрээс (нэг ороолт)"
+ },
+ "T-FR Fin nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FR Кильны хамрын хавирга"
+ },
+ "T-FS Fin spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FS Кильны лонжерон"
+ },
+ "T-HK Stabiliser skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HK Тогтворжуулагчийн бүрээс (нэг ороолт)"
+ },
+ "T-HR Stabiliser nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HR Тогтворжуулагчийн хамрын хавирга"
+ },
+ "T-HS Stabiliser spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HS Тогтворжуулагчийн лонжерон"
+ },
+ "T-RK Rudder skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-RK Чиглэлийн жолооны бүрээс"
+ },
+ "T-RS Rudder spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-RS Чиглэлийн жолооны лонжерон"
+ },
+ "TACH instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "TACH багаж"
+ },
+ "Tail surfaces": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний гадаргуу"
+ },
+ "Tailcone belly, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний конусын гэдэс, 1-р хэсэг"
+ },
+ "Tailcone belly, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний конусын гэдэс, 2-р хэсэг"
+ },
+ "Tailcone bulkhead x=1150": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний конусын хаалт x=1150"
+ },
+ "Tailcone bulkhead x=1948": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний конусын хаалт x=1948"
+ },
+ "Tailcone bulkhead x=2745": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний конусын хаалт x=2745"
+ },
+ "Tailcone bulkhead x=3542": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний конусын хаалт x=3542"
+ },
+ "Tailcone bulkhead x=4340 (tail post)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний конусын хаалт x=4340 (сүүлний багана)"
+ },
+ "Tailcone frustum": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний конусын тайрсан конус"
+ },
+ "Tailcone side, section 1 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний конусын хажуу, 1-р хэсэг (x2, толин тусгал)"
+ },
+ "Tailcone side, section 2 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний конусын хажуу, 2-р хэсэг (x2, толин тусгал)"
+ },
+ "Tailcone top, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний конусын дээд, 1-р хэсэг"
+ },
+ "Tailcone top, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний конусын дээд, 2-р хэсэг"
+ },
+ "Tailwheel 8 in pneumatic": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний дугуй 8 in хийн"
+ },
+ "Tailwheel assembly, 8 in pneumatic": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний дугуйн угсралт, 8 in хийн"
+ },
+ "Tailwheel fork": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний дугуйн сэрээ"
+ },
+ "Tailwheel spring": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний дугуйн пүрш"
+ },
+ "Tailwheel spring (spring steel leaf)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний дугуйн пүрш (пүршний ган хавтас)"
+ },
+ "Tailwheel spring to tail post, 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний дугуйн пүршийг сүүлний баганад, 2"
+ },
+ "Tailwheel spring to tail post, 2; Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний дугуйн пүршийг сүүлний баганад, 2; Тогтворжуулагчийн үндэсний хавиргыг сүүлний конусын хажуугийн бэхжүүлэгчид, тал бүрт 4; Кильны лонжероныг сүүлний баганад, 3"
+ },
+ "Tailwheel spring: spring-steel leaf 45 x 8 mm": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний дугуйн пүрш: пүршний ган хавтас 45 x 8 mm"
+ },
+ "Tailwheel steering spring": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний дугуйн жолоодлогын пүрш"
+ },
+ "Tailwheel: a leaf spring, a steerable fork and two springs to the rudder.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сүүлний дугуй: хавтас пүрш, жолоодох сэрээ болон чиглэлийн жолоо руу хоёр пүрш."
+ },
+ "Take the skeleton apart. Deburr every hole on both faces.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Араг ясыг задална. Нүх бүрийн сэвсгийг хоёр талаас арилгана."
+ },
+ "Take-off roll": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хөөрөлтийн гүйлт"
+ },
+ "Tank strap angle (L)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Савны оосрын өнцөгт (З)"
+ },
+ "Tank strap angle (R)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Савны оосрын өнцөгт (Б)"
+ },
+ "Tap or shaker test for wing bending and torsion, aileron, elevator and rudder modes. Confirm the mass balance of every control surface.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Далавчны нугаралт ба мушгиралт, элерон, өндрийн болон чиглэлийн жолооны горимын тогшилт эсвэл чичиргээний туршилт. Удирдлагын гадаргуу бүрийн массын тэнцвэрийг баталгаажуулна."
+ },
+ "Taxi tests": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Таксидалтын туршилт"
+ },
+ "Taxi tests, then fast taxi with the tail up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Таксидалтын туршилт, дараа нь сүүлээ өргөсөн хурдан таксидалт."
+ },
+ "Temperatures inside the engine maker's limits, static rpm 2,900–3,100, no abnormal vibration.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Температур хөдөлгүүр үйлдвэрлэгчийн хязгаарт, статик rpm 2,900–3,100, хэвийн бус чичиргээгүй."
+ },
+ "Tension each cable with its turnbuckle in the cabin, where you can see it, then safety-wire it. Nicopress every end over a thimble.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Трос бүрийг харагдах бүхээг дотор өөрийн чангалагчаар чангалаад, утсаар бэхэлнэ. Үзүүр бүрийг коуш дээр Nicopress хийнэ."
+ },
+ "Test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Туршилт"
+ },
+ "Test budget": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Туршилтын төсөв"
+ },
+ "Test programme": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Туршилтын хөтөлбөр"
+ },
+ "Test reports": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Туршилтын тайлан"
+ },
+ "Tests": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Туршилт"
+ },
+ "The aircraft is code: one file, aircraft.yaml, generates every part, file and figure on this page.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нисэх онгоц бол код: нэг файл, aircraft.yaml, энэ хуудасны эд анги, файл, тоо бүрийг үүсгэнэ."
+ },
+ "The arches sit at the spar stations, so the wing and strut loads go straight into two folded frames.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нуман хаалга лонжероны байрлалд байгаа тул далавч болон тулгуурын ачаалал хоёр нугалсан хүрээ рүү шууд очно."
+ },
+ "The cowl and nose bowl are flat blanks too: a box-pleated hood and a frustum, with straight creases throughout.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүрхүүл болон хамрын аяга ч мөн хавтгай бэлдэц: хайрцаг нугалаатай таг болон тайрсан конус, хаа сайгүй шулуун нугалаатай."
+ },
+ "The dot is the loading case selected in the table. The shaded band is the full CG range across all cases. The orange line is the neutral point: the CG must stay ahead of it, and the dashed gap between them is the static margin, the aircraft's pitch stability.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Цэг нь хүснэгтэд сонгосон ачааллын тохиолдол. Сүүдэрлэсэн зурвас нь бүх тохиолдлын бүрэн CG хүрээ. Улбар шар шугам нь саармаг цэг: CG түүний өмнө байх ёстой, тэдгээрийн хоорондох тасархай зай нь статик нөөц, онгоцны уртааш тогтвортой байдал."
+ },
+ "The fold geometry. Every panel in the 3D model is produced by refolding the DXF flat pattern, and the rib-to-spar pilot holes are coordinated between parts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нугалааны геометр. 3D загварын самбар бүр DXF хавтгай задаргааг дахин нугалж гаргасан, хавирга-лонжероны чиглүүлэх нүхнүүд эд ангиудын хооронд уялдсан."
+ },
+ "The laminate acting as one section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Давхарга нэг огтлол мэт ажиллана"
+ },
+ "The lips are what let thin laminated sheet act as a spar. Without them a free cap edge buckles at about 26 MPa. With them the cap reaches yield before it buckles.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Уруул нь нимгэн давхарласан хуудсыг лонжерон мэт ажиллуулдаг. Тэдгээргүй бол тавиурын чөлөөт ирмэг ойролцоогоор 26 MPa-д тахийнэ. Тэдгээртэй бол тавиур тахийхаасаа өмнө урсалтад хүрнэ."
+ },
+ "The local-price estimate takes UK VAT off the UK price, converts it at the day's exchange rate, takes about 20 % off US-made hardware, sheet and the engine kit when buying in the US, then adds the country's typical standard VAT, GST or sales tax. It leaves out import duty and shipping. Treat these as rough guides, not quotes.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Орон нутгийн үнийн тооцоо нь UK үнээс UK VAT-ыг хасаж, тухайн өдрийн ханшаар хөрвүүлж, АНУ-д худалдан авахад АНУ-д үйлдвэрлэсэн бэхэлгээ, хуудас болон хөдөлгүүрийн иж бүрдлээс ойролцоогоор 20 % хасаад, дараа нь тухайн улсын ердийн стандарт VAT, GST эсвэл борлуулалтын татварыг нэмнэ. Импортын татвар болон хүргэлтийг оруулаагүй. Эдгээрийг санал биш, ойролцоо удирдамж гэж үзнэ үү."
+ },
+ "The numbers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тоонууд"
+ },
+ "The pilot sits under the wing between the two arches. Header fuel is ahead of the CG and aux fuel is behind it. The aftmost case is a light pilot with empty tanks and baggage, which gives the minimum static margin:": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нисгэгч хоёр нуман хаалганы хооронд далавчны доор сууна. Үндсэн савны түлш CG-ийн өмнө, нэмэлт түлш түүний ард. Хамгийн арын тохиолдол бол хоосон сав ба ачаатай хөнгөн нисгэгч бөгөөд энэ нь хамгийн бага статик нөөцийг өгнө:"
+ },
+ "The rolled nose and the main spar together form a closed D-cell, which carries the wing's twisting loads.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Өнхрүүлсэн хамар болон үндсэн лонжерон хамтдаа далавчны мушгих ачааллыг даах битүү D-хөндийг үүсгэнэ."
+ },
+ "The skins carry no holes of their own. Drilling them from the structure means the holes can't be misaligned.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүрээс өөрийн нүхгүй. Бүтцээс өрөмдөх нь нүхнүүд зөрөх боломжгүй гэсэн үг."
+ },
+ "The stabiliser and fin use one wrapped skin each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тогтворжуулагч болон киль тус бүр нэг ороосон бүрээс ашиглана."
+ },
+ "This is the sequence for every riveted joint from here on: Cleco, final-drill, take apart, deburr, prime, reassemble, rivet. Later steps call it the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Энэ бол эндээс хойш тавлах холбоос бүрийн дараалал: Cleco, эцсийн өрөмдөлт, задлах, сэвсэг арилгах, праймердах, дахин угсрах, тавлах. Дараагийн алхмууд үүнийг тавлах давталт гэж нэрлэнэ."
+ },
+ "Three platform scales": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Гурван тавцант жин"
+ },
+ "Three platform scales in the level attitude.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хэвтээ байрлалд гурван тавцант жин."
+ },
+ "Through tang pair + spar web at each spar root, 4 per pair": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Лонжероны үндэс бүрт хэлний хос + лонжероны ханаар, хос бүрт 4"
+ },
+ "Tools": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Багаж хэрэгсэл"
+ },
+ "Top flange = longeron": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Дээд фланц = уртааш дам нуруу"
+ },
+ "Top flange is the longeron: the fold is the stiffener. Openings have 50 mm corner radii (no square corners).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Дээд фланц нь уртааш дам нуруу: нугалаа нь хатууруулагч. Нүхнүүд 50 mm булангийн радиустай (шулуун булангүй)."
+ },
+ "Torsional stiffness recorded; it feeds the flutter estimate in phase D.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Мушгиралтын хатуулгийг бүртгэсэн; энэ нь D үе шатны флаттерын тооцоонд ашиглагдана."
+ },
+ "Total": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нийт"
+ },
+ "Tube cutter, hacksaw, drill press": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хоолой огтлогч, төмрийн хөрөө, суурин өрөм"
+ },
+ "Tube, bar and cable": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хоолой, саваа ба трос"
+ },
+ "Turn it back over. On its three wheels it should sit about 9–11° nose-up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Буцааж эргүүлнэ. Гурван дугуй дээрээ хамар нь ойролцоогоор 9–11° дээш сууна."
+ },
+ "Turn the fuselage upside down on padded trestles.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Их биеийг зөөлөвчтэй тавиур дээр урвуулна."
+ },
+ "Turn the skeleton upside down. Lay bay 1's skin on it, located at the root rib, with the edge 3 mm short of the rear-spar flange edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Араг ясыг урвуулна. 1-р тасгийн бүрээсийг үндэсний хавирганд байрлуулж, ирмэг нь арын лонжероны фланцын ирмэгээс 3 mm богино байхаар тавина."
+ },
+ "Turn the wing upright. Wrap the skin from the trailing-edge shroud, over the nose, and under to lap the lower skin at 8 % chord.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Далавчийг босгоно. Бүрээсийг арын ирмэгийн бүрхүүлээс хамрын дээгүүр, доогуур ороож, доод бүрээсийг хөвчийн 8 %-д давхцуулна."
+ },
+ "Turnbuckle AN130 class + safety wire": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN130 ангиллын чангалагч + хамгаалалтын утас"
+ },
+ "Two halves round the 1.75 in strut tube; the ear bolts also carry the jury-strut end.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1.75 in тулгуурын хоолойг тойрсон хоёр хагас; чихний боолт туслах тулгуурын үзүүрийг ч даана."
+ },
+ "Two hat pleats (step-folds) are the floor stiffeners; no separate stringers. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хоёр малгай нугалаа (шаталсан нугалаа) нь шалны хатууруулагч; тусдаа стрингер байхгүй. Давхарласан: 0.020 in-ийн 2 шигтгэсэн давхарга, тусад нь нугалж нэг мэт тавлана; дотоод давхарга бүрт фланцын ирмэгээс 0.5 mm тайрна."
+ },
+ "Two plates sandwich each rod end; AN4 pivot, AN3 at each arm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хоёр ялтас саваа үзүүр бүрийг хавчина; AN4 тэнхлэг, гар бүрт AN3."
+ },
+ "UK retail prices (inc. 20 % VAT) converted to {currency}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "UK жижиглэнгийн үнэ (20 % VAT орсон) {currency} руу хөрвүүлсэн."
+ },
+ "UK retail prices, including 20 % VAT.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "UK жижиглэнгийн үнэ, 20 % VAT орсон."
+ },
+ "Ultimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Эвдрэх"
+ },
+ "Ultimate load (×1.5). Colour is the worse of cap stress against its crippling allowable and web shear against buckling. Beam theory along the span, not a finite-element analysis. Grey parts are not analysed yet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Эвдрэх ачаалал (×1.5). Өнгө нь тавиурын хүчдэлийг орон нутгийн тогтвортой байдал алдах зөвшөөрөгдөх утгатай, ханын шилжилтийг тахийлттай харьцуулсны аль муу нь вэ гэдгийг харуулна. Далавчны дагуух дам нурууны онол, хязгаарлагдмал элементийн шинжилгээ биш. Саарал эд ангийг одоогоор шинжлээгүй."
+ },
+ "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сөрөг g-д тулгуур шахалтад орно. Туслах тулгуур нь тэдгээрийн тулгуургүй уртыг хагасалж, тахийлтын ачааллыг дөрөв дахин нэмэгдүүлнэ."
+ },
+ "Undercarriage": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Явах эд анги"
+ },
+ "Units": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Нэгж"
+ },
+ "Unknowns for the next builder": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Дараагийн бүтээгчид үл мэдэгдэх зүйлс"
+ },
+ "Upper cowl (hood, two 90 deg folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Дээд бүрхүүл (таг, хоёр 90 deg нугалаа)"
+ },
+ "Upper skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Дээд бүрээс, 1-р тасаг"
+ },
+ "Upper skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Дээд бүрээс, 2-р тасаг"
+ },
+ "Upper skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Дээд бүрээс, 3-р тасаг"
+ },
+ "Upper skins: roll the nose": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Дээд бүрээс: хамрыг өнхрүүлнэ"
+ },
+ "V-bead pleats + one 165° trailing-edge fold": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "V-ховилын нугалаа + нэг 165° арын ирмэгийн нугалаа"
+ },
+ "VHF antenna whip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "VHF шилбэн антен"
+ },
+ "W-CL Cabin roof (centre lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CL Бүхээгийн дээвэр (төв доод бүрээс)"
+ },
+ "W-CS Aileron / flap skin (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CS Элерон / хаалтны бүрээс (ижил x4)"
+ },
+ "W-CSS Aileron / flap spar (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CSS Элерон / хаалтны лонжерон (ижил x4)"
+ },
+ "W-CT Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CT Төв хэсгийн арын ирмэгийн бүрхүүл (тогтмол, хаалтуудын хооронд)"
+ },
+ "W-CU Centre-section upper skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CU Төв хэсгийн дээд бүрээс"
+ },
+ "W-MR Main rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MR Үндсэн хавирга"
+ },
+ "W-MRe Main rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MRe Үндсэн хавирга, үндэс/үзүүр"
+ },
+ "W-MS Main spar (lipped C, opens aft)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MS Үндсэн лонжерон (уруултай C, хойшоо нээлттэй)"
+ },
+ "W-NR Nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-NR Хамрын хавирга"
+ },
+ "W-NRe Nose rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-NRe Хамрын хавирга, үндэс/үзүүр"
+ },
+ "W-RS Rear spar (lipped C, opens forward)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-RS Арын лонжерон (уруултай C, урагшаа нээлттэй)"
+ },
+ "W-SL1 Lower skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL1 Доод бүрээс, 1-р тасаг"
+ },
+ "W-SL2 Lower skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL2 Доод бүрээс, 2-р тасаг"
+ },
+ "W-SL3 Lower skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL3 Доод бүрээс, 3-р тасаг"
+ },
+ "W-SU1 Upper skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU1 Дээд бүрээс, 1-р тасаг"
+ },
+ "W-SU2 Upper skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU2 Дээд бүрээс, 2-р тасаг"
+ },
+ "W-SU3 Upper skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU3 Дээд бүрээс, 3-р тасаг"
+ },
+ "Weeks 1–4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1–4-р долоо хоног"
+ },
+ "Weigh and balance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Жигнэх ба тэнцвэржүүлэх"
+ },
+ "Weigh, test, fly-off": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Жигнэх, туршилт, туршилтын нислэг"
+ },
+ "Weight, not tank size, sets the range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Зайг савны хэмжээ биш, жин тодорхойлно"
+ },
+ "What is known, and what is not": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Юу мэдэгдэж, юу мэдэгдээгүй"
+ },
+ "What it costs": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хэр үнэтэй вэ"
+ },
+ "Wheel hub": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Дугуйн төв"
+ },
+ "Wheels, 21 x 8.00-6 tundra tyres, drum brakes x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Дугуй, 21 x 8.00-6 тундрын дугуй, хүрдэн тоормос x2"
+ },
+ "Where it goes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Хаашаа орох"
+ },
+ "Where the balance point sits": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тэнцвэрийн цэг хаана байх"
+ },
+ "Whole aircraft": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүх нисэх онгоц"
+ },
+ "Whole-wing strength and stiffness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бүх далавчны бат бөх ба хатуулаг"
+ },
+ "Why start here: the four stands use every skill the aircraft needs, on parts that don't fly. Get it wrong here, not on a spar. You need the stands anyway: the wings are built and parked on them until step 15.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Яагаад эндээс эхлэх вэ: дөрвөн тавиур нь онгоцонд хэрэгтэй бүх ур чадварыг нисдэггүй эд анги дээр ашиглана. Лонжерон дээр биш, энд алдаа гарга. Тавиур ямар ч байсан хэрэгтэй: далавчийг 15-р алхам хүртэл тэдгээр дээр бүтээж хадгална."
+ },
+ "Will it fly well?": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Сайн нисэх үү?"
+ },
+ "Windscreen (cold-bent flat polycarbonate)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Салхины шил (хүйтнээр нугалсан хавтгай поликарбонат)"
+ },
+ "Windscreen, door and side windows": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Салхины шил, хаалга ба хажуугийн цонх"
+ },
+ "Windscreen, side windows, door": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Салхины шил, хажуугийн цонх, хаалга"
+ },
+ "Windscreen: flat sheet, bedded on foam tape on the firewall and windscreen flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Салхины шил: хавтгай хуудас, галын хана болон салхины шилний фланц дээрх хөөсөн туузан дээр суулгасан."
+ },
+ "Wing and airframe": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Далавч ба их бие"
+ },
+ "Wing lift uses a Schrenk distribution, with each wing pinned at the cabin arch and a V-strut at the 2.4 m rib. Gust loads are below the manoeuvre case. Laminated spars are checked as one section, which assumes rivet pitch close enough to stop the layers buckling separately.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Далавчны өргөх хүч Schrenk тархалтыг ашиглана, далавч бүр бүхээгийн нуман хаалганд хадаасаар болон 2.4 m хавирганд V-тулгуураар бэхлэгдсэн. Салхины цохилтын ачаалал маневрын тохиолдлоос доогуур. Давхарласан лонжероныг нэг огтлол болгон шалгах ба энэ нь давхаргууд тусдаа тахийхгүй байхаар тавны алхам хангалттай ойрхон гэж үзнэ."
+ },
+ "Wing loading": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Далавчны ачаалал"
+ },
+ "Wing proof load": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Далавчны туршилтын ачаалал"
+ },
+ "Wing stands (step 0)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Далавчны тавиур (0-р алхам)"
+ },
+ "Wing torsion": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Далавчны мушгиралт"
+ },
+ "Wings on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Далавч суулгах"
+ },
+ "With X-ray on, every run is colour-coded: orange rudder, cyan elevator, purple aileron, green flap, red fuel, white pitot, grey static, yellow 12 V, pink coax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "X-ray асаалттай үед шугам бүр өнгөөр кодлогдсон: улбар шар чиглэлийн жолоо, цэнхэр өндрийн жолоо, нил ягаан элерон, ногоон хаалт, улаан түлш, цагаан пито, саарал статик, шар 12 V, ягаан коаксиал."
+ },
+ "With a helper at the tip, lift each wing until its root tangs slide into the arch-top clevises.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Үзүүрт туслагчтай, далавч бүрийг үндэсний хэл нь нуман хаалганы оройн сэрээнд гулсаж орох хүртэл өргөнө."
+ },
+ "Write the part number on every blank. Keep the blanks in step order.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Бэлдэц бүр дээр эд ангийн дугаарыг бичнэ. Бэлдэцийг алхмын дарааллаар хадгална."
+ },
+ "X-ray": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "X-ray"
+ },
+ "Yes, as a slow, gentle, lightly loaded single-seater: a strut-braced high wing, a half-VW engine and a tailwheel on big soft tyres. It is heavier than a typical ultralight because every aluminium part is cut from one gauge, with thicker parts made as nested folds of the same sheet. That puts it in UK SSDR (300 kg) rather than US Part 103. Every figure here comes from the same script that generates the cut files.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Тийм, удаан, зөөлөн, хөнгөн ачаалалтай нэг суудалтай онгоцны хувьд: тулгуураар бэхжүүлсэн өндөр далавч, half-VW хөдөлгүүр болон том зөөлөн дугуйтай сүүлний дугуй. Хөнгөн цагаан эд анги бүрийг нэг зузаанаас огтолж, илүү зузаан эд ангийг ижил хуудасны шигтгэсэн нугалаагаар хийсэн тул ердийн хэт хөнгөн онгоцоос хүнд. Энэ нь түүнийг US Part 103 биш UK SSDR (300 kg)-д оруулна. Энд байгаа тоо бүр огтлох файлыг үүсгэдэг ижил скриптээс гардаг."
+ },
+ "arch-foot bellcrank up the rear-arch leg to the arch-top bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "нуман хаалганы хөлийн тохой хөшүүргээс арын нуман хаалганы хөлөөр дээш нуман хаалганы оройн тохой хөшүүрэг хүртэл"
+ },
+ "arch-top bellcrank to outboard bellcrank, through rib lightening holes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "нуман хаалганы оройн тохой хөшүүргээс гадна тохой хөшүүрэг хүртэл, хавирганы хөнгөрүүлэх нүхээр"
+ },
+ "aux": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "нэмэлт"
+ },
+ "blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "бэлдэц"
+ },
+ "blanks in all": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "нийт бэлдэц"
+ },
+ "bolts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "боолт"
+ },
+ "bought or welded": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "худалдаж авсан эсвэл гагнасан"
+ },
+ "buckling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "тахийлт"
+ },
+ "centre torque-tube arm to flap bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "төв мушгих хоолойн гараас хаалтны тохой хөшүүрэг хүртэл"
+ },
+ "check, then commit": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "шалгаад, дараа нь бэхжүүл"
+ },
+ "clean": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "цэвэр"
+ },
+ "close up": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "хаах"
+ },
+ "crease pattern": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "нугалааны схем"
+ },
+ "crippling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "орон нутгийн тогтвортой байдал алдах"
+ },
+ "each with a pass criterion": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "тус бүр тэнцэх шалгууртай"
+ },
+ "fabricated or bought for half-VW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "half-VW-д зориулж хийсэн эсвэл худалдаж авсан"
+ },
+ "faying surfaces and interior": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "шүргэлцэх гадаргуу ба дотор тал"
+ },
+ "finished": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "дууссан"
+ },
+ "flat blanks, one sheet gauge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "хавтгай бэлдэц, нэг хуудасны зузаан"
+ },
+ "fold the same way": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ижил аргаар нугал"
+ },
+ "fold to the marks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "тэмдэг хүртэл нугал"
+ },
+ "fuel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "түлш"
+ },
+ "give it roundness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "бөөрөнхий болго"
+ },
+ "gravity feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "өөрийн урсгалаар тэжээл"
+ },
+ "gust": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "салхины цохилт"
+ },
+ "hard": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "хатуу"
+ },
+ "header": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "үндсэн"
+ },
+ "header full": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "үндсэн дүүрэн"
+ },
+ "header tank + aux tank, both in the cabin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "үндсэн сав + нэмэлт сав, хоёулаа бүхээгт"
+ },
+ "includes 15 % spares": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "15 % сэлбэг орсон"
+ },
+ "insert: the lock": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "оруулах: түгжээ"
+ },
+ "laminated wood, CC0 model": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "давхарласан мод, CC0 загвар"
+ },
+ "light braking": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "хөнгөн тоормослолт"
+ },
+ "make soft creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "зөөлөн нугалаа хий"
+ },
+ "materials and hire, rough": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "материал ба түрээс, ойролцоогоор"
+ },
+ "max take-off mass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "хамгийн их хөөрөх масс"
+ },
+ "mountain": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "уул"
+ },
+ "mountain and valley folds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "уул ба хөндий нугалаа"
+ },
+ "neutral point": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "саармаг цэг"
+ },
+ "no reserve": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "нөөцгүй"
+ },
+ "no sheet blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "хуудасны бэлдэц байхгүй"
+ },
+ "none: over MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "байхгүй: MTOW-аас давсан"
+ },
+ "one 8 x 4 ft sheet of 6061-T6 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "нэг 8 x 4 ft 6061-T6 0.020 in хуудас"
+ },
+ "open out": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "дэлгэ"
+ },
+ "or a club CNC router": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "эсвэл клубын CNC фрез"
+ },
+ "part-time, alongside the build": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "цагийн ажлаар, бүтээлтэй зэрэгцээ"
+ },
+ "pilot": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "нисгэгч"
+ },
+ "pilot hole": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "чиглүүлэх нүх"
+ },
+ "pin-to-pin; AN5 each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "хадааснаас хадаас хүртэл; үзүүр бүрт AN5"
+ },
+ "pleat": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "нугалаа"
+ },
+ "practice piece": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "дадлагын хэсэг"
+ },
+ "public domain": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "нийтийн өмч"
+ },
+ "radio optional in SSDR": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "SSDR-д радио заавал биш"
+ },
+ "reference points": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "лавлах цэг"
+ },
+ "right angle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "тэгш өнцөг"
+ },
+ "rivets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "тав"
+ },
+ "rolled zone": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "өнхрүүлсэн бүс"
+ },
+ "rough build cost": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "бүтээлийн ойролцоо зардал"
+ },
+ "same angle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ижил өнцөг"
+ },
+ "same angle: converging creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ижил өнцөг: нийлэх нугалаа"
+ },
+ "same length": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ижил урт"
+ },
+ "short grass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "богино өвс"
+ },
+ "static margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "статик нөөц"
+ },
+ "still air, 75 % power": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "тайван агаар, 75 % хүчин чадал"
+ },
+ "subtotal": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "дэд дүн"
+ },
+ "tool, reused": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "хэрэгсэл, дахин ашиглах"
+ },
+ "torque-tube arm to arch-foot bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "мушгих хоолойн гараас нуман хаалганы хөлийн тохой хөшүүрэг хүртэл"
+ },
+ "tundra tyres at 10–12 psi, 8 in tailwheel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "10–12 psi-д тундрын дугуй, 8 in сүүлний дугуй"
+ },
+ "turn it over": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "эргүүл"
+ },
+ "unique": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "өвөрмөц"
+ },
+ "unique blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "өвөрмөц бэлдэц"
+ },
+ "useful load": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ашигт ачаа"
+ },
+ "valley": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "хөндий"
+ },
+ "via floor pulley + 3 fairleads; Nicopress + thimble each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "шалны дамар + 3 чиглүүлэгчээр; үзүүр бүрт Nicopress + коуш"
+ },
+ "via pulley at bulkhead 1 + 3 fairleads; turnbuckle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1-р хаалтын дамар + 3 чиглүүлэгчээр; чангалагч"
+ },
+ "wingspan": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "далавчны дэлгэц"
+ },
+ "{w} x {h} mm flat, {f} folds, {p} pilot holes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "{w} x {h} mm хавтгай, {f} нугалаа, {p} чиглүүлэх нүх"
+ }
+}

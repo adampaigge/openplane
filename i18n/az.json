@@ -1,0 +1,4077 @@
+{
+ "1 m hand bending brake (or hardwood bending blocks in a vise)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1 m əl əymə dəzgahı (və ya məngənədə bərk ağac əymə blokları)"
+ },
+ "1/8 in Clecos (300) + Cleco pliers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in Cleco (300) + Cleco kəlbətini"
+ },
+ "1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in günbəzvari başlı alüminium kor pərçim, grip -1 (1.6 mm-ə qədər)"
+ },
+ "1/8 in domed aluminium blind rivet, grip -2 (1.6-3.2 mm)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in günbəzvari başlı alüminium kor pərçim, grip -2 (1.6-3.2 mm)"
+ },
+ "1/8 in hole duplicator": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in deşik surətçıxaranı"
+ },
+ "1/8 in stainless/Monel blind rivet (fire-zone)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1/8 in paslanmayan/Monel kor pərçim (yanğın zonası)"
+ },
+ "2 m section in four-point bending, loaded in steps to 1.5 × the +4 g limit bending moment.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "2 m hissə dörd nöqtəli əyilmədə, +4 g hədd əyilmə momentinin 1.5 ×-nə qədər mərhələlərlə yüklənir."
+ },
+ "2 x AN4 at the tail post": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq dirəyində 2 x AN4"
+ },
+ "2 x AN5 holes at the top, axle boss at the bottom": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yuxarıda 2 x AN5 deşik, aşağıda ox yuvası"
+ },
+ "4 x 1.79 m wing, 2 x 1.0 m elevators, 1.24 m rudder, door": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "4 x 1.79 m qanad, 2 x 1.0 m hündürlük sükanı, 1.24 m istiqamət sükanı, qapı"
+ },
+ "4130 fittings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "4130 birləşdiricilər"
+ },
+ "75 mm tube + ratchet strap (nose roller)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "75 mm boru + cırcırlı kəmər (burun diyircəyi)"
+ },
+ "; {n} parts x {l} laminated layers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "; {n} detal x {l} laminat təbəqə"
+ },
+ "A BMAA or LAA inspector reviews the aircraft and the evidence.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "BMAA və ya LAA müfəttişi təyyarəni və sübutları nəzərdən keçirir."
+ },
+ "A UK SSDR aircraft needs no airworthiness approval, so all the responsibility is the builder's. Proof-load the wing with sandbags to +4 g and have a BMAA or LAA inspector look at it before it flies. Elsewhere, check your national microlight rules.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "UK SSDR təyyarəsi uçuşa yararlılıq təsdiqi tələb etmir, ona görə bütün məsuliyyət qurucunun üzərindədir. Qanadı qum kisələri ilə +4 g-yə qədər sınaq yükləyin və uçuşdan əvvəl BMAA və ya LAA müfəttişinə göstərin. Başqa yerlərdə milli mikrolayt qaydalarınızı yoxlayın."
+ },
+ "A concept design, published for study. It is not an approved design, and nothing here is airworthiness advice.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Öyrənmək üçün nəşr olunmuş konsept layihə. Bu təsdiqlənmiş layihə deyil və buradakı heç nə uçuşa yararlılıq məsləhəti deyil."
+ },
+ "A single-seat microlight anyone can build. Every sheet part is a flat blank with straight folds, cut from one gauge of aluminium.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər kəsin qura biləcəyi birnəfərlik mikrolayt. Hər təbəqə detalı düz qatlamalı yastı pəstahdır və tək qalınlıqda alüminiumdan kəsilib."
+ },
+ "A4-1 blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "A4-1 kor pərçim"
+ },
+ "A4-2 blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "A4-2 kor pərçim"
+ },
+ "A4-SS blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "A4-SS kor pərçim"
+ },
+ "ALT instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ALT cihazı"
+ },
+ "AN3 bolt (10-32), AN365-1032 nut, AN960-10 washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 bolt (10-32), AN365-1032 qayka, AN960-10 şaybalar"
+ },
+ "AN3 bolt, AN365-1032 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 bolt, AN365-1032 qayka"
+ },
+ "AN3 bolt, AN365-1032 nut, rod end between the plates": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 bolt, AN365-1032 qayka, lövhələr arasında çubuq ucu"
+ },
+ "AN3 bolt, AN365-1032 nut, through 3/16 in rod end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 bolt, AN365-1032 qayka, 3/16 in çubuq ucundan keçir"
+ },
+ "AN3 each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər ucda AN3"
+ },
+ "AN4 bolt (1/4-28), AN365-428 nut, 2 x AN960-416 washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 bolt (1/4-28), AN365-428 qayka, 2 x AN960-416 şayba"
+ },
+ "AN4 bolt, AN310-4 + cotter (pivot)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 bolt, AN310-4 + şplint (oynaq)"
+ },
+ "AN4 bolt, AN310-4 castle nut + cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 bolt, AN310-4 qəsr qaykası + şplint"
+ },
+ "AN4 bolt, AN365-428 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 bolt, AN365-428 qayka"
+ },
+ "AN4 bolt, AN365-428 nut, AN970-4 washer each side": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN4 bolt, AN365-428 qayka, hər tərəfdə AN970-4 şayba"
+ },
+ "AN5 bolt (5/16-24), AN365-524 nut, AN970-5 large washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 bolt (5/16-24), AN365-524 qayka, AN970-5 böyük şaybalar"
+ },
+ "AN5 bolt + rubber isolator (Lord-type) + AN365-524": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 bolt + rezin izolyator (Lord tipli) + AN365-524"
+ },
+ "AN5 bolt, AN310-5 castellated nut, MS24665 cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 bolt, AN310-5 qəsr qaykası, MS24665 şplint"
+ },
+ "AN5 bolt, AN365-524 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 bolt, AN365-524 qayka"
+ },
+ "AN5 clevis pin (bolt), AN310-5 castellated nut, MS24665 cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 çəngəl barmağı (bolt), AN310-5 qəsr qaykası, MS24665 şplint"
+ },
+ "AN5 prop bolt, AN310-5 + safety wire (per prop maker)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 pervane boltu, AN310-5 + təhlükəsizlik məftili (pervane istehsalçısına görə)"
+ },
+ "ASI instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ASI cihazı"
+ },
+ "About 10 months": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Təxminən 10 ay"
+ },
+ "Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eleron / qanadcıq buynuzu, 4130 0.063in (alt örtüyə bir qatlama)"
+ },
+ "Aileron / flap skin (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eleron / qanadcıq örtüyü (eyni x4)"
+ },
+ "Aileron / flap spar (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eleron / qanadcıq lonjeronu (eyni x4)"
+ },
+ "Aileron and flap horns (K-HN), 1 per surface": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eleron və qanadcıq buynuzları (K-HN), hər səthə 1"
+ },
+ "Aileron link (cabin) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eleron bağlantısı (kabin) x2"
+ },
+ "Aileron link (cabin) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eleron bağlantısı (kabin) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Aileron pushrod (arch) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eleron itələyici çubuğu (tağ) x2"
+ },
+ "Aileron pushrod (arch) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eleron itələyici çubuğu (tağ) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Aileron pushrod (wing) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eleron itələyici çubuğu (qanad) x2"
+ },
+ "Aileron pushrod (wing) x2: 6061-T6 1/2 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eleron itələyici çubuğu (qanad) x2: 6061-T6 1/2 x 0.035 in"
+ },
+ "Aileron torque tube": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eleron burulma borusu"
+ },
+ "Ailerons: a short link from the torque-tube arm to the arch-foot bellcrank, a pushrod up the rear-arch leg to the arch-top bellcrank, then out through the rib lightening holes to the outboard bellcrank, which drives the K-HN horn on the aileron. Flaps: overhead lever, a short rod to the centre-section torque-tube arms, then pushrods to the flap bellcranks and K-HN horns.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Eleronlar: burulma borusu qolundan tağ ayağı yelləncəyinə qısa bağlantı, arxa tağ ayağı boyunca tağ zirvəsi yelləncəyinə itələyici çubuq, sonra nervür yüngülləşdirmə deşiklərindən xarici yelləncəyə, o da eleronun K-HN buynuzunu hərəkətə gətirir. Qanadcıqlar: baş üstü qol, mərkəzi hissənin burulma borusu qollarına qısa çubuq, sonra qanadcıq yelləncəklərinə və K-HN buynuzlarına itələyici çubuqlar."
+ },
+ "All 52 ribs are the same two blanks. The pilot holes locate them, so no jig is needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bütün 52 nervür eyni iki pəstahdır. Bələdçi deşiklər onların yerini təyin edir, ona görə tərtibat lazım deyil."
+ },
+ "All six faces aim at one vanishing point, so each face is flat and every crease is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Altı üzün hamısı bir itmə nöqtəsinə yönəlib, ona görə hər üz yastıdır və hər qatlama düzdür."
+ },
+ "All the glazing is flat sheet: no forming and no moulds.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bütün şüşələr yastı təbəqədir: formalaşdırma yoxdur, qəlib yoxdur."
+ },
+ "Allowable": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İcazə verilən"
+ },
+ "Amount": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Məbləğ"
+ },
+ "An engineering test plan modelled on BCAR Section S practice, not a regulatory approval route. Costs are rough ranges for materials, hire and consumables, not labour, and exclude the airframe itself. The plan lives in qualification.yaml in the repository, and its pass criteria use the live numbers from the build.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "BCAR Section S təcrübəsinə əsaslanan mühəndislik sınaq planı, tənzimləyici təsdiq yolu deyil. Xərclər materiallar, icarə və sərf materialları üçün kobud aralıqlardır, əmək deyil, təyyarə gövdəsinin özü daxil deyil. Plan repozitoriyadakı qualification.yaml faylındadır və keçid meyarları qurğunun canlı rəqəmlərindən istifadə edir."
+ },
+ "Approach the stall in 1 kt steps, flaps up and down, at forward and aft CG.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stala 1 kt addımlarla yaxınlaşın, qanadcıqlar yuxarı və aşağı, ön və arxa CG-də."
+ },
+ "Arch over the pilot. Spar-root fittings bolt to its top corners, strut fittings to its feet. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pilotun üstündəki tağ. Lonjeron kökü birləşdiriciləri onun yuxarı küncələrinə, dayaq birləşdiriciləri ayaqlarına boltlanır. Laminat: 0.020 in-dən 2 iç-içə təbəqə, ayrı qatlanıb bir kimi pərçimlənib; hər daxili təbəqə üçün flans kənarlarından 0.5 mm kəsin."
+ },
+ "As above, including the reversed load case at −2 g.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yuxarıdakı kimi, −2 g-də əks yük halı daxil."
+ },
+ "At least 1.5 × the full-power fuel flow from either tank.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İstənilən çəndən tam güclü yanacaq axınının ən azı 1.5 ×-i."
+ },
+ "Aux fuel tank 20 L (rotomoulded), high behind the seat, gravity feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əlavə yanacaq çəni 20 L (rotoqəlib), oturacağın arxasında yuxarıda, cazibə ilə qidalanma"
+ },
+ "Aux tank 20 L behind the seat + selector valve + line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Oturacağın arxasında əlavə çən 20 L + seçici klapan + xətt"
+ },
+ "Aux tank filler (through the left cabin side, behind the door)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əlavə çən doldurma ağzı (kabinin sol tərəfindən, qapının arxasında)"
+ },
+ "Aviation snips (straight, left, right)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Aviasiya qayçıları (düz, sol, sağ)"
+ },
+ "Axle bolt AN6 + castellated nut AN310-6 + cotter MS24665": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ox boltu AN6 + qəsr qaykası AN310-6 + şplint MS24665"
+ },
+ "Back-drill #40 through the rib and spar-cap pilot holes, using the hole duplicator where you can't reach from inside. Cleco as you go.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nervür və lonjeron rəfi bələdçi deşiklərindən #40 əks qazıyın, içəridən çatmayan yerdə deşik surətçıxaranından istifadə edin. Gedərkən Cleco taxın."
+ },
+ "Back-drill through the rib flanges and spar caps. Do the nose last, working from the spar forward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nervür flanslarından və lonjeron rəflərindən əks qazıyın. Burnu sonda edin, lonjerondan irəli işləyərək."
+ },
+ "Baggage locker behind the seat (net, 5 kg max)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Oturacağın arxasında baqaj şkafı (tor, maksimum 5 kg)"
+ },
+ "Battery + radio + antenna": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Akkumulyator + radio + antena"
+ },
+ "Battery 12 V LiFePO4 in vented box (under the seat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Akkumulyator 12 V LiFePO4 havalandırılan qutuda (oturacağın altında)"
+ },
+ "Bellcrank arms in the cabin, 2 per bellcrank; Bellcrank arms in the wings, 2 per bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kabində yelləncək qolları, hər yelləncəyə 2; Qanadlarda yelləncək qolları, hər yelləncəyə 2"
+ },
+ "Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kabində tağa / lonjerona yelləncək kronşteynləri, hərəsi 2; Qanadlarda tağa / lonjerona yelləncək kronşteynləri, hərəsi 2"
+ },
+ "Bellcrank pivots in the cabin (K-BC pair through its K-CV bracket); Bellcrank pivots in the wings (K-BC pair through its K-CV bracket)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kabində yelləncək oynaqları (K-BC cütü öz K-CV kronşteynindən); Qanadlarda yelləncək oynaqları (K-BC cütü öz K-CV kronşteynindən)"
+ },
+ "Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yelləncək lövhəsi, 4130 0.063in (cüt, 55 mm qollar)"
+ },
+ "Bellcranks: each is a pair of K-BC plates, 16 mm apart, on an AN4 pivot through a folded K-CV bracket. The rod ends sit between the plates on AN3 bolts. Five per side: aileron arch-foot, arch-top and outboard (at the rear spar); flap torque-tube arm and flap bellcrank.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yelləncəklər: hər biri 16 mm aralı K-BC lövhə cütüdür, qatlanmış K-CV kronşteynindən AN4 oynağında. Çubuq ucları lövhələr arasında AN3 boltlarda oturur. Hər tərəfdə beş: eleron tağ ayağı, tağ zirvəsi və xarici (arxa lonjeronda); qanadcıq burulma borusu qolu və qanadcıq yelləncəyi."
+ },
+ "Bench vise with soft jaws": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yumşaq çənəli dəzgah məngənəsi"
+ },
+ "Bend deduction": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əyilmə çıxılması"
+ },
+ "Bend on the brake: each channel is four 90° bends. Bend the two flanges first, then the two lips. Set the nose radius to 1 mm (about 2t for 0.020 in) and overbend about 2° for springback. Check every bend with a square.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dəzgahda əyin: hər kanal dörd 90° əyilmədir. Əvvəl iki flansı, sonra iki dodağı əyin. Burun radiusunu 1 mm qoyun (0.020 in üçün təxminən 2t) və geri yaylanma üçün təxminən 2° artıq əyin. Hər əyilməni bucaqlıqla yoxlayın."
+ },
+ "Bend radius and springback": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əyilmə radiusu və geri yaylanma"
+ },
+ "Best climb": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ən yaxşı qalxma"
+ },
+ "Bill of materials": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Materiallar siyahısı"
+ },
+ "Blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pəstahlar"
+ },
+ "Blind-rivet puller (hand or pneumatic)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kor pərçim çəkicisi (əl və ya pnevmatik)"
+ },
+ "Bolt each main-gear spring leg through the floor doubler under the front arch: 2 x AN5 each, large washers both sides.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər əsas şassi yay ayağını ön tağın altındakı döşəmə gücləndiricisindən boltlayın: hər biri 2 x AN5, hər iki tərəfdə böyük şaybalar."
+ },
+ "Bolt in the four harness anchors.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dörd kəmər lövbərini boltlayın."
+ },
+ "Bolt on the propeller and spinner. Torque to the prop maker's figure, then safety-wire.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pervanəni və spinneri boltlayın. Pervane istehsalçısının dəyərinə qədər moment verin, sonra təhlükəsizlik məftili çəkin."
+ },
+ "Bolt the 4130 engine mount through the firewall (4 x AN4) with large washers on the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "4130 mühərrik çərçivəsini yanğın divarından (4 x AN4) arxada böyük şaybalarla boltlayın."
+ },
+ "Bolt the four root clevises to the arch tops and the four strut-foot clevises to the arch feet with AN4 bolts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dörd kök çəngəlini tağ zirvələrinə və dörd dayaq ayağı çəngəlini tağ ayaqlarına AN4 boltları ilə bərkidin."
+ },
+ "Bolt the stabiliser halves to the tailcone side doublers, 4 x AN4 each. Bolt the fin spar to the tail post, 3 x AN4.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stabilizator yarılarını quyruq konusunun yan gücləndiricilərinə boltlayın, hərəsi 4 x AN4. Kil lonjeronunu quyruq dirəyinə boltlayın, 3 x AN4."
+ },
+ "Bolt the tailwheel spring to the tail post (2 x AN4). Fit the fork and the two steering springs to the rudder horn.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq təkəri yayını quyruq dirəyinə boltlayın (2 x AN4). Çəngəli və iki sükan yayını istiqamət sükanı buynuzuna taxın."
+ },
+ "Bolt the tang pairs either side of each spar web at the root (4 x AN3), and the strut-top clevises under the spars at the 2.4 m rib.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kökdə hər lonjeron divarının iki tərəfindəki dil cütlərini boltlayın (4 x AN3), və 2.4 m nervürdə lonjeronların altındakı dayaq zirvəsi çəngəllərini."
+ },
+ "Bolts to the spar web with 4 x AN3 and reaches inboard past the spar end to the arch-top clevis pin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lonjeron divarına 4 x AN3 ilə boltlanır və lonjeron ucundan keçib içəri tağ zirvəsi çəngəl barmağına çatır."
+ },
+ "Both sides are the same blank, mirrored. The openings have 50 mm corner radii because square corners start cracks.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər iki tərəf eyni pəstahdır, güzgü əksi. Açılışların künc radiusu 50 mm-dir, çünki düz künclər çatları başladır."
+ },
+ "Both tanks, up to MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər iki çən, MTOW-a qədər"
+ },
+ "Bottom + both chamfers + side flanges from one sheet: converging creases, still developable (frustum).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Alt + hər iki faska + yan flanslar bir təbəqədən: yaxınlaşan qatlamalar, yenə açıla bilən (kəsik konus)."
+ },
+ "Bottom extends between the elevator halves.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Alt hündürlük sükanı yarıları arasına qədər uzanır."
+ },
+ "Bought / fabricated items going on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quraşdırılan alınmış / hazırlanmış əşyalar"
+ },
+ "Bought assemblies": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Alınmış qurğular"
+ },
+ "Box-pleat hood 45°, nose bowl converging creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qutu-büzmə qapaq 45°, burun kasasında yaxınlaşan qatlamalar"
+ },
+ "Brake drum": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əyləc barabanı"
+ },
+ "Build each section upside down on a straight edge: bulkheads Clecoed into the belly, then the sides, then the top.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər hissəni düz kənar üzərində tərsinə qurun: arakəsmələr qarına Cleco ilə, sonra yanlar, sonra üst."
+ },
+ "Build up towards Vne in 5 kt steps, watching for buzz or flutter at every step.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vne-yə 5 kt addımlarla artırın, hər addımda vızıltı və ya flatterə baxın."
+ },
+ "CG range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CG diapazonu"
+ },
+ "CHT/EGT instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CHT/EGT cihazı"
+ },
+ "CLmax, drag, propeller efficiency and the neutral point are handbook estimates. Measure stall speed and CG limits in flight test. The 35 kt SSDR stall limit is met with flaps:": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CLmax, müqavimət, pervane səmərəliliyi və neytral nöqtə məlumat kitabçası təxminləridir. Stal sürətini və CG həddlərini uçuş sınağında ölçün. 35 kt SSDR stal həddi qanadcıqlarla təmin olunur:"
+ },
+ "Cabin roof (centre lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kabin damı (mərkəzi alt örtük)"
+ },
+ "Cabin side (x2, mirrored): door/window opening + front window": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kabin yanı (x2, güzgü əksi): qapı/pəncərə açılışı + ön pəncərə"
+ },
+ "Cabin sides and seat": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kabin yanları və oturacaq"
+ },
+ "Carries flap/aileron hinges and rear strut fitting. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qanadcıq/eleron menteşələrini və arxa dayaq birləşdiricisini daşıyır. Laminat: 0.020 in-dən 2 iç-içə təbəqə, ayrı qatlanıb bir kimi pərçimlənib; hər daxili təbəqə üçün flans kənarlarından 0.5 mm kəsin."
+ },
+ "Case": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hal"
+ },
+ "Category": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kateqoriya"
+ },
+ "Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mərkəzi hissənin arxa kənar örtüyü (sabit, qanadcıqlar arasında)"
+ },
+ "Centre-section upper skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mərkəzi hissənin üst örtüyü"
+ },
+ "Check stops, free play, friction and cable tension, then load every circuit to the pilot limit loads.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dayanacaqları, lüfti, sürtünməni və tros gərginliyini yoxlayın, sonra hər dövrəni pilot hədd yüklərinə qədər yükləyin."
+ },
+ "Check the cap angle every 500 mm with a square. Sight along the spar for twist.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rəf bucağını hər 500 mm-də bucaqlıqla yoxlayın. Burulma üçün lonjeron boyunca baxın."
+ },
+ "Check twist by sighting a level across bulkheads 1 and 5. Then join the two sections at bulkhead 3.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1 və 5 arakəsmələri üzərindən tarazlıqla baxaraq burulmanı yoxlayın. Sonra iki hissəni 3 arakəsmədə birləşdirin."
+ },
+ "Clean and prime. Steel fittings rust under paint if they aren't primed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Təmizləyin və astarlayın. Astarlanmamış polad birləşdiricilər boya altında paslanır."
+ },
+ "Clecos": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Cleco-lar"
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tağ zirvələrinə və ayaqlarına çəngəl divarları, hər çəngələ 2; lonjeron rəflərindən dayaq zirvəsi və köməkçi dayaq zirvəsi çəngəlləri, hərəsi 2"
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each; Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tağ zirvələrinə və ayaqlarına çəngəl divarları, hər çəngələ 2; lonjeron rəflərindən dayaq zirvəsi və köməkçi dayaq zirvəsi çəngəlləri, hərəsi 2; Kabində tağa / lonjerona yelləncək kronşteynləri, hərəsi 2; Qanadlarda tağa / lonjerona yelləncək kronşteynləri, hərəsi 2"
+ },
+ "Clevis, 4130 0.063in (U, two folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Çəngəl, 4130 0.063in (U, iki qatlama)"
+ },
+ "Clevis: two 90° bends at 3t radius": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Çəngəl: 3t radiusda iki 90° əyilmə"
+ },
+ "Click to explore": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Araşdırmaq üçün klikləyin"
+ },
+ "Clip on the strut fairings.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dayaq örtüklərini sıxacla taxın."
+ },
+ "Close the bay behind the centre-section rear spar with the W-CT trailing-edge fairing (same wedge fold as the flaps). Do it last, after the flap linkage is rigged and checked.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mərkəzi hissənin arxa lonjeronunun arxasındakı bölməni W-CT arxa kənar örtüyü ilə bağlayın (qanadcıqlardakı kimi paz qatlaması). Bunu sonda, qanadcıq ötürücüsü tənzimlənib yoxlandıqdan sonra edin."
+ },
+ "Closes the control surface; carries hinge and mass-balance arm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İdarə səthini bağlayır; menteşəni və kütlə balans qolunu daşıyır."
+ },
+ "Closes the control surface; carries hinge and mass-balance arm. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İdarə səthini bağlayır; menteşəni və kütlə balans qolunu daşıyır. Laminat: 0.020 in-dən 2 iç-içə təbəqə, ayrı qatlanıb bir kimi pərçimlənib; hər daxili təbəqə üçün flans kənarlarından 0.5 mm kəsin."
+ },
+ "Compass (on the glare shield)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kompas (parıltı qoruyucusunun üstündə)"
+ },
+ "Components": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Komponentlər"
+ },
+ "Consumables": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sərf materialları"
+ },
+ "Control stick": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İdarə dəstəyi"
+ },
+ "Control system": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İdarəetmə sistemi"
+ },
+ "Control-circuit strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İdarə dövrəsinin möhkəmliyi"
+ },
+ "Control-system free play": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İdarəetmə sisteminin lüfti"
+ },
+ "Controllable in all axes with trim available. Engine temperatures stable.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Trimlə bütün oxlarda idarə olunur. Mühərrik temperaturları sabitdir."
+ },
+ "Controls, instruments and systems": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İdarəetmə, cihazlar və sistemlər"
+ },
+ "Controls: stick, torque tube, cables, pushrods": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İdarəetmə: dəstək, burulma borusu, troslar, itələyici çubuqlar"
+ },
+ "Converging creases 44°, bulkhead flanges 96–100°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yaxınlaşan qatlamalar 44°, arakəsmə flansları 96–100°"
+ },
+ "Converted from UK prices": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "UK qiymətlərindən çevrilib"
+ },
+ "Copy it, change it, build it, sell it. No permission needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kopyalayın, dəyişin, qurun, satın. İcazə lazım deyil."
+ },
+ "Cordless drill, #40 (2.5 mm) and #30 (3.3 mm) bits": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Simsiz drel, #40 (2.5 mm) və #30 (3.3 mm) burğular"
+ },
+ "Cost": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Xərc"
+ },
+ "Cotter pins": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Şplintlər"
+ },
+ "Cotter-pin and safety-wire pliers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Şplint və təhlükəsizlik məftili kəlbətinləri"
+ },
+ "Coupons and processes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nümunələr və proseslər"
+ },
+ "Covers the top half of the firewall. Camlocks along the firewall flange and the split line.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yanğın divarının yuxarı yarısını örtür. Yanğın divarı flansı və ayırma xətti boyunca kamloklar."
+ },
+ "Cowl to firewall flange and along the split line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kapotdan yanğın divarı flansına və ayırma xətti boyunca"
+ },
+ "Crippling stress at least {stress:ms_cc}, the design allowable. Layers must not separate before failure.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əzilmə gərginliyi ən azı {stress:ms_cc}, layihə icazəli dəyəri. Təbəqələr dağılmadan əvvəl ayrılmamalıdır."
+ },
+ "Cruise 75 %": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kruiz 75 %"
+ },
+ "Crush 300 mm lengths of three-layer lipped channel, riveted at design pitch, five samples.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Layihə addımı ilə pərçimlənmiş üç təbəqəli dodaqlı kanalın 300 mm parçalarını əzin, beş nümunə."
+ },
+ "Currency": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Valyuta"
+ },
+ "Cut and deburr: the stand blanks are on the same nest sheets as everything else. File every edge smooth and deburr each pilot hole on both faces. Look for burrs with your fingertip, not your eye.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kəsin və itiliyi götürün: dayaq pəstahları digər hər şeylə eyni yerləşdirmə təbəqələrindədir. Hər kənarı yeyə ilə hamarlayın və hər bələdçi deşiyin iki üzündən itiliyi götürün. İtiliyi gözlə yox, barmaq ucu ilə axtarın."
+ },
+ "Cut files (DXF and nests), crease patterns, the prop model, the bill of materials and the design report.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kəsmə faylları (DXF və yerləşdirmə), qatlama naxışları, pervane modeli, materiallar siyahısı və layihə hesabatı."
+ },
+ "Cut lengths": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kəsmə uzunluqları"
+ },
+ "Cut list": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kəsmə siyahısı"
+ },
+ "Cut the main struts to 2543 mm and the rear struts to 2547 mm pin-to-pin, minus the end-fitting length. All four are 6061-T6 1.75 x 0.065 in tube.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əsas dayaqları 2543 mm və arxa dayaqları 2547 mm barmaqdan barmağa, uc birləşdiricisi uzunluğunu çıxaraq kəsin. Dördü də 6061-T6 1.75 x 0.065 in borudur."
+ },
+ "Cut, deburr, mark": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kəsmə, itiliyi götürmə, işarələmə"
+ },
+ "Cylinder": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Silindr"
+ },
+ "Deburr every edge and hole": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər kənar və deşikdən itiliyi götürün"
+ },
+ "Deburr every edge with a file or deburring tool. A burr is where a fatigue crack starts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər kənardan yeyə və ya itilik götürmə aləti ilə itiliyi götürün. İti kənar yorğunluq çatının başladığı yerdir."
+ },
+ "Deburr every pilot hole on both faces with a 10 mm bit turned by hand.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər bələdçi deşiyin iki üzündən əllə fırladılan 10 mm burğu ilə itiliyi götürün."
+ },
+ "Deburring tool, 10 mm drill bit (hole deburr), fine file": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İtilik götürmə aləti, 10 mm burğu (deşik itiliyi), xırda yeyə"
+ },
+ "Don't overtighten: nylon washers, and stop when the washer just grips.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Həddən artıq bərkitməyin: neylon şaybalar, şayba təzəcə tutanda dayanın."
+ },
+ "Door (left, hinged) / side window (right, fixed)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qapı (sol, menteşəli) / yan pəncərə (sağ, sabit)"
+ },
+ "Download files (.zip)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Faylları yükləyin (.zip)"
+ },
+ "Drawing": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Çertyoj"
+ },
+ "Drill and cleco: clamp the gussets in place, drill through the pilot holes to #30 (3.3 mm), and put a cleco in every fourth hole as you go. Then take everything apart, deburr the holes and the faying surfaces, and put it back together on clecos.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qazıyın və Cleco taxın: kosinkaları yerində sıxın, bələdçi deşiklərdən #30 (3.3 mm)-ə qədər qazıyın və gedərkən hər dördüncü deşiyə Cleco taxın. Sonra hər şeyi sökün, deşiklərin və toxunma səthlərinin itiliyini götürün və Cleco-larla yenidən yığın."
+ },
+ "Drill press, 1/4 in and 5/16 in reamers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qazma dəzgahı, 1/4 in və 5/16 in razvyortkalar"
+ },
+ "Drill, deburr, prime, rivet the skeleton": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Skeleti qazıyın, itiliyi götürün, astarlayın, pərçimləyin"
+ },
+ "Duration": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Müddət"
+ },
+ "Each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ədədi"
+ },
+ "Each cable end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər tros ucu"
+ },
+ "Each spar is a laminate: three nested blanks for the main spar, two for the rear. Fold every layer separately, then nest them.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər lonjeron laminatdır: əsas lonjeron üçün üç iç-içə pəstah, arxa üçün iki. Hər təbəqəni ayrı qatlayın, sonra iç-içə yerləşdirin."
+ },
+ "Each wing pins on at two points. The struts set its angle.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər qanad iki nöqtədə barmaqla bərkidilir. Dayaqlar onun bucağını təyin edir."
+ },
+ "Ears take an AN5 pin (fore-aft axis); web bolts with 2 x AN4. Bend radius 3t for normalised 4130 (Wanttaja).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qulaqlar AN5 barmağı qəbul edir (ön-arxa oxu); divar 2 x AN4 ilə boltlanır. Normallaşdırılmış 4130 üçün əyilmə radiusu 3t (Wanttaja)."
+ },
+ "Electrics: 12 V LiFePO4 battery in a vented box under the seat. Run it via the master switch and fuses to the radio, with the antenna coax to a whip on the tailcone top. The mag P-lead goes through a firewall grommet. The half-VW's magneto needs no battery to run.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Elektrik: oturacağın altındakı havalandırılan qutuda 12 V LiFePO4 akkumulyator. Onu əsas açar və qoruyucular vasitəsilə radioya, antena koaksialını quyruq konusunun üstündəki qamçı antenaya çəkin. Maqnetonun P-naqili yanğın divarı vtulkasından keçir. Half-VW maqnetosu işləmək üçün akkumulyator tələb etmir."
+ },
+ "Elevator bellcrank (under seat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hündürlük sükanı yelləncəyi (oturacağın altında)"
+ },
+ "Elevator cable x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hündürlük sükanı trosu x2"
+ },
+ "Elevator cable x2: 1/8 in 7x19 galvanised": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hündürlük sükanı trosu x2: 1/8 in 7x19 sinklənmiş"
+ },
+ "Elevator cables: run one straight line each from the bellcrank to the tail-post grommet, 60 mm apart, up cable above down cable. Fit a phenolic fairlead where each line passes a bulkhead.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hündürlük sükanı trosları: hər birini yelləncəkdən quyruq dirəyi vtulkasına bir düz xətlə çəkin, 60 mm aralı, yuxarı tros aşağı trosun üstündə. Hər xəttin arakəsmədən keçdiyi yerə fenol bələdçi taxın."
+ },
+ "Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hündürlük sükanı buynuzu, 4130 0.063in (iki uclu, hündürlük sükanı burulma borusunda)"
+ },
+ "Elevator skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hündürlük sükanı örtüyü"
+ },
+ "Elevator spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hündürlük sükanı lonjeronu"
+ },
+ "Elevators and rudder: fold them the same way as the ailerons in step 7 (pleats, then the trailing-edge fold, then the C-spar).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hündürlük və istiqamət sükanları: onları 7-ci addımdakı eleronlar kimi qatlayın (büzmələr, sonra arxa kənar qatlaması, sonra C-lonjeron)."
+ },
+ "Empty / MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boş / MTOW"
+ },
+ "Empty mass and balance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boş kütlə və balans"
+ },
+ "Empty mass at or below {mass:empty} plus 3 %, and every loading case inside the CG range.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boş kütlə {mass:empty} üstəgəl 3 % və ya daha az, və hər yükləmə halı CG diapazonunda."
+ },
+ "Empty tanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boş çənlər"
+ },
+ "Empty tanks, 5 kg baggage (aftmost)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boş çənlər, 5 kg baqaj (ən arxa)"
+ },
+ "Endurance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Uçuş müddəti"
+ },
+ "Engine and prop": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mühərrik və pervanə"
+ },
+ "Engine and propeller": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mühərrik və pervanə"
+ },
+ "Engine mount": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mühərrik çərçivəsi"
+ },
+ "Engine mount to firewall, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mühərrik çərçivəsi yanğın divarına, 4"
+ },
+ "Engine mount tube (4130)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mühərrik çərçivəsi borusu (4130)"
+ },
+ "Engine runs: full-power static run, mag check, then check cylinder head temperatures.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mühərrik sınaqları: tam güclü statik işləmə, maqneto yoxlaması, sonra silindr başlığı temperaturlarını yoxlayın."
+ },
+ "Engine to mount, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mühərrik çərçivəyə, 4"
+ },
+ "Engine, cowl, prop": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mühərrik, kapot, pervanə"
+ },
+ "Enter what one sheet costs where you are. The airframe needs about {n} of them, and the sheet lines below follow your price; everything else stays a converted UK estimate. Leave it empty to use the estimate of {price}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Olduğunuz yerdə bir təbəqənin qiymətini daxil edin. Gövdəyə onlardan təxminən {n} ədəd lazımdır və aşağıdakı təbəqə sətirləri sizin qiymətinizi izləyir; qalan hər şey çevrilmiş UK təxmini olaraq qalır. {price} təxminindən istifadə etmək üçün boş buraxın."
+ },
+ "Epoxy primer + etch/alodine": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Epoksi astar + aşqarlama/alodine"
+ },
+ "Estimated": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Təxmini"
+ },
+ "Estimated flutter speed at least 1.2 × the design dive speed of {speed:Vd}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Təxmini flatter sürəti layihə dalış sürəti {speed:Vd}-nin ən azı 1.2 ×-i."
+ },
+ "Every crease goes on the blank before anything is folded, the same order the origami book uses.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər hansı şey qatlanmadan əvvəl hər qatlama pəstaha vurulur, origami kitabındakı eyni ardıcıllıqla."
+ },
+ "Every flange within ±0.5 mm of the drawing.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər flans çertyojdan ±0.5 mm daxilində."
+ },
+ "Every folded blank, every rivet by grip, every AN bolt by step, plus tube stock, bought assemblies, consumables and tools. Each line has an estimated price. The same list is in BOM.csv and HARDWARE_BY_STEP.csv in the download.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər qatlanmış pəstah, grip üzrə hər pərçim, addım üzrə hər AN bolt, üstəlik boru materialı, alınmış qurğular, sərf materialları və alətlər. Hər sətrin təxmini qiyməti var. Eyni siyahı yükləmədəki BOM.csv və HARDWARE_BY_STEP.csv fayllarındadır."
+ },
+ "Every number on this site is a calculation. This is the plan for turning them into evidence: cheap coupon tests first, then components, then the whole wing, then the ground and finally the air. Each phase retires a specific risk before money is spent on the next. Results go back into the repository, and measured values replace the estimates in aircraft.yaml.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bu saytdakı hər rəqəm hesablamadır. Onları sübuta çevirmək planı budur: əvvəl ucuz nümunə sınaqları, sonra komponentlər, sonra bütün qanad, sonra yerdə və nəhayət havada. Hər mərhələ növbəti mərhələyə pul xərclənmədən əvvəl konkret bir riski aradan qaldırır. Nəticələr repozitoriyaya qayıdır və ölçülmüş dəyərlər aircraft.yaml-dakı təxminləri əvəz edir."
+ },
+ "Every result, photo and failure goes into the repository.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər nəticə, foto və uğursuzluq repozitoriyaya düşür."
+ },
+ "Every steel fitting is also a flat blank folded at most twice.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər polad birləşdirici də ən çox iki dəfə qatlanmış yastı pəstahdır."
+ },
+ "Everything that goes into one aircraft": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bir təyyarəyə gedən hər şey"
+ },
+ "Exact": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dəqiq"
+ },
+ "Exchange rates: {date}, base GBP.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Məzənnələr: {date}, baza GBP."
+ },
+ "Export BOM (.csv)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Materiallar siyahısını ixrac et (.csv)"
+ },
+ "Extinguisher and PLB": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yanğınsöndürən və PLB"
+ },
+ "F-B1 Tailcone bulkhead x=1150": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B1 Quyruq konusu arakəsməsi x=1150"
+ },
+ "F-B2 Tailcone bulkhead x=1948": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B2 Quyruq konusu arakəsməsi x=1948"
+ },
+ "F-B3 Tailcone bulkhead x=2745": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B3 Quyruq konusu arakəsməsi x=2745"
+ },
+ "F-B4 Tailcone bulkhead x=3542": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B4 Quyruq konusu arakəsməsi x=3542"
+ },
+ "F-B5 Tailcone bulkhead x=4340 (tail post)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B5 Quyruq konusu arakəsməsi x=4340 (quyruq dirəyi)"
+ },
+ "F-CL Lower cowl (box-pleat pan to the cabin floor line)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-CL Alt kapot (kabin döşəmə xəttinə qədər qutu-büzmə tava)"
+ },
+ "F-CU Upper cowl (hood, two 90 deg folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-CU Üst kapot (qapaq, iki 90 deg qatlama)"
+ },
+ "F-DW Door (left, hinged) / side window (right, fixed)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-DW Qapı (sol, menteşəli) / yan pəncərə (sağ, sabit)"
+ },
+ "F-FA Front arch (main-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FA Ön tağ (əsas lonjeron çərçivəsi)"
+ },
+ "F-FL Floor tray with two hat pleats": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FL İki şlyapa büzməli döşəmə altlığı"
+ },
+ "F-FW Firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FW Yanğın divarı"
+ },
+ "F-FWN Front side window (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FWN Ön yan pəncərə (x2, güzgü əksi)"
+ },
+ "F-IP Instrument panel (glare-shield fold, side tabs)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-IP Cihaz paneli (parıltı qoruyucusu qatlaması, yan dillər)"
+ },
+ "F-NF Nose ring (prop-shaft hole + two cooling inlets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NF Burun halqası (pervane valı deşiyi + iki soyutma girişi)"
+ },
+ "F-NL Nose bowl, chin (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NL Burun kasası, çənə (3 yaxınlaşan üz)"
+ },
+ "F-NU Nose bowl, upper (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NU Burun kasası, üst (3 yaxınlaşan üz)"
+ },
+ "F-RA Rear arch (rear-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-RA Arxa tağ (arxa lonjeron çərçivəsi)"
+ },
+ "F-SD Cabin side (x2, mirrored): door/window opening + front window": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-SD Kabin yanı (x2, güzgü əksi): qapı/pəncərə açılışı + ön pəncərə"
+ },
+ "F-ST Seat (pan + back, one sheet)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-ST Oturacaq (tava + söykənəcək, bir təbəqə)"
+ },
+ "F-TB1 Tailcone belly, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TB1 Quyruq konusu qarnı, 1-ci hissə"
+ },
+ "F-TB2 Tailcone belly, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TB2 Quyruq konusu qarnı, 2-ci hissə"
+ },
+ "F-TS1 Tailcone side, section 1 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TS1 Quyruq konusu yanı, 1-ci hissə (x2, güzgü əksi)"
+ },
+ "F-TS2 Tailcone side, section 2 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TS2 Quyruq konusu yanı, 2-ci hissə (x2, güzgü əksi)"
+ },
+ "F-TT1 Tailcone top, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TT1 Quyruq konusu üstü, 1-ci hissə"
+ },
+ "F-TT2 Tailcone top, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TT2 Quyruq konusu üstü, 2-ci hissə"
+ },
+ "F-WS Windscreen (cold-bent flat polycarbonate)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-WS Ön şüşə (soyuq əyilmiş yastı polikarbonat)"
+ },
+ "Faceted rib: every flange is a straight brake bend, no form block or fluting needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tilli nervür: hər flans bir düz dəzgah əyilməsidir, forma bloku və ya şırım lazım deyil."
+ },
+ "Fairleads and pulleys": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bələdçilər və bloklar"
+ },
+ "Fasteners": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bərkidicilər"
+ },
+ "Fin nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kil burun nervürü"
+ },
+ "Fin skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kil örtüyü (bir sarğı)"
+ },
+ "Fin spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kil lonjeronu"
+ },
+ "Final-drill every Cleco'd hole to #30 (3.3 mm), a few at a time, moving each Cleco to the next hole as you go.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər Cleco taxılmış deşiyi #30 (3.3 mm)-ə qədər son qazıyın, bir dəfəyə bir neçəsini, gedərkən hər Cleco-nu növbəti deşiyə keçirin."
+ },
+ "Fine felt marker, steel rule, square, MEK to clean": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İncə flomaster, polad xətkeş, bucaqlıq, təmizləmək üçün MEK"
+ },
+ "Finish: glue carpet on top of each beam so the wing skin can't be scratched. Load each stand with 40 kg and check it doesn't rack or rock. Keep the offcuts: they are your test pieces for the spar bend in step 2.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bitirmə: qanad örtüyü cızılmasın deyə hər tirin üstünə xalça yapışdırın. Hər dayağı 40 kg ilə yükləyin və əyilmədiyini və yırğalanmadığını yoxlayın. Qalıqları saxlayın: onlar 2-ci addımdakı lonjeron əyilməsi üçün sınaq parçalarınızdır."
+ },
+ "Fire extinguisher 1 kg (clip by the left seat rail)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yanğınsöndürən 1 kg (sol oturacaq relsi yanında sıxacla)"
+ },
+ "Firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yanğın divarı"
+ },
+ "Firewall flanges": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yanğın divarı flansları"
+ },
+ "First flights": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İlk uçuşlar"
+ },
+ "First-pass strength: +4 / −2 g, ×1.5 ultimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İlkin möhkəmlik: +4 / −2 g, ×1.5 son"
+ },
+ "Fit each rib by its attach flange: Cleco through the pilot holes into the spar web. Nose ribs go on the front face, main ribs on the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər nervürü öz bərkitmə flansı ilə taxın: bələdçi deşiklərdən lonjeron divarına Cleco. Burun nervürləri ön üzə, əsas nervürlər arxaya."
+ },
+ "Fit the axles, wheels and drum brakes. Castellated nut and cotter on each axle. The 21 x 8.00-6 tundra tyres run at 10-12 psi: check pressure before every flight, they are soft by design.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Oxları, təkərləri və baraban əyləclərini taxın. Hər oxda qəsr qaykası və şplint. 21 x 8.00-6 tundra şinləri 10-12 psi-də işləyir: hər uçuşdan əvvəl təzyiqi yoxlayın, onlar qəsdən yumşaqdır."
+ },
+ "Fit the cabin roof and the centre-section upper skin, back-drilled through the root ribs. Use the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kabin damını və mərkəzi hissənin üst örtüyünü kök nervürlərindən əks qazıyaraq taxın. Pərçimləmə dövrəsindən istifadə edin."
+ },
+ "Fit the camlock receptacles on the firewall flange and along the split line. Trim the cowl until it clears the cylinders by at least 10 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kamlok qəbuledicilərini yanğın divarı flansına və ayırma xətti boyunca taxın. Kapotu silindrlərdən ən azı 10 mm aralı qalana qədər kəsin."
+ },
+ "Fit the jury struts (420 mm main, 425 mm rear) from the clamp ear to the jury-top clevis under the spar, AN3 at each end. They double the strut's buckling strength.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Köməkçi dayaqları (əsas 420 mm, arxa 425 mm) sıxac qulağından lonjeronun altındakı köməkçi dayaq zirvəsi çəngəlinə qədər taxın, hər ucda AN3. Onlar dayağın uzununa əyilmə möhkəmliyini iki qat artırır."
+ },
+ "Fit the sides outside the arches, firewall flange and floor flanges. Back-drill and Cleco.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yanları tağların xaricinə, yanğın divarı flansına və döşəmə flanslarına taxın. Əks qazıyın və Cleco taxın."
+ },
+ "Fit the stick, the aileron torque tube under the seat and the elevator bellcrank. Connect the stick to the bellcrank with a short pushrod.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dəstəyi, oturacağın altındakı eleron burulma borusunu və hündürlük sükanı yelləncəyini taxın. Dəstəyi yelləncəyə qısa itələyici çubuqla birləşdirin."
+ },
+ "Five facets, chamfers matching the cabin floor. A louvre slot at the rear is the cooling-air exit.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Beş üz, faskalar kabin döşəməsinə uyğun. Arxadakı jalüz yarığı soyutma havasının çıxışıdır."
+ },
+ "Flanges 90°, all toward the root": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flanslar 90°, hamısı kökə tərəf"
+ },
+ "Flanges all round fold aft; engine mount bolts through 4 doublers.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ətrafdakı flanslar arxaya qatlanır; mühərrik çərçivəsi 4 gücləndiricidən boltlanır."
+ },
+ "Flanges follow the frustum taper (fold < 90 deg).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flanslar kəsik konusun daralmasını izləyir (qatlama < 90 deg)."
+ },
+ "Flanges follow the frustum taper (fold < 90 deg). Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flanslar kəsik konusun daralmasını izləyir (qatlama < 90 deg). Laminat: 0.020 in-dən 2 iç-içə təbəqə, ayrı qatlanıb bir kimi pərçimlənib; hər daxili təbəqə üçün flans kənarlarından 0.5 mm kəsin."
+ },
+ "Flanges follow the nose taper.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flanslar burnun daralmasını izləyir."
+ },
+ "Flap lever (overhead, Kitfox-style)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qanadcıq qolu (baş üstü, Kitfox üslubunda)"
+ },
+ "Flap pushrod (wing) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qanadcıq itələyici çubuğu (qanad) x2"
+ },
+ "Flap pushrod (wing) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qanadcıq itələyici çubuğu (qanad) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Flap stall at or below 35 kt CAS, the SSDR limit; predicted {speed:Vs0}. Gentle stall, no wing drop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qanadcıqla stal 35 kt CAS və ya daha az, SSDR həddi; proqnoz {speed:Vs0}. Yumşaq stal, qanad düşmür."
+ },
+ "Flaps and ailerons": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qanadcıqlar və eleronlar"
+ },
+ "Flat panel; the top flange folds aft as a glare shield, side tabs fold forward onto the cabin sides. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yastı panel; üst flans parıltı qoruyucusu kimi arxaya, yan dillər kabin yanlarına irəli qatlanır. Laminat: 0.020 in-dən 2 iç-içə təbəqə, ayrı qatlanıb bir kimi pərçimlənib; hər daxili təbəqə üçün flans kənarlarından 0.5 mm kəsin."
+ },
+ "Flat polycarbonate over the front cut-out, 20 mm lap, screws in 4.5 mm oversize holes.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ön kəsik üzərində yastı polikarbonat, 20 mm üst-üstə, 4.5 mm böyüdülmüş deşiklərdə vintlər."
+ },
+ "Flight test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Uçuş sınağı"
+ },
+ "Floor tray with two hat pleats": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İki şlyapa büzməli döşəmə altlığı"
+ },
+ "Floor, firewall, arches": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Döşəmə, yanğın divarı, tağlar"
+ },
+ "Flutter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Flatter"
+ },
+ "Foam tape": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Köpük lent"
+ },
+ "Fold 20 strips of 0.51 mm 6061-T6 at a 0.8 mm nose radius, across and along the grain. Inspect every bend under a 10× loupe.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "0.51 mm 6061-T6-dan 20 zolağı 0.8 mm burun radiusunda, liflərə eninə və boyuna qatlayın. Hər əyilməni 10× lupa altında yoxlayın."
+ },
+ "Fold a 300 mm offcut of a rib and of a spar from the real DXFs and measure every flange.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Real DXF-lərdən nervürün və lonjeronun 300 mm qalığını qatlayın və hər flansı ölçün."
+ },
+ "Fold a 300 mm offcut of the same strip first and measure it to confirm the bend deduction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əyilmə çıxılmasını təsdiqləmək üçün əvvəl eyni zolağın 300 mm qalığını qatlayın və ölçün."
+ },
+ "Fold all 52 ribs before assembling any: one brake set-up does the whole batch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Heç birini yığmazdan əvvəl bütün 52 nervürü qatlayın: bir dəzgah tənzimi bütün partiyanı edir."
+ },
+ "Fold coupons": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nümunələri qatlama"
+ },
+ "Fold each belly blank: bottom, both chamfers, then the side flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər qarın pəstahını qatlayın: alt, hər iki faska, sonra yan flanslar."
+ },
+ "Fold every rib flange 90° on the brake. Because the airfoil is faceted, each flange is one straight bend.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər nervür flansını dəzgahda 90° qatlayın. Profil tilli olduğu üçün hər flans bir düz əyilmədir."
+ },
+ "Fold the 12 clevises in the vise over a 5 mm radius block. Normalised 4130 needs at least 3t (Wanttaja).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "12 çəngəli məngənədə 5 mm radiuslu blok üzərində qatlayın. Normallaşdırılmış 4130 ən azı 3t tələb edir (Wanttaja)."
+ },
+ "Fold the 90° top flange and the windscreen flange on each side panel. The top flange is the longeron.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər yan paneldə 90° üst flansı və ön şüşə flansını qatlayın. Üst flans lonjerondur."
+ },
+ "Fold the bulkhead flanges. They are 96–100°, not 90°, because they follow the taper.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Arakəsmə flanslarını qatlayın. Onlar 90° deyil, 96–100°-dir, çünki daralmanı izləyir."
+ },
+ "Fold the firewall flanges, all aft. It is stainless, so drill it slowly with a sharp bit and cutting oil.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yanğın divarı flanslarını qatlayın, hamısı arxaya. Bu paslanmayan poladdır, ona görə iti burğu və kəsmə yağı ilə yavaş qazıyın."
+ },
+ "Fold the floor tray's two hat pleats, then the chamfers and side flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Döşəmə altlığının iki şlyapa büzməsini qatlayın, sonra faskaları və yan flansları."
+ },
+ "Fold the instrument panel (glare shield and side tabs) and rivet it to the cabin sides at x = -400 mm. Fit the ASI, altimeter, tach, CHT/EGT, radio, master and mag switches and fuel valve, and put the compass on the glare shield.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Cihaz panelini qatlayın (parıltı qoruyucusu və yan dillər) və x = -400 mm-də kabin yanlarına pərçimləyin. ASI, altimetr, taxometr, CHT/EGT, radio, əsas və maqneto açarlarını və yanacaq klapanını taxın, kompası parıltı qoruyucusunun üstünə qoyun."
+ },
+ "Fold the ribs, Cleco them on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nervürləri qatlayın, Cleco ilə taxın"
+ },
+ "Fold the seat: pan and back from one sheet. Rivet its front lip to the floor and lean its back on the rear arch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Oturacağı qatlayın: tava və söykənəcək bir təbəqədən. Ön dodağını döşəməyə pərçimləyin və söykənəcəyini arxa tağa dayayın."
+ },
+ "Fold the spars": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lonjeronları qatlayın"
+ },
+ "Fold the stabiliser and fin spars and their nose ribs.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stabilizator və kil lonjeronlarını və onların burun nervürlərini qatlayın."
+ },
+ "Fold the trailing edge over a 0.6 mm radius bar in the brake, to about 165°. Squeeze gently in soft vise jaws until the TE is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Arxa kənarı dəzgahda 0.6 mm radiuslu çubuq üzərində təxminən 165°-yə qədər qatlayın. TE düz olana qədər yumşaq məngənə çənələrində yavaşca sıxın."
+ },
+ "Fold the two V-bead pleats in valley-mountain-valley order. Stop each bead at the marks.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İki V-zolaq büzməsini dərə-dağ-dərə ardıcıllığı ilə qatlayın. Hər zolağı işarələrdə dayandırın."
+ },
+ "Fold the two arches: outer and inner flanges, all aft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İki tağı qatlayın: xarici və daxili flanslar, hamısı arxaya."
+ },
+ "Fold the two caps first (90°), then the two lips. Overbend by about 2° so the 6061-T6 springs back to 90°.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əvvəl iki rəfi qatlayın (90°), sonra iki dodağı. 6061-T6 90°-yə qayıtsın deyə təxminən 2° artıq əyin."
+ },
+ "Fold the upper and lower cowls (four 45° creases each) and the nose-bowl halves. Rivet the nose bowls to the nose ring.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Üst və alt kapotları (hərəsində dörd 45° qatlama) və burun kasası yarılarını qatlayın. Burun kasalarını burun halqasına pərçimləyin."
+ },
+ "Folded blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qatlanmış pəstahlar"
+ },
+ "Folds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qatlamalar"
+ },
+ "Four brake bends each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hərəsində dörd dəzgah əyilməsi"
+ },
+ "Four identical surfaces from one blank. The trailing edge is a single crease, so there's no separate strip to rivet on.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bir pəstahdan dörd eyni səth. Arxa kənar bir qatlamadır, ona görə ayrıca pərçimlənəcək zolaq yoxdur."
+ },
+ "Four stands, 20 blanks, about 200 rivets. The cheapest place to learn to fold, drill and rivet is a part that never leaves the ground.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dörd dayaq, 20 pəstah, təxminən 200 pərçim. Qatlamağı, qazımağı və pərçimləməyi öyrənməyin ən ucuz yeri heç vaxt yerdən ayrılmayan detaldır."
+ },
+ "Free play under 1° at each surface, and full travel with no binding under load.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər səthdə lüft 1°-dən az, və yük altında ilişmədən tam hərəkət."
+ },
+ "Front arch (main-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ön tağ (əsas lonjeron çərçivəsi)"
+ },
+ "Front side window (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ön yan pəncərə (x2, güzgü əksi)"
+ },
+ "Front side windows: screw over the cut-outs with a 20 mm lap.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ön yan pəncərələr: kəsiklərin üstünə 20 mm üst-üstə ilə vintləyin."
+ },
+ "Frustum facets aimed at one point, so every crease is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kəsik konus üzləri bir nöqtəyə yönəlib, ona görə hər qatlama düzdür."
+ },
+ "Fuel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yanacaq"
+ },
+ "Fuel allowed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İcazə verilən yanacaq"
+ },
+ "Fuel and payload": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yanacaq və faydalı yük"
+ },
+ "Fuel feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yanacaq verilməsi"
+ },
+ "Fuel filler neck + cap (through the hood, ahead of the windscreen)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yanacaq doldurma boğazı + qapaq (qapaqdan, ön şüşənin qarşısında)"
+ },
+ "Fuel selector valve: HEADER / AUX / OFF": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yanacaq seçici klapanı: HEADER / AUX / OFF"
+ },
+ "Fuel system parts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yanacaq sistemi detalları"
+ },
+ "Fuel tank 19 L (rotomoulded polyethylene): header tank behind the firewall, ahead of the panel, Cub-style": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yanacaq çəni 19 L (rotoqəlib polietilen): yanğın divarının arxasında, panelin qarşısında sərf çəni, Cub üslubunda"
+ },
+ "Fuel tank 19 L (rotomoulded) + lines, valve, gascolator": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yanacaq çəni 19 L (rotoqəlib) + xətlər, klapan, çöküntü filtri"
+ },
+ "Fuel, aux tank: a second 20 L tank strap-mounts high behind the seat, its bottom above the header tank top so it also gravity-feeds. Its line runs forward along the left roof rail to the selector; filler through the left cabin side, vent overboard under the roof. Never in the wings. Fill it only as far as the 300 kg MTOW allows: with a 100 kg pilot that is none at all. Burn the aux tank first, which keeps the CG moving forward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yanacaq, əlavə çən: ikinci 20 L çən oturacağın arxasında yuxarıda kəmərlə bərkidilir, onun dibi sərf çəninin üstündən yuxarıdadır ki, o da cazibə ilə qidalandırsın. Onun xətti sol dam relsi boyunca irəli seçiciyə gedir; doldurma ağzı kabinin sol tərəfindən, ventilyasiya damın altından çölə. Heç vaxt qanadlarda deyil. Onu yalnız 300 kg MTOW icazə verdiyi qədər doldurun: 100 kg pilotla heç doldurmayın. Əvvəl əlavə çəni sərf edin, bu CG-ni irəli hərəkətdə saxlayır."
+ },
+ "Fuel, header tank: the 19 L rotomoulded tank sits behind the firewall, above the pilot's shins and under the windscreen, strapped to two angles riveted to the side panels (as on a J-3 Cub). It gravity-feeds: tank outlet, selector valve (HEADER / AUX / OFF), a fire-sleeved hose through a firewall grommet, the gascolator on the firewall, then the carburettor. The tank bottom is about 200 mm above the carburettor. The filler neck comes up through the hood just ahead of the windscreen, and the vent runs forward under the hood.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yanacaq, sərf çəni: 19 L rotoqəlib çən yanğın divarının arxasında, pilotun baldırlarının üstündə və ön şüşənin altında oturur, yan panellərə pərçimlənmiş iki bucaqlığa kəmərlə bağlanıb (J-3 Cub-dakı kimi). Cazibə ilə qidalandırır: çən çıxışı, seçici klapan (HEADER / AUX / OFF), yanğın divarı vtulkasından yanğına davamlı örtüklü şlanq, yanğın divarındakı çöküntü filtri, sonra karbürator. Çənin dibi karbüratordan təxminən 200 mm yuxarıdadır. Doldurma boğazı ön şüşənin düz qarşısında qapaqdan çıxır, ventilyasiya qapağın altından irəli gedir."
+ },
+ "Gascolator (fuel strainer) on the firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yanğın divarında çöküntü filtri (yanacaq süzgəci)"
+ },
+ "Glide L/D": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Planlama L/D"
+ },
+ "Ground": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yer"
+ },
+ "Ground vibration test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yerdə titrəmə sınağı"
+ },
+ "Half-VW engine": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Half-VW mühərriki"
+ },
+ "Half-VW engine, dressed (carb, mag, exhaust)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Half-VW mühərriki, tam (karbürator, maqneto, işlənmiş qaz)"
+ },
+ "Hang the elevators and rudder on piano hinges. Check ±25° rudder travel clears the elevator halves.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hündürlük və istiqamət sükanlarını piano menteşələrinə asın. ±25° istiqamət sükanı hərəkətinin hündürlük sükanı yarılarına toxunmadığını yoxlayın."
+ },
+ "Hang the half-VW on rubber isolators (4 x AN5).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Half-VW-ni rezin izolyatorlara asın (4 x AN5)."
+ },
+ "Hangar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Anqar"
+ },
+ "Hardware": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Furnitur"
+ },
+ "Hardware for this step": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bu addım üçün furnitur"
+ },
+ "Harness anchors to floor and rear arch, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Döşəməyə və arxa tağa kəmər lövbərləri, 4"
+ },
+ "Hat pleats 56°, flanges 90°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Şlyapa büzmələri 56°, flanslar 90°"
+ },
+ "Have a BMAA or LAA inspector look at it before the first flight. Do first flights in calm air, over a long field.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İlk uçuşdan əvvəl BMAA və ya LAA müfəttişinə göstərin. İlk uçuşları sakit havada, uzun sahə üzərində edin."
+ },
+ "Head": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Başlıq"
+ },
+ "Header tank full": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sərf çəni dolu"
+ },
+ "Holds ultimate load for 3 s in both directions.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Son yükü hər iki istiqamətdə 3 s saxlayır."
+ },
+ "Holds ultimate load for 3 s. Peak cap stress {stress:ms_sig} against an allowable of {stress:ms_cc}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Son yükü 3 s saxlayır. Rəfin pik gərginliyi {stress:ms_sig}, icazəli {stress:ms_cc}-yə qarşı."
+ },
+ "Holds {force:strut_T} in tension and {force:strut_C} in compression with no failure.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dartılmada {force:strut_T} və sıxılmada {force:strut_C} dağılmadan saxlayır."
+ },
+ "Honesty": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dürüstlük"
+ },
+ "Horn: rod end bolts through the outer hole (AN3).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Buynuz: çubuq ucu xarici deşikdən boltlanır (AN3)."
+ },
+ "Horns, bellcranks and brackets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Buynuzlar, yelləncəklər və kronşteynlər"
+ },
+ "How it gets proven": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Necə sübut olunur"
+ },
+ "Imperial": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İmperial"
+ },
+ "Inspect each rivet: head seated flat, mandrel broken off flush, no gap under the head.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər pərçimi yoxlayın: baş yastı oturub, mil bərabər qırılıb, başın altında boşluq yoxdur."
+ },
+ "Inspection": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Baxış"
+ },
+ "Inspector sign-off before the aircraft is flown by anyone else.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Təyyarəni başqası uçurmazdan əvvəl müfəttiş imzası."
+ },
+ "Instructions": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Təlimatlar"
+ },
+ "Instrument panel (glare-shield fold, side tabs)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Cihaz paneli (parıltı qoruyucusu qatlaması, yan dillər)"
+ },
+ "Instruments (ASI, alt, tach, CHT, compass)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Cihazlar (ASI, alt, tach, CHT, kompas)"
+ },
+ "Inverted wing on its fittings, sandbags laid out to the spanwise lift distribution, to +4 g limit and then −2 g. Measure tip deflection at each step.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tərsinə qanad öz birləşdiricilərində, qum kisələri qanad boyu qaldırıcı qüvvə paylanmasına görə düzülüb, +4 g həddinə qədər, sonra −2 g. Hər addımda uc əyilməsini ölçün."
+ },
+ "Item": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əşya"
+ },
+ "Jury strut 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Köməkçi dayaq 0.75 x 0.049 in"
+ },
+ "Jury strut x2 (main)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Köməkçi dayaq x2 (əsas)"
+ },
+ "Jury strut x2 (main): 6061-T6 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Köməkçi dayaq x2 (əsas): 6061-T6 0.75 x 0.049 in"
+ },
+ "Jury strut x2 (rear)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Köməkçi dayaq x2 (arxa)"
+ },
+ "Jury strut x2 (rear): 6061-T6 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Köməkçi dayaq x2 (arxa): 6061-T6 0.75 x 0.049 in"
+ },
+ "Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Köməkçi dayaq yəhər sıxacı, 4130 0.063in (qulaqlı yuvarlanmış yarım qabıq)"
+ },
+ "K-BC Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-BC Yelləncək lövhəsi, 4130 0.063in (cüt, 55 mm qollar)"
+ },
+ "K-CV Clevis, 4130 0.063in (U, two folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-CV Çəngəl, 4130 0.063in (U, iki qatlama)"
+ },
+ "K-HD Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HD Hündürlük sükanı buynuzu, 4130 0.063in (iki uclu, hündürlük sükanı burulma borusunda)"
+ },
+ "K-HN Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HN Eleron / qanadcıq buynuzu, 4130 0.063in (alt örtüyə bir qatlama)"
+ },
+ "K-HR Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HR İstiqamət sükanı buynuzu, 4130 0.063in (yastı, hər tərəfdə tros)"
+ },
+ "K-JC Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-JC Köməkçi dayaq yəhər sıxacı, 4130 0.063in (qulaqlı yuvarlanmış yarım qabıq)"
+ },
+ "K-TG Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-TG Lonjeron kökü dili, 4130 0.063in (yastı, divarın iki tərəfində cüt)"
+ },
+ "Laminate: each channel is two blanks. Fold both separately, nest the inner one inside the outer one, and check they sit tight with no gap. If the inner one fights, take 0.5 mm off its flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laminat: hər kanal iki pəstahdır. Hər ikisini ayrı qatlayın, daxilini xaricinin içinə yerləşdirin və boşluqsuz sıx oturduğunu yoxlayın. Daxili girmirsə, onun flans kənarlarından 0.5 mm götürün."
+ },
+ "Laminated channel crippling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laminat kanal əzilməsi"
+ },
+ "Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laminat: 0.020 in-dən 2 iç-içə təbəqə, ayrı qatlanıb bir kimi pərçimlənib; hər daxili təbəqə üçün flans kənarlarından 0.5 mm kəsin."
+ },
+ "Landing gear and tailwheel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Şassi və quyruq təkəri"
+ },
+ "Landing roll": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Enmə qaçışı"
+ },
+ "Language": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dil"
+ },
+ "Laps 30 mm under the upper skin at 8% chord.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "8% xordada üst örtüyün altında 30 mm üst-üstə."
+ },
+ "Laser / waterjet cutting service": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lazer / su axını ilə kəsmə xidməti"
+ },
+ "Lay the spars on a flat table, webs vertical, 3.6 m apart for the two wings.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lonjeronları yastı masaya qoyun, divarlar şaquli, iki qanad üçün 3.6 m aralı."
+ },
+ "Leans on the rear arch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Arxa tağa söykənir."
+ },
+ "Leave the protective film on. Drill the polycarbonate with plastic bits, holes 6 mm for M4 screws so it can expand.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qoruyucu təbəqəni saxlayın. Polikarbonatı plastik burğularla qazıyın, genişlənə bilməsi üçün M4 vintlər üçün 6 mm deşiklər."
+ },
+ "Left door front edge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sol qapının ön kənarı"
+ },
+ "Licence": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lisenziya"
+ },
+ "Lift strut (main) 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qaldırıcı dayaq (əsas) 1.75 x 0.065 in"
+ },
+ "Lift strut (rear) 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qaldırıcı dayaq (arxa) 1.75 x 0.065 in"
+ },
+ "Lift strut, tension": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qaldırıcı dayaq, dartılma"
+ },
+ "Lift strut, −2 g buckling (with jury strut)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qaldırıcı dayaq, −2 g uzununa əyilmə (köməkçi dayaqla)"
+ },
+ "Lift struts and jury struts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qaldırıcı dayaqlar və köməkçi dayaqlar"
+ },
+ "Line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sətir"
+ },
+ "Lipped channels: four 90° brake bends each, two nested layers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dodaqlı kanallar: hərəsində dörd 90° dəzgah əyilməsi, iki iç-içə təbəqə"
+ },
+ "Load each linkage part to 1.5 × the BCAR Section S pilot loads at the stick and pedals.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər ötürücü detalı dəstəkdə və pedallarda BCAR Section S pilot yüklərinin 1.5 ×-nə qədər yükləyin."
+ },
+ "Local-price estimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yerli qiymət təxmini"
+ },
+ "Local-price estimate for {country}, in {currency}, before any local sales tax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "{country} üçün yerli qiymət təxmini, {currency} ilə, hər hansı yerli satış vergisindən əvvəl."
+ },
+ "Local-price estimate for {country}, in {currency}, including {tax} % VAT, GST or sales tax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "{country} üçün yerli qiymət təxmini, {currency} ilə, {tax} % VAT, GST və ya satış vergisi daxil."
+ },
+ "Low-speed taxi, then fast taxi with the tail up, on the intended test field.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nəzərdə tutulan sınaq sahəsində aşağı sürətli taksi, sonra quyruq qalxmış sürətli taksi."
+ },
+ "Lower cowl (box-pleat pan to the cabin floor line)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Alt kapot (kabin döşəmə xəttinə qədər qutu-büzmə tava)"
+ },
+ "Lower skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Alt örtük, 1-ci bölmə"
+ },
+ "Lower skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Alt örtük, 2-ci bölmə"
+ },
+ "Lower skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Alt örtük, 3-cü bölmə"
+ },
+ "Lower skins": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Alt örtüklər"
+ },
+ "M4 pan screw, nylon washer, M4 Nyloc nut, 6 mm oversize hole in polycarbonate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "M4 yastı başlı vint, neylon şayba, M4 Nyloc qayka, polikarbonatda 6 mm böyüdülmüş deşik"
+ },
+ "MEK / cleaner, Scotch-Brite, gloves": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "MEK / təmizləyici, Scotch-Brite, əlcəklər"
+ },
+ "Main gear leg x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əsas şassi ayağı x2"
+ },
+ "Main gear leg x2: 6061-T6 bar 75 x 16 mm": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əsas şassi ayağı x2: 6061-T6 çubuq 75 x 16 mm"
+ },
+ "Main gear legs through floor doubler, 2 per leg": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Döşəmə gücləndiricisindən əsas şassi ayaqları, hər ayağa 2"
+ },
+ "Main gear spring leg (6061-T6 bar)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əsas şassi yay ayağı (6061-T6 çubuq)"
+ },
+ "Main gear: 2 spring legs + axles": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əsas şassi: 2 yay ayağı + oxlar"
+ },
+ "Main lift strut x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əsas qaldırıcı dayaq x2"
+ },
+ "Main lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əsas qaldırıcı dayaq x2: 6061-T6 1.75 x 0.065 in"
+ },
+ "Main rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əsas nervür"
+ },
+ "Main rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əsas nervür, kök/uc"
+ },
+ "Main spar (lipped C, opens aft)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əsas lonjeron (dodaqlı C, arxaya açıq)"
+ },
+ "Main spar section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əsas lonjeron kəsiyi"
+ },
+ "Main spar web shear, limit": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əsas lonjeron divarının sürüşməsi, hədd"
+ },
+ "Main spar: lipped C, three layers of 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əsas lonjeron: dodaqlı C, 0.020 in-dən üç təbəqə"
+ },
+ "Main wheel: 21 x 8.00-6 tundra tyre at 10-12 psi": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əsas təkər: 21 x 8.00-6 tundra şini 10-12 psi-də"
+ },
+ "Main wheels": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əsas təkərlər"
+ },
+ "Margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ehtiyat"
+ },
+ "Mark fold lines on the marked face: red dashed = valley, blue dash-dot = mountain. Use a fine felt marker, never a scribe (Wanttaja: scribe lines start cracks).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İşarələnmiş üzdə qatlama xətlərini işarələyin: qırmızı qırıq xətt = dərə, göy qırıq-nöqtə = dağ. İncə flomasterdən istifadə edin, heç vaxt cızıcı yox (Wanttaja: cızıq xətləri çatları başladır)."
+ },
+ "Mark folds with felt pen, never a scribe": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qatlamaları flomasterlə işarələyin, heç vaxt cızıcı ilə yox"
+ },
+ "Mark the folds: red dashed is a valley, blue dash-dot is a mountain. Felt marker on the marked face only, never a scribe.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qatlamaları işarələyin: qırmızı qırıq xətt dərədir, göy qırıq-nöqtə dağdır. Flomaster yalnız işarələnmiş üzdə, heç vaxt cızıcı yox."
+ },
+ "Mass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kütlə"
+ },
+ "Mass balance weights": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kütlə balans yükləri"
+ },
+ "Mass-balance each aileron with lead on an arm ahead of the hinge until it hangs level, before it goes on the aircraft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər eleronu təyyarəyə taxmazdan əvvəl menteşənin qarşısındakı qola qurğuşun qoyaraq üfüqi asılana qədər kütləyə görə balanslaşdırın."
+ },
+ "Mass-balance horn at outboard end.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Xarici ucda kütlə balans buynuzu."
+ },
+ "Mean strength at or above the value used in design, scatter under 10 %.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Orta möhkəmlik layihədə istifadə olunan dəyərə bərabər və ya yuxarı, səpələnmə 10 %-dən az."
+ },
+ "Measure gravity flow from each tank, with the aircraft at its steepest climb attitude plus margin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər çəndən cazibə axınını təyyarə ən dik qalxma vəziyyətində üstəgəl ehtiyatla ölçün."
+ },
+ "Measure twist under a known torque at the tip rib.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Uc nervüründə məlum moment altında burulmanı ölçün."
+ },
+ "Measured climb, cruise and glide recorded against the predictions on the numbers tab.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ölçülmüş qalxma, kruiz və planlama rəqəmlər tabındakı proqnozlarla müqayisədə qeyd olunur."
+ },
+ "Measured values replace estimates in aircraft.yaml, and the build manual is revised.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ölçülmüş dəyərlər aircraft.yaml-dakı təxminləri əvəz edir və qurma təlimatı yenidən baxılır."
+ },
+ "Member": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Element"
+ },
+ "Method": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Üsul"
+ },
+ "Metric": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Metrik"
+ },
+ "Mid CG, calm air, long field, circuit height only, an experienced test pilot.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Orta CG, sakit hava, uzun sahə, yalnız dövrə hündürlüyü, təcrübəli sınaq pilotu."
+ },
+ "Month 10": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "10-cu ay"
+ },
+ "Month 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "4-cü ay"
+ },
+ "Month 5": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "5-ci ay"
+ },
+ "Months 2–3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "2–3-cü aylar"
+ },
+ "Months 6–9": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "6–9-cu aylar"
+ },
+ "Move the CG from forward to aft in steps, checking stick-free stability at each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CG-ni öndən arxaya mərhələlərlə sürüşdürün, hər birində sərbəst dəstəkli dayanıqlığı yoxlayın."
+ },
+ "Nicopress sleeve + thimble (1/8 in cable)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nicopress qolu + kuş (1/8 in tros)"
+ },
+ "Nicopress tool + cable cutter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nicopress aləti + tros kəsici"
+ },
+ "No cracks, and springback within 2° of prediction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Çat yoxdur və geri yaylanma proqnozdan 2° daxilində."
+ },
+ "No flutter or buzz up to {speed:Vne}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "{speed:Vne}-yə qədər flatter və ya vızıltı yoxdur."
+ },
+ "No permanent set after unloading. Deflection within 15 % of prediction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yük götürüldükdən sonra qalıq deformasiya yoxdur. Əyilmə proqnozdan 15 % daxilində."
+ },
+ "No permanent set at limit, no failure at ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hədddə qalıq deformasiya yoxdur, sonda dağılma yoxdur."
+ },
+ "No physical part has been cut. Fold one rib and one spar offcut first to check the bend deduction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hələ heç bir fiziki detal kəsilməyib. Əyilmə çıxılmasını yoxlamaq üçün əvvəl bir nervür və bir lonjeron qalığını qatlayın."
+ },
+ "No yield at limit load, no failure at ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hədd yükündə axıcılıq yoxdur, sonda dağılma yoxdur."
+ },
+ "Nose bowl, chin (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Burun kasası, çənə (3 yaxınlaşan üz)"
+ },
+ "Nose bowl, upper (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Burun kasası, üst (3 yaxınlaşan üz)"
+ },
+ "Nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Burun nervürü"
+ },
+ "Nose rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Burun nervürü, kök/uc"
+ },
+ "Nose ring (prop-shaft hole + two cooling inlets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Burun halqası (pervane valı deşiyi + iki soyutma girişi)"
+ },
+ "Nose rolled over 75 mm tube": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "75 mm boru üzərində yuvarlanmış burun"
+ },
+ "Nose zone is rolled over a 75 mm tube; aft creases are soft brake hits (2-6 deg).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Burun zonası 75 mm boru üzərində yuvarlanır; arxa qatlamalar yumşaq dəzgah zərbələridir (2-6 deg)."
+ },
+ "Not analysed yet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hələ təhlil edilməyib"
+ },
+ "Not proven": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sübut olunmayıb"
+ },
+ "Notes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qeydlər"
+ },
+ "One 90 degree flange stiffens the free edge. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bir 90 dərəcəlik flans sərbəst kənarı sərtləşdirir. Laminat: 0.020 in-dən 2 iç-içə təbəqə, ayrı qatlanıb bir kimi pərçimlənib; hər daxili təbəqə üçün flans kənarlarından 0.5 mm kəsin."
+ },
+ "One hour of progressive ground running, with cylinder head and exhaust temperatures logged.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Silindr başlığı və işlənmiş qaz temperaturlarını qeyd edərək bir saatlıq tədrici yerdə işlətmə."
+ },
+ "One-wrap skins, sharp trailing edges": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bir sarğılı örtüklər, iti arxa kənarlar"
+ },
+ "Open-source aircraft": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Açıq mənbəli təyyarə"
+ },
+ "Order as 12 ft strip. Lips turn the free flange edges into supported edges (k 0.43 -> ~4). Laminated: 3 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "12 ft zolaq kimi sifariş edin. Dodaqlar sərbəst flans kənarlarını dayaqlı kənarlara çevirir (k 0.43 -> ~4). Laminat: 0.020 in-dən 3 iç-içə təbəqə, ayrı qatlanıb bir kimi pərçimlənib; hər daxili təbəqə üçün flans kənarlarından 0.5 mm kəsin."
+ },
+ "Paint": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boya"
+ },
+ "Paint, then weigh on three scales in the level attitude. Work out the empty CG and check every loading case falls inside the design range in DESIGN_REPORT.md (about 28–33 % MAC).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boyayın, sonra üfüqi vəziyyətdə üç tərəzidə çəkin. Boş CG-ni hesablayın və hər yükləmə halının DESIGN_REPORT.md-dəki layihə diapazonuna (təxminən 28–33 % MAC) düşdüyünü yoxlayın."
+ },
+ "Panel: glare-shield fold 90°, side tabs 90°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Panel: parıltı qoruyucusu qatlaması 90°, yan dillər 90°"
+ },
+ "Parts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Detallar"
+ },
+ "Pass when": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Keçir, əgər"
+ },
+ "Performance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Göstəricilər"
+ },
+ "Phases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mərhələlər"
+ },
+ "Piano hinge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Piano menteşəsi"
+ },
+ "Piano hinge MS20001 + door latch": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Piano menteşəsi MS20001 + qapı kilidi"
+ },
+ "Pilot": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pilot"
+ },
+ "Pilot (95th pct, for scale)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pilot (95-ci persentil, miqyas üçün)"
+ },
+ "Pilot, fuel and baggage share one budget: maximum take-off mass minus empty mass. Both tanks are in the cabin, never in the wings: an 18 L header tank behind the firewall and a 20 L aux tank high behind the seat, both gravity-fed through one selector. A light pilot can fill both. A heavy pilot gets the header tank or less. Burn the aux tank first.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pilot, yanacaq və baqaj bir büdcəni bölüşür: maksimum qalxma kütləsi çıxılsın boş kütlə. Hər iki çən kabindədir, heç vaxt qanadlarda deyil: yanğın divarının arxasında 18 L sərf çəni və oturacağın arxasında yuxarıda 20 L əlavə çən, hər ikisi bir seçici vasitəsilə cazibə ilə qidalanır. Yüngül pilot hər ikisini doldura bilər. Ağır pilot sərf çənini və ya daha azını alır. Əvvəl əlavə çəni sərf edin."
+ },
+ "Pitot tube (left wing, ahead of the LE)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pito borusu (sol qanad, LE qarşısında)"
+ },
+ "Pitot-static: pitot tube under the left wing at the 1.2 m rib. Run its line inside the wing ahead of the main spar to the root and down the A-pillar to the ASI. A static port on the left cabin side feeds the altimeter and ASI. Secure everything with Adel clamps every 300 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pito-statik: sol qanadın altında 1.2 m nervürdə pito borusu. Onun xəttini qanadın içində əsas lonjeronun qarşısından kökə və A-dirəyi boyunca aşağı ASI-yə çəkin. Kabinin sol tərəfindəki statik port altimetri və ASI-ni qidalandırır. Hər şeyi hər 300 mm-də Adel sıxacları ilə bərkidin."
+ },
+ "Planar: no forming, drill with plastic-cutting bits, slotted holes for expansion.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Müstəvi: formalaşdırma yoxdur, plastik kəsən burğularla qazıyın, genişlənmə üçün uzunsov deşiklər."
+ },
+ "Plastic-cutting drill bits / step drill": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Plastik kəsən burğular / pilləli burğu"
+ },
+ "Positive stability at the aft limit; predicted minimum static margin {pct:SM_min}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Arxa hədddə müsbət dayanıqlıq; proqnozlaşdırılan minimal statik ehtiyat {pct:SM_min}."
+ },
+ "Press or bolt a 4130 end fork into each tube end. Drill the AN5 pin hole after the final length check on the aircraft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər boru ucuna 4130 uc çəngəlini presləyin və ya boltlayın. AN5 barmaq deşiyini təyyarədə son uzunluq yoxlamasından sonra qazıyın."
+ },
+ "Prime the faying surfaces: Scotch-Brite, wash, etch or alodine, then epoxy primer. Wear gloves (Wanttaja: finger oils stop primer sticking).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Toxunma səthlərini astarlayın: Scotch-Brite, yuma, aşqarlama və ya alodine, sonra epoksi astar. Əlcək geyinin (Wanttaja: barmaq yağları astarın yapışmasına mane olur)."
+ },
+ "Primer part: two nested layers folded on the brake and riveted as one. Glue carpet on the web. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Başlanğıc detal: iki iç-içə təbəqə dəzgahda qatlanıb bir kimi pərçimlənib. Divara xalça yapışdırın. Laminat: 0.020 in-dən 2 iç-içə təbəqə, ayrı qatlanıb bir kimi pərçimlənib; hər daxili təbəqə üçün flans kənarlarından 0.5 mm kəsin."
+ },
+ "Primer: build the wing stands": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Başlanğıc: qanad dayaqlarını qurun"
+ },
+ "Proof-load the wing upside down with sandbags to +4 g limit load, spread spanwise. It must show no permanent set.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qanadı tərsinə qum kisələri ilə +4 g hədd yükünə qədər qanad boyu paylayaraq sınaq yükləyin. Qalıq deformasiya göstərməməlidir."
+ },
+ "Prop drive hub (flange)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pervane intiqal göbəyi (flans)"
+ },
+ "Propeller 54 in wood + hub": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pervane 54 in taxta + göbək"
+ },
+ "Propeller 54 x 24 in, laminated wood (download the model)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pervane 54 x 24 in, laminat taxta (modeli yükləyin)"
+ },
+ "Propeller hub, 6": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pervane göbəyi, 6"
+ },
+ "Publish": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nəşr"
+ },
+ "Pull a complete strut with its clevises and tangs to ultimate tension, then buckle a second at −2 g with the jury strut fitted.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Çəngəlləri və dilləri ilə tam dayağı son dartılmaya qədər çəkin, sonra köməkçi dayaq taxılmış ikincisini −2 g-də əyilməyə sınayın."
+ },
+ "Push the AN5 root pins through. Fit castellated nuts and cotter pins.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN5 kök barmaqlarını keçirin. Qəsr qaykalarını və şplintləri taxın."
+ },
+ "Put in the aft soft creases first.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Əvvəl arxa yumşaq qatlamaları edin."
+ },
+ "Put in the soft creases with a light brake hit, or by hand over a straight-edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yumşaq qatlamaları yüngül dəzgah zərbəsi ilə və ya əllə düz kənar üzərində edin."
+ },
+ "Qty": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Say"
+ },
+ "Qualification": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İxtisas sınağı"
+ },
+ "Quarter-turn camlock (Dzus) + receptacle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dörddəbir dönmə kamlok (Dzus) + qəbuledici"
+ },
+ "RADIO instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "RADIO cihazı"
+ },
+ "Range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Uçuş məsafəsi"
+ },
+ "Ream the pin holes to 5/16 in and the bolt holes to 1/4 in and 3/16 in, through both ears at once so they line up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Barmaq deşiklərini 5/16 in-ə və bolt deşiklərini 1/4 in və 3/16 in-ə razvyortka edin, üst-üstə düşsün deyə hər iki qulaqdan eyni anda."
+ },
+ "Rear arch (rear-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Arxa tağ (arxa lonjeron çərçivəsi)"
+ },
+ "Rear lift strut x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Arxa qaldırıcı dayaq x2"
+ },
+ "Rear lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Arxa qaldırıcı dayaq x2: 6061-T6 1.75 x 0.065 in"
+ },
+ "Rear spar (lipped C, opens forward)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Arxa lonjeron (dodaqlı C, irəli açıq)"
+ },
+ "Rear spar section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Arxa lonjeron kəsiyi"
+ },
+ "Rear spar: lipped C, two layers of 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Arxa lonjeron: dodaqlı C, 0.020 in-dən iki təbəqə"
+ },
+ "Reassemble on Clecos, then pull the rivets from the middle of each joint outward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Cleco-larla yenidən yığın, sonra pərçimləri hər birləşmənin ortasından xaricə çəkin."
+ },
+ "Ribs, skin buckling, fittings, landing gear, tail loads, the engine mount and flutter. Mass-balance every control surface.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nervürlər, örtük əyilməsi, birləşdiricilər, şassi, quyruq yükləri, mühərrik çərçivəsi və flatter. Hər idarə səthini kütləyə görə balanslaşdırın."
+ },
+ "Right side: fixed window over the door opening. Left side: the same blank on a piano hinge at its front edge, with a latch at the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sağ tərəf: qapı açılışı üzərində sabit pəncərə. Sol tərəf: eyni pəstah ön kənarında piano menteşəsində, arxada kilidlə."
+ },
+ "Rivet joints": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pərçim birləşmələri"
+ },
+ "Rivet strength in thin sheet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nazik təbəqədə pərçim möhkəmliyi"
+ },
+ "Rivet the piano hinge to the spar top, then hang the surface on the rear spar.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Piano menteşəsini lonjeronun üstünə pərçimləyin, sonra səthi arxa lonjerona asın."
+ },
+ "Rivet: pull 1/8 in blind rivets, working from the middle of each row outwards and swapping clecos for rivets one at a time. A good rivet sits flat, with no gap under the head. Drill out any bad one with a #30 bit and try again: practise this on purpose at least once.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pərçimləmə: 1/8 in kor pərçimləri hər cərgənin ortasından xaricə çəkin, Cleco-ları bir-bir pərçimlərlə əvəz edin. Yaxşı pərçim yastı oturur, başın altında boşluq yoxdur. Pisini #30 burğu ilə qazıyıb çıxarın və yenidən cəhd edin: bunu ən azı bir dəfə qəsdən məşq edin."
+ },
+ "Riveting loop, rivets from the main spar outward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pərçimləmə dövrəsi, pərçimlər əsas lonjerondan xaricə."
+ },
+ "Riveting loop, then join the tailcone to the cabin at bulkhead 1.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pərçimləmə dövrəsi, sonra quyruq konusunu 1 arakəsmədə kabinə birləşdirin."
+ },
+ "Riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pərçimləmə dövrəsi."
+ },
+ "Riveting loop. The firewall takes stainless or Monel rivets: aluminium melts in a fire.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pərçimləmə dövrəsi. Yanğın divarına paslanmayan və ya Monel pərçimlər qoyulur: alüminium yanğında əriyir."
+ },
+ "Riveting loop: final-drill #30, take apart, deburr, prime, Cleco, rivet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pərçimləmə dövrəsi: son qazıma #30, sökmə, itiliyi götürmə, astar, Cleco, pərçim."
+ },
+ "Rivets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pərçimlər"
+ },
+ "Rivets to the rear-spar flanges. Closes the bay behind the centre-section rear spar.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Arxa lonjeron flanslarına pərçimlənir. Mərkəzi hissənin arxa lonjeronunun arxasındakı bölməni bağlayır."
+ },
+ "Rod ends": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Çubuq ucları"
+ },
+ "Roll each skin's leading edge, then wrap it round its ribs and spar. Back-drill and use the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər örtüyün ön kənarını yuvarlayın, sonra onu nervürləri və lonjeronu ətrafına sarıyın. Əks qazıyın və pərçimləmə dövrəsindən istifadə edin."
+ },
+ "Roll the eight saddle-clamp halves round a 45 mm bar, then bolt a pair round each strut at mid-length (2 x AN3 through the ears).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Səkkiz yəhər sıxacı yarısını 45 mm çubuq ətrafında yuvarlayın, sonra hər dayağın ortasında bir cütü boltlayın (qulaqlardan 2 x AN3)."
+ },
+ "Roll the green zone: lay the skin over a 75 mm tube and pull it round with a strap, a little at a time. Don't crease it.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yaşıl zonanı yuvarlayın: örtüyü 75 mm boru üzərinə qoyun və kəmərlə azar-azar ətrafa çəkin. Qatlamayın."
+ },
+ "Root and tip ribs have their flanges facing into the panel.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kök və uc nervürlərinin flansları panelin içinə baxır."
+ },
+ "Rudder and elevator cables, 1 per cable, in the cabin where you can inspect them": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İstiqamət və hündürlük sükanı trosları, hər trosa 1, kabində yoxlana bilən yerdə"
+ },
+ "Rudder cable x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İstiqamət sükanı trosu x2"
+ },
+ "Rudder cable x2: 1/8 in 7x19 galvanised": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İstiqamət sükanı trosu x2: 1/8 in 7x19 sinklənmiş"
+ },
+ "Rudder cables: pedal horn, then a pulley at the pedal, along the floor at y = ±200 mm through fairleads on both arch feet, a pulley at bulkhead 1, then one straight line each to the tail post. Because the tailcone is a frustum, a straight run between interior points never touches the skin, so no cable needs a mid-cone pulley.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İstiqamət sükanı trosları: pedal buynuzu, sonra pedalda blok, döşəmə boyunca y = ±200 mm-də hər iki tağ ayağındakı bələdçilərdən, 1 arakəsmədə blok, sonra hər biri quyruq dirəyinə bir düz xətt. Quyruq konusu kəsik konus olduğundan daxili nöqtələr arasında düz yol heç vaxt örtüyə toxunmur, ona görə heç bir trosa konusun ortasında blok lazım deyil."
+ },
+ "Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İstiqamət sükanı buynuzu, 4130 0.063in (yastı, hər tərəfdə tros)"
+ },
+ "Rudder pedals": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İstiqamət sükanı pedalları"
+ },
+ "Rudder skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İstiqamət sükanı örtüyü"
+ },
+ "Rudder spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İstiqamət sükanı lonjeronu"
+ },
+ "S-BM Stand beam (lipped C, saddle on top)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-BM Dayaq tiri (dodaqlı C, üstdə yəhər)"
+ },
+ "S-FT Stand foot (lipped C, opens up)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-FT Dayaq ayağı (dodaqlı C, yuxarı açıq)"
+ },
+ "S-GF Stand foot gusset (flat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-GF Dayaq ayağı kosinkası (yastı)"
+ },
+ "S-GT Stand top gusset (flanged hypotenuse)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-GT Dayaq üstü kosinkası (flanslı hipotenuz)"
+ },
+ "S-LG Stand leg (lipped C)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-LG Dayaq dirəyi (dodaqlı C)"
+ },
+ "SSDR means no airworthiness approval is required, so all the testing is yours to do.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "SSDR uçuşa yararlılıq təsdiqinin tələb olunmadığı deməkdir, ona görə bütün sınaqlar sizin öhdənizdədir."
+ },
+ "Saddle clamps: rolled half-shells": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yəhər sıxacları: yuvarlanmış yarım qabıqlar"
+ },
+ "Saddle-clamp ears (one also carries the jury-strut fork), 2 per clamp; Jury strut top, through the jury clevis": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yəhər sıxacı qulaqları (biri köməkçi dayaq çəngəlini də daşıyır), hər sıxaca 2; köməkçi dayaq üstü, köməkçi çəngəldən"
+ },
+ "Safety wire": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Təhlükəsizlik məftili"
+ },
+ "Same blank both sides. 20 mm lap all round. Left one hangs on a piano hinge at its front edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər iki tərəfdə eyni pəstah. Ətrafında 20 mm üst-üstə. Soldakı ön kənarında piano menteşəsindən asılır."
+ },
+ "Same blank for both flaps and both ailerons: modular-origami units.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər iki qanadcıq və hər iki eleron üçün eyni pəstah: modul origami vahidləri."
+ },
+ "Sandbags and tape measure (proof load)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qum kisələri və ruletka (sınaq yükü)"
+ },
+ "Sawtooth climbs, level speeds and glides.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mişar dişli qalxmalar, üfüqi sürətlər və planlamalar."
+ },
+ "Scotch-Brite, etch/alodine, epoxy primer, spray kit, gloves": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Scotch-Brite, aşqarlama/alodine, epoksi astar, püskürtmə dəsti, əlcəklər"
+ },
+ "Seat (pan + back, one sheet)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Oturacaq (tava + söykənəcək, bir təbəqə)"
+ },
+ "Seat cushion + 4-pt harness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Oturacaq yastığı + 4 nöqtəli kəmər"
+ },
+ "Select a row to see where that case sits.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Həmin halın harada olduğunu görmək üçün sətir seçin."
+ },
+ "Send the nest DXFs to a laser or waterjet service, or cut on a CNC router. Bolt holes come out 0.5 mm undersize; ream them later.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yerləşdirmə DXF-lərini lazer və ya su axını xidmətinə göndərin, və ya CNC frezdə kəsin. Bolt deşikləri 0.5 mm kiçik çıxır; sonra razvyortka edin."
+ },
+ "Set dihedral to 1.5° and wash-out to 0° with a digital level on the root and tip ribs. Then pin the struts on: AN5, castellated nut, cotter pin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kök və uc nervürlərində rəqəmsal tarazlıqla dihedralı 1.5° və burulmanı 0° qoyun. Sonra dayaqları barmaqla bərkidin: AN5, qəsr qaykası, şplint."
+ },
+ "Set the brake nose radius to 0.8 mm, about 1.6 times the 0.51 mm sheet (Table 5-2, 'normal' radius). Never tighter.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dəzgahın burun radiusunu 0.8 mm qoyun, 0.51 mm təbəqənin təxminən 1.6 qatı (Table 5-2, 'normal' radius). Heç vaxt daha dar deyil."
+ },
+ "Set the travels: aileron +20/-15°, elevator +25/-20°, rudder ±25°, flaps 0/20°. Fit the stops.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hərəkətləri tənzimləyin: eleron +20/-15°, hündürlük sükanı +25/-20°, istiqamət sükanı ±25°, qanadcıq 0/20°. Dayanacaqları taxın."
+ },
+ "Sheet price": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Təbəqə qiyməti"
+ },
+ "Single-lap shear and pull-through on one and two layers of 0.51 mm sheet with 3.2 mm blind rivets, 10 of each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "0.51 mm təbəqənin bir və iki qatında 3.2 mm kor pərçimlərlə tək üst-üstə kəsilmə və dartıb keçirmə, hərəsindən 10."
+ },
+ "Skin joints lap on a rib: the outboard skin goes under the inboard one.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Örtük birləşmələri nervür üzərində üst-üstə düşür: xarici örtük daxilinin altına gedir."
+ },
+ "Slide the C-spar in and Cleco it through the flanges. Riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "C-lonjeronu içəri sürüşdürün və flanslardan Cleco taxın. Pərçimləmə dövrəsi."
+ },
+ "Soft creases 2–6°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yumşaq qatlamalar 2–6°"
+ },
+ "Source": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mənbə"
+ },
+ "Span / area": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qanad açılışı / sahə"
+ },
+ "Spanners, sockets, inch-pound torque wrench": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Açarlar, başlıqlar, düym-funt moment açarı"
+ },
+ "Spar strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lonjeron möhkəmliyi"
+ },
+ "Spar-root pins through tang pair + arch clevis": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dil cütü + tağ çəngəlindən lonjeron kökü barmaqları"
+ },
+ "Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lonjeron kökü dili, 4130 0.063in (yastı, divarın iki tərəfində cüt)"
+ },
+ "Spec": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Spesifikasiya"
+ },
+ "Speed envelope": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sürət zərfi"
+ },
+ "Spinner": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Spinner"
+ },
+ "Stabiliser nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stabilizator burun nervürü"
+ },
+ "Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stabilizator kök nervürləri quyruq konusu yan gücləndiricilərinə, hər tərəfə 4; kil lonjeronu quyruq dirəyinə, 3"
+ },
+ "Stabiliser skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stabilizator örtüyü (bir sarğı)"
+ },
+ "Stabiliser spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stabilizator lonjeronu"
+ },
+ "Stability across the CG range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CG diapazonu boyunca dayanıqlıq"
+ },
+ "Stall speed and handling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stal sürəti və idarəolunma"
+ },
+ "Stall speeds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stal sürətləri"
+ },
+ "Stall, flaps 20°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stal, qanadcıqlar 20°"
+ },
+ "Stand beam (lipped C, saddle on top)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dayaq tiri (dodaqlı C, üstdə yəhər)"
+ },
+ "Stand foot (lipped C, opens up)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dayaq ayağı (dodaqlı C, yuxarı açıq)"
+ },
+ "Stand foot gusset (flat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dayaq ayağı kosinkası (yastı)"
+ },
+ "Stand leg (lipped C)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dayaq dirəyi (dodaqlı C)"
+ },
+ "Stand the arches and firewall on the floor tray, square and plumb. Their stations are 420 mm and 1008 mm aft of the wing LE, and the firewall is at -650 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tağları və yanğın divarını döşəmə altlığına düz bucaqla və şaquli qoyun. Onların yerləri qanad LE-dən 420 mm və 1008 mm arxadadır, yanğın divarı isə -650 mm-dədir."
+ },
+ "Stand top gusset (flanged hypotenuse)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dayaq üstü kosinkası (flanslı hipotenuz)"
+ },
+ "Static load to the Section S forward, side and vertical limit loads, then ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Section S ön, yan və şaquli hədd yüklərinə qədər statik yük, sonra son."
+ },
+ "Static margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Statik ehtiyat"
+ },
+ "Static port": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Statik port"
+ },
+ "Status": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vəziyyət"
+ },
+ "Step": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Addım"
+ },
+ "Stick pivot and torque-tube bearings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dəstək oynağı və burulma borusu podşipnikləri"
+ },
+ "Straight tracking, effective brakes and rudder, no shimmy.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Düz hərəkət, effektiv əyləclər və istiqamət sükanı, titrəmə yoxdur."
+ },
+ "String line, digital level, plumb bob": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İp xətti, rəqəmsal tarazlıq, şaqul"
+ },
+ "String-line the spars and check the ribs are square to them. Measure diagonals across each bay; they should match within 1 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Lonjeronları iplə düzləndirin və nervürlərin onlara düz bucaq altında olduğunu yoxlayın. Hər bölmənin diaqonallarını ölçün; 1 mm daxilində uyğun gəlməlidir."
+ },
+ "Structure": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Konstruksiya"
+ },
+ "Strut and fitting strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dayaq və birləşdirici möhkəmliyi"
+ },
+ "Strut and fittings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dayaq və birləşdiricilər"
+ },
+ "Strut end fork (4130)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dayaq uc çəngəli (4130)"
+ },
+ "Strut end forks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dayaq uc çəngəlləri"
+ },
+ "Strut ends, both ends of 4 struts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dayaq ucları, 4 dayağın hər iki ucu"
+ },
+ "Strut fairings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dayaq örtükləri"
+ },
+ "Support each tip on a trestle at 1.5° dihedral until the struts are on.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dayaqlar taxılana qədər hər ucu 1.5° dihedralda sehpa üzərində saxlayın."
+ },
+ "Systems fit-out": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sistemlərin quraşdırılması"
+ },
+ "T-EK Elevator skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-EK Hündürlük sükanı örtüyü"
+ },
+ "T-ES Elevator spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-ES Hündürlük sükanı lonjeronu"
+ },
+ "T-FK Fin skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FK Kil örtüyü (bir sarğı)"
+ },
+ "T-FR Fin nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FR Kil burun nervürü"
+ },
+ "T-FS Fin spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FS Kil lonjeronu"
+ },
+ "T-HK Stabiliser skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HK Stabilizator örtüyü (bir sarğı)"
+ },
+ "T-HR Stabiliser nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HR Stabilizator burun nervürü"
+ },
+ "T-HS Stabiliser spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HS Stabilizator lonjeronu"
+ },
+ "T-RK Rudder skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-RK İstiqamət sükanı örtüyü"
+ },
+ "T-RS Rudder spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-RS İstiqamət sükanı lonjeronu"
+ },
+ "TACH instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "TACH cihazı"
+ },
+ "Tail surfaces": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq səthləri"
+ },
+ "Tailcone belly, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq konusu qarnı, 1-ci hissə"
+ },
+ "Tailcone belly, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq konusu qarnı, 2-ci hissə"
+ },
+ "Tailcone bulkhead x=1150": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq konusu arakəsməsi x=1150"
+ },
+ "Tailcone bulkhead x=1948": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq konusu arakəsməsi x=1948"
+ },
+ "Tailcone bulkhead x=2745": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq konusu arakəsməsi x=2745"
+ },
+ "Tailcone bulkhead x=3542": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq konusu arakəsməsi x=3542"
+ },
+ "Tailcone bulkhead x=4340 (tail post)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq konusu arakəsməsi x=4340 (quyruq dirəyi)"
+ },
+ "Tailcone frustum": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq konusu kəsik konusu"
+ },
+ "Tailcone side, section 1 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq konusu yanı, 1-ci hissə (x2, güzgü əksi)"
+ },
+ "Tailcone side, section 2 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq konusu yanı, 2-ci hissə (x2, güzgü əksi)"
+ },
+ "Tailcone top, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq konusu üstü, 1-ci hissə"
+ },
+ "Tailcone top, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq konusu üstü, 2-ci hissə"
+ },
+ "Tailwheel 8 in pneumatic": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq təkəri 8 in pnevmatik"
+ },
+ "Tailwheel assembly, 8 in pneumatic": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq təkəri qurğusu, 8 in pnevmatik"
+ },
+ "Tailwheel fork": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq təkəri çəngəli"
+ },
+ "Tailwheel spring": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq təkəri yayı"
+ },
+ "Tailwheel spring (spring steel leaf)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq təkəri yayı (yay poladından ressor)"
+ },
+ "Tailwheel spring to tail post, 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq təkəri yayı quyruq dirəyinə, 2"
+ },
+ "Tailwheel spring to tail post, 2; Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq təkəri yayı quyruq dirəyinə, 2; stabilizator kök nervürləri quyruq konusu yan gücləndiricilərinə, hər tərəfə 4; kil lonjeronu quyruq dirəyinə, 3"
+ },
+ "Tailwheel spring: spring-steel leaf 45 x 8 mm": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq təkəri yayı: yay poladından ressor 45 x 8 mm"
+ },
+ "Tailwheel steering spring": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq təkəri sükan yayı"
+ },
+ "Tailwheel: a leaf spring, a steerable fork and two springs to the rudder.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Quyruq təkəri: ressor, dönən çəngəl və istiqamət sükanına iki yay."
+ },
+ "Take the skeleton apart. Deburr every hole on both faces.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Skeleti sökün. Hər deşiyin iki üzündən itiliyi götürün."
+ },
+ "Take-off roll": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qalxma qaçışı"
+ },
+ "Tank strap angle (L)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Çən kəməri bucaqlığı (sol)"
+ },
+ "Tank strap angle (R)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Çən kəməri bucaqlığı (sağ)"
+ },
+ "Tap or shaker test for wing bending and torsion, aileron, elevator and rudder modes. Confirm the mass balance of every control surface.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qanad əyilməsi və burulması, eleron, hündürlük və istiqamət sükanı modları üçün vurma və ya titrədici sınağı. Hər idarə səthinin kütlə balansını təsdiqləyin."
+ },
+ "Taxi tests": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taksi sınaqları"
+ },
+ "Taxi tests, then fast taxi with the tail up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Taksi sınaqları, sonra quyruq qalxmış sürətli taksi."
+ },
+ "Temperatures inside the engine maker's limits, static rpm 2,900–3,100, no abnormal vibration.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Temperaturlar mühərrik istehsalçısının həddləri daxilində, statik rpm 2,900–3,100, anormal titrəmə yoxdur."
+ },
+ "Tension each cable with its turnbuckle in the cabin, where you can see it, then safety-wire it. Nicopress every end over a thimble.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər trosu kabində görünən yerdə öz gərginləşdiricisi ilə dartın, sonra təhlükəsizlik məftili çəkin. Hər ucu kuş üzərində Nicopress edin."
+ },
+ "Test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sınaq"
+ },
+ "Test budget": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sınaq büdcəsi"
+ },
+ "Test programme": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sınaq proqramı"
+ },
+ "Test reports": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sınaq hesabatları"
+ },
+ "Tests": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sınaqlar"
+ },
+ "The aircraft is code: one file, aircraft.yaml, generates every part, file and figure on this page.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Təyyarə koddur: bir fayl, aircraft.yaml, bu səhifədəki hər detalı, faylı və rəqəmi yaradır."
+ },
+ "The arches sit at the spar stations, so the wing and strut loads go straight into two folded frames.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tağlar lonjeron yerlərində oturur, ona görə qanad və dayaq yükləri birbaşa iki qatlanmış çərçivəyə gedir."
+ },
+ "The cowl and nose bowl are flat blanks too: a box-pleated hood and a frustum, with straight creases throughout.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Kapot və burun kasası da yastı pəstahlardır: qutu-büzmə qapaq və kəsik konus, hər yerdə düz qatlamalar."
+ },
+ "The dot is the loading case selected in the table. The shaded band is the full CG range across all cases. The orange line is the neutral point: the CG must stay ahead of it, and the dashed gap between them is the static margin, the aircraft's pitch stability.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nöqtə cədvəldə seçilmiş yükləmə halıdır. Kölgəli zolaq bütün hallar üzrə tam CG diapazonudur. Narıncı xətt neytral nöqtədir: CG onun qarşısında qalmalıdır, onlar arasındakı qırıq boşluq isə statik ehtiyatdır, təyyarənin uzununa dayanıqlığı."
+ },
+ "The fold geometry. Every panel in the 3D model is produced by refolding the DXF flat pattern, and the rib-to-spar pilot holes are coordinated between parts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qatlama həndəsəsi. 3D modeldəki hər panel DXF yastı naxışını yenidən qatlamaqla yaradılır, nervür-lonjeron bələdçi deşikləri isə detallar arasında uzlaşdırılıb."
+ },
+ "The laminate acting as one section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Laminatın tək kəsik kimi işləməsi"
+ },
+ "The lips are what let thin laminated sheet act as a spar. Without them a free cap edge buckles at about 26 MPa. With them the cap reaches yield before it buckles.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Dodaqlar nazik laminat təbəqəyə lonjeron kimi işləməyə imkan verir. Onlarsız sərbəst rəf kənarı təxminən 26 MPa-da əyilir. Onlarla rəf əyilmədən əvvəl axıcılığa çatır."
+ },
+ "The local-price estimate takes UK VAT off the UK price, converts it at the day's exchange rate, takes about 20 % off US-made hardware, sheet and the engine kit when buying in the US, then adds the country's typical standard VAT, GST or sales tax. It leaves out import duty and shipping. Treat these as rough guides, not quotes.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yerli qiymət təxmini UK qiymətindən UK ƏDV-ni çıxarır, günün məzənnəsi ilə çevirir, ABŞ-da alındıqda ABŞ istehsalı furnitur, təbəqə və mühərrik dəstindən təxminən 20 % çıxır, sonra ölkənin adi standart VAT, GST və ya satış vergisini əlavə edir. İdxal rüsumu və çatdırılma daxil deyil. Bunları kobud bələdçi kimi qəbul edin, qiymət təklifi kimi yox."
+ },
+ "The numbers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Rəqəmlər"
+ },
+ "The pilot sits under the wing between the two arches. Header fuel is ahead of the CG and aux fuel is behind it. The aftmost case is a light pilot with empty tanks and baggage, which gives the minimum static margin:": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Pilot iki tağ arasında qanadın altında oturur. Sərf çəni yanacağı CG-dən öndə, əlavə yanacaq arxadadır. Ən arxa hal boş çənlər və baqajla yüngül pilotdur ki, minimal statik ehtiyatı verir:"
+ },
+ "The rolled nose and the main spar together form a closed D-cell, which carries the wing's twisting loads.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yuvarlanmış burun və əsas lonjeron birlikdə qapalı D-hücrə yaradır ki, qanadın burulma yüklərini daşıyır."
+ },
+ "The skins carry no holes of their own. Drilling them from the structure means the holes can't be misaligned.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Örtüklərin öz deşikləri yoxdur. Onları konstruksiyadan qazımaq deşiklərin yerdən sürüşməsini istisna edir."
+ },
+ "The stabiliser and fin use one wrapped skin each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stabilizator və kil hər biri bir sarınmış örtükdən istifadə edir."
+ },
+ "This is the sequence for every riveted joint from here on: Cleco, final-drill, take apart, deburr, prime, reassemble, rivet. Later steps call it the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bundan sonra hər pərçim birləşməsi üçün ardıcıllıq budur: Cleco, son qazıma, sökmə, itiliyi götürmə, astar, yenidən yığma, pərçim. Sonrakı addımlar bunu pərçimləmə dövrəsi adlandırır."
+ },
+ "Three platform scales": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Üç platformalı tərəzi"
+ },
+ "Three platform scales in the level attitude.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Üfüqi vəziyyətdə üç platformalı tərəzi."
+ },
+ "Through tang pair + spar web at each spar root, 4 per pair": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər lonjeron kökündə dil cütü + lonjeron divarından, hər cütə 4"
+ },
+ "Tools": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Alətlər"
+ },
+ "Top flange = longeron": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Üst flans = lonjeron"
+ },
+ "Top flange is the longeron: the fold is the stiffener. Openings have 50 mm corner radii (no square corners).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Üst flans lonjerondur: qatlamanın özü sərtləşdiricidir. Açılışların künc radiusu 50 mm (düz künc yoxdur)."
+ },
+ "Torsional stiffness recorded; it feeds the flutter estimate in phase D.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Burulma sərtliyi qeyd olunur; D mərhələsindəki flatter təxmininə daxil olur."
+ },
+ "Total": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Cəmi"
+ },
+ "Tube cutter, hacksaw, drill press": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boru kəsici, metal mişarı, qazma dəzgahı"
+ },
+ "Tube, bar and cable": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Boru, çubuq və tros"
+ },
+ "Turn it back over. On its three wheels it should sit about 9–11° nose-up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Onu geri çevirin. Üç təkəri üzərində o, burnu təxminən 9–11° yuxarı oturmalıdır."
+ },
+ "Turn the fuselage upside down on padded trestles.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Gövdəni yumşaq örtüklü sehpalar üzərində tərsinə qoyun."
+ },
+ "Turn the skeleton upside down. Lay bay 1's skin on it, located at the root rib, with the edge 3 mm short of the rear-spar flange edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Skeleti tərsinə çevirin. 1-ci bölmənin örtüyünü onun üstünə qoyun, kök nervüründə yerləşdirərək, kənarı arxa lonjeron flansı kənarından 3 mm qısa."
+ },
+ "Turn the wing upright. Wrap the skin from the trailing-edge shroud, over the nose, and under to lap the lower skin at 8 % chord.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qanadı düzəldin. Örtüyü arxa kənar örtüyündən, burnun üstündən və altına sarıyaraq 8 % xordada alt örtüyün üstünə qoyun."
+ },
+ "Turnbuckle AN130 class + safety wire": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN130 sinifli gərginləşdirici + təhlükəsizlik məftili"
+ },
+ "Two halves round the 1.75 in strut tube; the ear bolts also carry the jury-strut end.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1.75 in dayaq borusu ətrafında iki yarı; qulaq boltları köməkçi dayaq ucunu da daşıyır."
+ },
+ "Two hat pleats (step-folds) are the floor stiffeners; no separate stringers. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İki şlyapa büzməsi (pilləli qatlamalar) döşəmə sərtləşdiriciləridir; ayrıca stringer yoxdur. Laminat: 0.020 in-dən 2 iç-içə təbəqə, ayrı qatlanıb bir kimi pərçimlənib; hər daxili təbəqə üçün flans kənarlarından 0.5 mm kəsin."
+ },
+ "Two plates sandwich each rod end; AN4 pivot, AN3 at each arm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "İki lövhə hər çubuq ucunu ortaya alır; AN4 oynaq, hər qolda AN3."
+ },
+ "UK retail prices (inc. 20 % VAT) converted to {currency}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "UK pərakəndə qiymətləri (20 % VAT daxil) {currency}-yə çevrilib."
+ },
+ "UK retail prices, including 20 % VAT.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "UK pərakəndə qiymətləri, 20 % VAT daxil."
+ },
+ "Ultimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Son"
+ },
+ "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mənfi g altında dayaqlar sıxılmaya keçir. Köməkçi dayaqlar onların dayaqsız uzunluğunu yarıya endirir, bu da əyilmə yükünü dörd qat artırır."
+ },
+ "Undercarriage": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Şassi"
+ },
+ "Units": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Vahidlər"
+ },
+ "Unknowns for the next builder": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Növbəti qurucu üçün naməlumlar"
+ },
+ "Upper cowl (hood, two 90 deg folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Üst kapot (qapaq, iki 90 deg qatlama)"
+ },
+ "Upper skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Üst örtük, 1-ci bölmə"
+ },
+ "Upper skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Üst örtük, 2-ci bölmə"
+ },
+ "Upper skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Üst örtük, 3-cü bölmə"
+ },
+ "Upper skins: roll the nose": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Üst örtüklər: burnu yuvarlayın"
+ },
+ "V-bead pleats + one 165° trailing-edge fold": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "V-zolaq büzmələri + bir 165° arxa kənar qatlaması"
+ },
+ "VHF antenna whip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "VHF qamçı antena"
+ },
+ "W-CL Cabin roof (centre lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CL Kabin damı (mərkəzi alt örtük)"
+ },
+ "W-CS Aileron / flap skin (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CS Eleron / qanadcıq örtüyü (eyni x4)"
+ },
+ "W-CSS Aileron / flap spar (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CSS Eleron / qanadcıq lonjeronu (eyni x4)"
+ },
+ "W-CT Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CT Mərkəzi hissənin arxa kənar örtüyü (sabit, qanadcıqlar arasında)"
+ },
+ "W-CU Centre-section upper skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CU Mərkəzi hissənin üst örtüyü"
+ },
+ "W-MR Main rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MR Əsas nervür"
+ },
+ "W-MRe Main rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MRe Əsas nervür, kök/uc"
+ },
+ "W-MS Main spar (lipped C, opens aft)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MS Əsas lonjeron (dodaqlı C, arxaya açıq)"
+ },
+ "W-NR Nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-NR Burun nervürü"
+ },
+ "W-NRe Nose rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-NRe Burun nervürü, kök/uc"
+ },
+ "W-RS Rear spar (lipped C, opens forward)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-RS Arxa lonjeron (dodaqlı C, irəli açıq)"
+ },
+ "W-SL1 Lower skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL1 Alt örtük, 1-ci bölmə"
+ },
+ "W-SL2 Lower skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL2 Alt örtük, 2-ci bölmə"
+ },
+ "W-SL3 Lower skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL3 Alt örtük, 3-cü bölmə"
+ },
+ "W-SU1 Upper skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU1 Üst örtük, 1-ci bölmə"
+ },
+ "W-SU2 Upper skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU2 Üst örtük, 2-ci bölmə"
+ },
+ "W-SU3 Upper skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU3 Üst örtük, 3-cü bölmə"
+ },
+ "Weeks 1–4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1–4-cü həftələr"
+ },
+ "Weigh and balance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Çəkmə və balans"
+ },
+ "Weigh, test, fly-off": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Çəkmə, sınaq, sınaq uçuşu"
+ },
+ "Weight, not tank size, sets the range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Məsafəni çənin ölçüsü deyil, çəki müəyyən edir"
+ },
+ "What is known, and what is not": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nə məlumdur və nə məlum deyil"
+ },
+ "What it costs": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Nə qədər başa gəlir"
+ },
+ "Wheel hub": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Təkər göbəyi"
+ },
+ "Wheels, 21 x 8.00-6 tundra tyres, drum brakes x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Təkərlər, 21 x 8.00-6 tundra şinləri, baraban əyləcləri x2"
+ },
+ "Where it goes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hara gedir"
+ },
+ "Where the balance point sits": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Balans nöqtəsi harada yerləşir"
+ },
+ "Whole aircraft": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bütün təyyarə"
+ },
+ "Whole-wing strength and stiffness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bütün qanadın möhkəmliyi və sərtliyi"
+ },
+ "Why start here: the four stands use every skill the aircraft needs, on parts that don't fly. Get it wrong here, not on a spar. You need the stands anyway: the wings are built and parked on them until step 15.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Niyə buradan başlamalı: dörd dayaq təyyarənin tələb etdiyi hər bacarığı uçmayan detallarda istifadə edir. Səhvi burada edin, lonjeronda yox. Dayaqlar onsuz da lazımdır: qanadlar 15-ci addıma qədər onların üzərində qurulur və saxlanılır."
+ },
+ "Will it fly well?": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Yaxşı uçacaqmı?"
+ },
+ "Windscreen (cold-bent flat polycarbonate)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ön şüşə (soyuq əyilmiş yastı polikarbonat)"
+ },
+ "Windscreen, door and side windows": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ön şüşə, qapı və yan pəncərələr"
+ },
+ "Windscreen, side windows, door": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ön şüşə, yan pəncərələr, qapı"
+ },
+ "Windscreen: flat sheet, bedded on foam tape on the firewall and windscreen flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ön şüşə: yastı təbəqə, yanğın divarı və ön şüşə flanslarındakı köpük lentə oturdulub."
+ },
+ "Wing and airframe": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qanad və gövdə"
+ },
+ "Wing lift uses a Schrenk distribution, with each wing pinned at the cabin arch and a V-strut at the 2.4 m rib. Gust loads are below the manoeuvre case. Laminated spars are checked as one section, which assumes rivet pitch close enough to stop the layers buckling separately.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qanadın qaldırıcı qüvvəsi Schrenk paylanmasından istifadə edir, hər qanad kabin tağında barmaqla və 2.4 m nervürdə V-dayaqla. Külək zərbəsi yükləri manevr halından aşağıdır. Laminat lonjeronlar tək kəsik kimi yoxlanılır, bu da pərçim addımının təbəqələrin ayrı-ayrılıqda əyilməsinin qarşısını alacaq qədər yaxın olduğunu fərz edir."
+ },
+ "Wing loading": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qanad yüklənməsi"
+ },
+ "Wing proof load": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qanad sınaq yükü"
+ },
+ "Wing stands (step 0)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qanad dayaqları (0-cı addım)"
+ },
+ "Wing torsion": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qanad burulması"
+ },
+ "Wings on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Qanadların taxılması"
+ },
+ "With X-ray on, every run is colour-coded: orange rudder, cyan elevator, purple aileron, green flap, red fuel, white pitot, grey static, yellow 12 V, pink coax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "X-ray açıq olanda hər yol rənglə kodlanıb: narıncı istiqamət sükanı, mavi hündürlük sükanı, bənövşəyi eleron, yaşıl qanadcıq, qırmızı yanacaq, ağ pito, boz statik, sarı 12 V, çəhrayı koaksial."
+ },
+ "With a helper at the tip, lift each wing until its root tangs slide into the arch-top clevises.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ucda köməkçi ilə hər qanadı kök dilləri tağ zirvəsi çəngəllərinə sürüşüb girənə qədər qaldırın."
+ },
+ "Write the part number on every blank. Keep the blanks in step order.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Hər pəstahın üzərinə detal nömrəsini yazın. Pəstahları addım ardıcıllığı ilə saxlayın."
+ },
+ "X-ray": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "X-ray"
+ },
+ "Yes, as a slow, gentle, lightly loaded single-seater: a strut-braced high wing, a half-VW engine and a tailwheel on big soft tyres. It is heavier than a typical ultralight because every aluminium part is cut from one gauge, with thicker parts made as nested folds of the same sheet. That puts it in UK SSDR (300 kg) rather than US Part 103. Every figure here comes from the same script that generates the cut files.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Bəli, yavaş, yumşaq, yüngül yüklənmiş birnəfərlik kimi: dayaqlı yüksək qanad, half-VW mühərriki və böyük yumşaq şinlərdə quyruq təkəri. O, adi ultralaytdan ağırdır, çünki hər alüminium detal tək qalınlıqdan kəsilib, qalın detallar isə eyni təbəqənin iç-içə qatlamaları kimi hazırlanıb. Bu onu US Part 103 əvəzinə UK SSDR (300 kg) kateqoriyasına qoyur. Buradakı hər rəqəm kəsmə fayllarını yaradan eyni skriptdən gəlir."
+ },
+ "arch-foot bellcrank up the rear-arch leg to the arch-top bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "tağ ayağı yelləncəyindən arxa tağ ayağı boyunca tağ zirvəsi yelləncəyinə"
+ },
+ "arch-top bellcrank to outboard bellcrank, through rib lightening holes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "tağ zirvəsi yelləncəyindən xarici yelləncəyə, nervür yüngülləşdirmə deşiklərindən"
+ },
+ "aux": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "əlavə"
+ },
+ "blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "pəstahlar"
+ },
+ "blanks in all": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "cəmi pəstahlar"
+ },
+ "bolts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "boltlar"
+ },
+ "bought or welded": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "alınmış və ya qaynaqlanmış"
+ },
+ "buckling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "uzununa əyilmə"
+ },
+ "centre torque-tube arm to flap bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "mərkəzi burulma borusu qolundan qanadcıq yelləncəyinə"
+ },
+ "check, then commit": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "yoxlayın, sonra bərkidin"
+ },
+ "clean": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "təmiz"
+ },
+ "close up": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "bağlamaq"
+ },
+ "crease pattern": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "qatlama naxışı"
+ },
+ "crippling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "əzilmə"
+ },
+ "each with a pass criterion": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "hər birinin keçid meyarı ilə"
+ },
+ "fabricated or bought for half-VW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "half-VW üçün hazırlanmış və ya alınmış"
+ },
+ "faying surfaces and interior": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "toxunma səthləri və daxili hissə"
+ },
+ "finished": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "hazır"
+ },
+ "flat blanks, one sheet gauge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "yastı pəstahlar, tək təbəqə qalınlığı"
+ },
+ "fold the same way": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "eyni cür qatlayın"
+ },
+ "fold to the marks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "işarələrə qədər qatlayın"
+ },
+ "fuel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "yanacaq"
+ },
+ "give it roundness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "yuvarlaqlıq verin"
+ },
+ "gravity feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "cazibə ilə qidalanma"
+ },
+ "gust": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "külək zərbəsi"
+ },
+ "hard": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "sərt"
+ },
+ "header": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "sərf"
+ },
+ "header full": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "sərf dolu"
+ },
+ "header tank + aux tank, both in the cabin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "sərf çəni + əlavə çən, hər ikisi kabində"
+ },
+ "includes 15 % spares": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "15 % ehtiyat daxil"
+ },
+ "insert: the lock": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "daxil edin: kilid"
+ },
+ "laminated wood, CC0 model": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "laminat taxta, CC0 modeli"
+ },
+ "light braking": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "yüngül əyləc"
+ },
+ "make soft creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "yumşaq qatlamalar edin"
+ },
+ "materials and hire, rough": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "materiallar və icarə, təxminən"
+ },
+ "max take-off mass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "maksimum qalxma kütləsi"
+ },
+ "mountain": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "dağ"
+ },
+ "mountain and valley folds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "dağ və dərə qatlamaları"
+ },
+ "neutral point": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "neytral nöqtə"
+ },
+ "no reserve": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ehtiyatsız"
+ },
+ "no sheet blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "təbəqə pəstahı yoxdur"
+ },
+ "none: over MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "heç nə: MTOW-dan artıq"
+ },
+ "one 8 x 4 ft sheet of 6061-T6 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "6061-T6 0.020 in-dən bir 8 x 4 ft təbəqə"
+ },
+ "open out": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "açın"
+ },
+ "or a club CNC router": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "və ya klub CNC frezi"
+ },
+ "part-time, alongside the build": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "qismən vaxt, qurma ilə yanaşı"
+ },
+ "pilot": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "pilot"
+ },
+ "pilot hole": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "bələdçi deşik"
+ },
+ "pin-to-pin; AN5 each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "barmaqdan barmağa; hər ucda AN5"
+ },
+ "pleat": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "büzmə"
+ },
+ "practice piece": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "məşq parçası"
+ },
+ "public domain": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ictimai mülkiyyət"
+ },
+ "radio optional in SSDR": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "SSDR-də radio istəyə bağlıdır"
+ },
+ "reference points": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "istinad nöqtələri"
+ },
+ "right angle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "düz bucaq"
+ },
+ "rivets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "pərçimlər"
+ },
+ "rolled zone": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "yuvarlanmış zona"
+ },
+ "rough build cost": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "təxmini qurma xərci"
+ },
+ "same angle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "eyni bucaq"
+ },
+ "same angle: converging creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "eyni bucaq: yaxınlaşan qatlamalar"
+ },
+ "same length": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "eyni uzunluq"
+ },
+ "short grass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "qısa ot"
+ },
+ "static margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "statik ehtiyat"
+ },
+ "still air, 75 % power": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "sakit hava, 75 % güc"
+ },
+ "subtotal": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "aralıq cəm"
+ },
+ "tool, reused": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "alət, təkrar istifadə"
+ },
+ "torque-tube arm to arch-foot bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "burulma borusu qolundan tağ ayağı yelləncəyinə"
+ },
+ "tundra tyres at 10–12 psi, 8 in tailwheel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "10–12 psi-də tundra şinləri, 8 in quyruq təkəri"
+ },
+ "turn it over": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "çevirin"
+ },
+ "unique": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "unikal"
+ },
+ "unique blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "unikal pəstahlar"
+ },
+ "useful load": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "faydalı yük"
+ },
+ "valley": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "dərə"
+ },
+ "via floor pulley + 3 fairleads; Nicopress + thimble each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "döşəmə bloku + 3 bələdçi vasitəsilə; hər ucda Nicopress + kuş"
+ },
+ "via pulley at bulkhead 1 + 3 fairleads; turnbuckle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "1 arakəsmədəki blok + 3 bələdçi vasitəsilə; gərginləşdirici"
+ },
+ "wingspan": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "qanad açılışı"
+ },
+ "{w} x {h} mm flat, {f} folds, {p} pilot holes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "{w} x {h} mm yastı, {f} qatlama, {p} bələdçi deşik"
+ }
+}

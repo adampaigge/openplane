@@ -1,0 +1,4077 @@
+{
+ "1 m hand bending brake (or hardwood bending blocks in a vise)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องพับแผ่นโลหะมือ 1 m (หรือบล็อกพับไม้เนื้อแข็งในปากกาจับ)"
+ },
+ "1/8 in Clecos (300) + Cleco pliers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Cleco 1/8 in (300) + คีม Cleco"
+ },
+ "1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หมุดย้ำตาบอดอะลูมิเนียมหัวกลม 1/8 in, grip -1 (ถึง 1.6 mm)"
+ },
+ "1/8 in domed aluminium blind rivet, grip -2 (1.6-3.2 mm)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หมุดย้ำตาบอดอะลูมิเนียมหัวกลม 1/8 in, grip -2 (1.6-3.2 mm)"
+ },
+ "1/8 in hole duplicator": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องคัดลอกรู 1/8 in"
+ },
+ "1/8 in stainless/Monel blind rivet (fire-zone)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หมุดย้ำตาบอดสแตนเลส/โมเนล 1/8 in (บริเวณไฟ)"
+ },
+ "2 m section in four-point bending, loaded in steps to 1.5 × the +4 g limit bending moment.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ชิ้นส่วนยาว 2 m ทดสอบดัดสี่จุด รับแรงเป็นขั้นจนถึง 1.5 × ของโมเมนต์ดัดขีดจำกัด +4 g"
+ },
+ "2 x AN4 at the tail post": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "2 x AN4 ที่เสาหาง"
+ },
+ "2 x AN5 holes at the top, axle boss at the bottom": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รู 2 x AN5 ด้านบน บอสเพลาที่ด้านล่าง"
+ },
+ "4 x 1.79 m wing, 2 x 1.0 m elevators, 1.24 m rudder, door": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปีก 4 x 1.79 m, หางระดับ 2 x 1.0 m, หางเสือ 1.24 m, ประตู"
+ },
+ "4130 fittings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ชิ้นต่อ 4130"
+ },
+ "75 mm tube + ratchet strap (nose roller)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ท่อ 75 mm + สายรัดแบบขันเฟือง (ลูกกลิ้งจมูก)"
+ },
+ "; {n} parts x {l} laminated layers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "; {n} ชิ้น x {l} ชั้นลามิเนต"
+ },
+ "A BMAA or LAA inspector reviews the aircraft and the evidence.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผู้ตรวจของ BMAA หรือ LAA ตรวจเครื่องบินและหลักฐาน"
+ },
+ "A UK SSDR aircraft needs no airworthiness approval, so all the responsibility is the builder's. Proof-load the wing with sandbags to +4 g and have a BMAA or LAA inspector look at it before it flies. Elsewhere, check your national microlight rules.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องบิน UK SSDR ไม่ต้องได้รับการรับรองความสมควรเดินอากาศ ความรับผิดชอบทั้งหมดจึงเป็นของผู้สร้าง ทดสอบรับน้ำหนักปีกด้วยกระสอบทรายถึง +4 g และให้ผู้ตรวจ BMAA หรือ LAA ตรวจก่อนบิน ในประเทศอื่น ให้ตรวจสอบกฎไมโครไลต์ของประเทศคุณ"
+ },
+ "A concept design, published for study. It is not an approved design, and nothing here is airworthiness advice.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แบบแนวคิดที่เผยแพร่เพื่อการศึกษา ไม่ใช่แบบที่ได้รับอนุมัติ และไม่มีส่วนใดในที่นี้เป็นคำแนะนำด้านความสมควรเดินอากาศ"
+ },
+ "A single-seat microlight anyone can build. Every sheet part is a flat blank with straight folds, cut from one gauge of aluminium.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ไมโครไลต์ที่นั่งเดียวที่ใครก็สร้างได้ ชิ้นแผ่นโลหะทุกชิ้นเป็นแผ่นเรียบที่พับเป็นเส้นตรง ตัดจากอะลูมิเนียมความหนาเดียว"
+ },
+ "A4-1 blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หมุดย้ำตาบอด A4-1"
+ },
+ "A4-2 blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หมุดย้ำตาบอด A4-2"
+ },
+ "A4-SS blind rivet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หมุดย้ำตาบอด A4-SS"
+ },
+ "ALT instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องวัด ALT"
+ },
+ "AN3 bolt (10-32), AN365-1032 nut, AN960-10 washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลัก AN3 (10-32), น็อต AN365-1032, แหวน AN960-10"
+ },
+ "AN3 bolt, AN365-1032 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลัก AN3, น็อต AN365-1032"
+ },
+ "AN3 bolt, AN365-1032 nut, rod end between the plates": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลัก AN3, น็อต AN365-1032, หัวก้านอยู่ระหว่างแผ่น"
+ },
+ "AN3 bolt, AN365-1032 nut, through 3/16 in rod end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลัก AN3, น็อต AN365-1032, ผ่านหัวก้าน 3/16 in"
+ },
+ "AN3 each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "AN3 ที่แต่ละปลาย"
+ },
+ "AN4 bolt (1/4-28), AN365-428 nut, 2 x AN960-416 washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลัก AN4 (1/4-28), น็อต AN365-428, แหวน 2 x AN960-416"
+ },
+ "AN4 bolt, AN310-4 + cotter (pivot)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลัก AN4, AN310-4 + ปิ๊นผ่า (จุดหมุน)"
+ },
+ "AN4 bolt, AN310-4 castle nut + cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลัก AN4, น็อตปราสาท AN310-4 + ปิ๊นผ่า"
+ },
+ "AN4 bolt, AN365-428 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลัก AN4, น็อต AN365-428"
+ },
+ "AN4 bolt, AN365-428 nut, AN970-4 washer each side": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลัก AN4, น็อต AN365-428, แหวน AN970-4 แต่ละด้าน"
+ },
+ "AN5 bolt (5/16-24), AN365-524 nut, AN970-5 large washers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลัก AN5 (5/16-24), น็อต AN365-524, แหวนใหญ่ AN970-5"
+ },
+ "AN5 bolt + rubber isolator (Lord-type) + AN365-524": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลัก AN5 + ยางกันสะเทือน (แบบ Lord) + AN365-524"
+ },
+ "AN5 bolt, AN310-5 castellated nut, MS24665 cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลัก AN5, น็อตปราสาท AN310-5, ปิ๊นผ่า MS24665"
+ },
+ "AN5 bolt, AN365-524 nut": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลัก AN5, น็อต AN365-524"
+ },
+ "AN5 clevis pin (bolt), AN310-5 castellated nut, MS24665 cotter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลักเคลวิส AN5 (สลัก), น็อตปราสาท AN310-5, ปิ๊นผ่า MS24665"
+ },
+ "AN5 prop bolt, AN310-5 + safety wire (per prop maker)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลักใบพัด AN5, AN310-5 + ลวดนิรภัย (ตามผู้ผลิตใบพัด)"
+ },
+ "ASI instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องวัด ASI"
+ },
+ "About 10 months": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ประมาณ 10 เดือน"
+ },
+ "Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แขนบังคับเอเลอรอน / แฟลป, 4130 0.063in (พับครั้งเดียวลงบนผิวล่าง)"
+ },
+ "Aileron / flap skin (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผิวเอเลอรอน / แฟลป (เหมือนกัน x4)"
+ },
+ "Aileron / flap spar (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คานเอเลอรอน / แฟลป (เหมือนกัน x4)"
+ },
+ "Aileron and flap horns (K-HN), 1 per surface": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แขนบังคับเอเลอรอนและแฟลป (K-HN), 1 ต่อพื้นผิว"
+ },
+ "Aileron link (cabin) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ก้านต่อเอเลอรอน (ห้องนักบิน) x2"
+ },
+ "Aileron link (cabin) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ก้านต่อเอเลอรอน (ห้องนักบิน) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Aileron pushrod (arch) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ก้านดันเอเลอรอน (โครงโค้ง) x2"
+ },
+ "Aileron pushrod (arch) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ก้านดันเอเลอรอน (โครงโค้ง) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Aileron pushrod (wing) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ก้านดันเอเลอรอน (ปีก) x2"
+ },
+ "Aileron pushrod (wing) x2: 6061-T6 1/2 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ก้านดันเอเลอรอน (ปีก) x2: 6061-T6 1/2 x 0.035 in"
+ },
+ "Aileron torque tube": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ท่อแรงบิดเอเลอรอน"
+ },
+ "Ailerons: a short link from the torque-tube arm to the arch-foot bellcrank, a pushrod up the rear-arch leg to the arch-top bellcrank, then out through the rib lightening holes to the outboard bellcrank, which drives the K-HN horn on the aileron. Flaps: overhead lever, a short rod to the centre-section torque-tube arms, then pushrods to the flap bellcranks and K-HN horns.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เอเลอรอน: ก้านต่อสั้นจากแขนท่อแรงบิดไปยังเบลแครงก์ที่ฐานโครงโค้ง ก้านดันขึ้นตามขาโครงโค้งหลังไปยังเบลแครงก์ยอดโครงโค้ง แล้วออกไปผ่านรูลดน้ำหนักของซี่โครงปีกไปยังเบลแครงก์ด้านนอก ซึ่งขับแขนบังคับ K-HN บนเอเลอรอน แฟลป: คันโยกเหนือศีรษะ ก้านสั้นไปยังแขนท่อแรงบิดส่วนกลาง แล้วก้านดันไปยังเบลแครงก์แฟลปและแขนบังคับ K-HN"
+ },
+ "All 52 ribs are the same two blanks. The pilot holes locate them, so no jig is needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ซี่โครงปีกทั้ง 52 ชิ้นเป็นแผ่นสองแบบเดียวกัน รูนำกำหนดตำแหน่ง จึงไม่ต้องใช้จิ๊ก"
+ },
+ "All six faces aim at one vanishing point, so each face is flat and every crease is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทั้งหกหน้าเล็งไปที่จุดลับตาเดียว แต่ละหน้าจึงเรียบและทุกรอยพับเป็นเส้นตรง"
+ },
+ "All the glazing is flat sheet: no forming and no moulds.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "กระจกทั้งหมดเป็นแผ่นเรียบ: ไม่ต้องขึ้นรูป ไม่ต้องใช้แม่พิมพ์"
+ },
+ "Allowable": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ค่าที่ยอมรับได้"
+ },
+ "Amount": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "จำนวนเงิน"
+ },
+ "An engineering test plan modelled on BCAR Section S practice, not a regulatory approval route. Costs are rough ranges for materials, hire and consumables, not labour, and exclude the airframe itself. The plan lives in qualification.yaml in the repository, and its pass criteria use the live numbers from the build.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แผนทดสอบทางวิศวกรรมตามแนวปฏิบัติ BCAR Section S ไม่ใช่เส้นทางการรับรองตามกฎหมาย ค่าใช้จ่ายเป็นช่วงประมาณของวัสดุ การเช่า และวัสดุสิ้นเปลือง ไม่รวมค่าแรง และไม่รวมโครงเครื่องบินเอง แผนอยู่ใน qualification.yaml ในคลัง และเกณฑ์ผ่านใช้ตัวเลขจริงจากการสร้าง"
+ },
+ "Approach the stall in 1 kt steps, flaps up and down, at forward and aft CG.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เข้าใกล้สภาวะร่วงหล่นทีละ 1 kt แฟลปขึ้นและลง ที่ CG หน้าและหลัง"
+ },
+ "Arch over the pilot. Spar-root fittings bolt to its top corners, strut fittings to its feet. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "โครงโค้งเหนือนักบิน ชิ้นต่อโคนคานยึดสลักที่มุมบน ชิ้นต่อสตรัทที่ฐาน ลามิเนต: 2 ชั้นซ้อนของ 0.020 in พับแยกกันและย้ำหมุดเป็นชิ้นเดียว ตัดขอบปีกพับออก 0.5 mm ต่อชั้นใน"
+ },
+ "As above, including the reversed load case at −2 g.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เช่นเดียวกับข้างบน รวมกรณีแรงย้อนกลับที่ −2 g"
+ },
+ "At least 1.5 × the full-power fuel flow from either tank.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "อย่างน้อย 1.5 × ของอัตราไหลเชื้อเพลิงที่กำลังเต็มจากถังใดถังหนึ่ง"
+ },
+ "Aux fuel tank 20 L (rotomoulded), high behind the seat, gravity feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ถังเชื้อเพลิงสำรอง 20 L (โรโตโมลด์) สูงหลังที่นั่ง ไหลด้วยแรงโน้มถ่วง"
+ },
+ "Aux tank 20 L behind the seat + selector valve + line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ถังสำรอง 20 L หลังที่นั่ง + วาล์วเลือก + ท่อ"
+ },
+ "Aux tank filler (through the left cabin side, behind the door)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ช่องเติมถังสำรอง (ผ่านผนังห้องนักบินซ้าย หลังประตู)"
+ },
+ "Aviation snips (straight, left, right)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "กรรไกรตัดโลหะการบิน (ตรง, ซ้าย, ขวา)"
+ },
+ "Axle bolt AN6 + castellated nut AN310-6 + cotter MS24665": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลักเพลา AN6 + น็อตปราสาท AN310-6 + ปิ๊นผ่า MS24665"
+ },
+ "Back-drill #40 through the rib and spar-cap pilot holes, using the hole duplicator where you can't reach from inside. Cleco as you go.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เจาะย้อน #40 ผ่านรูนำของซี่โครงและแคปคาน ใช้เครื่องคัดลอกรูในที่ที่เอื้อมจากด้านในไม่ถึง ใส่ Cleco ไปเรื่อย ๆ"
+ },
+ "Back-drill through the rib flanges and spar caps. Do the nose last, working from the spar forward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เจาะย้อนผ่านปีกพับซี่โครงและแคปคาน ทำส่วนจมูกเป็นลำดับสุดท้าย โดยทำจากคานไปข้างหน้า"
+ },
+ "Baggage locker behind the seat (net, 5 kg max)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ช่องเก็บสัมภาระหลังที่นั่ง (ตาข่าย สูงสุด 5 kg)"
+ },
+ "Battery + radio + antenna": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แบตเตอรี่ + วิทยุ + เสาอากาศ"
+ },
+ "Battery 12 V LiFePO4 in vented box (under the seat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แบตเตอรี่ 12 V LiFePO4 ในกล่องระบายอากาศ (ใต้ที่นั่ง)"
+ },
+ "Bellcrank arms in the cabin, 2 per bellcrank; Bellcrank arms in the wings, 2 per bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แขนเบลแครงก์ในห้องนักบิน 2 ต่อเบลแครงก์; แขนเบลแครงก์ในปีก 2 ต่อเบลแครงก์"
+ },
+ "Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ฉากยึดเบลแครงก์ในห้องนักบินกับโครงโค้ง / คาน อย่างละ 2; ฉากยึดเบลแครงก์ในปีกกับโครงโค้ง / คาน อย่างละ 2"
+ },
+ "Bellcrank pivots in the cabin (K-BC pair through its K-CV bracket); Bellcrank pivots in the wings (K-BC pair through its K-CV bracket)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "จุดหมุนเบลแครงก์ในห้องนักบิน (คู่ K-BC ผ่านฉาก K-CV); จุดหมุนเบลแครงก์ในปีก (คู่ K-BC ผ่านฉาก K-CV)"
+ },
+ "Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แผ่นเบลแครงก์, 4130 0.063in (เป็นคู่, แขน 55 mm)"
+ },
+ "Bellcranks: each is a pair of K-BC plates, 16 mm apart, on an AN4 pivot through a folded K-CV bracket. The rod ends sit between the plates on AN3 bolts. Five per side: aileron arch-foot, arch-top and outboard (at the rear spar); flap torque-tube arm and flap bellcrank.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เบลแครงก์: แต่ละตัวคือแผ่น K-BC หนึ่งคู่ ห่างกัน 16 mm บนจุดหมุน AN4 ผ่านฉาก K-CV ที่พับไว้ หัวก้านอยู่ระหว่างแผ่นบนสลัก AN3 ข้างละห้าตัว: เอเลอรอนฐานโครงโค้ง ยอดโครงโค้ง และด้านนอก (ที่คานหลัง); แขนท่อแรงบิดแฟลปและเบลแครงก์แฟลป"
+ },
+ "Bench vise with soft jaws": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปากกาจับโต๊ะพร้อมปากนิ่ม"
+ },
+ "Bend deduction": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ค่าหักการพับ"
+ },
+ "Bend on the brake: each channel is four 90° bends. Bend the two flanges first, then the two lips. Set the nose radius to 1 mm (about 2t for 0.020 in) and overbend about 2° for springback. Check every bend with a square.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับบนเครื่องพับ: แต่ละรางคือการพับ 90° สี่ครั้ง พับปีกพับสองข้างก่อน แล้วขอบม้วนสองข้าง ตั้งรัศมีจมูก 1 mm (ประมาณ 2t สำหรับ 0.020 in) และพับเกินประมาณ 2° เผื่อการคืนตัว ตรวจทุกการพับด้วยฉาก"
+ },
+ "Bend radius and springback": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รัศมีพับและการคืนตัว"
+ },
+ "Best climb": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "การไต่ที่ดีที่สุด"
+ },
+ "Bill of materials": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รายการวัสดุ"
+ },
+ "Blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แผ่นเปล่า"
+ },
+ "Blind-rivet puller (hand or pneumatic)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องดึงหมุดย้ำตาบอด (มือหรือลม)"
+ },
+ "Bolt each main-gear spring leg through the floor doubler under the front arch: 2 x AN5 each, large washers both sides.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ยึดขาสปริงล้อหลักแต่ละข้างผ่านแผ่นเสริมพื้นใต้โครงโค้งหน้า: AN5 2 x ต่อข้าง แหวนใหญ่ทั้งสองด้าน"
+ },
+ "Bolt in the four harness anchors.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ยึดจุดยึดเข็มขัดนิรภัยทั้งสี่"
+ },
+ "Bolt on the propeller and spinner. Torque to the prop maker's figure, then safety-wire.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ยึดใบพัดและสปินเนอร์ ขันแรงบิดตามค่าของผู้ผลิตใบพัด แล้วร้อยลวดนิรภัย"
+ },
+ "Bolt the 4130 engine mount through the firewall (4 x AN4) with large washers on the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ยึดแท่นเครื่องยนต์ 4130 ผ่านผนังกันไฟ (4 x AN4) พร้อมแหวนใหญ่ด้านหลัง"
+ },
+ "Bolt the four root clevises to the arch tops and the four strut-foot clevises to the arch feet with AN4 bolts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ยึดเคลวิสโคนทั้งสี่กับยอดโครงโค้ง และเคลวิสฐานสตรัททั้งสี่กับฐานโครงโค้งด้วยสลัก AN4"
+ },
+ "Bolt the stabiliser halves to the tailcone side doublers, 4 x AN4 each. Bolt the fin spar to the tail post, 3 x AN4.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ยึดครึ่งตัวรักษาเสถียรภาพกับแผ่นเสริมด้านข้างกรวยหาง ข้างละ 4 x AN4 ยึดคานครีบหางกับเสาหาง 3 x AN4"
+ },
+ "Bolt the tailwheel spring to the tail post (2 x AN4). Fit the fork and the two steering springs to the rudder horn.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ยึดสปริงล้อหางกับเสาหาง (2 x AN4) ติดตั้งส้อมและสปริงบังคับเลี้ยวสองตัวกับแขนบังคับหางเสือ"
+ },
+ "Bolt the tang pairs either side of each spar web at the root (4 x AN3), and the strut-top clevises under the spars at the 2.4 m rib.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ยึดคู่ลิ้นทั้งสองด้านของเว็บคานแต่ละอันที่โคน (4 x AN3) และเคลวิสยอดสตรัทใต้คานที่ซี่โครง 2.4 m"
+ },
+ "Bolts to the spar web with 4 x AN3 and reaches inboard past the spar end to the arch-top clevis pin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ยึดกับเว็บคานด้วย 4 x AN3 และยื่นเข้าด้านในเลยปลายคานไปถึงสลักเคลวิสยอดโครงโค้ง"
+ },
+ "Both sides are the same blank, mirrored. The openings have 50 mm corner radii because square corners start cracks.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทั้งสองด้านเป็นแผ่นเดียวกันแบบกลับด้าน ช่องเปิดมีมุมรัศมี 50 mm เพราะมุมเหลี่ยมทำให้เกิดรอยร้าว"
+ },
+ "Both tanks, up to MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทั้งสองถัง จนถึง MTOW"
+ },
+ "Bottom + both chamfers + side flanges from one sheet: converging creases, still developable (frustum).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ท้อง + ลบมุมสองด้าน + ปีกพับด้านข้างจากแผ่นเดียว: รอยพับลู่เข้า ยังคลี่ได้ (ทรงกรวยตัด)"
+ },
+ "Bottom extends between the elevator halves.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ท้องยื่นไปถึงระหว่างครึ่งหางระดับ"
+ },
+ "Bought / fabricated items going on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ชิ้นที่ซื้อ / ทำเองที่ติดตั้ง"
+ },
+ "Bought assemblies": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ชุดประกอบที่ซื้อ"
+ },
+ "Box-pleat hood 45°, nose bowl converging creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ฝาครอบพับจีบกล่อง 45° รอยพับลู่เข้าที่ชามจมูก"
+ },
+ "Brake drum": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ดรัมเบรก"
+ },
+ "Build each section upside down on a straight edge: bulkheads Clecoed into the belly, then the sides, then the top.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สร้างแต่ละส่วนคว่ำบนขอบตรง: ผนังกั้นใส่ Cleco ในท้อง แล้วด้านข้าง แล้วด้านบน"
+ },
+ "Build up towards Vne in 5 kt steps, watching for buzz or flutter at every step.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เพิ่มความเร็วเข้าหา Vne ทีละ 5 kt สังเกตการสั่นหรือฟลัตเตอร์ทุกขั้น"
+ },
+ "CG range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ช่วง CG"
+ },
+ "CHT/EGT instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องวัด CHT/EGT"
+ },
+ "CLmax, drag, propeller efficiency and the neutral point are handbook estimates. Measure stall speed and CG limits in flight test. The 35 kt SSDR stall limit is met with flaps:": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CLmax แรงต้าน ประสิทธิภาพใบพัด และจุดเป็นกลางเป็นค่าประมาณจากคู่มือ วัดความเร็วร่วงหล่นและขีดจำกัด CG ในการทดสอบการบิน ขีดจำกัดร่วงหล่น 35 kt ของ SSDR ผ่านเมื่อใช้แฟลป:"
+ },
+ "Cabin roof (centre lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หลังคาห้องนักบิน (ผิวล่างตรงกลาง)"
+ },
+ "Cabin side (x2, mirrored): door/window opening + front window": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผนังห้องนักบิน (x2, กลับด้าน): ช่องประตู/หน้าต่าง + หน้าต่างหน้า"
+ },
+ "Cabin sides and seat": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผนังห้องนักบินและที่นั่ง"
+ },
+ "Carries flap/aileron hinges and rear strut fitting. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รับบานพับแฟลป/เอเลอรอนและชิ้นต่อสตรัทหลัง ลามิเนต: 2 ชั้นซ้อนของ 0.020 in พับแยกกันและย้ำหมุดเป็นชิ้นเดียว ตัดขอบปีกพับออก 0.5 mm ต่อชั้นใน"
+ },
+ "Case": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "กรณี"
+ },
+ "Category": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หมวดหมู่"
+ },
+ "Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แฟริ่งขอบท้ายส่วนกลาง (ติดตาย ระหว่างแฟลป)"
+ },
+ "Centre-section upper skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผิวบนส่วนกลาง"
+ },
+ "Check stops, free play, friction and cable tension, then load every circuit to the pilot limit loads.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ตรวจตัวหยุด ระยะคลอน แรงเสียดทาน และความตึงสลิง แล้วรับแรงทุกวงจรถึงแรงขีดจำกัดนักบิน"
+ },
+ "Check the cap angle every 500 mm with a square. Sight along the spar for twist.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ตรวจมุมแคปทุก 500 mm ด้วยฉาก เล็งตามคานดูการบิด"
+ },
+ "Check twist by sighting a level across bulkheads 1 and 5. Then join the two sections at bulkhead 3.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ตรวจการบิดโดยเล็งระดับน้ำข้ามผนังกั้น 1 และ 5 แล้วต่อสองส่วนที่ผนังกั้น 3"
+ },
+ "Clean and prime. Steel fittings rust under paint if they aren't primed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทำความสะอาดและลงสีรองพื้น ชิ้นต่อเหล็กจะเป็นสนิมใต้สีหากไม่ลงรองพื้น"
+ },
+ "Clecos": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Cleco"
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เว็บเคลวิสกับยอดและฐานโครงโค้ง 2 ต่อเคลวิส; เคลวิสยอดสตรัทและยอดจูรี่ผ่านแคปคาน อย่างละ 2"
+ },
+ "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each; Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เว็บเคลวิสกับยอดและฐานโครงโค้ง 2 ต่อเคลวิส; เคลวิสยอดสตรัทและยอดจูรี่ผ่านแคปคาน อย่างละ 2; ฉากยึดเบลแครงก์ในห้องนักบินกับโครงโค้ง / คาน อย่างละ 2; ฉากยึดเบลแครงก์ในปีกกับโครงโค้ง / คาน อย่างละ 2"
+ },
+ "Clevis, 4130 0.063in (U, two folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เคลวิส, 4130 0.063in (U, พับสองครั้ง)"
+ },
+ "Clevis: two 90° bends at 3t radius": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เคลวิส: พับ 90° สองครั้งที่รัศมี 3t"
+ },
+ "Click to explore": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คลิกเพื่อสำรวจ"
+ },
+ "Clip on the strut fairings.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หนีบแฟริ่งสตรัทเข้าที่"
+ },
+ "Close the bay behind the centre-section rear spar with the W-CT trailing-edge fairing (same wedge fold as the flaps). Do it last, after the flap linkage is rigged and checked.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปิดช่องหลังคานหลังส่วนกลางด้วยแฟริ่งขอบท้าย W-CT (พับลิ่มแบบเดียวกับแฟลป) ทำเป็นลำดับสุดท้าย หลังติดตั้งและตรวจระบบก้านแฟลปแล้ว"
+ },
+ "Closes the control surface; carries hinge and mass-balance arm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปิดพื้นผิวบังคับ รับบานพับและแขนถ่วงมวล"
+ },
+ "Closes the control surface; carries hinge and mass-balance arm. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปิดพื้นผิวบังคับ รับบานพับและแขนถ่วงมวล ลามิเนต: 2 ชั้นซ้อนของ 0.020 in พับแยกกันและย้ำหมุดเป็นชิ้นเดียว ตัดขอบปีกพับออก 0.5 mm ต่อชั้นใน"
+ },
+ "Compass (on the glare shield)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เข็มทิศ (บนกันแสงสะท้อน)"
+ },
+ "Components": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ชิ้นส่วนประกอบ"
+ },
+ "Consumables": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "วัสดุสิ้นเปลือง"
+ },
+ "Control stick": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คันบังคับ"
+ },
+ "Control system": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ระบบบังคับ"
+ },
+ "Control-circuit strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ความแข็งแรงวงจรบังคับ"
+ },
+ "Control-system free play": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ระยะคลอนของระบบบังคับ"
+ },
+ "Controllable in all axes with trim available. Engine temperatures stable.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ควบคุมได้ทุกแกนโดยมีทริม อุณหภูมิเครื่องยนต์คงที่"
+ },
+ "Controls, instruments and systems": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "การบังคับ เครื่องวัด และระบบ"
+ },
+ "Controls: stick, torque tube, cables, pushrods": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "การบังคับ: คันบังคับ ท่อแรงบิด สลิง ก้านดัน"
+ },
+ "Converging creases 44°, bulkhead flanges 96–100°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รอยพับลู่เข้า 44° ปีกพับผนังกั้น 96–100°"
+ },
+ "Converted from UK prices": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แปลงจากราคาในสหราชอาณาจักร"
+ },
+ "Copy it, change it, build it, sell it. No permission needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คัดลอก ดัดแปลง สร้าง ขาย ไม่ต้องขออนุญาต"
+ },
+ "Cordless drill, #40 (2.5 mm) and #30 (3.3 mm) bits": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สว่านไร้สาย ดอก #40 (2.5 mm) และ #30 (3.3 mm)"
+ },
+ "Cost": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ค่าใช้จ่าย"
+ },
+ "Cotter pins": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปิ๊นผ่า"
+ },
+ "Cotter-pin and safety-wire pliers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คีมปิ๊นผ่าและลวดนิรภัย"
+ },
+ "Coupons and processes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ชิ้นทดสอบและกระบวนการ"
+ },
+ "Covers the top half of the firewall. Camlocks along the firewall flange and the split line.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปิดครึ่งบนของผนังกันไฟ ล็อกแคมตามปีกพับผนังกันไฟและแนวแยก"
+ },
+ "Cowl to firewall flange and along the split line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ฝาครอบเครื่องกับปีกพับผนังกันไฟและตามแนวแยก"
+ },
+ "Crippling stress at least {stress:ms_cc}, the design allowable. Layers must not separate before failure.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ความเค้นยุบตัวอย่างน้อย {stress:ms_cc} ซึ่งเป็นค่าที่ยอมรับได้ของแบบ ชั้นต้องไม่แยกก่อนพัง"
+ },
+ "Cruise 75 %": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เดินทาง 75 %"
+ },
+ "Crush 300 mm lengths of three-layer lipped channel, riveted at design pitch, five samples.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "อัดชิ้นรางขอบม้วนสามชั้นยาว 300 mm ที่ย้ำหมุดตามระยะของแบบ ห้าตัวอย่าง"
+ },
+ "Currency": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สกุลเงิน"
+ },
+ "Cut and deburr: the stand blanks are on the same nest sheets as everything else. File every edge smooth and deburr each pilot hole on both faces. Look for burrs with your fingertip, not your eye.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ตัดและลบคม: แผ่นของขาตั้งอยู่บนแผ่นจัดเรียงเดียวกับชิ้นอื่นทั้งหมด ตะไบทุกขอบให้เรียบ และลบคมรูนำทุกรูทั้งสองหน้า หาเศษคมด้วยปลายนิ้ว ไม่ใช่ด้วยตา"
+ },
+ "Cut files (DXF and nests), crease patterns, the prop model, the bill of materials and the design report.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ไฟล์ตัด (DXF และการจัดเรียง) แบบรอยพับ แบบจำลองใบพัด รายการวัสดุ และรายงานการออกแบบ"
+ },
+ "Cut lengths": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ความยาวตัด"
+ },
+ "Cut list": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รายการตัด"
+ },
+ "Cut the main struts to 2543 mm and the rear struts to 2547 mm pin-to-pin, minus the end-fitting length. All four are 6061-T6 1.75 x 0.065 in tube.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ตัดสตรัทหลักยาว 2543 mm และสตรัทหลังยาว 2547 mm วัดสลักถึงสลัก ลบความยาวชิ้นต่อปลาย ทั้งสี่เป็นท่อ 6061-T6 1.75 x 0.065 in"
+ },
+ "Cut, deburr, mark": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ตัด ลบคม ทำเครื่องหมาย"
+ },
+ "Cylinder": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "กระบอกสูบ"
+ },
+ "Deburr every edge and hole": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ลบคมทุกขอบและรู"
+ },
+ "Deburr every edge with a file or deburring tool. A burr is where a fatigue crack starts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ลบคมทุกขอบด้วยตะไบหรือเครื่องมือลบคม เศษคมคือจุดเริ่มของรอยร้าวจากความล้า"
+ },
+ "Deburr every pilot hole on both faces with a 10 mm bit turned by hand.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ลบคมรูนำทุกรูทั้งสองหน้าด้วยดอก 10 mm หมุนด้วยมือ"
+ },
+ "Deburring tool, 10 mm drill bit (hole deburr), fine file": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องมือลบคม ดอกสว่าน 10 mm (ลบคมรู) ตะไบละเอียด"
+ },
+ "Don't overtighten: nylon washers, and stop when the washer just grips.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "อย่าขันแน่นเกิน: แหวนไนลอน หยุดเมื่อแหวนเริ่มจับพอดี"
+ },
+ "Door (left, hinged) / side window (right, fixed)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ประตู (ซ้าย มีบานพับ) / หน้าต่างข้าง (ขวา ติดตาย)"
+ },
+ "Download files (.zip)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ดาวน์โหลดไฟล์ (.zip)"
+ },
+ "Drawing": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แบบ"
+ },
+ "Drill and cleco: clamp the gussets in place, drill through the pilot holes to #30 (3.3 mm), and put a cleco in every fourth hole as you go. Then take everything apart, deburr the holes and the faying surfaces, and put it back together on clecos.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เจาะและใส่ Cleco: หนีบแผ่นเสริมมุมเข้าที่ เจาะผ่านรูนำถึง #30 (3.3 mm) และใส่ Cleco ทุกรูที่สี่ไปเรื่อย ๆ แล้วถอดทั้งหมดออก ลบคมรูและผิวสัมผัส แล้วประกอบกลับด้วย Cleco"
+ },
+ "Drill press, 1/4 in and 5/16 in reamers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สว่านแท่น รีมเมอร์ 1/4 in และ 5/16 in"
+ },
+ "Drill, deburr, prime, rivet the skeleton": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เจาะ ลบคม รองพื้น ย้ำหมุดโครง"
+ },
+ "Duration": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ระยะเวลา"
+ },
+ "Each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ต่อชิ้น"
+ },
+ "Each cable end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปลายสลิงแต่ละด้าน"
+ },
+ "Each spar is a laminate: three nested blanks for the main spar, two for the rear. Fold every layer separately, then nest them.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คานแต่ละอันเป็นลามิเนต: แผ่นซ้อนสามแผ่นสำหรับคานหลัก สองแผ่นสำหรับคานหลัง พับแต่ละชั้นแยกกัน แล้วซ้อนเข้าด้วยกัน"
+ },
+ "Each wing pins on at two points. The struts set its angle.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปีกแต่ละข้างยึดด้วยสลักสองจุด สตรัทกำหนดมุมของปีก"
+ },
+ "Ears take an AN5 pin (fore-aft axis); web bolts with 2 x AN4. Bend radius 3t for normalised 4130 (Wanttaja).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หูรับสลัก AN5 (แกนหน้า-หลัง) เว็บยึดด้วย 2 x AN4 รัศมีพับ 3t สำหรับ 4130 นอร์มัลไลซ์ (Wanttaja)"
+ },
+ "Electrics: 12 V LiFePO4 battery in a vented box under the seat. Run it via the master switch and fuses to the radio, with the antenna coax to a whip on the tailcone top. The mag P-lead goes through a firewall grommet. The half-VW's magneto needs no battery to run.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ไฟฟ้า: แบตเตอรี่ 12 V LiFePO4 ในกล่องระบายอากาศใต้ที่นั่ง เดินสายผ่านสวิตช์หลักและฟิวส์ไปยังวิทยุ ด้วยสายโคแอกซ์เสาอากาศไปยังเสาแส้บนกรวยหาง สาย P ของแม็กผ่านปลอกยางผนังกันไฟ แม็กนีโตของ half-VW ไม่ต้องใช้แบตเตอรี่ในการทำงาน"
+ },
+ "Elevator bellcrank (under seat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เบลแครงก์หางระดับ (ใต้ที่นั่ง)"
+ },
+ "Elevator cable x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลิงหางระดับ x2"
+ },
+ "Elevator cable x2: 1/8 in 7x19 galvanised": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลิงหางระดับ x2: 1/8 in 7x19 ชุบสังกะสี"
+ },
+ "Elevator cables: run one straight line each from the bellcrank to the tail-post grommet, 60 mm apart, up cable above down cable. Fit a phenolic fairlead where each line passes a bulkhead.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลิงหางระดับ: เดินแต่ละเส้นเป็นเส้นตรงจากเบลแครงก์ไปยังปลอกยางเสาหาง ห่างกัน 60 mm สลิงขึ้นอยู่เหนือสลิงลง ติดตั้งตัวนำสลิงฟีนอลิกตรงที่แต่ละเส้นผ่านผนังกั้น"
+ },
+ "Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แขนบังคับหางระดับ, 4130 0.063in (สองปลาย บนท่อแรงบิดหางระดับ)"
+ },
+ "Elevator skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผิวหางระดับ"
+ },
+ "Elevator spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คานหางระดับ"
+ },
+ "Elevators and rudder: fold them the same way as the ailerons in step 7 (pleats, then the trailing-edge fold, then the C-spar).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หางระดับและหางเสือ: พับแบบเดียวกับเอเลอรอนในขั้นที่ 7 (จีบ แล้วพับขอบท้าย แล้วคาน C)"
+ },
+ "Empty / MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ว่าง / MTOW"
+ },
+ "Empty mass and balance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "มวลเปล่าและสมดุล"
+ },
+ "Empty mass at or below {mass:empty} plus 3 %, and every loading case inside the CG range.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "มวลเปล่าไม่เกิน {mass:empty} บวก 3 % และทุกกรณีบรรทุกอยู่ในช่วง CG"
+ },
+ "Empty tanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ถังว่าง"
+ },
+ "Empty tanks, 5 kg baggage (aftmost)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ถังว่าง สัมภาระ 5 kg (ท้ายสุด)"
+ },
+ "Endurance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ระยะเวลาบิน"
+ },
+ "Engine and prop": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องยนต์และใบพัด"
+ },
+ "Engine and propeller": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องยนต์และใบพัด"
+ },
+ "Engine mount": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แท่นเครื่องยนต์"
+ },
+ "Engine mount to firewall, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แท่นเครื่องยนต์กับผนังกันไฟ, 4"
+ },
+ "Engine mount tube (4130)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ท่อแท่นเครื่องยนต์ (4130)"
+ },
+ "Engine runs: full-power static run, mag check, then check cylinder head temperatures.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เดินเครื่อง: เดินเครื่องอยู่กับที่กำลังเต็ม ตรวจแม็ก แล้วตรวจอุณหภูมิฝาสูบ"
+ },
+ "Engine to mount, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องยนต์กับแท่น, 4"
+ },
+ "Engine, cowl, prop": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องยนต์ ฝาครอบ ใบพัด"
+ },
+ "Enter what one sheet costs where you are. The airframe needs about {n} of them, and the sheet lines below follow your price; everything else stays a converted UK estimate. Leave it empty to use the estimate of {price}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ใส่ราคาแผ่นโลหะหนึ่งแผ่นในพื้นที่ของคุณ โครงเครื่องบินต้องใช้ประมาณ {n} แผ่น และรายการแผ่นโลหะด้านล่างจะใช้ราคาของคุณ ส่วนอื่นยังเป็นค่าประมาณจาก UK ที่แปลงแล้ว เว้นว่างไว้เพื่อใช้ค่าประมาณ {price}"
+ },
+ "Epoxy primer + etch/alodine": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รองพื้นอีพ็อกซี + กัดผิว/alodine"
+ },
+ "Estimated": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ประมาณการ"
+ },
+ "Estimated flutter speed at least 1.2 × the design dive speed of {speed:Vd}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ความเร็วฟลัตเตอร์ประมาณการอย่างน้อย 1.2 × ของความเร็วดิ่งออกแบบ {speed:Vd}"
+ },
+ "Every crease goes on the blank before anything is folded, the same order the origami book uses.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทุกรอยพับถูกทำบนแผ่นก่อนพับสิ่งใด ตามลำดับเดียวกับหนังสือโอริงามิ"
+ },
+ "Every flange within ±0.5 mm of the drawing.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทุกปีกพับอยู่ภายใน ±0.5 mm ของแบบ"
+ },
+ "Every folded blank, every rivet by grip, every AN bolt by step, plus tube stock, bought assemblies, consumables and tools. Each line has an estimated price. The same list is in BOM.csv and HARDWARE_BY_STEP.csv in the download.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทุกแผ่นที่พับ ทุกหมุดย้ำตาม grip ทุกสลัก AN ตามขั้น รวมทั้งท่อ ชุดประกอบที่ซื้อ วัสดุสิ้นเปลือง และเครื่องมือ ทุกรายการมีราคาประมาณ รายการเดียวกันอยู่ใน BOM.csv และ HARDWARE_BY_STEP.csv ในไฟล์ดาวน์โหลด"
+ },
+ "Every number on this site is a calculation. This is the plan for turning them into evidence: cheap coupon tests first, then components, then the whole wing, then the ground and finally the air. Each phase retires a specific risk before money is spent on the next. Results go back into the repository, and measured values replace the estimates in aircraft.yaml.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทุกตัวเลขในเว็บไซต์นี้เป็นผลการคำนวณ นี่คือแผนเปลี่ยนตัวเลขเหล่านั้นเป็นหลักฐาน: ทดสอบชิ้นตัวอย่างราคาถูกก่อน แล้วชิ้นส่วนประกอบ แล้วทั้งปีก แล้วบนพื้น และสุดท้ายในอากาศ แต่ละระยะขจัดความเสี่ยงเฉพาะก่อนจะใช้เงินในระยะถัดไป ผลลัพธ์กลับเข้าคลัง และค่าที่วัดได้จะแทนค่าประมาณใน aircraft.yaml"
+ },
+ "Every result, photo and failure goes into the repository.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทุกผลลัพธ์ ภาพถ่าย และความล้มเหลวจะเข้าไปในคลัง"
+ },
+ "Every steel fitting is also a flat blank folded at most twice.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ชิ้นต่อเหล็กทุกชิ้นก็เป็นแผ่นเรียบที่พับไม่เกินสองครั้ง"
+ },
+ "Everything that goes into one aircraft": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทุกอย่างที่ใช้ในเครื่องบินหนึ่งลำ"
+ },
+ "Exact": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แน่นอน"
+ },
+ "Exchange rates: {date}, base GBP.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "อัตราแลกเปลี่ยน: {date} ฐาน GBP"
+ },
+ "Export BOM (.csv)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ส่งออกรายการวัสดุ (.csv)"
+ },
+ "Extinguisher and PLB": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ถังดับเพลิงและ PLB"
+ },
+ "F-B1 Tailcone bulkhead x=1150": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B1 ผนังกั้นกรวยหาง x=1150"
+ },
+ "F-B2 Tailcone bulkhead x=1948": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B2 ผนังกั้นกรวยหาง x=1948"
+ },
+ "F-B3 Tailcone bulkhead x=2745": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B3 ผนังกั้นกรวยหาง x=2745"
+ },
+ "F-B4 Tailcone bulkhead x=3542": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B4 ผนังกั้นกรวยหาง x=3542"
+ },
+ "F-B5 Tailcone bulkhead x=4340 (tail post)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-B5 ผนังกั้นกรวยหาง x=4340 (เสาหาง)"
+ },
+ "F-CL Lower cowl (box-pleat pan to the cabin floor line)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-CL ฝาครอบล่าง (ถาดพับจีบกล่องถึงแนวพื้นห้องนักบิน)"
+ },
+ "F-CU Upper cowl (hood, two 90 deg folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-CU ฝาครอบบน (ฝากระโปรง พับ 90 deg สองครั้ง)"
+ },
+ "F-DW Door (left, hinged) / side window (right, fixed)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-DW ประตู (ซ้าย มีบานพับ) / หน้าต่างข้าง (ขวา ติดตาย)"
+ },
+ "F-FA Front arch (main-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FA โครงโค้งหน้า (เฟรมคานหลัก)"
+ },
+ "F-FL Floor tray with two hat pleats": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FL ถาดพื้นพร้อมจีบหมวกสองจีบ"
+ },
+ "F-FW Firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FW ผนังกันไฟ"
+ },
+ "F-FWN Front side window (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-FWN หน้าต่างข้างหน้า (x2, กลับด้าน)"
+ },
+ "F-IP Instrument panel (glare-shield fold, side tabs)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-IP แผงหน้าปัด (พับกันแสงสะท้อน แถบข้าง)"
+ },
+ "F-NF Nose ring (prop-shaft hole + two cooling inlets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NF วงแหวนจมูก (รูเพลาใบพัด + ช่องรับลมระบายความร้อนสองช่อง)"
+ },
+ "F-NL Nose bowl, chin (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NL ชามจมูก คาง (3 หน้าลู่เข้า)"
+ },
+ "F-NU Nose bowl, upper (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-NU ชามจมูก บน (3 หน้าลู่เข้า)"
+ },
+ "F-RA Rear arch (rear-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-RA โครงโค้งหลัง (เฟรมคานหลัง)"
+ },
+ "F-SD Cabin side (x2, mirrored): door/window opening + front window": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-SD ผนังห้องนักบิน (x2, กลับด้าน): ช่องประตู/หน้าต่าง + หน้าต่างหน้า"
+ },
+ "F-ST Seat (pan + back, one sheet)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-ST ที่นั่ง (ถาด + พนักพิง แผ่นเดียว)"
+ },
+ "F-TB1 Tailcone belly, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TB1 ท้องกรวยหาง ส่วนที่ 1"
+ },
+ "F-TB2 Tailcone belly, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TB2 ท้องกรวยหาง ส่วนที่ 2"
+ },
+ "F-TS1 Tailcone side, section 1 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TS1 ข้างกรวยหาง ส่วนที่ 1 (x2, กลับด้าน)"
+ },
+ "F-TS2 Tailcone side, section 2 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TS2 ข้างกรวยหาง ส่วนที่ 2 (x2, กลับด้าน)"
+ },
+ "F-TT1 Tailcone top, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TT1 บนกรวยหาง ส่วนที่ 1"
+ },
+ "F-TT2 Tailcone top, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-TT2 บนกรวยหาง ส่วนที่ 2"
+ },
+ "F-WS Windscreen (cold-bent flat polycarbonate)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "F-WS กระจกหน้า (โพลีคาร์บอเนตแผ่นเรียบดัดเย็น)"
+ },
+ "Faceted rib: every flange is a straight brake bend, no form block or fluting needed.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ซี่โครงหลายหน้า: ทุกปีกพับเป็นการพับตรงครั้งเดียว ไม่ต้องใช้บล็อกขึ้นรูปหรือการทำร่อง"
+ },
+ "Fairleads and pulleys": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ตัวนำสลิงและรอก"
+ },
+ "Fasteners": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ตัวยึด"
+ },
+ "Fin nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ซี่โครงจมูกครีบหาง"
+ },
+ "Fin skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผิวครีบหาง (ห่อเดียว)"
+ },
+ "Fin spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คานครีบหาง"
+ },
+ "Final-drill every Cleco'd hole to #30 (3.3 mm), a few at a time, moving each Cleco to the next hole as you go.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เจาะขั้นสุดท้ายทุกรูที่ใส่ Cleco ถึง #30 (3.3 mm) ทีละไม่กี่รู ย้าย Cleco ไปรูถัดไปเรื่อย ๆ"
+ },
+ "Fine felt marker, steel rule, square, MEK to clean": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปากกาเมจิกหัวเล็ก ไม้บรรทัดเหล็ก ฉาก MEK สำหรับทำความสะอาด"
+ },
+ "Finish: glue carpet on top of each beam so the wing skin can't be scratched. Load each stand with 40 kg and check it doesn't rack or rock. Keep the offcuts: they are your test pieces for the spar bend in step 2.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เก็บงาน: ติดพรมบนคานแต่ละอันเพื่อไม่ให้ผิวปีกเป็นรอย วางน้ำหนัก 40 kg บนขาตั้งแต่ละตัว ตรวจว่าไม่โย้หรือโยก เก็บเศษไว้: นี่คือชิ้นทดสอบสำหรับการพับคานในขั้นที่ 2"
+ },
+ "Fire extinguisher 1 kg (clip by the left seat rail)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ถังดับเพลิง 1 kg (หนีบข้างรางที่นั่งซ้าย)"
+ },
+ "Firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผนังกันไฟ"
+ },
+ "Firewall flanges": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปีกพับผนังกันไฟ"
+ },
+ "First flights": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เที่ยวบินแรก"
+ },
+ "First-pass strength: +4 / −2 g, ×1.5 ultimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ความแข็งแรงเบื้องต้น: +4 / −2 g, ×1.5 ประลัย"
+ },
+ "Fit each rib by its attach flange: Cleco through the pilot holes into the spar web. Nose ribs go on the front face, main ribs on the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ติดตั้งซี่โครงแต่ละชิ้นด้วยปีกพับยึด: ใส่ Cleco ผ่านรูนำเข้าเว็บคาน ซี่โครงจมูกอยู่ด้านหน้า ซี่โครงหลักอยู่ด้านหลัง"
+ },
+ "Fit the axles, wheels and drum brakes. Castellated nut and cotter on each axle. The 21 x 8.00-6 tundra tyres run at 10-12 psi: check pressure before every flight, they are soft by design.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ติดตั้งเพลา ล้อ และดรัมเบรก น็อตปราสาทและปิ๊นผ่าบนเพลาแต่ละอัน ยางทุนดรา 21 x 8.00-6 ใช้ที่ 10-12 psi: ตรวจแรงดันก่อนทุกเที่ยวบิน ยางนิ่มโดยตั้งใจ"
+ },
+ "Fit the cabin roof and the centre-section upper skin, back-drilled through the root ribs. Use the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ติดตั้งหลังคาห้องนักบินและผิวบนส่วนกลาง เจาะย้อนผ่านซี่โครงโคน ใช้วงรอบการย้ำหมุด"
+ },
+ "Fit the camlock receptacles on the firewall flange and along the split line. Trim the cowl until it clears the cylinders by at least 10 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ติดตั้งตัวรับล็อกแคมบนปีกพับผนังกันไฟและตามแนวแยก ตัดแต่งฝาครอบจนห่างจากกระบอกสูบอย่างน้อย 10 mm"
+ },
+ "Fit the jury struts (420 mm main, 425 mm rear) from the clamp ear to the jury-top clevis under the spar, AN3 at each end. They double the strut's buckling strength.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ติดตั้งสตรัทจูรี่ (หลัก 420 mm, หลัง 425 mm) จากหูแคลมป์ไปยังเคลวิสยอดจูรี่ใต้คาน AN3 ที่แต่ละปลาย ช่วยเพิ่มความแข็งแรงต่อการโก่งของสตรัทเป็นสองเท่า"
+ },
+ "Fit the sides outside the arches, firewall flange and floor flanges. Back-drill and Cleco.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ติดตั้งผนังข้างนอกโครงโค้ง ปีกพับผนังกันไฟ และปีกพับพื้น เจาะย้อนและใส่ Cleco"
+ },
+ "Fit the stick, the aileron torque tube under the seat and the elevator bellcrank. Connect the stick to the bellcrank with a short pushrod.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ติดตั้งคันบังคับ ท่อแรงบิดเอเลอรอนใต้ที่นั่ง และเบลแครงก์หางระดับ ต่อคันบังคับกับเบลแครงก์ด้วยก้านดันสั้น"
+ },
+ "Five facets, chamfers matching the cabin floor. A louvre slot at the rear is the cooling-air exit.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ห้าหน้า ลบมุมให้ตรงกับพื้นห้องนักบิน ช่องบานเกล็ดที่ด้านหลังเป็นทางออกของลมระบายความร้อน"
+ },
+ "Flanges 90°, all toward the root": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปีกพับ 90° ทั้งหมดหันไปทางโคน"
+ },
+ "Flanges all round fold aft; engine mount bolts through 4 doublers.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปีกพับรอบด้านพับไปด้านหลัง แท่นเครื่องยนต์ยึดผ่านแผ่นเสริม 4 แผ่น"
+ },
+ "Flanges follow the frustum taper (fold < 90 deg).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปีกพับตามความเรียวของทรงกรวยตัด (พับ < 90 deg)"
+ },
+ "Flanges follow the frustum taper (fold < 90 deg). Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปีกพับตามความเรียวของทรงกรวยตัด (พับ < 90 deg) ลามิเนต: 2 ชั้นซ้อนของ 0.020 in พับแยกกันและย้ำหมุดเป็นชิ้นเดียว ตัดขอบปีกพับออก 0.5 mm ต่อชั้นใน"
+ },
+ "Flanges follow the nose taper.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปีกพับตามความเรียวของจมูก"
+ },
+ "Flap lever (overhead, Kitfox-style)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คันโยกแฟลป (เหนือศีรษะ แบบ Kitfox)"
+ },
+ "Flap pushrod (wing) x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ก้านดันแฟลป (ปีก) x2"
+ },
+ "Flap pushrod (wing) x2: 6061-T6 3/8 x 0.035 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ก้านดันแฟลป (ปีก) x2: 6061-T6 3/8 x 0.035 in"
+ },
+ "Flap stall at or below 35 kt CAS, the SSDR limit; predicted {speed:Vs0}. Gentle stall, no wing drop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ร่วงหล่นเมื่อใช้แฟลปไม่เกิน 35 kt CAS ซึ่งเป็นขีดจำกัด SSDR; คาดการณ์ {speed:Vs0} ร่วงหล่นนุ่มนวล ปีกไม่ตก"
+ },
+ "Flaps and ailerons": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แฟลปและเอเลอรอน"
+ },
+ "Flat panel; the top flange folds aft as a glare shield, side tabs fold forward onto the cabin sides. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แผงเรียบ ปีกพับบนพับไปด้านหลังเป็นกันแสงสะท้อน แถบข้างพับไปด้านหน้าบนผนังห้องนักบิน ลามิเนต: 2 ชั้นซ้อนของ 0.020 in พับแยกกันและย้ำหมุดเป็นชิ้นเดียว ตัดขอบปีกพับออก 0.5 mm ต่อชั้นใน"
+ },
+ "Flat polycarbonate over the front cut-out, 20 mm lap, screws in 4.5 mm oversize holes.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "โพลีคาร์บอเนตแผ่นเรียบปิดช่องหน้า ทับซ้อน 20 mm สกรูในรูขยาย 4.5 mm"
+ },
+ "Flight test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทดสอบการบิน"
+ },
+ "Floor tray with two hat pleats": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ถาดพื้นพร้อมจีบหมวกสองจีบ"
+ },
+ "Floor, firewall, arches": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พื้น ผนังกันไฟ โครงโค้ง"
+ },
+ "Flutter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ฟลัตเตอร์"
+ },
+ "Foam tape": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เทปโฟม"
+ },
+ "Fold 20 strips of 0.51 mm 6061-T6 at a 0.8 mm nose radius, across and along the grain. Inspect every bend under a 10× loupe.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับแถบ 6061-T6 0.51 mm จำนวน 20 แถบที่รัศมีจมูก 0.8 mm ทั้งขวางและตามแนวเกรน ตรวจทุกการพับด้วยแว่นขยาย 10×"
+ },
+ "Fold a 300 mm offcut of a rib and of a spar from the real DXFs and measure every flange.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับเศษยาว 300 mm ของซี่โครงและคานจาก DXF จริง แล้ววัดทุกปีกพับ"
+ },
+ "Fold a 300 mm offcut of the same strip first and measure it to confirm the bend deduction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับเศษยาว 300 mm ของแถบเดียวกันก่อน แล้ววัดเพื่อยืนยันค่าหักการพับ"
+ },
+ "Fold all 52 ribs before assembling any: one brake set-up does the whole batch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับซี่โครงทั้ง 52 ชิ้นก่อนประกอบชิ้นใด: ตั้งเครื่องพับครั้งเดียวทำได้ทั้งชุด"
+ },
+ "Fold coupons": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับชิ้นทดสอบ"
+ },
+ "Fold each belly blank: bottom, both chamfers, then the side flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับแผ่นท้องแต่ละแผ่น: ท้อง ลบมุมสองด้าน แล้วปีกพับด้านข้าง"
+ },
+ "Fold every rib flange 90° on the brake. Because the airfoil is faceted, each flange is one straight bend.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับปีกพับซี่โครงทุกชิ้น 90° บนเครื่องพับ เพราะแพนอากาศเป็นหลายหน้า แต่ละปีกพับจึงเป็นการพับตรงครั้งเดียว"
+ },
+ "Fold the 12 clevises in the vise over a 5 mm radius block. Normalised 4130 needs at least 3t (Wanttaja).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับเคลวิส 12 ชิ้นในปากกาจับบนบล็อกรัศมี 5 mm 4130 นอร์มัลไลซ์ต้องการอย่างน้อย 3t (Wanttaja)"
+ },
+ "Fold the 90° top flange and the windscreen flange on each side panel. The top flange is the longeron.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับปีกพับบน 90° และปีกพับกระจกหน้าบนแผงข้างแต่ละแผง ปีกพับบนคือลองเจอรอน"
+ },
+ "Fold the bulkhead flanges. They are 96–100°, not 90°, because they follow the taper.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับปีกพับผนังกั้น เป็น 96–100° ไม่ใช่ 90° เพราะตามความเรียว"
+ },
+ "Fold the firewall flanges, all aft. It is stainless, so drill it slowly with a sharp bit and cutting oil.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับปีกพับผนังกันไฟ ทั้งหมดไปด้านหลัง เป็นสแตนเลส จึงเจาะช้า ๆ ด้วยดอกคมและน้ำมันตัด"
+ },
+ "Fold the floor tray's two hat pleats, then the chamfers and side flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับจีบหมวกสองจีบของถาดพื้น แล้วลบมุมและปีกพับด้านข้าง"
+ },
+ "Fold the instrument panel (glare shield and side tabs) and rivet it to the cabin sides at x = -400 mm. Fit the ASI, altimeter, tach, CHT/EGT, radio, master and mag switches and fuel valve, and put the compass on the glare shield.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับแผงหน้าปัด (กันแสงสะท้อนและแถบข้าง) แล้วย้ำหมุดกับผนังห้องนักบินที่ x = -400 mm ติดตั้ง ASI เครื่องวัดความสูง เครื่องวัดรอบ CHT/EGT วิทยุ สวิตช์หลักและแม็ก และวาล์วเชื้อเพลิง และวางเข็มทิศบนกันแสงสะท้อน"
+ },
+ "Fold the ribs, Cleco them on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับซี่โครง ใส่ Cleco"
+ },
+ "Fold the seat: pan and back from one sheet. Rivet its front lip to the floor and lean its back on the rear arch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับที่นั่ง: ถาดและพนักพิงจากแผ่นเดียว ย้ำหมุดขอบหน้ากับพื้น และพิงพนักกับโครงโค้งหลัง"
+ },
+ "Fold the spars": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับคาน"
+ },
+ "Fold the stabiliser and fin spars and their nose ribs.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับคานตัวรักษาเสถียรภาพและครีบหาง และซี่โครงจมูกของมัน"
+ },
+ "Fold the trailing edge over a 0.6 mm radius bar in the brake, to about 165°. Squeeze gently in soft vise jaws until the TE is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับขอบท้ายบนแท่งรัศมี 0.6 mm ในเครื่องพับ ถึงประมาณ 165° บีบเบา ๆ ในปากนิ่มของปากกาจับจน TE ตรง"
+ },
+ "Fold the two V-bead pleats in valley-mountain-valley order. Stop each bead at the marks.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับจีบ V-bead สองจีบตามลำดับหุบ-สัน-หุบ หยุดแต่ละสันที่เครื่องหมาย"
+ },
+ "Fold the two arches: outer and inner flanges, all aft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับโครงโค้งทั้งสอง: ปีกพับนอกและใน ทั้งหมดไปด้านหลัง"
+ },
+ "Fold the two caps first (90°), then the two lips. Overbend by about 2° so the 6061-T6 springs back to 90°.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับแคปสองข้างก่อน (90°) แล้วขอบม้วนสองข้าง พับเกินประมาณ 2° เพื่อให้ 6061-T6 คืนตัวมาที่ 90°"
+ },
+ "Fold the upper and lower cowls (four 45° creases each) and the nose-bowl halves. Rivet the nose bowls to the nose ring.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับฝาครอบบนและล่าง (รอยพับ 45° สี่รอยต่อชิ้น) และครึ่งชามจมูก ย้ำหมุดชามจมูกกับวงแหวนจมูก"
+ },
+ "Folded blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แผ่นที่พับแล้ว"
+ },
+ "Folds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รอยพับ"
+ },
+ "Four brake bends each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับสี่ครั้งต่อชิ้น"
+ },
+ "Four identical surfaces from one blank. The trailing edge is a single crease, so there's no separate strip to rivet on.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สี่พื้นผิวเหมือนกันจากแผ่นเดียว ขอบท้ายเป็นรอยพับเดียว จึงไม่มีแถบแยกให้ย้ำหมุด"
+ },
+ "Four stands, 20 blanks, about 200 rivets. The cheapest place to learn to fold, drill and rivet is a part that never leaves the ground.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ขาตั้งสี่ตัว 20 แผ่น หมุดย้ำประมาณ 200 ตัว ที่ที่ถูกที่สุดในการฝึกพับ เจาะ และย้ำหมุด คือชิ้นที่ไม่เคยลอยจากพื้น"
+ },
+ "Free play under 1° at each surface, and full travel with no binding under load.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ระยะคลอนน้อยกว่า 1° ที่แต่ละพื้นผิว และเคลื่อนที่ได้เต็มระยะโดยไม่ติดขัดภายใต้แรง"
+ },
+ "Front arch (main-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "โครงโค้งหน้า (เฟรมคานหลัก)"
+ },
+ "Front side window (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หน้าต่างข้างหน้า (x2, กลับด้าน)"
+ },
+ "Front side windows: screw over the cut-outs with a 20 mm lap.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หน้าต่างข้างหน้า: ขันสกรูปิดช่องโดยทับซ้อน 20 mm"
+ },
+ "Frustum facets aimed at one point, so every crease is straight.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หน้าของทรงกรวยตัดเล็งไปที่จุดเดียว ทุกรอยพับจึงเป็นเส้นตรง"
+ },
+ "Fuel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เชื้อเพลิง"
+ },
+ "Fuel allowed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เชื้อเพลิงที่บรรทุกได้"
+ },
+ "Fuel and payload": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เชื้อเพลิงและน้ำหนักบรรทุก"
+ },
+ "Fuel feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "การจ่ายเชื้อเพลิง"
+ },
+ "Fuel filler neck + cap (through the hood, ahead of the windscreen)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คอเติมเชื้อเพลิง + ฝา (ผ่านฝากระโปรง หน้ากระจก)"
+ },
+ "Fuel selector valve: HEADER / AUX / OFF": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "วาล์วเลือกเชื้อเพลิง: HEADER / AUX / OFF"
+ },
+ "Fuel system parts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ชิ้นส่วนระบบเชื้อเพลิง"
+ },
+ "Fuel tank 19 L (rotomoulded polyethylene): header tank behind the firewall, ahead of the panel, Cub-style": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ถังเชื้อเพลิง 19 L (โพลีเอทิลีนโรโตโมลด์): ถังหลักหลังผนังกันไฟ หน้าแผงหน้าปัด แบบ Cub"
+ },
+ "Fuel tank 19 L (rotomoulded) + lines, valve, gascolator": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ถังเชื้อเพลิง 19 L (โรโตโมลด์) + ท่อ วาล์ว แก๊สโคเลเตอร์"
+ },
+ "Fuel, aux tank: a second 20 L tank strap-mounts high behind the seat, its bottom above the header tank top so it also gravity-feeds. Its line runs forward along the left roof rail to the selector; filler through the left cabin side, vent overboard under the roof. Never in the wings. Fill it only as far as the 300 kg MTOW allows: with a 100 kg pilot that is none at all. Burn the aux tank first, which keeps the CG moving forward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เชื้อเพลิง ถังสำรอง: ถังที่สอง 20 L รัดติดสูงหลังที่นั่ง ก้นถังอยู่สูงกว่ายอดถังหลักจึงไหลด้วยแรงโน้มถ่วงเช่นกัน ท่อเดินไปข้างหน้าตามรางหลังคาซ้ายถึงวาล์วเลือก ช่องเติมผ่านผนังห้องนักบินซ้าย ช่องระบายออกนอกใต้หลังคา ไม่อยู่ในปีกเด็ดขาด เติมได้เท่าที่ MTOW 300 kg อนุญาต: กับนักบิน 100 kg เติมไม่ได้เลย ใช้ถังสำรองก่อน ซึ่งทำให้ CG เลื่อนไปข้างหน้า"
+ },
+ "Fuel, header tank: the 19 L rotomoulded tank sits behind the firewall, above the pilot's shins and under the windscreen, strapped to two angles riveted to the side panels (as on a J-3 Cub). It gravity-feeds: tank outlet, selector valve (HEADER / AUX / OFF), a fire-sleeved hose through a firewall grommet, the gascolator on the firewall, then the carburettor. The tank bottom is about 200 mm above the carburettor. The filler neck comes up through the hood just ahead of the windscreen, and the vent runs forward under the hood.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เชื้อเพลิง ถังหลัก: ถังโรโตโมลด์ 19 L อยู่หลังผนังกันไฟ เหนือหน้าแข้งนักบินและใต้กระจกหน้า รัดกับเหล็กฉากสองตัวที่ย้ำหมุดกับแผงข้าง (แบบ J-3 Cub) ไหลด้วยแรงโน้มถ่วง: ทางออกถัง วาล์วเลือก (HEADER / AUX / OFF) ท่อหุ้มกันไฟผ่านปลอกยางผนังกันไฟ แก๊สโคเลเตอร์บนผนังกันไฟ แล้วคาร์บูเรเตอร์ ก้นถังอยู่สูงกว่าคาร์บูเรเตอร์ประมาณ 200 mm คอเติมโผล่ผ่านฝากระโปรงหน้ากระจกพอดี และท่อระบายเดินไปข้างหน้าใต้ฝากระโปรง"
+ },
+ "Gascolator (fuel strainer) on the firewall": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แก๊สโคเลเตอร์ (ตัวกรองเชื้อเพลิง) บนผนังกันไฟ"
+ },
+ "Glide L/D": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "อัตราร่อน L/D"
+ },
+ "Ground": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ภาคพื้น"
+ },
+ "Ground vibration test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทดสอบการสั่นภาคพื้น"
+ },
+ "Half-VW engine": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องยนต์ half-VW"
+ },
+ "Half-VW engine, dressed (carb, mag, exhaust)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องยนต์ half-VW ครบชุด (คาร์บู แม็ก ท่อไอเสีย)"
+ },
+ "Hang the elevators and rudder on piano hinges. Check ±25° rudder travel clears the elevator halves.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แขวนหางระดับและหางเสือบนบานพับเปียโน ตรวจว่าหางเสือเคลื่อน ±25° ไม่ชนครึ่งหางระดับ"
+ },
+ "Hang the half-VW on rubber isolators (4 x AN5).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แขวน half-VW บนยางกันสะเทือน (4 x AN5)"
+ },
+ "Hangar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "โรงเก็บ"
+ },
+ "Hardware": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ฮาร์ดแวร์"
+ },
+ "Hardware for this step": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ฮาร์ดแวร์ของขั้นนี้"
+ },
+ "Harness anchors to floor and rear arch, 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "จุดยึดเข็มขัดนิรภัยกับพื้นและโครงโค้งหลัง, 4"
+ },
+ "Hat pleats 56°, flanges 90°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "จีบหมวก 56° ปีกพับ 90°"
+ },
+ "Have a BMAA or LAA inspector look at it before the first flight. Do first flights in calm air, over a long field.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ให้ผู้ตรวจ BMAA หรือ LAA ตรวจก่อนเที่ยวบินแรก บินเที่ยวแรกในอากาศสงบ เหนือสนามยาว"
+ },
+ "Head": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หัว"
+ },
+ "Header tank full": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ถังหลักเต็ม"
+ },
+ "Holds ultimate load for 3 s in both directions.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รับแรงประลัยได้ 3 s ทั้งสองทิศทาง"
+ },
+ "Holds ultimate load for 3 s. Peak cap stress {stress:ms_sig} against an allowable of {stress:ms_cc}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รับแรงประลัยได้ 3 s ความเค้นแคปสูงสุด {stress:ms_sig} เทียบกับค่าที่ยอมรับได้ {stress:ms_cc}"
+ },
+ "Holds {force:strut_T} in tension and {force:strut_C} in compression with no failure.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รับ {force:strut_T} ในแรงดึงและ {force:strut_C} ในแรงอัดโดยไม่พัง"
+ },
+ "Honesty": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ความซื่อตรง"
+ },
+ "Horn: rod end bolts through the outer hole (AN3).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แขนบังคับ: หัวก้านยึดผ่านรูนอก (AN3)"
+ },
+ "Horns, bellcranks and brackets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แขนบังคับ เบลแครงก์ และฉากยึด"
+ },
+ "How it gets proven": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พิสูจน์อย่างไร"
+ },
+ "Imperial": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "อิมพีเรียล"
+ },
+ "Inspect each rivet: head seated flat, mandrel broken off flush, no gap under the head.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ตรวจหมุดย้ำทุกตัว: หัวนั่งเรียบ แกนดึงหักเสมอ ไม่มีช่องว่างใต้หัว"
+ },
+ "Inspection": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "การตรวจ"
+ },
+ "Inspector sign-off before the aircraft is flown by anyone else.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผู้ตรวจลงนามก่อนที่ผู้อื่นจะนำเครื่องบินขึ้นบิน"
+ },
+ "Instructions": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คำแนะนำ"
+ },
+ "Instrument panel (glare-shield fold, side tabs)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แผงหน้าปัด (พับกันแสงสะท้อน แถบข้าง)"
+ },
+ "Instruments (ASI, alt, tach, CHT, compass)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องวัด (ASI, alt, tach, CHT, เข็มทิศ)"
+ },
+ "Inverted wing on its fittings, sandbags laid out to the spanwise lift distribution, to +4 g limit and then −2 g. Measure tip deflection at each step.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปีกคว่ำบนชิ้นต่อ กระสอบทรายวางตามการกระจายแรงยกตามช่วงปีก ถึงขีดจำกัด +4 g แล้ว −2 g วัดการแอ่นของปลายปีกทุกขั้น"
+ },
+ "Item": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รายการ"
+ },
+ "Jury strut 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สตรัทจูรี่ 0.75 x 0.049 in"
+ },
+ "Jury strut x2 (main)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สตรัทจูรี่ x2 (หลัก)"
+ },
+ "Jury strut x2 (main): 6061-T6 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สตรัทจูรี่ x2 (หลัก): 6061-T6 0.75 x 0.049 in"
+ },
+ "Jury strut x2 (rear)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สตรัทจูรี่ x2 (หลัง)"
+ },
+ "Jury strut x2 (rear): 6061-T6 0.75 x 0.049 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สตรัทจูรี่ x2 (หลัง): 6061-T6 0.75 x 0.049 in"
+ },
+ "Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แคลมป์อานสตรัทจูรี่, 4130 0.063in (เปลือกครึ่งม้วนพร้อมหู)"
+ },
+ "K-BC Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-BC แผ่นเบลแครงก์, 4130 0.063in (เป็นคู่, แขน 55 mm)"
+ },
+ "K-CV Clevis, 4130 0.063in (U, two folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-CV เคลวิส, 4130 0.063in (U, พับสองครั้ง)"
+ },
+ "K-HD Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HD แขนบังคับหางระดับ, 4130 0.063in (สองปลาย บนท่อแรงบิดหางระดับ)"
+ },
+ "K-HN Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HN แขนบังคับเอเลอรอน / แฟลป, 4130 0.063in (พับครั้งเดียวลงบนผิวล่าง)"
+ },
+ "K-HR Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-HR แขนบังคับหางเสือ, 4130 0.063in (แบน สลิงแต่ละด้าน)"
+ },
+ "K-JC Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-JC แคลมป์อานสตรัทจูรี่, 4130 0.063in (เปลือกครึ่งม้วนพร้อมหู)"
+ },
+ "K-TG Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "K-TG ลิ้นโคนคาน, 4130 0.063in (แบน เป็นคู่ทั้งสองด้านของเว็บ)"
+ },
+ "Laminate: each channel is two blanks. Fold both separately, nest the inner one inside the outer one, and check they sit tight with no gap. If the inner one fights, take 0.5 mm off its flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ลามิเนต: แต่ละรางเป็นสองแผ่น พับแยกกัน ซ้อนแผ่นในเข้าไปในแผ่นนอก ตรวจว่าแนบแน่นไม่มีช่องว่าง ถ้าแผ่นในเข้าไม่ได้ ตัดขอบปีกพับออก 0.5 mm"
+ },
+ "Laminated channel crippling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "การยุบตัวของรางลามิเนต"
+ },
+ "Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ลามิเนต: 2 ชั้นซ้อนของ 0.020 in พับแยกกันและย้ำหมุดเป็นชิ้นเดียว ตัดขอบปีกพับออก 0.5 mm ต่อชั้นใน"
+ },
+ "Landing gear and tailwheel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ฐานล้อและล้อหาง"
+ },
+ "Landing roll": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ระยะวิ่งลงจอด"
+ },
+ "Language": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ภาษา"
+ },
+ "Laps 30 mm under the upper skin at 8% chord.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทับซ้อน 30 mm ใต้ผิวบนที่ 8% ของคอร์ด"
+ },
+ "Laser / waterjet cutting service": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "บริการตัดเลเซอร์ / วอเตอร์เจ็ท"
+ },
+ "Lay the spars on a flat table, webs vertical, 3.6 m apart for the two wings.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "วางคานบนโต๊ะเรียบ เว็บตั้งฉาก ห่างกัน 3.6 m สำหรับสองปีก"
+ },
+ "Leans on the rear arch.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พิงกับโครงโค้งหลัง"
+ },
+ "Leave the protective film on. Drill the polycarbonate with plastic bits, holes 6 mm for M4 screws so it can expand.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "อย่าลอกฟิล์มป้องกัน เจาะโพลีคาร์บอเนตด้วยดอกเจาะพลาสติก รู 6 mm สำหรับสกรู M4 เพื่อให้ขยายตัวได้"
+ },
+ "Left door front edge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ขอบหน้าประตูซ้าย"
+ },
+ "Licence": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สัญญาอนุญาต"
+ },
+ "Lift strut (main) 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สตรัทรับแรงยก (หลัก) 1.75 x 0.065 in"
+ },
+ "Lift strut (rear) 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สตรัทรับแรงยก (หลัง) 1.75 x 0.065 in"
+ },
+ "Lift strut, tension": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สตรัทรับแรงยก แรงดึง"
+ },
+ "Lift strut, −2 g buckling (with jury strut)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สตรัทรับแรงยก การโก่ง −2 g (มีสตรัทจูรี่)"
+ },
+ "Lift struts and jury struts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สตรัทรับแรงยกและสตรัทจูรี่"
+ },
+ "Line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รวมรายการ"
+ },
+ "Lipped channels: four 90° brake bends each, two nested layers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รางขอบม้วน: พับ 90° สี่ครั้งต่อชิ้น สองชั้นซ้อน"
+ },
+ "Load each linkage part to 1.5 × the BCAR Section S pilot loads at the stick and pedals.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รับแรงชิ้นส่วนก้านต่อแต่ละชิ้นถึง 1.5 × ของแรงนักบิน BCAR Section S ที่คันบังคับและแป้นเหยียบ"
+ },
+ "Local-price estimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ราคาประมาณท้องถิ่น"
+ },
+ "Local-price estimate for {country}, in {currency}, before any local sales tax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ราคาประมาณท้องถิ่นสำหรับ {country} เป็น {currency} ก่อนภาษีขายท้องถิ่น"
+ },
+ "Local-price estimate for {country}, in {currency}, including {tax} % VAT, GST or sales tax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ราคาประมาณท้องถิ่นสำหรับ {country} เป็น {currency} รวม VAT, GST หรือภาษีขาย {tax} %"
+ },
+ "Low-speed taxi, then fast taxi with the tail up, on the intended test field.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แท็กซี่ช้า แล้วแท็กซี่เร็วยกหาง บนสนามทดสอบที่ตั้งใจใช้"
+ },
+ "Lower cowl (box-pleat pan to the cabin floor line)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ฝาครอบล่าง (ถาดพับจีบกล่องถึงแนวพื้นห้องนักบิน)"
+ },
+ "Lower skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผิวล่าง ช่องที่ 1"
+ },
+ "Lower skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผิวล่าง ช่องที่ 2"
+ },
+ "Lower skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผิวล่าง ช่องที่ 3"
+ },
+ "Lower skins": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผิวล่าง"
+ },
+ "M4 pan screw, nylon washer, M4 Nyloc nut, 6 mm oversize hole in polycarbonate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สกรูหัวกระทะ M4 แหวนไนลอน น็อต M4 Nyloc รูขยาย 6 mm ในโพลีคาร์บอเนต"
+ },
+ "MEK / cleaner, Scotch-Brite, gloves": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "MEK / น้ำยาทำความสะอาด Scotch-Brite ถุงมือ"
+ },
+ "Main gear leg x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ขาล้อหลัก x2"
+ },
+ "Main gear leg x2: 6061-T6 bar 75 x 16 mm": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ขาล้อหลัก x2: แท่ง 6061-T6 75 x 16 mm"
+ },
+ "Main gear legs through floor doubler, 2 per leg": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ขาล้อหลักผ่านแผ่นเสริมพื้น 2 ต่อขา"
+ },
+ "Main gear spring leg (6061-T6 bar)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ขาสปริงล้อหลัก (แท่ง 6061-T6)"
+ },
+ "Main gear: 2 spring legs + axles": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ล้อหลัก: ขาสปริง 2 ขา + เพลา"
+ },
+ "Main lift strut x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สตรัทรับแรงยกหลัก x2"
+ },
+ "Main lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สตรัทรับแรงยกหลัก x2: 6061-T6 1.75 x 0.065 in"
+ },
+ "Main rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ซี่โครงหลัก"
+ },
+ "Main rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ซี่โครงหลัก โคน/ปลาย"
+ },
+ "Main spar (lipped C, opens aft)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คานหลัก (C ขอบม้วน เปิดไปด้านหลัง)"
+ },
+ "Main spar section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หน้าตัดคานหลัก"
+ },
+ "Main spar web shear, limit": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แรงเฉือนเว็บคานหลัก ขีดจำกัด"
+ },
+ "Main spar: lipped C, three layers of 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คานหลัก: C ขอบม้วน สามชั้นของ 0.020 in"
+ },
+ "Main wheel: 21 x 8.00-6 tundra tyre at 10-12 psi": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ล้อหลัก: ยางทุนดรา 21 x 8.00-6 ที่ 10-12 psi"
+ },
+ "Main wheels": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ล้อหลัก"
+ },
+ "Margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ส่วนเผื่อ"
+ },
+ "Mark fold lines on the marked face: red dashed = valley, blue dash-dot = mountain. Use a fine felt marker, never a scribe (Wanttaja: scribe lines start cracks).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทำเครื่องหมายเส้นพับบนหน้าที่ทำเครื่องหมาย: เส้นประแดง = พับหุบ เส้นประจุดน้ำเงิน = พับสัน ใช้ปากกาเมจิกหัวเล็ก ห้ามใช้เหล็กขีด (Wanttaja: รอยเหล็กขีดทำให้เกิดรอยร้าว)"
+ },
+ "Mark folds with felt pen, never a scribe": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทำเครื่องหมายรอยพับด้วยปากกาเมจิก ห้ามใช้เหล็กขีด"
+ },
+ "Mark the folds: red dashed is a valley, blue dash-dot is a mountain. Felt marker on the marked face only, never a scribe.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทำเครื่องหมายรอยพับ: เส้นประแดงคือพับหุบ เส้นประจุดน้ำเงินคือพับสัน ใช้ปากกาเมจิกบนหน้าที่ทำเครื่องหมายเท่านั้น ห้ามใช้เหล็กขีด"
+ },
+ "Mass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "มวล"
+ },
+ "Mass balance weights": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ตุ้มถ่วงมวล"
+ },
+ "Mass-balance each aileron with lead on an arm ahead of the hinge until it hangs level, before it goes on the aircraft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ถ่วงมวลเอเลอรอนแต่ละข้างด้วยตะกั่วบนแขนหน้าบานพับจนห้อยได้ระดับ ก่อนติดตั้งบนเครื่องบิน"
+ },
+ "Mass-balance horn at outboard end.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แขนถ่วงมวลที่ปลายด้านนอก"
+ },
+ "Mean strength at or above the value used in design, scatter under 10 %.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ความแข็งแรงเฉลี่ยไม่ต่ำกว่าค่าที่ใช้ในการออกแบบ การกระจายน้อยกว่า 10 %"
+ },
+ "Measure gravity flow from each tank, with the aircraft at its steepest climb attitude plus margin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "วัดอัตราไหลด้วยแรงโน้มถ่วงจากแต่ละถัง โดยเครื่องบินอยู่ในท่าไต่ชันที่สุดบวกส่วนเผื่อ"
+ },
+ "Measure twist under a known torque at the tip rib.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "วัดการบิดภายใต้แรงบิดที่ทราบค่าที่ซี่โครงปลายปีก"
+ },
+ "Measured climb, cruise and glide recorded against the predictions on the numbers tab.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "บันทึกการไต่ การเดินทาง และการร่อนที่วัดได้เทียบกับค่าคาดการณ์ในแท็บตัวเลข"
+ },
+ "Measured values replace estimates in aircraft.yaml, and the build manual is revised.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ค่าที่วัดได้แทนค่าประมาณใน aircraft.yaml และปรับปรุงคู่มือการสร้าง"
+ },
+ "Member": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ชิ้นส่วน"
+ },
+ "Method": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "วิธีการ"
+ },
+ "Metric": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เมตริก"
+ },
+ "Mid CG, calm air, long field, circuit height only, an experienced test pilot.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "CG กลาง อากาศสงบ สนามยาว ความสูงวงจรเท่านั้น นักบินทดสอบที่มีประสบการณ์"
+ },
+ "Month 10": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เดือนที่ 10"
+ },
+ "Month 4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เดือนที่ 4"
+ },
+ "Month 5": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เดือนที่ 5"
+ },
+ "Months 2–3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เดือนที่ 2–3"
+ },
+ "Months 6–9": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เดือนที่ 6–9"
+ },
+ "Move the CG from forward to aft in steps, checking stick-free stability at each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เลื่อน CG จากหน้าไปหลังเป็นขั้น ตรวจเสถียรภาพแบบปล่อยคันบังคับทุกขั้น"
+ },
+ "Nicopress sleeve + thimble (1/8 in cable)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปลอก Nicopress + ห่วงรองสลิง (สลิง 1/8 in)"
+ },
+ "Nicopress tool + cable cutter": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องมือ Nicopress + คีมตัดสลิง"
+ },
+ "No cracks, and springback within 2° of prediction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ไม่มีรอยร้าว และการคืนตัวอยู่ภายใน 2° ของค่าคาดการณ์"
+ },
+ "No flutter or buzz up to {speed:Vne}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ไม่มีฟลัตเตอร์หรือการสั่นจนถึง {speed:Vne}"
+ },
+ "No permanent set after unloading. Deflection within 15 % of prediction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ไม่มีการเสียรูปถาวรหลังปลดแรง การแอ่นอยู่ภายใน 15 % ของค่าคาดการณ์"
+ },
+ "No permanent set at limit, no failure at ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ไม่มีการเสียรูปถาวรที่ขีดจำกัด ไม่พังที่ประลัย"
+ },
+ "No physical part has been cut. Fold one rib and one spar offcut first to check the bend deduction.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ยังไม่ได้ตัดชิ้นส่วนจริงใด ๆ พับเศษซี่โครงหนึ่งชิ้นและเศษคานหนึ่งชิ้นก่อนเพื่อตรวจค่าหักการพับ"
+ },
+ "No yield at limit load, no failure at ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ไม่ครากที่แรงขีดจำกัด ไม่พังที่ประลัย"
+ },
+ "Nose bowl, chin (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ชามจมูก คาง (3 หน้าลู่เข้า)"
+ },
+ "Nose bowl, upper (3 converging facets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ชามจมูก บน (3 หน้าลู่เข้า)"
+ },
+ "Nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ซี่โครงจมูก"
+ },
+ "Nose rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ซี่โครงจมูก โคน/ปลาย"
+ },
+ "Nose ring (prop-shaft hole + two cooling inlets)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "วงแหวนจมูก (รูเพลาใบพัด + ช่องรับลมระบายความร้อนสองช่อง)"
+ },
+ "Nose rolled over 75 mm tube": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "จมูกม้วนรอบท่อ 75 mm"
+ },
+ "Nose zone is rolled over a 75 mm tube; aft creases are soft brake hits (2-6 deg).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "โซนจมูกม้วนรอบท่อ 75 mm รอยพับด้านหลังเป็นการกดเบา ๆ ด้วยเครื่องพับ (2-6 deg)"
+ },
+ "Not analysed yet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ยังไม่ได้วิเคราะห์"
+ },
+ "Not proven": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ยังไม่พิสูจน์"
+ },
+ "Notes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หมายเหตุ"
+ },
+ "One 90 degree flange stiffens the free edge. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปีกพับ 90 องศาหนึ่งอันช่วยเสริมความแข็งขอบอิสระ ลามิเนต: 2 ชั้นซ้อนของ 0.020 in พับแยกกันและย้ำหมุดเป็นชิ้นเดียว ตัดขอบปีกพับออก 0.5 mm ต่อชั้นใน"
+ },
+ "One hour of progressive ground running, with cylinder head and exhaust temperatures logged.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เดินเครื่องภาคพื้นแบบค่อย ๆ เพิ่มหนึ่งชั่วโมง บันทึกอุณหภูมิฝาสูบและไอเสีย"
+ },
+ "One-wrap skins, sharp trailing edges": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผิวห่อเดียว ขอบท้ายคม"
+ },
+ "Open-source aircraft": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องบินโอเพนซอร์ส"
+ },
+ "Order as 12 ft strip. Lips turn the free flange edges into supported edges (k 0.43 -> ~4). Laminated: 3 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สั่งเป็นแถบ 12 ft ขอบม้วนเปลี่ยนขอบปีกพับอิสระให้เป็นขอบที่มีการรองรับ (k 0.43 -> ~4) ลามิเนต: 3 ชั้นซ้อนของ 0.020 in พับแยกกันและย้ำหมุดเป็นชิ้นเดียว ตัดขอบปีกพับออก 0.5 mm ต่อชั้นใน"
+ },
+ "Paint": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทาสี"
+ },
+ "Paint, then weigh on three scales in the level attitude. Work out the empty CG and check every loading case falls inside the design range in DESIGN_REPORT.md (about 28–33 % MAC).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทาสี แล้วชั่งบนตาชั่งสามตัวในท่าระดับ คำนวณ CG เปล่าและตรวจว่าทุกกรณีบรรทุกอยู่ในช่วงออกแบบใน DESIGN_REPORT.md (ประมาณ 28–33 % MAC)"
+ },
+ "Panel: glare-shield fold 90°, side tabs 90°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แผง: พับกันแสงสะท้อน 90° แถบข้าง 90°"
+ },
+ "Parts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ชิ้นส่วน"
+ },
+ "Pass when": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผ่านเมื่อ"
+ },
+ "Performance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สมรรถนะ"
+ },
+ "Phases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ระยะ"
+ },
+ "Piano hinge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "บานพับเปียโน"
+ },
+ "Piano hinge MS20001 + door latch": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "บานพับเปียโน MS20001 + กลอนประตู"
+ },
+ "Pilot": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "นักบิน"
+ },
+ "Pilot (95th pct, for scale)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "นักบิน (เปอร์เซ็นไทล์ที่ 95 เพื่อเทียบขนาด)"
+ },
+ "Pilot, fuel and baggage share one budget: maximum take-off mass minus empty mass. Both tanks are in the cabin, never in the wings: an 18 L header tank behind the firewall and a 20 L aux tank high behind the seat, both gravity-fed through one selector. A light pilot can fill both. A heavy pilot gets the header tank or less. Burn the aux tank first.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "นักบิน เชื้อเพลิง และสัมภาระใช้งบเดียวกัน: มวลวิ่งขึ้นสูงสุดลบมวลเปล่า ทั้งสองถังอยู่ในห้องนักบิน ไม่อยู่ในปีกเด็ดขาด: ถังหลัก 18 L หลังผนังกันไฟ และถังสำรอง 20 L สูงหลังที่นั่ง ทั้งสองไหลด้วยแรงโน้มถ่วงผ่านวาล์วเลือกเดียว นักบินน้ำหนักเบาเติมได้ทั้งสองถัง นักบินน้ำหนักมากได้ถังหลักหรือน้อยกว่า ใช้ถังสำรองก่อน"
+ },
+ "Pitot tube (left wing, ahead of the LE)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ท่อพิโตต์ (ปีกซ้าย หน้า LE)"
+ },
+ "Pitot-static: pitot tube under the left wing at the 1.2 m rib. Run its line inside the wing ahead of the main spar to the root and down the A-pillar to the ASI. A static port on the left cabin side feeds the altimeter and ASI. Secure everything with Adel clamps every 300 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พิโตต์-สถิต: ท่อพิโตต์ใต้ปีกซ้ายที่ซี่โครง 1.2 m เดินท่อภายในปีกหน้าคานหลักไปที่โคน แล้วลงตามเสา A ไปยัง ASI ช่องสถิตบนผนังห้องนักบินซ้ายจ่ายให้เครื่องวัดความสูงและ ASI ยึดทุกอย่างด้วยแคลมป์ Adel ทุก 300 mm"
+ },
+ "Planar: no forming, drill with plastic-cutting bits, slotted holes for expansion.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ระนาบ: ไม่ต้องขึ้นรูป เจาะด้วยดอกตัดพลาสติก รูยาวเผื่อการขยายตัว"
+ },
+ "Plastic-cutting drill bits / step drill": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ดอกเจาะพลาสติก / ดอกสเต็ป"
+ },
+ "Positive stability at the aft limit; predicted minimum static margin {pct:SM_min}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เสถียรภาพเป็นบวกที่ขีดจำกัดหลัง ส่วนเผื่อสถิตต่ำสุดคาดการณ์ {pct:SM_min}"
+ },
+ "Press or bolt a 4130 end fork into each tube end. Drill the AN5 pin hole after the final length check on the aircraft.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "อัดหรือยึดส้อมปลาย 4130 เข้าที่ปลายท่อแต่ละด้าน เจาะรูสลัก AN5 หลังตรวจความยาวสุดท้ายบนเครื่องบิน"
+ },
+ "Prime the faying surfaces: Scotch-Brite, wash, etch or alodine, then epoxy primer. Wear gloves (Wanttaja: finger oils stop primer sticking).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ลงรองพื้นผิวสัมผัส: Scotch-Brite ล้าง กัดผิวหรือ alodine แล้วรองพื้นอีพ็อกซี สวมถุงมือ (Wanttaja: น้ำมันจากนิ้วทำให้รองพื้นไม่ติด)"
+ },
+ "Primer part: two nested layers folded on the brake and riveted as one. Glue carpet on the web. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ชิ้นฝึก: สองชั้นซ้อนพับบนเครื่องพับและย้ำหมุดเป็นชิ้นเดียว ติดพรมบนเว็บ ลามิเนต: 2 ชั้นซ้อนของ 0.020 in พับแยกกันและย้ำหมุดเป็นชิ้นเดียว ตัดขอบปีกพับออก 0.5 mm ต่อชั้นใน"
+ },
+ "Primer: build the wing stands": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เริ่มต้น: สร้างขาตั้งปีก"
+ },
+ "Proof-load the wing upside down with sandbags to +4 g limit load, spread spanwise. It must show no permanent set.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทดสอบรับน้ำหนักปีกแบบคว่ำด้วยกระสอบทรายถึงแรงขีดจำกัด +4 g กระจายตามช่วงปีก ต้องไม่มีการเสียรูปถาวร"
+ },
+ "Prop drive hub (flange)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ดุมขับใบพัด (หน้าแปลน)"
+ },
+ "Propeller 54 in wood + hub": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ใบพัดไม้ 54 in + ดุม"
+ },
+ "Propeller 54 x 24 in, laminated wood (download the model)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ใบพัด 54 x 24 in ไม้ลามิเนต (ดาวน์โหลดแบบจำลอง)"
+ },
+ "Propeller hub, 6": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ดุมใบพัด, 6"
+ },
+ "Publish": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เผยแพร่"
+ },
+ "Pull a complete strut with its clevises and tangs to ultimate tension, then buckle a second at −2 g with the jury strut fitted.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ดึงสตรัทครบชุดพร้อมเคลวิสและลิ้นจนถึงแรงดึงประลัย แล้วทดสอบการโก่งอีกอันที่ −2 g โดยติดสตรัทจูรี่"
+ },
+ "Push the AN5 root pins through. Fit castellated nuts and cotter pins.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ดันสลักโคน AN5 เข้า ใส่น็อตปราสาทและปิ๊นผ่า"
+ },
+ "Put in the aft soft creases first.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทำรอยพับเบาด้านหลังก่อน"
+ },
+ "Put in the soft creases with a light brake hit, or by hand over a straight-edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทำรอยพับเบาด้วยการกดเครื่องพับเบา ๆ หรือด้วยมือบนขอบตรง"
+ },
+ "Qty": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "จำนวน"
+ },
+ "Qualification": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "การรับรองคุณสมบัติ"
+ },
+ "Quarter-turn camlock (Dzus) + receptacle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ล็อกแคมหมุนหนึ่งในสี่รอบ (Dzus) + ตัวรับ"
+ },
+ "RADIO instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องวัด RADIO"
+ },
+ "Range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พิสัยบิน"
+ },
+ "Ream the pin holes to 5/16 in and the bolt holes to 1/4 in and 3/16 in, through both ears at once so they line up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รีมรูสลักเป็น 5/16 in และรูสลักเกลียวเป็น 1/4 in และ 3/16 in ผ่านทั้งสองหูพร้อมกันให้ตรงแนว"
+ },
+ "Rear arch (rear-spar frame)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "โครงโค้งหลัง (เฟรมคานหลัง)"
+ },
+ "Rear lift strut x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สตรัทรับแรงยกหลัง x2"
+ },
+ "Rear lift strut x2: 6061-T6 1.75 x 0.065 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สตรัทรับแรงยกหลัง x2: 6061-T6 1.75 x 0.065 in"
+ },
+ "Rear spar (lipped C, opens forward)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คานหลัง (C ขอบม้วน เปิดไปด้านหน้า)"
+ },
+ "Rear spar section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หน้าตัดคานหลัง"
+ },
+ "Rear spar: lipped C, two layers of 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คานหลัง: C ขอบม้วน สองชั้นของ 0.020 in"
+ },
+ "Reassemble on Clecos, then pull the rivets from the middle of each joint outward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ประกอบกลับด้วย Cleco แล้วดึงหมุดจากกลางแต่ละรอยต่อออกไปด้านนอก"
+ },
+ "Ribs, skin buckling, fittings, landing gear, tail loads, the engine mount and flutter. Mass-balance every control surface.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ซี่โครง การโก่งของผิว ชิ้นต่อ ฐานล้อ แรงที่หาง แท่นเครื่องยนต์ และฟลัตเตอร์ ถ่วงมวลทุกพื้นผิวบังคับ"
+ },
+ "Right side: fixed window over the door opening. Left side: the same blank on a piano hinge at its front edge, with a latch at the back.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ด้านขวา: หน้าต่างติดตายปิดช่องประตู ด้านซ้าย: แผ่นเดียวกันบนบานพับเปียโนที่ขอบหน้า มีกลอนด้านหลัง"
+ },
+ "Rivet joints": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รอยต่อหมุดย้ำ"
+ },
+ "Rivet strength in thin sheet": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ความแข็งแรงหมุดย้ำในแผ่นบาง"
+ },
+ "Rivet the piano hinge to the spar top, then hang the surface on the rear spar.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ย้ำหมุดบานพับเปียโนกับด้านบนคาน แล้วแขวนพื้นผิวบนคานหลัง"
+ },
+ "Rivet: pull 1/8 in blind rivets, working from the middle of each row outwards and swapping clecos for rivets one at a time. A good rivet sits flat, with no gap under the head. Drill out any bad one with a #30 bit and try again: practise this on purpose at least once.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ย้ำหมุด: ดึงหมุดย้ำตาบอด 1/8 in จากกลางแต่ละแถวออกไปด้านนอก เปลี่ยน Cleco เป็นหมุดทีละตัว หมุดที่ดีนั่งเรียบ ไม่มีช่องว่างใต้หัว เจาะหมุดที่ไม่ดีออกด้วยดอก #30 แล้วทำใหม่: ฝึกทำสิ่งนี้โดยตั้งใจอย่างน้อยหนึ่งครั้ง"
+ },
+ "Riveting loop, rivets from the main spar outward.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "วงรอบการย้ำหมุด ย้ำจากคานหลักออกไปด้านนอก"
+ },
+ "Riveting loop, then join the tailcone to the cabin at bulkhead 1.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "วงรอบการย้ำหมุด แล้วต่อกรวยหางกับห้องนักบินที่ผนังกั้น 1"
+ },
+ "Riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "วงรอบการย้ำหมุด"
+ },
+ "Riveting loop. The firewall takes stainless or Monel rivets: aluminium melts in a fire.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "วงรอบการย้ำหมุด ผนังกันไฟใช้หมุดสแตนเลสหรือโมเนล: อะลูมิเนียมละลายในไฟ"
+ },
+ "Riveting loop: final-drill #30, take apart, deburr, prime, Cleco, rivet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "วงรอบการย้ำหมุด: เจาะขั้นสุดท้าย #30 ถอด ลบคม รองพื้น Cleco ย้ำหมุด"
+ },
+ "Rivets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หมุดย้ำ"
+ },
+ "Rivets to the rear-spar flanges. Closes the bay behind the centre-section rear spar.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ย้ำหมุดกับปีกพับคานหลัง ปิดช่องหลังคานหลังส่วนกลาง"
+ },
+ "Rod ends": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หัวก้าน"
+ },
+ "Roll each skin's leading edge, then wrap it round its ribs and spar. Back-drill and use the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ม้วนขอบหน้าของผิวแต่ละแผ่น แล้วห่อรอบซี่โครงและคาน เจาะย้อนและใช้วงรอบการย้ำหมุด"
+ },
+ "Roll the eight saddle-clamp halves round a 45 mm bar, then bolt a pair round each strut at mid-length (2 x AN3 through the ears).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ม้วนครึ่งแคลมป์อานแปดชิ้นรอบแท่ง 45 mm แล้วยึดหนึ่งคู่รอบสตรัทแต่ละอันที่กึ่งกลางความยาว (2 x AN3 ผ่านหู)"
+ },
+ "Roll the green zone: lay the skin over a 75 mm tube and pull it round with a strap, a little at a time. Don't crease it.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ม้วนโซนสีเขียว: วางผิวบนท่อ 75 mm แล้วดึงรอบด้วยสายรัดทีละน้อย ห้ามให้เกิดรอยพับ"
+ },
+ "Root and tip ribs have their flanges facing into the panel.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ซี่โครงโคนและปลายมีปีกพับหันเข้าด้านในแผง"
+ },
+ "Rudder and elevator cables, 1 per cable, in the cabin where you can inspect them": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลิงหางเสือและหางระดับ 1 ต่อเส้น ในห้องนักบินที่ตรวจได้"
+ },
+ "Rudder cable x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลิงหางเสือ x2"
+ },
+ "Rudder cable x2: 1/8 in 7x19 galvanised": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลิงหางเสือ x2: 1/8 in 7x19 ชุบสังกะสี"
+ },
+ "Rudder cables: pedal horn, then a pulley at the pedal, along the floor at y = ±200 mm through fairleads on both arch feet, a pulley at bulkhead 1, then one straight line each to the tail post. Because the tailcone is a frustum, a straight run between interior points never touches the skin, so no cable needs a mid-cone pulley.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลิงหางเสือ: แขนแป้นเหยียบ แล้วรอกที่แป้นเหยียบ ไปตามพื้นที่ y = ±200 mm ผ่านตัวนำบนฐานโครงโค้งทั้งสอง รอกที่ผนังกั้น 1 แล้วเส้นตรงเส้นเดียวไปยังเสาหาง เพราะกรวยหางเป็นทรงกรวยตัด เส้นตรงระหว่างจุดภายในจึงไม่แตะผิว ไม่มีสลิงเส้นใดต้องใช้รอกกลางกรวย"
+ },
+ "Rudder horn, 4130 0.063in (flat, cable each side)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แขนบังคับหางเสือ, 4130 0.063in (แบน สลิงแต่ละด้าน)"
+ },
+ "Rudder pedals": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แป้นเหยียบหางเสือ"
+ },
+ "Rudder skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผิวหางเสือ"
+ },
+ "Rudder spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คานหางเสือ"
+ },
+ "S-BM Stand beam (lipped C, saddle on top)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-BM คานขาตั้ง (C ขอบม้วน อานด้านบน)"
+ },
+ "S-FT Stand foot (lipped C, opens up)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-FT ฐานขาตั้ง (C ขอบม้วน เปิดขึ้น)"
+ },
+ "S-GF Stand foot gusset (flat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-GF แผ่นเสริมมุมฐานขาตั้ง (แบน)"
+ },
+ "S-GT Stand top gusset (flanged hypotenuse)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-GT แผ่นเสริมมุมบนขาตั้ง (ด้านตรงข้ามมุมฉากมีปีกพับ)"
+ },
+ "S-LG Stand leg (lipped C)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "S-LG ขาขาตั้ง (C ขอบม้วน)"
+ },
+ "SSDR means no airworthiness approval is required, so all the testing is yours to do.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "SSDR หมายถึงไม่ต้องได้รับการรับรองความสมควรเดินอากาศ การทดสอบทั้งหมดจึงเป็นหน้าที่ของคุณ"
+ },
+ "Saddle clamps: rolled half-shells": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แคลมป์อาน: เปลือกครึ่งม้วน"
+ },
+ "Saddle-clamp ears (one also carries the jury-strut fork), 2 per clamp; Jury strut top, through the jury clevis": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หูแคลมป์อาน (อันหนึ่งรับส้อมสตรัทจูรี่ด้วย) 2 ต่อแคลมป์; ยอดสตรัทจูรี่ ผ่านเคลวิสจูรี่"
+ },
+ "Safety wire": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ลวดนิรภัย"
+ },
+ "Same blank both sides. 20 mm lap all round. Left one hangs on a piano hinge at its front edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แผ่นเดียวกันทั้งสองด้าน ทับซ้อน 20 mm รอบด้าน ด้านซ้ายแขวนบนบานพับเปียโนที่ขอบหน้า"
+ },
+ "Same blank for both flaps and both ailerons: modular-origami units.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แผ่นเดียวกันสำหรับแฟลปทั้งสองและเอเลอรอนทั้งสอง: หน่วยโอริงามิแบบโมดูล"
+ },
+ "Sandbags and tape measure (proof load)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "กระสอบทรายและสายวัด (ทดสอบรับน้ำหนัก)"
+ },
+ "Sawtooth climbs, level speeds and glides.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ไต่แบบฟันเลื่อย ความเร็วระดับ และการร่อน"
+ },
+ "Scotch-Brite, etch/alodine, epoxy primer, spray kit, gloves": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Scotch-Brite กัดผิว/alodine รองพื้นอีพ็อกซี ชุดพ่นสี ถุงมือ"
+ },
+ "Seat (pan + back, one sheet)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ที่นั่ง (ถาด + พนักพิง แผ่นเดียว)"
+ },
+ "Seat cushion + 4-pt harness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เบาะที่นั่ง + เข็มขัด 4 จุด"
+ },
+ "Select a row to see where that case sits.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เลือกแถวเพื่อดูว่ากรณีนั้นอยู่ตรงไหน"
+ },
+ "Send the nest DXFs to a laser or waterjet service, or cut on a CNC router. Bolt holes come out 0.5 mm undersize; ream them later.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ส่ง DXF การจัดเรียงไปยังบริการเลเซอร์หรือวอเตอร์เจ็ท หรือตัดด้วยเราเตอร์ CNC รูสลักจะออกมาเล็กกว่า 0.5 mm ให้รีมภายหลัง"
+ },
+ "Set dihedral to 1.5° and wash-out to 0° with a digital level on the root and tip ribs. Then pin the struts on: AN5, castellated nut, cotter pin.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ตั้งมุมไดฮีดรัล 1.5° และวอชเอาต์ 0° ด้วยระดับน้ำดิจิทัลบนซี่โครงโคนและปลาย แล้วใส่สลักสตรัท: AN5 น็อตปราสาท ปิ๊นผ่า"
+ },
+ "Set the brake nose radius to 0.8 mm, about 1.6 times the 0.51 mm sheet (Table 5-2, 'normal' radius). Never tighter.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ตั้งรัศมีจมูกเครื่องพับ 0.8 mm ประมาณ 1.6 เท่าของแผ่น 0.51 mm (Table 5-2 รัศมี 'normal') ห้ามแคบกว่านี้"
+ },
+ "Set the travels: aileron +20/-15°, elevator +25/-20°, rudder ±25°, flaps 0/20°. Fit the stops.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ตั้งระยะเคลื่อน: เอเลอรอน +20/-15° หางระดับ +25/-20° หางเสือ ±25° แฟลป 0/20° ติดตัวหยุด"
+ },
+ "Sheet price": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ราคาแผ่นโลหะ"
+ },
+ "Single-lap shear and pull-through on one and two layers of 0.51 mm sheet with 3.2 mm blind rivets, 10 of each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทดสอบเฉือนทับซ้อนเดี่ยวและดึงทะลุบนแผ่น 0.51 mm หนึ่งและสองชั้นด้วยหมุดย้ำตาบอด 3.2 mm อย่างละ 10"
+ },
+ "Skin joints lap on a rib: the outboard skin goes under the inboard one.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รอยต่อผิวทับซ้อนบนซี่โครง: ผิวด้านนอกสอดใต้ผิวด้านใน"
+ },
+ "Slide the C-spar in and Cleco it through the flanges. Riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สอดคาน C เข้าและใส่ Cleco ผ่านปีกพับ วงรอบการย้ำหมุด"
+ },
+ "Soft creases 2–6°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รอยพับเบา 2–6°"
+ },
+ "Source": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แหล่งที่มา"
+ },
+ "Span / area": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ช่วงปีก / พื้นที่"
+ },
+ "Spanners, sockets, inch-pound torque wrench": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ประแจ ลูกบ็อกซ์ ประแจวัดแรงบิดนิ้ว-ปอนด์"
+ },
+ "Spar strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ความแข็งแรงคาน"
+ },
+ "Spar-root pins through tang pair + arch clevis": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลักโคนคานผ่านคู่ลิ้น + เคลวิสโครงโค้ง"
+ },
+ "Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ลิ้นโคนคาน, 4130 0.063in (แบน เป็นคู่ทั้งสองด้านของเว็บ)"
+ },
+ "Spec": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ข้อกำหนด"
+ },
+ "Speed envelope": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ขอบเขตความเร็ว"
+ },
+ "Spinner": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สปินเนอร์"
+ },
+ "Stabiliser nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ซี่โครงจมูกตัวรักษาเสถียรภาพ"
+ },
+ "Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ซี่โครงโคนตัวรักษาเสถียรภาพกับแผ่นเสริมด้านข้างกรวยหาง ข้างละ 4; คานครีบหางกับเสาหาง, 3"
+ },
+ "Stabiliser skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผิวตัวรักษาเสถียรภาพ (ห่อเดียว)"
+ },
+ "Stabiliser spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คานตัวรักษาเสถียรภาพ"
+ },
+ "Stability across the CG range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เสถียรภาพตลอดช่วง CG"
+ },
+ "Stall speed and handling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ความเร็วร่วงหล่นและการควบคุม"
+ },
+ "Stall speeds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ความเร็วร่วงหล่น"
+ },
+ "Stall, flaps 20°": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ร่วงหล่น แฟลป 20°"
+ },
+ "Stand beam (lipped C, saddle on top)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คานขาตั้ง (C ขอบม้วน อานด้านบน)"
+ },
+ "Stand foot (lipped C, opens up)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ฐานขาตั้ง (C ขอบม้วน เปิดขึ้น)"
+ },
+ "Stand foot gusset (flat)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แผ่นเสริมมุมฐานขาตั้ง (แบน)"
+ },
+ "Stand leg (lipped C)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ขาขาตั้ง (C ขอบม้วน)"
+ },
+ "Stand the arches and firewall on the floor tray, square and plumb. Their stations are 420 mm and 1008 mm aft of the wing LE, and the firewall is at -650 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ตั้งโครงโค้งและผนังกันไฟบนถาดพื้น ให้ได้ฉากและดิ่ง ตำแหน่งอยู่ที่ 420 mm และ 1008 mm หลัง LE ปีก และผนังกันไฟที่ -650 mm"
+ },
+ "Stand top gusset (flanged hypotenuse)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แผ่นเสริมมุมบนขาตั้ง (ด้านตรงข้ามมุมฉากมีปีกพับ)"
+ },
+ "Static load to the Section S forward, side and vertical limit loads, then ultimate.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แรงสถิตถึงแรงขีดจำกัดด้านหน้า ด้านข้าง และแนวดิ่งของ Section S แล้วถึงประลัย"
+ },
+ "Static margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ส่วนเผื่อสถิต"
+ },
+ "Static port": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ช่องสถิต"
+ },
+ "Status": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สถานะ"
+ },
+ "Step": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ขั้น"
+ },
+ "Stick pivot and torque-tube bearings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "จุดหมุนคันบังคับและแบริ่งท่อแรงบิด"
+ },
+ "Straight tracking, effective brakes and rudder, no shimmy.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "วิ่งตรง เบรกและหางเสือใช้งานได้ ไม่มีอาการส่าย"
+ },
+ "String line, digital level, plumb bob": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เชือกขึงแนว ระดับน้ำดิจิทัล ลูกดิ่ง"
+ },
+ "String-line the spars and check the ribs are square to them. Measure diagonals across each bay; they should match within 1 mm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ขึงเชือกตามแนวคานและตรวจว่าซี่โครงได้ฉากกับคาน วัดเส้นทแยงของแต่ละช่อง ต้องตรงกันภายใน 1 mm"
+ },
+ "Structure": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "โครงสร้าง"
+ },
+ "Strut and fitting strength": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ความแข็งแรงสตรัทและชิ้นต่อ"
+ },
+ "Strut and fittings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สตรัทและชิ้นต่อ"
+ },
+ "Strut end fork (4130)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ส้อมปลายสตรัท (4130)"
+ },
+ "Strut end forks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ส้อมปลายสตรัท"
+ },
+ "Strut ends, both ends of 4 struts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปลายสตรัท ทั้งสองปลายของสตรัท 4 อัน"
+ },
+ "Strut fairings": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แฟริ่งสตรัท"
+ },
+ "Support each tip on a trestle at 1.5° dihedral until the struts are on.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รองปลายปีกแต่ละข้างบนขาหยั่งที่ไดฮีดรัล 1.5° จนกว่าจะติดสตรัท"
+ },
+ "Systems fit-out": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ติดตั้งระบบ"
+ },
+ "T-EK Elevator skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-EK ผิวหางระดับ"
+ },
+ "T-ES Elevator spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-ES คานหางระดับ"
+ },
+ "T-FK Fin skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FK ผิวครีบหาง (ห่อเดียว)"
+ },
+ "T-FR Fin nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FR ซี่โครงจมูกครีบหาง"
+ },
+ "T-FS Fin spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-FS คานครีบหาง"
+ },
+ "T-HK Stabiliser skin (one wrap)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HK ผิวตัวรักษาเสถียรภาพ (ห่อเดียว)"
+ },
+ "T-HR Stabiliser nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HR ซี่โครงจมูกตัวรักษาเสถียรภาพ"
+ },
+ "T-HS Stabiliser spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-HS คานตัวรักษาเสถียรภาพ"
+ },
+ "T-RK Rudder skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-RK ผิวหางเสือ"
+ },
+ "T-RS Rudder spar": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "T-RS คานหางเสือ"
+ },
+ "TACH instrument": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องวัด TACH"
+ },
+ "Tail surfaces": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พื้นผิวหาง"
+ },
+ "Tailcone belly, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ท้องกรวยหาง ส่วนที่ 1"
+ },
+ "Tailcone belly, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ท้องกรวยหาง ส่วนที่ 2"
+ },
+ "Tailcone bulkhead x=1150": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผนังกั้นกรวยหาง x=1150"
+ },
+ "Tailcone bulkhead x=1948": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผนังกั้นกรวยหาง x=1948"
+ },
+ "Tailcone bulkhead x=2745": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผนังกั้นกรวยหาง x=2745"
+ },
+ "Tailcone bulkhead x=3542": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผนังกั้นกรวยหาง x=3542"
+ },
+ "Tailcone bulkhead x=4340 (tail post)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผนังกั้นกรวยหาง x=4340 (เสาหาง)"
+ },
+ "Tailcone frustum": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "กรวยหางทรงกรวยตัด"
+ },
+ "Tailcone side, section 1 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ข้างกรวยหาง ส่วนที่ 1 (x2, กลับด้าน)"
+ },
+ "Tailcone side, section 2 (x2, mirrored)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ข้างกรวยหาง ส่วนที่ 2 (x2, กลับด้าน)"
+ },
+ "Tailcone top, section 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "บนกรวยหาง ส่วนที่ 1"
+ },
+ "Tailcone top, section 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "บนกรวยหาง ส่วนที่ 2"
+ },
+ "Tailwheel 8 in pneumatic": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ล้อหาง 8 in ยางลม"
+ },
+ "Tailwheel assembly, 8 in pneumatic": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ชุดล้อหาง 8 in ยางลม"
+ },
+ "Tailwheel fork": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ส้อมล้อหาง"
+ },
+ "Tailwheel spring": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สปริงล้อหาง"
+ },
+ "Tailwheel spring (spring steel leaf)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สปริงล้อหาง (แผ่นเหล็กสปริง)"
+ },
+ "Tailwheel spring to tail post, 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สปริงล้อหางกับเสาหาง, 2"
+ },
+ "Tailwheel spring to tail post, 2; Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สปริงล้อหางกับเสาหาง, 2; ซี่โครงโคนตัวรักษาเสถียรภาพกับแผ่นเสริมด้านข้างกรวยหาง ข้างละ 4; คานครีบหางกับเสาหาง, 3"
+ },
+ "Tailwheel spring: spring-steel leaf 45 x 8 mm": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สปริงล้อหาง: แผ่นเหล็กสปริง 45 x 8 mm"
+ },
+ "Tailwheel steering spring": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สปริงบังคับเลี้ยวล้อหาง"
+ },
+ "Tailwheel: a leaf spring, a steerable fork and two springs to the rudder.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ล้อหาง: แหนบสปริง ส้อมเลี้ยวได้ และสปริงสองตัวไปยังหางเสือ"
+ },
+ "Take the skeleton apart. Deburr every hole on both faces.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ถอดโครงออก ลบคมทุกรูทั้งสองหน้า"
+ },
+ "Take-off roll": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ระยะวิ่งขึ้น"
+ },
+ "Tank strap angle (L)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เหล็กฉากรัดถัง (ซ้าย)"
+ },
+ "Tank strap angle (R)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เหล็กฉากรัดถัง (ขวา)"
+ },
+ "Tap or shaker test for wing bending and torsion, aileron, elevator and rudder modes. Confirm the mass balance of every control surface.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทดสอบด้วยการเคาะหรือเครื่องเขย่าสำหรับโหมดดัดและบิดของปีก เอเลอรอน หางระดับ และหางเสือ ยืนยันการถ่วงมวลของทุกพื้นผิวบังคับ"
+ },
+ "Taxi tests": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทดสอบแท็กซี่"
+ },
+ "Taxi tests, then fast taxi with the tail up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทดสอบแท็กซี่ แล้วแท็กซี่เร็วยกหาง"
+ },
+ "Temperatures inside the engine maker's limits, static rpm 2,900–3,100, no abnormal vibration.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "อุณหภูมิอยู่ในขีดจำกัดของผู้ผลิตเครื่องยนต์ รอบอยู่กับที่ 2,900–3,100 rpm ไม่มีการสั่นผิดปกติ"
+ },
+ "Tension each cable with its turnbuckle in the cabin, where you can see it, then safety-wire it. Nicopress every end over a thimble.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปรับความตึงสลิงแต่ละเส้นด้วยเกลียวเร่งในห้องนักบิน ตรงที่มองเห็นได้ แล้วร้อยลวดนิรภัย ทำ Nicopress ทุกปลายบนห่วงรองสลิง"
+ },
+ "Test": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "การทดสอบ"
+ },
+ "Test budget": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "งบการทดสอบ"
+ },
+ "Test programme": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "โปรแกรมการทดสอบ"
+ },
+ "Test reports": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รายงานการทดสอบ"
+ },
+ "Tests": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "การทดสอบ"
+ },
+ "The aircraft is code: one file, aircraft.yaml, generates every part, file and figure on this page.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องบินคือโค้ด: ไฟล์เดียว aircraft.yaml สร้างทุกชิ้นส่วน ไฟล์ และตัวเลขในหน้านี้"
+ },
+ "The arches sit at the spar stations, so the wing and strut loads go straight into two folded frames.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "โครงโค้งอยู่ที่ตำแหน่งคาน แรงจากปีกและสตรัทจึงเข้าสู่เฟรมพับสองอันโดยตรง"
+ },
+ "The cowl and nose bowl are flat blanks too: a box-pleated hood and a frustum, with straight creases throughout.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ฝาครอบและชามจมูกก็เป็นแผ่นเรียบเช่นกัน: ฝากระโปรงพับจีบกล่องและทรงกรวยตัด รอยพับตรงตลอด"
+ },
+ "The dot is the loading case selected in the table. The shaded band is the full CG range across all cases. The orange line is the neutral point: the CG must stay ahead of it, and the dashed gap between them is the static margin, the aircraft's pitch stability.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "จุดคือกรณีบรรทุกที่เลือกในตาราง แถบแรเงาคือช่วง CG ทั้งหมดของทุกกรณี เส้นสีส้มคือจุดเป็นกลาง: CG ต้องอยู่หน้าเส้นนี้ และช่องเส้นประระหว่างกันคือส่วนเผื่อสถิต ซึ่งเป็นเสถียรภาพการก้มเงยของเครื่องบิน"
+ },
+ "The fold geometry. Every panel in the 3D model is produced by refolding the DXF flat pattern, and the rib-to-spar pilot holes are coordinated between parts.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เรขาคณิตการพับ ทุกแผงในแบบจำลอง 3D สร้างจากการพับแบบแผ่นเรียบ DXF ใหม่ และรูนำซี่โครงกับคานประสานกันระหว่างชิ้นส่วน"
+ },
+ "The laminate acting as one section": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ลามิเนตทำงานเป็นหน้าตัดเดียว"
+ },
+ "The lips are what let thin laminated sheet act as a spar. Without them a free cap edge buckles at about 26 MPa. With them the cap reaches yield before it buckles.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ขอบม้วนคือสิ่งที่ทำให้แผ่นลามิเนตบางทำหน้าที่เป็นคานได้ หากไม่มี ขอบแคปอิสระจะโก่งที่ประมาณ 26 MPa เมื่อมี แคปจะถึงจุดครากก่อนโก่ง"
+ },
+ "The local-price estimate takes UK VAT off the UK price, converts it at the day's exchange rate, takes about 20 % off US-made hardware, sheet and the engine kit when buying in the US, then adds the country's typical standard VAT, GST or sales tax. It leaves out import duty and shipping. Treat these as rough guides, not quotes.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ราคาประมาณท้องถิ่นหัก VAT ของสหราชอาณาจักรออกจากราคา UK แปลงด้วยอัตราแลกเปลี่ยนของวัน หักประมาณ 20 % จากฮาร์ดแวร์ แผ่นโลหะ และชุดเครื่องยนต์ที่ผลิตในสหรัฐฯ เมื่อซื้อในสหรัฐฯ แล้วบวก VAT, GST หรือภาษีขายมาตรฐานทั่วไปของประเทศ ไม่รวมอากรนำเข้าและค่าขนส่ง ถือเป็นแนวทางคร่าว ๆ ไม่ใช่ใบเสนอราคา"
+ },
+ "The numbers": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ตัวเลข"
+ },
+ "The pilot sits under the wing between the two arches. Header fuel is ahead of the CG and aux fuel is behind it. The aftmost case is a light pilot with empty tanks and baggage, which gives the minimum static margin:": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "นักบินนั่งใต้ปีกระหว่างโครงโค้งทั้งสอง เชื้อเพลิงถังหลักอยู่หน้า CG และเชื้อเพลิงสำรองอยู่หลัง กรณีท้ายสุดคือนักบินน้ำหนักเบาที่ถังว่างและมีสัมภาระ ซึ่งให้ส่วนเผื่อสถิตต่ำสุด:"
+ },
+ "The rolled nose and the main spar together form a closed D-cell, which carries the wing's twisting loads.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "จมูกที่ม้วนและคานหลักรวมกันเป็น D-cell ปิด ซึ่งรับแรงบิดของปีก"
+ },
+ "The skins carry no holes of their own. Drilling them from the structure means the holes can't be misaligned.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผิวไม่มีรูของตัวเอง การเจาะจากโครงสร้างทำให้รูไม่มีทางเหลื่อม"
+ },
+ "The stabiliser and fin use one wrapped skin each.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ตัวรักษาเสถียรภาพและครีบหางใช้ผิวห่อชิ้นเดียวต่อชิ้น"
+ },
+ "This is the sequence for every riveted joint from here on: Cleco, final-drill, take apart, deburr, prime, reassemble, rivet. Later steps call it the riveting loop.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "นี่คือลำดับของทุกรอยต่อหมุดย้ำต่อจากนี้: Cleco เจาะขั้นสุดท้าย ถอด ลบคม รองพื้น ประกอบกลับ ย้ำหมุด ขั้นถัดไปเรียกสิ่งนี้ว่าวงรอบการย้ำหมุด"
+ },
+ "Three platform scales": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ตาชั่งแท่นสามตัว"
+ },
+ "Three platform scales in the level attitude.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ตาชั่งแท่นสามตัวในท่าระดับ"
+ },
+ "Through tang pair + spar web at each spar root, 4 per pair": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผ่านคู่ลิ้น + เว็บคานที่โคนคานแต่ละอัน 4 ต่อคู่"
+ },
+ "Tools": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องมือ"
+ },
+ "Top flange = longeron": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปีกพับบน = ลองเจอรอน"
+ },
+ "Top flange is the longeron: the fold is the stiffener. Openings have 50 mm corner radii (no square corners).": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปีกพับบนคือลองเจอรอน: รอยพับคือตัวเสริมความแข็ง ช่องเปิดมีมุมรัศมี 50 mm (ไม่มีมุมเหลี่ยม)"
+ },
+ "Torsional stiffness recorded; it feeds the flutter estimate in phase D.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "บันทึกความแข็งเชิงบิด ใช้ในการประมาณฟลัตเตอร์ในระยะ D"
+ },
+ "Total": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รวม"
+ },
+ "Tube cutter, hacksaw, drill press": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คัตเตอร์ตัดท่อ เลื่อยตัดเหล็ก สว่านแท่น"
+ },
+ "Tube, bar and cable": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ท่อ แท่ง และสลิง"
+ },
+ "Turn it back over. On its three wheels it should sit about 9–11° nose-up.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พลิกกลับ บนล้อทั้งสามควรนั่งเชิดหัวประมาณ 9–11°"
+ },
+ "Turn the fuselage upside down on padded trestles.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คว่ำลำตัวบนขาหยั่งที่บุนวม"
+ },
+ "Turn the skeleton upside down. Lay bay 1's skin on it, located at the root rib, with the edge 3 mm short of the rear-spar flange edge.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คว่ำโครง วางผิวช่องที่ 1 บนโครง จัดตำแหน่งที่ซี่โครงโคน โดยขอบสั้นกว่าขอบปีกพับคานหลัง 3 mm"
+ },
+ "Turn the wing upright. Wrap the skin from the trailing-edge shroud, over the nose, and under to lap the lower skin at 8 % chord.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พลิกปีกตั้งขึ้น ห่อผิวจากครอบขอบท้าย ข้ามจมูก และลงใต้ไปทับซ้อนผิวล่างที่ 8 % ของคอร์ด"
+ },
+ "Turnbuckle AN130 class + safety wire": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เกลียวเร่งคลาส AN130 + ลวดนิรภัย"
+ },
+ "Two halves round the 1.75 in strut tube; the ear bolts also carry the jury-strut end.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สองครึ่งรอบท่อสตรัท 1.75 in สลักหูยังรับปลายสตรัทจูรี่ด้วย"
+ },
+ "Two hat pleats (step-folds) are the floor stiffeners; no separate stringers. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "จีบหมวกสองจีบ (พับขั้นบันได) เป็นตัวเสริมความแข็งพื้น ไม่มีสตริงเกอร์แยก ลามิเนต: 2 ชั้นซ้อนของ 0.020 in พับแยกกันและย้ำหมุดเป็นชิ้นเดียว ตัดขอบปีกพับออก 0.5 mm ต่อชั้นใน"
+ },
+ "Two plates sandwich each rod end; AN4 pivot, AN3 at each arm.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สองแผ่นประกบหัวก้านแต่ละอัน จุดหมุน AN4 AN3 ที่แต่ละแขน"
+ },
+ "UK retail prices (inc. 20 % VAT) converted to {currency}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ราคาขายปลีกในสหราชอาณาจักร (รวม VAT 20 %) แปลงเป็น {currency}"
+ },
+ "UK retail prices, including 20 % VAT.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ราคาขายปลีกในสหราชอาณาจักร รวม VAT 20 %"
+ },
+ "Ultimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ประลัย"
+ },
+ "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ภายใต้ g ลบ สตรัทรับแรงอัด สตรัทจูรี่ลดความยาวที่ไม่มีการรองรับลงครึ่งหนึ่ง ทำให้แรงโก่งเพิ่มขึ้นสี่เท่า"
+ },
+ "Undercarriage": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ฐานล้อ"
+ },
+ "Units": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หน่วย"
+ },
+ "Unknowns for the next builder": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สิ่งที่ยังไม่รู้สำหรับผู้สร้างคนต่อไป"
+ },
+ "Upper cowl (hood, two 90 deg folds)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ฝาครอบบน (ฝากระโปรง พับ 90 deg สองครั้ง)"
+ },
+ "Upper skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผิวบน ช่องที่ 1"
+ },
+ "Upper skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผิวบน ช่องที่ 2"
+ },
+ "Upper skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผิวบน ช่องที่ 3"
+ },
+ "Upper skins: roll the nose": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผิวบน: ม้วนจมูก"
+ },
+ "V-bead pleats + one 165° trailing-edge fold": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "จีบ V-bead + พับขอบท้าย 165° หนึ่งครั้ง"
+ },
+ "VHF antenna whip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เสาอากาศแส้ VHF"
+ },
+ "W-CL Cabin roof (centre lower skin)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CL หลังคาห้องนักบิน (ผิวล่างตรงกลาง)"
+ },
+ "W-CS Aileron / flap skin (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CS ผิวเอเลอรอน / แฟลป (เหมือนกัน x4)"
+ },
+ "W-CSS Aileron / flap spar (identical x4)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CSS คานเอเลอรอน / แฟลป (เหมือนกัน x4)"
+ },
+ "W-CT Centre-section trailing-edge fairing (fixed, between the flaps)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CT แฟริ่งขอบท้ายส่วนกลาง (ติดตาย ระหว่างแฟลป)"
+ },
+ "W-CU Centre-section upper skin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-CU ผิวบนส่วนกลาง"
+ },
+ "W-MR Main rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MR ซี่โครงหลัก"
+ },
+ "W-MRe Main rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MRe ซี่โครงหลัก โคน/ปลาย"
+ },
+ "W-MS Main spar (lipped C, opens aft)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-MS คานหลัก (C ขอบม้วน เปิดไปด้านหลัง)"
+ },
+ "W-NR Nose rib": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-NR ซี่โครงจมูก"
+ },
+ "W-NRe Nose rib, root/tip": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-NRe ซี่โครงจมูก โคน/ปลาย"
+ },
+ "W-RS Rear spar (lipped C, opens forward)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-RS คานหลัง (C ขอบม้วน เปิดไปด้านหน้า)"
+ },
+ "W-SL1 Lower skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL1 ผิวล่าง ช่องที่ 1"
+ },
+ "W-SL2 Lower skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL2 ผิวล่าง ช่องที่ 2"
+ },
+ "W-SL3 Lower skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SL3 ผิวล่าง ช่องที่ 3"
+ },
+ "W-SU1 Upper skin, bay 1": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU1 ผิวบน ช่องที่ 1"
+ },
+ "W-SU2 Upper skin, bay 2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU2 ผิวบน ช่องที่ 2"
+ },
+ "W-SU3 Upper skin, bay 3": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "W-SU3 ผิวบน ช่องที่ 3"
+ },
+ "Weeks 1–4": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สัปดาห์ที่ 1–4"
+ },
+ "Weigh and balance": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ชั่งน้ำหนักและสมดุล"
+ },
+ "Weigh, test, fly-off": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ชั่ง ทดสอบ บินทดสอบ"
+ },
+ "Weight, not tank size, sets the range": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "น้ำหนัก ไม่ใช่ขนาดถัง เป็นตัวกำหนดพิสัยบิน"
+ },
+ "What is known, and what is not": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สิ่งที่รู้ และสิ่งที่ไม่รู้"
+ },
+ "What it costs": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ค่าใช้จ่ายเท่าไร"
+ },
+ "Wheel hub": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ดุมล้อ"
+ },
+ "Wheels, 21 x 8.00-6 tundra tyres, drum brakes x2": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ล้อ ยางทุนดรา 21 x 8.00-6 ดรัมเบรก x2"
+ },
+ "Where it goes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ติดตั้งที่ไหน"
+ },
+ "Where the balance point sits": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "จุดสมดุลอยู่ที่ไหน"
+ },
+ "Whole aircraft": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทั้งลำ"
+ },
+ "Whole-wing strength and stiffness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ความแข็งแรงและความแข็งของทั้งปีก"
+ },
+ "Why start here: the four stands use every skill the aircraft needs, on parts that don't fly. Get it wrong here, not on a spar. You need the stands anyway: the wings are built and parked on them until step 15.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทำไมเริ่มที่นี่: ขาตั้งทั้งสี่ใช้ทุกทักษะที่เครื่องบินต้องการ บนชิ้นที่ไม่ได้บิน ทำพลาดที่นี่ ไม่ใช่ที่คาน คุณต้องใช้ขาตั้งอยู่แล้ว: ปีกจะถูกสร้างและวางบนขาตั้งจนถึงขั้นที่ 15"
+ },
+ "Will it fly well?": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "จะบินได้ดีไหม?"
+ },
+ "Windscreen (cold-bent flat polycarbonate)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "กระจกหน้า (โพลีคาร์บอเนตแผ่นเรียบดัดเย็น)"
+ },
+ "Windscreen, door and side windows": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "กระจกหน้า ประตู และหน้าต่างข้าง"
+ },
+ "Windscreen, side windows, door": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "กระจกหน้า หน้าต่างข้าง ประตู"
+ },
+ "Windscreen: flat sheet, bedded on foam tape on the firewall and windscreen flanges.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "กระจกหน้า: แผ่นเรียบ วางบนเทปโฟมบนปีกพับผนังกันไฟและปีกพับกระจกหน้า"
+ },
+ "Wing and airframe": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปีกและโครงเครื่องบิน"
+ },
+ "Wing lift uses a Schrenk distribution, with each wing pinned at the cabin arch and a V-strut at the 2.4 m rib. Gust loads are below the manoeuvre case. Laminated spars are checked as one section, which assumes rivet pitch close enough to stop the layers buckling separately.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แรงยกปีกใช้การกระจาย Schrenk ปีกแต่ละข้างยึดสลักที่โครงโค้งห้องนักบินและมีสตรัทรูปตัว V ที่ซี่โครง 2.4 m แรงจากลมกระโชกต่ำกว่ากรณีการหลบหลีก คานลามิเนตตรวจเป็นหน้าตัดเดียว โดยสมมติว่าระยะหมุดถี่พอที่ชั้นจะไม่โก่งแยกกัน"
+ },
+ "Wing loading": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ภาระปีก"
+ },
+ "Wing proof load": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทดสอบรับน้ำหนักปีก"
+ },
+ "Wing stands (step 0)": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ขาตั้งปีก (ขั้นที่ 0)"
+ },
+ "Wing torsion": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "การบิดของปีก"
+ },
+ "Wings on": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ติดปีก"
+ },
+ "With X-ray on, every run is colour-coded: orange rudder, cyan elevator, purple aileron, green flap, red fuel, white pitot, grey static, yellow 12 V, pink coax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เมื่อเปิด X-ray ทุกเส้นทางมีรหัสสี: ส้มหางเสือ ฟ้าหางระดับ ม่วงเอเลอรอน เขียวแฟลป แดงเชื้อเพลิง ขาวพิโตต์ เทาสถิต เหลือง 12 V ชมพูโคแอกซ์"
+ },
+ "With a helper at the tip, lift each wing until its root tangs slide into the arch-top clevises.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ให้ผู้ช่วยอยู่ที่ปลายปีก ยกปีกแต่ละข้างจนลิ้นโคนสอดเข้าเคลวิสยอดโครงโค้ง"
+ },
+ "Write the part number on every blank. Keep the blanks in step order.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เขียนหมายเลขชิ้นส่วนบนทุกแผ่น เก็บแผ่นตามลำดับขั้น"
+ },
+ "X-ray": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "X-ray"
+ },
+ "Yes, as a slow, gentle, lightly loaded single-seater: a strut-braced high wing, a half-VW engine and a tailwheel on big soft tyres. It is heavier than a typical ultralight because every aluminium part is cut from one gauge, with thicker parts made as nested folds of the same sheet. That puts it in UK SSDR (300 kg) rather than US Part 103. Every figure here comes from the same script that generates the cut files.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ได้ ในฐานะเครื่องบินที่นั่งเดียวที่ช้า นุ่มนวล และรับน้ำหนักเบา: ปีกสูงค้ำด้วยสตรัท เครื่องยนต์ half-VW และล้อหางบนยางใหญ่นิ่ม หนักกว่าอัลตร้าไลต์ทั่วไปเพราะทุกชิ้นอะลูมิเนียมตัดจากความหนาเดียว และชิ้นที่หนากว่าทำเป็นชั้นพับซ้อนจากแผ่นเดียวกัน จึงอยู่ในประเภท UK SSDR (300 kg) แทน US Part 103 ทุกตัวเลขที่นี่มาจากสคริปต์เดียวกับที่สร้างไฟล์ตัด"
+ },
+ "arch-foot bellcrank up the rear-arch leg to the arch-top bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เบลแครงก์ฐานโครงโค้งขึ้นตามขาโครงโค้งหลังไปยังเบลแครงก์ยอดโครงโค้ง"
+ },
+ "arch-top bellcrank to outboard bellcrank, through rib lightening holes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เบลแครงก์ยอดโครงโค้งไปยังเบลแครงก์ด้านนอก ผ่านรูลดน้ำหนักซี่โครง"
+ },
+ "aux": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สำรอง"
+ },
+ "blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แผ่น"
+ },
+ "blanks in all": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แผ่นทั้งหมด"
+ },
+ "bolts": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลัก"
+ },
+ "bought or welded": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ซื้อหรือเชื่อม"
+ },
+ "buckling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "การโก่ง"
+ },
+ "centre torque-tube arm to flap bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แขนท่อแรงบิดกลางไปยังเบลแครงก์แฟลป"
+ },
+ "check, then commit": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ตรวจ แล้วจึงลงมือ"
+ },
+ "clean": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สะอาด"
+ },
+ "close up": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ปิด"
+ },
+ "crease pattern": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แบบรอยพับ"
+ },
+ "crippling": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "การยุบตัว"
+ },
+ "each with a pass criterion": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แต่ละรายการมีเกณฑ์ผ่าน"
+ },
+ "fabricated or bought for half-VW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทำเองหรือซื้อสำหรับ half-VW"
+ },
+ "faying surfaces and interior": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผิวสัมผัสและภายใน"
+ },
+ "finished": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เสร็จแล้ว"
+ },
+ "flat blanks, one sheet gauge": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แผ่นเรียบ ความหนาแผ่นเดียว"
+ },
+ "fold the same way": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับแบบเดียวกัน"
+ },
+ "fold to the marks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับถึงเครื่องหมาย"
+ },
+ "fuel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เชื้อเพลิง"
+ },
+ "give it roundness": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทำให้โค้ง"
+ },
+ "gravity feed": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ไหลด้วยแรงโน้มถ่วง"
+ },
+ "gust": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ลมกระโชก"
+ },
+ "hard": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แข็ง"
+ },
+ "header": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หลัก"
+ },
+ "header full": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ถังหลักเต็ม"
+ },
+ "header tank + aux tank, both in the cabin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ถังหลัก + ถังสำรอง ทั้งสองอยู่ในห้องนักบิน"
+ },
+ "includes 15 % spares": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รวมอะไหล่ 15 %"
+ },
+ "insert: the lock": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สอด: ล็อก"
+ },
+ "laminated wood, CC0 model": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ไม้ลามิเนต แบบจำลอง CC0"
+ },
+ "light braking": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เบรกเบา"
+ },
+ "make soft creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ทำรอยพับเบา"
+ },
+ "materials and hire, rough": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "วัสดุและการเช่า โดยประมาณ"
+ },
+ "max take-off mass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "มวลวิ่งขึ้นสูงสุด"
+ },
+ "mountain": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับสัน"
+ },
+ "mountain and valley folds": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับสันและพับหุบ"
+ },
+ "neutral point": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "จุดเป็นกลาง"
+ },
+ "no reserve": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ไม่มีสำรอง"
+ },
+ "no sheet blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ไม่มีแผ่นโลหะ"
+ },
+ "none: over MTOW": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ไม่ได้: เกิน MTOW"
+ },
+ "one 8 x 4 ft sheet of 6061-T6 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แผ่น 6061-T6 0.020 in ขนาด 8 x 4 ft หนึ่งแผ่น"
+ },
+ "open out": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "คลี่ออก"
+ },
+ "or a club CNC router": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หรือเราเตอร์ CNC ของชมรม"
+ },
+ "part-time, alongside the build": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "นอกเวลา ควบคู่กับการสร้าง"
+ },
+ "pilot": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "นักบิน"
+ },
+ "pilot hole": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "รูนำ"
+ },
+ "pin-to-pin; AN5 each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สลักถึงสลัก; AN5 ที่แต่ละปลาย"
+ },
+ "pleat": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "จีบ"
+ },
+ "practice piece": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ชิ้นฝึก"
+ },
+ "public domain": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "สาธารณสมบัติ"
+ },
+ "radio optional in SSDR": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "วิทยุไม่บังคับใน SSDR"
+ },
+ "reference points": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "จุดอ้างอิง"
+ },
+ "right angle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "มุมฉาก"
+ },
+ "rivets": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หมุดย้ำ"
+ },
+ "rolled zone": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "โซนม้วน"
+ },
+ "rough build cost": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ค่าสร้างโดยประมาณ"
+ },
+ "same angle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "มุมเดียวกัน"
+ },
+ "same angle: converging creases": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "มุมเดียวกัน: รอยพับลู่เข้า"
+ },
+ "same length": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ความยาวเท่ากัน"
+ },
+ "short grass": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "หญ้าสั้น"
+ },
+ "static margin": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ส่วนเผื่อสถิต"
+ },
+ "still air, 75 % power": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "อากาศนิ่ง กำลัง 75 %"
+ },
+ "subtotal": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ยอดย่อย"
+ },
+ "tool, reused": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "เครื่องมือ ใช้ซ้ำ"
+ },
+ "torque-tube arm to arch-foot bellcrank": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แขนท่อแรงบิดไปยังเบลแครงก์ฐานโครงโค้ง"
+ },
+ "tundra tyres at 10–12 psi, 8 in tailwheel": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ยางทุนดราที่ 10–12 psi ล้อหาง 8 in"
+ },
+ "turn it over": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พลิกกลับ"
+ },
+ "unique": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ไม่ซ้ำ"
+ },
+ "unique blanks": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แผ่นไม่ซ้ำ"
+ },
+ "useful load": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "น้ำหนักบรรทุกใช้งาน"
+ },
+ "valley": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "พับหุบ"
+ },
+ "via floor pulley + 3 fairleads; Nicopress + thimble each end": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผ่านรอกพื้น + ตัวนำ 3 ตัว; Nicopress + ห่วงรองที่แต่ละปลาย"
+ },
+ "via pulley at bulkhead 1 + 3 fairleads; turnbuckle": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ผ่านรอกที่ผนังกั้น 1 + ตัวนำ 3 ตัว; เกลียวเร่ง"
+ },
+ "wingspan": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ช่วงปีก"
+ },
+ "{w} x {h} mm flat, {f} folds, {p} pilot holes": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "แผ่นเรียบ {w} x {h} mm, พับ {f} ครั้ง, รูนำ {p} รู"
+ }
+}

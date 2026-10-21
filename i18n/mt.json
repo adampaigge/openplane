@@ -2929,6 +2929,11 @@
   "reviewed": false,
   "t": "Mixja dritta, brejkijiet u tmun effettivi, l-ebda shimmy."
  },
+ "Stress": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Stress"
+ },
  "String line, digital level, plumb bob": {
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
@@ -3398,6 +3403,11 @@
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
   "t": "Ultimate"
+ },
+ "Ultimate load (×1.5). Colour is the worse of cap stress against its crippling allowable and web shear against buckling. Beam theory along the span, not a finite-element analysis. Grey parts are not analysed yet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tagħbija aħħarija (×1.5). Il-kulur juri l-agħar bejn l-istress tal-flanġ meta mqabbel mal-limitu permess ta' crippling u x-shear tal-web meta mqabbel mal-buckling. Teorija tar-raġġ tul il-firxa, mhux analiżi b'elementi finiti. Il-partijiet griżi għadhom ma ġewx analizzati."
  },
  "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
   "by": "claude-opus-5-5 (in session)",

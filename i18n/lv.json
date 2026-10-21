@@ -2929,6 +2929,11 @@
   "reviewed": false,
   "t": "Taisna kustība, efektīvas bremzes un virziena stūre, bez šūpošanās."
  },
+ "Stress": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Spriegums"
+ },
  "String line, digital level, plumb bob": {
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
@@ -3398,6 +3403,11 @@
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
   "t": "Sagraujošā"
+ },
+ "Ultimate load (×1.5). Colour is the worse of cap stress against its crippling allowable and web shear against buckling. Beam theory along the span, not a finite-element analysis. Grey parts are not analysed yet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Sagraujošā slodze (×1.5). Krāsa rāda sliktāko no diviem: plaukta spriegumu pret pieļaujamo lokālās stabilitātes zuduma spriegumu un sienas bīdi pret izliekšanos. Siju teorija pa laidumu, nevis galīgo elementu analīze. Pelēkās detaļas vēl nav analizētas."
  },
  "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
   "by": "claude-opus-5-5 (in session)",

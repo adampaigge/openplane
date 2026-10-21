@@ -2929,6 +2929,11 @@
   "reviewed": false,
   "t": "سیدھی چال، مؤثر بریک اور رڈر، کوئی لرزش نہیں۔"
  },
+ "Stress": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "تناؤ"
+ },
  "String line, digital level, plumb bob": {
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
@@ -3398,6 +3403,11 @@
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
   "t": "حتمی"
+ },
+ "Ultimate load (×1.5). Colour is the worse of cap stress against its crippling allowable and web shear against buckling. Beam theory along the span, not a finite-element analysis. Grey parts are not analysed yet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "حتمی بوجھ (×1.5)۔ رنگ کیپ تناؤ بمقابلہ اس کی کرپلنگ قابلِ اجازت حد، اور ویب قینچی بمقابلہ بکلنگ، ان دونوں میں سے بدتر کو ظاہر کرتا ہے۔ اسپین کے ساتھ بیم تھیوری، فائنائٹ ایلیمنٹ تجزیہ نہیں۔ سرمئی پرزوں کا ابھی تجزیہ نہیں کیا گیا۔"
  },
  "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
   "by": "claude-opus-5-5 (in session)",

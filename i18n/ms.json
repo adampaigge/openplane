@@ -2929,6 +2929,11 @@
   "reviewed": false,
   "t": "Jejakan lurus, brek dan rudder berkesan, tiada goyangan."
  },
+ "Stress": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tegasan"
+ },
  "String line, digital level, plumb bob": {
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
@@ -3398,6 +3403,11 @@
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
   "t": "Muktamad"
+ },
+ "Ultimate load (×1.5). Colour is the worse of cap stress against its crippling allowable and web shear against buckling. Beam theory along the span, not a finite-element analysis. Grey parts are not analysed yet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Beban muktamad (×1.5). Warna menunjukkan yang lebih teruk antara tegasan bebibir berbanding had izin crippling dan ricih web berbanding lengkokan. Teori rasuk sepanjang rentang, bukan analisis unsur terhingga. Bahagian kelabu belum dianalisis."
  },
  "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
   "by": "claude-opus-5-5 (in session)",

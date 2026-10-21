@@ -2929,6 +2929,11 @@
   "reviewed": false,
   "t": "Egyenes futás, hatékony fékek és oldalkormány, nincs szitálás."
  },
+ "Stress": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Feszültség"
+ },
  "String line, digital level, plumb bob": {
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
@@ -3398,6 +3403,11 @@
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
   "t": "Törő"
+ },
+ "Ultimate load (×1.5). Colour is the worse of cap stress against its crippling allowable and web shear against buckling. Beam theory along the span, not a finite-element analysis. Grey parts are not analysed yet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Törőterhelés (×1.5). A szín a kedvezőtlenebbet mutatja: övfeszültség a helyi horpadási megengedetthez, illetve gerinclemez-nyírás a horpadáshoz viszonyítva. Gerendaelmélet a fesztáv mentén, nem végeselemes analízis. A szürke alkatrészek még nincsenek elemezve."
  },
  "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
   "by": "claude-opus-5-5 (in session)",

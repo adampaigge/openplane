@@ -2929,6 +2929,11 @@
   "reviewed": false,
   "t": "まっすぐ走り、ブレーキと方向舵が効き、シミーがない。"
  },
+ "Stress": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "応力"
+ },
  "String line, digital level, plumb bob": {
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
@@ -3398,6 +3403,11 @@
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
   "t": "終極"
+ },
+ "Ultimate load (×1.5). Colour is the worse of cap stress against its crippling allowable and web shear against buckling. Beam theory along the span, not a finite-element analysis. Grey parts are not analysed yet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "終極荷重（×1.5）。色はフランジ応力のクリップリング許容値に対する比と、ウェブせん断の座屈に対する比のうち厳しい方を示す。翼幅方向の梁理論による推定で、有限要素解析ではない。灰色の部品はまだ解析していない。"
  },
  "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
   "by": "claude-opus-5-5 (in session)",

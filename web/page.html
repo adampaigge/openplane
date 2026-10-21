@@ -106,6 +106,18 @@ th.r,td.r{text-align:right}
 .hud .seg{pointer-events:auto;display:flex;background:var(--chrome);border:1px solid var(--line);border-radius:3px;overflow:hidden}
 .hud .seg button{background:none;border:0;padding:6px 10px;font-size:12px;cursor:pointer;color:var(--muted)}
 .hud .seg button[aria-pressed="true"]{background:var(--cyan);color:var(--cyan-ink);font-weight:700}
+.skey{position:absolute;right:0;top:calc(100% + 8px);width:270px;background:var(--chrome);border:1px solid var(--line);border-radius:3px;padding:9px 10px;font-size:12px;color:var(--fg);pointer-events:auto;z-index:3}
+.skey .skh{display:flex;justify-content:space-between;align-items:center;margin-bottom:7px}
+.skey .seg{display:flex;border:1px solid var(--line);border-radius:3px;overflow:hidden}
+.skey .seg button{background:none;border:0;padding:3px 8px;font:inherit;font-family:var(--f-mono);font-size:11px;color:var(--muted);cursor:pointer}
+.skey .seg button[aria-pressed="true"]{background:var(--cyan);color:var(--cyan-ink);font-weight:700}
+.skey .skbar{height:10px;border-radius:2px;background:linear-gradient(90deg,#2b4a8b 0%,#1f9e89 16.67%,#b5de2b 33.33%,#fdbf2f 50%,#e8452c 66.67%,#c51b8a 100%)}
+.skey .skt{position:relative;height:14px;font-family:var(--f-mono);font-size:10px;color:var(--muted)}
+.skey .skt span{position:absolute;top:2px;transform:translateX(-50%)}.skey .skt span:nth-child(1){left:0;transform:none}.skey .skt span:nth-child(2){left:33.33%}.skey .skt span:nth-child(3){left:66.67%}.skey .skt span:nth-child(4){right:0;transform:none}
+.skey ul{list-style:none;margin:8px 0 6px;padding:0;display:grid;gap:3px}
+.skey li{display:flex;justify-content:space-between;gap:8px}.skey li b{font-family:var(--f-mono)}.skey li i{display:inline-block;width:9px;height:9px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+.skey p{margin:0;color:var(--muted);font-size:11px;line-height:1.35}
+@media (max-width:900px){.skey{position:static;flex-basis:100%;width:auto;padding:6px 8px}.skey p,.skey ul{display:none}.skey .skh{margin-bottom:4px}}
 .pick{position:absolute;left:12px;bottom:12px;max-width:calc(100% - 24px);background:var(--chrome);border:1px solid var(--line);border-left:3px solid var(--cyan);padding:7px 10px;font-size:13px;border-radius:2px}
 .pick .id{font-family:var(--f-mono);color:var(--cyan);margin-right:8px}
 .pick small{display:block;color:var(--muted);font-size:12px}
@@ -495,7 +507,14 @@ section p,section li,.mtext,.sub,.truth p{letter-spacing:-.005em}
           <button id="tPilot" aria-pressed="false" data-i18n>Pilot</button>
           <button id="tFrame" aria-pressed="false" data-i18n>Whole aircraft</button>
           <button id="tXray" aria-pressed="false" data-i18n>X-ray</button>
+          <button id="tStress" aria-pressed="false" data-i18n>Stress</button>
         </div>
+      </div>
+      <div class="skey" id="skey" hidden>
+        <div class="skh"><b data-i18n>Stress</b><span class="seg" role="group" aria-label="Load case"><button data-case="0" aria-pressed="true">+4 g</button><button data-case="1" aria-pressed="false">−2 g</button></span></div>
+        <div class="skbar"></div><div class="skt"><span>0</span><span>50%</span><span>100%</span><span>150%</span></div>
+        <ul id="skpeaks"></ul>
+        <p data-i18n>Ultimate load (×1.5). Colour is the worse of cap stress against its crippling allowable and web shear against buckling. Beam theory along the span, not a finite-element analysis. Grey parts are not analysed yet.</p>
       </div>
     </div>
     <div class="engage" aria-hidden="true"><span data-i18n>Click to explore</span></div>
@@ -1526,6 +1545,77 @@ function setMaterialsFor(n){
   primObjs.forEach(ob=>{ const isNew=ob.userData.b.step===n; ob.traverse(m=>{ if(m.isLineSegments) m.material = drawing?(isNew?MAT.edgeDrawNew:MAT.edgeDraw):(isNew?MAT.edgeNew:MAT.edge);
     if(m.isMesh && ob.userData.b.kind!=='pilot'){ if(!m.userData.orig) m.userData.orig=m.material;
       m.material = drawing ? (isNew? PRIM_DRAW_NEW : PRIM_DRAW) : (isNew? PRIM_NEW : m.userData.orig); } }); });
+  applyStressMats();
+}
+// ------------------------------------------------ stress view
+// design.py runs the spar beam model for each ultimate load case and ships the spanwise profile. A 1D texture
+// holds utilisation (stress / allowable) along the span, and the spar shader looks it up from each fragment's
+// spanwise position, so the colour follows the bending-moment curve rather than the coarse mesh vertices.
+const STRESS = M.stress || null; let stressCase = -1, stressXrayWas = false;
+const RAMP = [[0,'#2b4a8b'],[0.25,'#1f9e89'],[0.5,'#b5de2b'],[0.75,'#fdbf2f'],[1,'#e8452c'],[1.5,'#c51b8a']];
+function rampColor(u){ u=Math.max(0,Math.min(1.5,u)); for(let i=1;i<RAMP.length;i++){ if(u<=RAMP[i][0]){ const [a,ca]=RAMP[i-1],[b,cb]=RAMP[i];
+  return new THREE.Color(ca).lerp(new THREE.Color(cb),(u-a)/(b-a)); } } return new THREE.Color(RAMP[RAMP.length-1][1]); }
+const SPAN_N = 256;
+function profAt(prof, y){ if(y<=prof[0][0]) return prof[0]; for(let i=1;i<prof.length;i++){ if(y<=prof[i][0]){ const a=prof[i-1],b=prof[i],t=(y-a[0])/((b[0]-a[0])||1); return [y,a[1]+(b[1]-a[1])*t,a[2]+(b[2]-a[2])*t]; } } return prof[prof.length-1]; }
+function sparU(sp, y){ const r=profAt(sp.prof,y); return {sig:r[1], tau:r[2], uS:r[1]/sp.s_cc, uT:r[2]/sp.tau_cr, u:Math.max(r[1]/sp.s_cc, r[2]/sp.tau_cr)}; }
+const GLSL_RAMP = 'vec3 sRamp(float u){ u=clamp(u,0.,1.5); vec3 c0=vec3(.169,.290,.545),c1=vec3(.122,.620,.537),c2=vec3(.710,.871,.169),c3=vec3(.992,.749,.184),c4=vec3(.910,.271,.173),c5=vec3(.773,.106,.541);'+
+  ' if(u<.25) return mix(c0,c1,u/.25); if(u<.5) return mix(c1,c2,(u-.25)/.25); if(u<.75) return mix(c2,c3,(u-.5)/.25); if(u<1.) return mix(c3,c4,(u-.75)/.25); return mix(c4,c5,(u-1.)/.5); }';
+function stressMaterial(){
+  const data=new Uint8Array(SPAN_N*4), tex=new THREE.DataTexture(data,SPAN_N,1,THREE.RGBAFormat);
+  tex.magFilter=tex.minFilter=THREE.LinearFilter; tex.wrapS=tex.wrapT=THREE.ClampToEdgeWrapping;
+  const uni={uStress:{value:tex}, uInvRoot:{value:new THREE.Matrix4()}, uY0:{value:0}, uLen:{value:1}};
+  const m=new THREE.MeshStandardMaterial({color:0xffffff, metalness:0.1, roughness:0.55, side:THREE.DoubleSide});
+  m.extensions={derivatives:true};
+  m.onBeforeCompile=sh=>{ Object.assign(sh.uniforms,uni);
+    sh.vertexShader='uniform mat4 uInvRoot; uniform float uY0, uLen; varying float vSpan;\n'+sh.vertexShader.replace('#include <project_vertex>',
+      '#include <project_vertex>\n vec4 acP = uInvRoot * modelMatrix * vec4(transformed,1.0); vSpan = (abs(acP.y) - uY0) / uLen;');
+    sh.fragmentShader='uniform sampler2D uStress; varying float vSpan;\n'+GLSL_RAMP+'\n'+sh.fragmentShader.replace('#include <color_fragment>',
+      `#include <color_fragment>
+       float sU = texture2D(uStress, vec2(clamp(vSpan,0.,1.)*${((SPAN_N-1)/SPAN_N).toFixed(5)}+${(0.5/SPAN_N).toFixed(5)}, .5)).r * 2.0;
+       vec3 sC = sRamp(sU);
+       float sB = sU*10.0, sW = max(fwidth(sB), 1e-4);   // iso-lines every 10 % of allowable
+       float sL = 1.0 - smoothstep(0.0, 1.5*sW, abs(fract(sB+0.5)-0.5));
+       diffuseColor.rgb = mix(sC, sC*0.5, sL*0.75);`).replace('#include <emissivemap_fragment>','#include <emissivemap_fragment>\n totalEmissiveRadiance += diffuseColor.rgb*0.45;');
+  };
+  m.userData.uni=uni; m.userData.data=data; m.userData.tex=tex; return m;
+}
+const SMAT = {main:stressMaterial(), rear:stressMaterial()};
+const STRUT_MAT = {main:new THREE.MeshStandardMaterial({metalness:0.1,roughness:0.5}), rear:new THREE.MeshStandardMaterial({metalness:0.1,roughness:0.5})};
+const STRESS_PARTS = {'W-MS':'main','W-RS':'rear'};
+function strutKind(name){ return /^Lift strut \(main\)/.test(name)?'main':(/^Lift strut \(rear\)/.test(name)?'rear':null); }
+function fillStress(){
+  const c=STRESS.cases[stressCase];
+  ['main','rear'].forEach(k=>{ const sp=c[k], m=SMAT[k], len=sp.prof[sp.prof.length-1][0];
+    for(let i=0;i<SPAN_N;i++){ const u=sparU(sp, len*i/(SPAN_N-1)).u; m.userData.data[i*4]=Math.round(Math.min(2,u)/2*255); m.userData.data[i*4+3]=255; }
+    m.userData.tex.needsUpdate=true; m.userData.uni.uY0.value=STRESS.y0; m.userData.uni.uLen.value=len;
+    const s=c['strut_'+k]; STRUT_MAT[k].color.copy(rampColor(s.u)); STRUT_MAT[k].emissive.copy(rampColor(s.u)).multiplyScalar(0.35); });
+  const peak=k=>{ const sp=c[k]; let b=0; sp.prof.forEach(r=>{ b=Math.max(b, sparU(sp,r[0]).u); }); return b; };
+  const nm=s=>T0(s).replace(/\s*[(（].*$/,'').replace(/\s*[x×]\s*2$/,'');
+  const rows=[[nm('Main spar (lipped C, opens aft)'),peak('main')],[nm('Rear spar (lipped C, opens forward)'),peak('rear')],[nm('Main lift strut x2'),c.strut_main.u],[nm('Rear lift strut x2'),c.strut_rear.u]];
+  document.getElementById('skpeaks').innerHTML=rows.map(([n,u])=>`<li><span><i style="background:#${rampColor(u).getHexString()}"></i>${n}</span><b>${Math.round(u*100)}%</b></li>`).join('');
+  document.querySelectorAll('#skey [data-case]').forEach(b=>b.setAttribute('aria-pressed',String(+b.dataset.case===stressCase)));
+}
+function applyStressMats(){
+  if(stressCase<0) return;
+  root.updateMatrixWorld(true); const inv=root.matrixWorld.clone().invert();
+  Object.values(SMAT).forEach(m=>m.userData.uni.uInvRoot.value.copy(inv));
+  partObjs.forEach(o=>{ const k=STRESS_PARTS[o.p.id]; if(!k) return; o.panelObjs.forEach(objs=>objs.forEach(po=>{ po.mesh.material=SMAT[k]; })); });
+  primObjs.forEach(ob=>{ const k=strutKind(ob.userData.b.name); if(!k) return; ob.traverse(m=>{ if(m.isMesh){ if(!m.userData.orig) m.userData.orig=m.material; m.material=STRUT_MAT[k]; } }); });
+}
+function setStress(c){
+  if(!STRESS) return;
+  const was=stressCase; stressCase=c;
+  document.getElementById('tStress').setAttribute('aria-pressed',String(c>=0)); document.getElementById('skey').hidden = c<0;
+  if(c>=0){ if(was<0){ stressXrayWas=xray; if(cur<WING_STEP){ setPlaying(false); go(NS,false); } setXray(true); } fillStress(); applyStressMats(); }
+  else { setMaterialsFor(cur); setXray(stressXrayWas); }
+}
+function stressPick(id, point, bname){
+  const c=STRESS.cases[stressCase], f=v=>fmt(Math.round(v*10)/10);
+  if(STRESS_PARTS[id]){ const sp=c[STRESS_PARTS[id]], y=Math.max(0, Math.abs(root.worldToLocal(point.clone()).y)-STRESS.y0), v=sparU(sp,y);
+    return `<small>${c.label} · y ${fmt(Math.round(y))} mm · σ ${f(v.sig)} / ${f(sp.s_cc)} MPa (${Math.round(v.uS*100)}%) · τ ${f(v.tau)} / ${f(sp.tau_cr)} MPa (${Math.round(v.uT*100)}%)</small>`; }
+  const k=bname && strutKind(bname); if(k){ const s=c['strut_'+k];
+    return `<small>${c.label} · ${c.tension? 'T':'C (Pcr)'} ${f(s.F/1000)} / ${f(s.allow/1000)} kN (${Math.round(s.u*100)}%)</small>`; }
+  return `<small>${T('Not analysed yet')}</small>`;
 }
 function placeStatic(n){
   // n: current step. parts with step < n fully placed; step n handled by animation (end state if no anim)
@@ -1639,6 +1729,10 @@ function pickAt(e){
   ray.setFromCamera(v,camera); const hits=ray.intersectObjects(pickables.filter(m=>{ let o=m; while(o){ if(!o.visible) return false; o=o.parent; } return true; }), false);
   if(!hits.length){ return; }
   const id=hits[0].object.userData.part; const p=partById[id];
+  if(stressCase>=0){ // analysed members win over the faded skins in front of them
+    const h=hits.find(x=>{ const u=String(x.object.userData.part||''); return STRESS_PARTS[u]||strutKind(u); })||hits[0];
+    const sid=String(h.object.userData.part||''), sp=partById[sid];
+    pickEl.innerHTML=`<span class="id">${sp?sp.id:'·'}</span>${sp?T(sp.name):T(sid.split(' · ')[0])}${stressPick(sp?sp.id:null, h.point, sp?null:sid)}`; if(sp) flash(sid); return; }
   if(p){ pickEl.innerHTML=`<span class="id">${p.id}</span>${T(p.name)}<small>${unitText(p.material)} · ×${p.qty} · ${imp()? fmt(p.mass/28.3495,1)+' oz' : fmt(p.mass)+' g'} each · step ${p.step}${p.note?' · '+T(p.note):''}</small>`; flash(id); }
   else { const hwHit = String(id).includes(' · '); pickEl.innerHTML=`<span class="id">${hwHit?'hardware':'bought'}</span>${id}`; }
 }
@@ -1701,6 +1795,9 @@ tPanel.onclick=()=>{ const c=viewerEl.classList.toggle('collapsed'); tPanel.setA
 try{ if(localStorage.getItem('ori1-panel')==='0'){ viewerEl.classList.add('collapsed'); tPanel.setAttribute('aria-pressed','false'); } }catch(e){}
 function setView(d){ drawing=d; document.getElementById('vHangar').setAttribute('aria-pressed',String(!d)); document.getElementById('vDrawing').setAttribute('aria-pressed',String(d)); hemi.intensity=d?0:0.85; setMaterialsFor(cur); applyBg(); grid.visible=d; hangar.visible=!d; }
 document.getElementById('tXray').onclick=()=>{ setXray(!xray); if(xray && cur<14) document.getElementById('pick').innerHTML='<span class="id">x-ray</span>Fuel lines go in at step 14 and control runs at step 17. Step there to see them.'; };
+document.getElementById('tStress').onclick=()=>setStress(stressCase>=0? -1 : 0);
+document.querySelectorAll('#skey [data-case]').forEach(b=>b.onclick=()=>setStress(+b.dataset.case));
+if(!STRESS) document.getElementById('tStress').hidden=true;
 document.getElementById('vHangar').onclick=()=>setView(false);
 document.getElementById('vDrawing').onclick=()=>setView(true);
 const tP=document.getElementById('tPilot'); tP.onclick=()=>{ pilotOn=!pilotOn; tP.setAttribute('aria-pressed',String(pilotOn)); if(pilotObj) pilotObj.visible=pilotOn && cur>1; };

@@ -2929,6 +2929,11 @@
   "reviewed": false,
   "t": "Chạy thẳng, phanh và cánh lái hướng hiệu quả, không lắc bánh."
  },
+ "Stress": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Ứng suất"
+ },
  "String line, digital level, plumb bob": {
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
@@ -3398,6 +3403,11 @@
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
   "t": "Tới hạn"
+ },
+ "Ultimate load (×1.5). Colour is the worse of cap stress against its crippling allowable and web shear against buckling. Beam theory along the span, not a finite-element analysis. Grey parts are not analysed yet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tải trọng phá hủy (×1.5). Màu thể hiện giá trị bất lợi hơn giữa ứng suất bản cánh so với giới hạn cho phép khi mất ổn định cục bộ và ứng suất cắt bản bụng so với mất ổn định. Lý thuyết dầm dọc theo sải cánh, không phải phân tích phần tử hữu hạn. Các chi tiết màu xám chưa được phân tích."
  },
  "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
   "by": "claude-opus-5-5 (in session)",

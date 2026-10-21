@@ -2929,6 +2929,11 @@
   "reviewed": false,
   "t": "נסיעה ישרה, בלמים והגה כיוון יעילים, בלי רטט."
  },
+ "Stress": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "מאמץ"
+ },
  "String line, digital level, plumb bob": {
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
@@ -3398,6 +3403,11 @@
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
   "t": "שבירה"
+ },
+ "Ultimate load (×1.5). Colour is the worse of cap stress against its crippling allowable and web shear against buckling. Beam theory along the span, not a finite-element analysis. Grey parts are not analysed yet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "עומס הרס (×1.5). הצבע מציג את הגרוע מבין מאמץ בפלנג ביחס למאמץ המותר לקריסה מקומית, ומאמץ גזירה בדופן ביחס לקריסה. תורת קורות לאורך המוטה, לא ניתוח אלמנטים סופיים. חלקים אפורים טרם נותחו."
  },
  "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
   "by": "claude-opus-5-5 (in session)",

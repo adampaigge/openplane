@@ -2929,6 +2929,11 @@
   "reviewed": false,
   "t": "सिधा चाल, प्रभावकारी ब्रेक र रडर, थरथराहट छैन।"
  },
+ "Stress": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "प्रतिबल"
+ },
  "String line, digital level, plumb bob": {
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
@@ -3398,6 +3403,11 @@
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
   "t": "अन्तिम"
+ },
+ "Ultimate load (×1.5). Colour is the worse of cap stress against its crippling allowable and web shear against buckling. Beam theory along the span, not a finite-element analysis. Grey parts are not analysed yet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "अन्तिम भार (×1.5)। रङले क्याप प्रतिबल बनाम यसको क्रिपलिङ अनुमत सीमा र वेब कतर्नी बनाम बक्लिङ — यी दुईमध्ये खराबलाई देखाउँछ। स्प्यानभरि बिम सिद्धान्त, फाइनाइट-एलिमेन्ट विश्लेषण होइन। खैरो भागहरूको अझै विश्लेषण गरिएको छैन।"
  },
  "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
   "by": "claude-opus-5-5 (in session)",

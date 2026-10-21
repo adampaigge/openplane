@@ -2929,6 +2929,11 @@
   "reviewed": false,
   "t": "Trayectoria recta, frenos y timón eficaces, sin shimmy."
  },
+ "Stress": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Tensión"
+ },
  "String line, digital level, plumb bob": {
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
@@ -3398,6 +3403,11 @@
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
   "t": "Última"
+ },
+ "Ultimate load (×1.5). Colour is the worse of cap stress against its crippling allowable and web shear against buckling. Beam theory along the span, not a finite-element analysis. Grey parts are not analysed yet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Carga última (×1.5). El color es el peor entre la tensión del ala frente a su admisible de abolladura local y el cortante del alma frente al pandeo. Teoría de vigas a lo largo de la envergadura, no un análisis por elementos finitos. Las piezas grises aún no se han analizado."
  },
  "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
   "by": "claude-opus-5-5 (in session)",

@@ -300,7 +300,10 @@ def run(verbose=True):
                     Pax=Pax, sig_ult=float(sig[jmax]), y_sig=float(yy[jmax]), s_cc=s_cc, s_ten=s_ten,
                     MS_comp=s_cc / float(sig[jmax]) - 1, MS_ten=s_ten / float(sig[jmax]) - 1,
                     tau_lim=float(tau_lim), tau_cr=tau_cr, MS_shear_buckle_limit=tau_cr / tau_lim - 1,
-                    I=I, A=A, Vmax=float(np.max(np.abs(V))))
+                    I=I, A=A, Vmax=float(np.max(np.abs(V))),
+                    # spanwise profile for the viewer: panel y (mm), ultimate cap stress (MPa), limit web shear (MPa)
+                    prof=[[round(float(yy[j]), 1), round(float(sig[j]), 2), round(float(abs(V[j]) / FoS / (h * t)), 3)]
+                          for j in sorted(set(range(0, len(yy), 12)) | {jmax, len(yy) - 1})])
     h_ms = WING.up(P["x_ms"]) - WING.lo(P["x_ms"]) - P["t_skin_u"] - P["t_skin_l"]
     h_rs = WING.up(P["x_rs"]) - WING.lo(P["x_rs"]) - P["t_skin_u"] - P["t_skin_l"]
     share_main = max(0.95 * n_pos, 1.64 * abs(n_neg)) * FoS
@@ -317,7 +320,21 @@ def run(verbose=True):
     Le = Ls / 2  # jury strut at mid-length
     Pcr = math.pi**2 * E_AL * I_st / Le**2
     sig_ten = T_ult / A_st
-    out.update(n_pos=n_pos, n_neg=n_neg, FoS=FoS, Va=Va, Vd=Vd, Vne=Vne, n_gust_c=n_gust_c, n_gust_d=n_gust_d,
+    # stress view: each ultimate load case on its own, with the same spar shares as above
+    def case(label, n_main, n_rear, tension):
+        m = spar_analysis(n_main * FoS, P["t_ms"], h_ms)
+        r = spar_analysis(n_rear * FoS, P["t_rs"], h_rs)
+        def strut_u(R):
+            F = R / math.sin(phi)
+            return dict(F=round(F), u=round(F / A_st / (0.85 * FTU) if tension else F / Pcr, 3),
+                        allow=round(0.85 * FTU * A_st) if tension else round(Pcr))
+        return dict(label=label, tension=tension,
+                    main=dict(prof=m["prof"], s_cc=round(m["s_cc"], 1), tau_cr=round(m["tau_cr"], 1)),
+                    rear=dict(prof=r["prof"], s_cc=round(r["s_cc"], 1), tau_cr=round(r["tau_cr"], 1)),
+                    strut_main=strut_u(m["Rs"]), strut_rear=strut_u(r["Rs"]))
+    stress = dict(y0=P["cabin_half"], cases=[case("+4 g", 0.95 * n_pos, 0.14 * n_pos, True),
+                                            case("−2 g", 1.64 * abs(n_neg), 0.64 * abs(n_neg), False)])
+    out.update(n_pos=n_pos, n_neg=n_neg, FoS=FoS, stress=stress, Va=Va, Vd=Vd, Vne=Vne, n_gust_c=n_gust_c, n_gust_d=n_gust_d,
                spar_main=ms, spar_rear=rs, h_ms=h_ms, h_rs=h_rs, share_main=share_main, share_rear=share_rear,
                strut_L=Ls, strut_phi=math.degrees(phi), strut_T_ult=T_ult, strut_C_ult=C_ult, strut_Pcr=Pcr,
                strut_MS_buckle=Pcr / C_ult - 1, strut_MS_ten=0.85 * FTU / sig_ten - 1, strut=strut, ys_panel=ys_panel)

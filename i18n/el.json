@@ -2929,6 +2929,11 @@
   "reviewed": false,
   "t": "Ευθεία πορεία, αποτελεσματικά φρένα και πηδάλιο διεύθυνσης, χωρίς ταλάντωση."
  },
+ "Stress": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Τάση"
+ },
  "String line, digital level, plumb bob": {
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
@@ -3398,6 +3403,11 @@
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
   "t": "Θραύση"
+ },
+ "Ultimate load (×1.5). Colour is the worse of cap stress against its crippling allowable and web shear against buckling. Beam theory along the span, not a finite-element analysis. Grey parts are not analysed yet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Οριακό φορτίο θραύσης (×1.5). Το χρώμα δείχνει το δυσμενέστερο από την τάση πέλματος έναντι του επιτρεπόμενου τοπικού λυγισμού και τη διατμητική τάση κορμού έναντι λυγισμού. Θεωρία δοκού κατά το εκπέτασμα, όχι ανάλυση πεπερασμένων στοιχείων. Τα γκρι μέρη δεν έχουν αναλυθεί ακόμη."
  },
  "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
   "by": "claude-opus-5-5 (in session)",

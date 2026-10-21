@@ -2929,6 +2929,11 @@
   "reviewed": false,
   "t": "Праволинейно движение, ефективни спирачки и кормило за посока, без шими."
  },
+ "Stress": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Напрежение"
+ },
  "String line, digital level, plumb bob": {
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
@@ -3398,6 +3403,11 @@
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
   "t": "Разрушаващо"
+ },
+ "Ultimate load (×1.5). Colour is the worse of cap stress against its crippling allowable and web shear against buckling. Beam theory along the span, not a finite-element analysis. Grey parts are not analysed yet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Разрушаващ товар (×1.5). Цветът е по-лошото от напрежението в пояса спрямо допустимото при местна загуба на устойчивост и срязващото напрежение в стената спрямо загубата на устойчивост. Теория на гредата по размаха, не анализ с крайни елементи. Сивите части още не са анализирани."
  },
  "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
   "by": "claude-opus-5-5 (in session)",

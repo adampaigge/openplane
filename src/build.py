@@ -1065,6 +1065,7 @@ H = dict(
     h_ms=round(res["h_ms"]), h_rs=round(res["h_rs"]),
 )
 model["H"] = H
+model["stress"] = res["stress"]
 model["cost"] = cost
 model["bom"] = bom
 json.dump(model, open(f"{OUT}/ori1_model.json", "w"), separators=(",", ":"), default=float)

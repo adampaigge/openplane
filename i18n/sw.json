@@ -2929,6 +2929,11 @@
   "reviewed": false,
   "t": "Kwenda moja kwa moja, breki na rudder zinazofanya kazi, hakuna mtikisiko."
  },
+ "Stress": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mkazo"
+ },
  "String line, digital level, plumb bob": {
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
@@ -3398,6 +3403,11 @@
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
   "t": "Mwisho"
+ },
+ "Ultimate load (×1.5). Colour is the worse of cap stress against its crippling allowable and web shear against buckling. Beam theory along the span, not a finite-element analysis. Grey parts are not analysed yet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "Mzigo wa mwisho (×1.5). Rangi inaonyesha mbaya zaidi kati ya mkazo wa ukingo dhidi ya kikomo chake cha kuporomoka na mkato wa ukuta dhidi ya kupinda. Nadharia ya boriti kwa urefu wa bawa, si uchambuzi wa vipengele maalum. Sehemu za kijivu bado hazijachambuliwa."
  },
  "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
   "by": "claude-opus-5-5 (in session)",

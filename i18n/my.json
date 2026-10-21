@@ -2929,6 +2929,11 @@
   "reviewed": false,
   "t": "ဖြောင့်ဖြောင့်ပြေး၊ ထိရောက်သော brake နှင့် rudder၊ ယိမ်းယိုင်မှုမရှိ။"
  },
+ "Stress": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "ဖိအား"
+ },
  "String line, digital level, plumb bob": {
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
@@ -3398,6 +3403,11 @@
   "by": "claude-opus-5-5 (in session)",
   "reviewed": false,
   "t": "နောက်ဆုံး"
+ },
+ "Ultimate load (×1.5). Colour is the worse of cap stress against its crippling allowable and web shear against buckling. Beam theory along the span, not a finite-element analysis. Grey parts are not analysed yet.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "အဆုံးစွန်ဝန် (×1.5)။ အရောင်သည် cap ဖိအား နှင့် ၎င်း၏ crippling ခွင့်ပြုတန်ဖိုး၊ web shear နှင့် buckling တို့အကြား ပိုဆိုးသည့်တစ်ခုကို ပြသည်။ တောင်ပံအလျားတစ်လျှောက် beam သီအိုရီဖြစ်ပြီး finite-element ခွဲခြမ်းစိတ်ဖြာမှု မဟုတ်ပါ။ မီးခိုးရောင်အစိတ်အပိုင်းများကို မခွဲခြမ်းရသေးပါ။"
  },
  "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
   "by": "claude-opus-5-5 (in session)",

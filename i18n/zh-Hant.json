@@ -1,3972 +1,4077 @@
 {
  "1 m hand bending brake (or hardwood bending blocks in a vise)": {
-  "t": "1 m 手動折彎機（或在臺鉗中使用硬木折彎塊）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "1 m 手動折彎機（或在臺鉗中使用硬木折彎塊）"
  },
  "1/8 in Clecos (300) + Cleco pliers": {
-  "t": "1/8 in Cleco 定位銷（300 個）+ Cleco 鉗",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "1/8 in Cleco 定位銷（300 個）+ Cleco 鉗"
  },
  "1/8 in domed aluminium blind rivet, grip -1 (up to 1.6 mm)": {
-  "t": "1/8 in 圓頭鋁製抽芯鉚釘，夾厚 -1（最多 1.6 mm）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "1/8 in 圓頭鋁製抽芯鉚釘，夾厚 -1（最多 1.6 mm）"
  },
  "1/8 in domed aluminium blind rivet, grip -2 (1.6-3.2 mm)": {
-  "t": "1/8 in 圓頭鋁製抽芯鉚釘，夾厚 -2（1.6-3.2 mm）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "1/8 in 圓頭鋁製抽芯鉚釘，夾厚 -2（1.6-3.2 mm）"
  },
  "1/8 in hole duplicator": {
-  "t": "1/8 in 孔位複製器",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "1/8 in 孔位複製器"
  },
  "1/8 in stainless/Monel blind rivet (fire-zone)": {
-  "t": "1/8 in 不鏽鋼/Monel 抽芯鉚釘（防火區）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "1/8 in 不鏽鋼/Monel 抽芯鉚釘（防火區）"
  },
  "2 m section in four-point bending, loaded in steps to 1.5 × the +4 g limit bending moment.": {
-  "t": "2 m 段四點彎曲，分級載入至 +4 g 限制彎矩的 1.5 ×。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "2 m 段四點彎曲，分級載入至 +4 g 限制彎矩的 1.5 ×。"
  },
  "2 x AN4 at the tail post": {
-  "t": "尾柱處 2 x AN4",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾柱處 2 x AN4"
  },
  "2 x AN5 holes at the top, axle boss at the bottom": {
-  "t": "頂部 2 x AN5 孔，底部為輪軸凸臺",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "頂部 2 x AN5 孔，底部為輪軸凸臺"
  },
  "4 x 1.79 m wing, 2 x 1.0 m elevators, 1.24 m rudder, door": {
-  "t": "機翼 4 x 1.79 m，升降舵 2 x 1.0 m，方向舵 1.24 m，艙門",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "機翼 4 x 1.79 m，升降舵 2 x 1.0 m，方向舵 1.24 m，艙門"
  },
  "4130 fittings": {
-  "t": "4130 接頭",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "4130 接頭"
  },
  "75 mm tube + ratchet strap (nose roller)": {
-  "t": "75 mm 管 + 棘輪綁帶（前緣卷圓用）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "75 mm 管 + 棘輪綁帶（前緣卷圓用）"
  },
  "; {n} parts x {l} laminated layers": {
-  "t": "；{n} 件 x {l} 層疊層",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "；{n} 件 x {l} 層疊層"
  },
  "A BMAA or LAA inspector reviews the aircraft and the evidence.": {
-  "t": "由 BMAA 或 LAA 檢查員審查飛機和證據。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "由 BMAA 或 LAA 檢查員審查飛機和證據。"
  },
  "A UK SSDR aircraft needs no airworthiness approval, so all the responsibility is the builder's. Proof-load the wing with sandbags to +4 g and have a BMAA or LAA inspector look at it before it flies. Elsewhere, check your national microlight rules.": {
-  "t": "英國 SSDR 飛機無需適航批准，因此所有責任都在製造者。用沙袋對機翼進行 +4 g 驗證載入，並在飛行前請 BMAA 或 LAA 檢查員檢查。在其他國家，請查閱本國的超輕型飛機規定。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "英國 SSDR 飛機無需適航批准，因此所有責任都在製造者。用沙袋對機翼進行 +4 g 驗證載入，並在飛行前請 BMAA 或 LAA 檢查員檢查。在其他國家，請查閱本國的超輕型飛機規定。"
  },
  "A concept design, published for study. It is not an approved design, and nothing here is airworthiness advice.": {
-  "t": "這是一個供研究的概念設計。它不是經批准的設計，本站任何內容都不構成適航建議。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "這是一個供研究的概念設計。它不是經批准的設計，本站任何內容都不構成適航建議。"
  },
  "A single-seat microlight anyone can build. Every sheet part is a flat blank with straight folds, cut from one gauge of aluminium.": {
-  "t": "一架人人都能製造的單座超輕型飛機。每個鈑金件都是帶直線摺痕的平板毛坯，用同一種厚度的鋁板切割。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "一架人人都能製造的單座超輕型飛機。每個鈑金件都是帶直線摺痕的平板毛坯，用同一種厚度的鋁板切割。"
  },
  "A4-1 blind rivet": {
-  "t": "A4-1 抽芯鉚釘",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "A4-1 抽芯鉚釘"
  },
  "A4-2 blind rivet": {
-  "t": "A4-2 抽芯鉚釘",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "A4-2 抽芯鉚釘"
  },
  "A4-SS blind rivet": {
-  "t": "A4-SS 抽芯鉚釘",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "A4-SS 抽芯鉚釘"
  },
  "ALT instrument": {
-  "t": "ALT 儀表",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "ALT 儀表"
  },
  "AN3 bolt (10-32), AN365-1032 nut, AN960-10 washers": {
-  "t": "AN3 螺栓（10-32），AN365-1032 螺母，AN960-10 墊圈",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "AN3 螺栓（10-32），AN365-1032 螺母，AN960-10 墊圈"
  },
  "AN3 bolt, AN365-1032 nut": {
-  "t": "AN3 螺栓，AN365-1032 螺母",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "AN3 螺栓，AN365-1032 螺母"
  },
  "AN3 bolt, AN365-1032 nut, rod end between the plates": {
-  "t": "AN3 螺栓，AN365-1032 螺母，杆端軸承位於兩板之間",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "AN3 螺栓，AN365-1032 螺母，杆端軸承位於兩板之間"
  },
  "AN3 bolt, AN365-1032 nut, through 3/16 in rod end": {
-  "t": "AN3 螺栓，AN365-1032 螺母，穿過 3/16 in 杆端軸承",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "AN3 螺栓，AN365-1032 螺母，穿過 3/16 in 杆端軸承"
  },
  "AN3 each end": {
-  "t": "兩端各一個 AN3",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "兩端各一個 AN3"
  },
  "AN4 bolt (1/4-28), AN365-428 nut, 2 x AN960-416 washers": {
-  "t": "AN4 螺栓（1/4-28），AN365-428 螺母，2 x AN960-416 墊圈",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "AN4 螺栓（1/4-28），AN365-428 螺母，2 x AN960-416 墊圈"
  },
  "AN4 bolt, AN310-4 + cotter (pivot)": {
-  "t": "AN4 螺栓，AN310-4 + 開口銷（樞軸）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "AN4 螺栓，AN310-4 + 開口銷（樞軸）"
  },
  "AN4 bolt, AN310-4 castle nut + cotter": {
-  "t": "AN4 螺栓，AN310-4 槽形螺母 + 開口銷",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "AN4 螺栓，AN310-4 槽形螺母 + 開口銷"
  },
  "AN4 bolt, AN365-428 nut": {
-  "t": "AN4 螺栓，AN365-428 螺母",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "AN4 螺栓，AN365-428 螺母"
  },
  "AN4 bolt, AN365-428 nut, AN970-4 washer each side": {
-  "t": "AN4 螺栓，AN365-428 螺母，兩側各一個 AN970-4 墊圈",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "AN4 螺栓，AN365-428 螺母，兩側各一個 AN970-4 墊圈"
  },
  "AN5 bolt (5/16-24), AN365-524 nut, AN970-5 large washers": {
-  "t": "AN5 螺栓（5/16-24），AN365-524 螺母，AN970-5 大墊圈",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "AN5 螺栓（5/16-24），AN365-524 螺母，AN970-5 大墊圈"
  },
  "AN5 bolt + rubber isolator (Lord-type) + AN365-524": {
-  "t": "AN5 螺栓 + 橡膠減振器（Lord 型）+ AN365-524",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "AN5 螺栓 + 橡膠減振器（Lord 型）+ AN365-524"
  },
  "AN5 bolt, AN310-5 castellated nut, MS24665 cotter": {
-  "t": "AN5 螺栓，AN310-5 槽形螺母，MS24665 開口銷",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "AN5 螺栓，AN310-5 槽形螺母，MS24665 開口銷"
  },
  "AN5 bolt, AN365-524 nut": {
-  "t": "AN5 螺栓，AN365-524 螺母",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "AN5 螺栓，AN365-524 螺母"
  },
  "AN5 clevis pin (bolt), AN310-5 castellated nut, MS24665 cotter": {
-  "t": "AN5 U 形叉銷（螺栓），AN310-5 槽形螺母，MS24665 開口銷",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "AN5 U 形叉銷（螺栓），AN310-5 槽形螺母，MS24665 開口銷"
  },
  "AN5 prop bolt, AN310-5 + safety wire (per prop maker)": {
-  "t": "AN5 螺旋槳螺栓，AN310-5 + 保險絲（按螺旋槳廠家要求）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "AN5 螺旋槳螺栓，AN310-5 + 保險絲（按螺旋槳廠家要求）"
  },
  "ASI instrument": {
-  "t": "ASI 儀表",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "ASI 儀表"
  },
  "About 10 months": {
-  "t": "約 10 個月",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "約 10 個月"
  },
  "Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
-  "t": "副翼 / 襟翼搖臂，4130 0.063in（一道折彎貼在下蒙皮上）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "副翼 / 襟翼搖臂，4130 0.063in（一道折彎貼在下蒙皮上）"
  },
  "Aileron / flap skin (identical x4)": {
-  "t": "副翼 / 襟翼蒙皮（相同 x4）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "副翼 / 襟翼蒙皮（相同 x4）"
  },
  "Aileron / flap spar (identical x4)": {
-  "t": "副翼 / 襟翼梁（相同 x4）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "副翼 / 襟翼梁（相同 x4）"
  },
  "Aileron and flap horns (K-HN), 1 per surface": {
-  "t": "副翼和襟翼搖臂（K-HN），每個舵面 1 個",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "副翼和襟翼搖臂（K-HN），每個舵面 1 個"
  },
  "Aileron link (cabin) x2": {
-  "t": "副翼連桿（座艙）x2",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "副翼連桿（座艙）x2"
  },
  "Aileron link (cabin) x2: 6061-T6 3/8 x 0.035 in": {
-  "t": "副翼連桿（座艙）x2：6061-T6 3/8 x 0.035 in",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "副翼連桿（座艙）x2：6061-T6 3/8 x 0.035 in"
  },
  "Aileron pushrod (arch) x2": {
-  "t": "副翼推拉桿（拱框）x2",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "副翼推拉桿（拱框）x2"
  },
  "Aileron pushrod (arch) x2: 6061-T6 3/8 x 0.035 in": {
-  "t": "副翼推拉桿（拱框）x2：6061-T6 3/8 x 0.035 in",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "副翼推拉桿（拱框）x2：6061-T6 3/8 x 0.035 in"
  },
  "Aileron pushrod (wing) x2": {
-  "t": "副翼推拉桿（機翼）x2",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "副翼推拉桿（機翼）x2"
  },
  "Aileron pushrod (wing) x2: 6061-T6 1/2 x 0.035 in": {
-  "t": "副翼推拉桿（機翼）x2：6061-T6 1/2 x 0.035 in",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "副翼推拉桿（機翼）x2：6061-T6 1/2 x 0.035 in"
  },
  "Aileron torque tube": {
-  "t": "副翼扭力管",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "副翼扭力管"
  },
  "Ailerons: a short link from the torque-tube arm to the arch-foot bellcrank, a pushrod up the rear-arch leg to the arch-top bellcrank, then out through the rib lightening holes to the outboard bellcrank, which drives the K-HN horn on the aileron. Flaps: overhead lever, a short rod to the centre-section torque-tube arms, then pushrods to the flap bellcranks and K-HN horns.": {
-  "t": "副翼：一根短連桿從扭力管搖臂連到拱框腳處的搖臂，一根推拉桿沿後拱框立柱向上到拱框頂部搖臂，再向外穿過翼肋減輕孔到外側搖臂，由它驅動副翼上的 K-HN 搖臂。襟翼：頂置手柄，一根短杆連到中央翼扭力管搖臂，再由推拉桿連到襟翼搖臂和 K-HN 搖臂。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "副翼：一根短連桿從扭力管搖臂連到拱框腳處的搖臂，一根推拉桿沿後拱框立柱向上到拱框頂部搖臂，再向外穿過翼肋減輕孔到外側搖臂，由它驅動副翼上的 K-HN 搖臂。襟翼：頂置手柄，一根短杆連到中央翼扭力管搖臂，再由推拉桿連到襟翼搖臂和 K-HN 搖臂。"
  },
  "All 52 ribs are the same two blanks. The pilot holes locate them, so no jig is needed.": {
-  "t": "全部 52 根翼肋都來自同樣的兩種毛坯。定位孔確定位置，無需型架。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "全部 52 根翼肋都來自同樣的兩種毛坯。定位孔確定位置，無需型架。"
  },
  "All six faces aim at one vanishing point, so each face is flat and every crease is straight.": {
-  "t": "六個面都指向同一個滅點，因此每個面都是平的，每條摺痕都是直的。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "六個面都指向同一個滅點，因此每個面都是平的，每條摺痕都是直的。"
  },
  "All the glazing is flat sheet: no forming and no moulds.": {
-  "t": "所有透明件都是平板：無需成形，無需模具。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "所有透明件都是平板：無需成形，無需模具。"
  },
  "Allowable": {
-  "t": "許用值",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "許用值"
+ },
+ "Amount": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "金額"
  },
  "An engineering test plan modelled on BCAR Section S practice, not a regulatory approval route. Costs are rough ranges for materials, hire and consumables, not labour, and exclude the airframe itself. The plan lives in qualification.yaml in the repository, and its pass criteria use the live numbers from the build.": {
-  "t": "這是參照 BCAR Section S 做法的工程試驗計劃，而不是法規審批途徑。費用是材料、租用和耗材的大致範圍，不含人工，也不含機體本身。計劃儲存在倉庫的 qualification.yaml 中，其合格判據使用構建中的實時數值。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "這是參照 BCAR Section S 做法的工程試驗計劃，而不是法規審批途徑。費用是材料、租用和耗材的大致範圍，不含人工，也不含機體本身。計劃儲存在倉庫的 qualification.yaml 中，其合格判據使用構建中的實時數值。"
  },
  "Approach the stall in 1 kt steps, flaps up and down, at forward and aft CG.": {
-  "t": "以 1 kt 為步長接近失速，襟翼收起和放下，前重心和後重心各做一遍。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "以 1 kt 為步長接近失速，襟翼收起和放下，前重心和後重心各做一遍。"
  },
  "Arch over the pilot. Spar-root fittings bolt to its top corners, strut fittings to its feet. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
-  "t": "駕駛員上方的拱框。翼梁根部接頭用螺栓固定在其頂角，撐杆接頭固定在其腳部。疊層：2 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "駕駛員上方的拱框。翼梁根部接頭用螺栓固定在其頂角，撐杆接頭固定在其腳部。疊層：2 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。"
  },
  "As above, including the reversed load case at −2 g.": {
-  "t": "同上，包括 −2 g 的反向載荷工況。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "同上，包括 −2 g 的反向載荷工況。"
  },
  "At least 1.5 × the full-power fuel flow from either tank.": {
-  "t": "任一油箱供油量至少為全功率燃油流量的 1.5 ×。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "任一油箱供油量至少為全功率燃油流量的 1.5 ×。"
  },
  "Aux fuel tank 20 L (rotomoulded), high behind the seat, gravity feed": {
-  "t": "副油箱 20 L（滾塑），位於座椅後上方，重力供油",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "副油箱 20 L（滾塑），位於座椅後上方，重力供油"
  },
  "Aux tank 20 L behind the seat + selector valve + line": {
-  "t": "座椅後 20 L 副油箱 + 選擇閥 + 油管",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "座椅後 20 L 副油箱 + 選擇閥 + 油管"
  },
  "Aux tank filler (through the left cabin side, behind the door)": {
-  "t": "副油箱加油口（穿過座艙左側，艙門後方）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "副油箱加油口（穿過座艙左側，艙門後方）"
  },
  "Aviation snips (straight, left, right)": {
-  "t": "航空剪（直剪、左剪、右剪）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "航空剪（直剪、左剪、右剪）"
  },
  "Axle bolt AN6 + castellated nut AN310-6 + cotter MS24665": {
-  "t": "輪軸螺栓 AN6 + 槽形螺母 AN310-6 + 開口銷 MS24665",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "輪軸螺栓 AN6 + 槽形螺母 AN310-6 + 開口銷 MS24665"
  },
  "Back-drill #40 through the rib and spar-cap pilot holes, using the hole duplicator where you can't reach from inside. Cleco as you go.": {
-  "t": "用 #40 鑽頭穿過翼肋和翼梁緣條的定位孔反鑽，夠不到內側的地方用孔位複製器。邊鑽邊上 Cleco。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "用 #40 鑽頭穿過翼肋和翼梁緣條的定位孔反鑽，夠不到內側的地方用孔位複製器。邊鑽邊上 Cleco。"
  },
  "Back-drill through the rib flanges and spar caps. Do the nose last, working from the spar forward.": {
-  "t": "穿過翼肋翻邊和翼梁緣條反鑽。前緣最後做，從翼梁向前進行。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "穿過翼肋翻邊和翼梁緣條反鑽。前緣最後做，從翼梁向前進行。"
  },
  "Baggage locker behind the seat (net, 5 kg max)": {
-  "t": "座椅後行李艙（網兜，最多 5 kg）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "座椅後行李艙（網兜，最多 5 kg）"
  },
  "Battery + radio + antenna": {
-  "t": "電池 + 無線電 + 天線",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "電池 + 無線電 + 天線"
  },
  "Battery 12 V LiFePO4 in vented box (under the seat)": {
-  "t": "12 V LiFePO4 電池，裝在通風盒內（座椅下方）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "12 V LiFePO4 電池，裝在通風盒內（座椅下方）"
  },
  "Bellcrank arms in the cabin, 2 per bellcrank; Bellcrank arms in the wings, 2 per bellcrank": {
-  "t": "座艙內的搖臂臂，每個搖臂 2 個；機翼內的搖臂臂，每個搖臂 2 個",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "座艙內的搖臂臂，每個搖臂 2 個；機翼內的搖臂臂，每個搖臂 2 個"
  },
  "Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
-  "t": "座艙內搖臂支架連到拱框 / 翼梁，各 2 個；機翼內搖臂支架連到拱框 / 翼梁，各 2 個",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "座艙內搖臂支架連到拱框 / 翼梁，各 2 個；機翼內搖臂支架連到拱框 / 翼梁，各 2 個"
  },
  "Bellcrank pivots in the cabin (K-BC pair through its K-CV bracket); Bellcrank pivots in the wings (K-BC pair through its K-CV bracket)": {
-  "t": "座艙內搖臂樞軸（K-BC 雙板穿過其 K-CV 支架）；機翼內搖臂樞軸（K-BC 雙板穿過其 K-CV 支架）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "座艙內搖臂樞軸（K-BC 雙板穿過其 K-CV 支架）；機翼內搖臂樞軸（K-BC 雙板穿過其 K-CV 支架）"
  },
  "Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
-  "t": "搖臂板，4130 0.063in（成對，55 mm 臂）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "搖臂板，4130 0.063in（成對，55 mm 臂）"
  },
  "Bellcranks: each is a pair of K-BC plates, 16 mm apart, on an AN4 pivot through a folded K-CV bracket. The rod ends sit between the plates on AN3 bolts. Five per side: aileron arch-foot, arch-top and outboard (at the rear spar); flap torque-tube arm and flap bellcrank.": {
-  "t": "搖臂：每個由一對 K-BC 板組成，間距 16 mm，裝在穿過折彎 K-CV 支架的 AN4 樞軸上。杆端軸承用 AN3 螺栓夾在兩板之間。每側五個：副翼的拱框腳、拱框頂和外側（在後梁處）；襟翼扭力管搖臂和襟翼搖臂。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "搖臂：每個由一對 K-BC 板組成，間距 16 mm，裝在穿過折彎 K-CV 支架的 AN4 樞軸上。杆端軸承用 AN3 螺栓夾在兩板之間。每側五個：副翼的拱框腳、拱框頂和外側（在後梁處）；襟翼扭力管搖臂和襟翼搖臂。"
  },
  "Bench vise with soft jaws": {
-  "t": "帶軟鉗口的臺鉗",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "帶軟鉗口的臺鉗"
  },
  "Bend deduction": {
-  "t": "折彎扣除量",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "折彎扣除量"
  },
  "Bend on the brake: each channel is four 90° bends. Bend the two flanges first, then the two lips. Set the nose radius to 1 mm (about 2t for 0.020 in) and overbend about 2° for springback. Check every bend with a square.": {
-  "t": "在折彎機上折彎：每根槽材有四道 90° 折彎。先折兩側翻邊，再折兩道卷邊。將折彎刀頭半徑設為 1 mm（0.020 in 板約為 2t），並多折約 2° 以補償回彈。每道折彎都用角尺檢查。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在折彎機上折彎：每根槽材有四道 90° 折彎。先折兩側翻邊，再折兩道卷邊。將折彎刀頭半徑設為 1 mm（0.020 in 板約為 2t），並多折約 2° 以補償回彈。每道折彎都用角尺檢查。"
  },
  "Bend radius and springback": {
-  "t": "折彎半徑與回彈",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "折彎半徑與回彈"
  },
  "Best climb": {
-  "t": "最佳爬升",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "最佳爬升"
  },
  "Bill of materials": {
-  "t": "物料清單",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "物料清單"
  },
  "Blanks": {
-  "t": "毛坯",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "毛坯"
  },
  "Blind-rivet puller (hand or pneumatic)": {
-  "t": "抽芯鉚釘槍（手動或氣動）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "抽芯鉚釘槍（手動或氣動）"
  },
  "Bolt each main-gear spring leg through the floor doubler under the front arch: 2 x AN5 each, large washers both sides.": {
-  "t": "將每條主起落架彈簧腿穿過前拱框下的地板加強板用螺栓固定：每條 2 x AN5，兩側加大墊圈。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "將每條主起落架彈簧腿穿過前拱框下的地板加強板用螺栓固定：每條 2 x AN5，兩側加大墊圈。"
  },
  "Bolt in the four harness anchors.": {
-  "t": "用螺栓固定四個安全帶固定點。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "用螺栓固定四個安全帶固定點。"
  },
  "Bolt on the propeller and spinner. Torque to the prop maker's figure, then safety-wire.": {
-  "t": "用螺栓裝上螺旋槳和整流罩。按螺旋槳廠家的扭矩擰緊，然後打保險絲。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "用螺栓裝上螺旋槳和整流罩。按螺旋槳廠家的扭矩擰緊，然後打保險絲。"
  },
  "Bolt the 4130 engine mount through the firewall (4 x AN4) with large washers on the back.": {
-  "t": "將 4130 發動機架穿過防火牆用螺栓固定（4 x AN4），背面加大墊圈。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "將 4130 發動機架穿過防火牆用螺栓固定（4 x AN4），背面加大墊圈。"
  },
  "Bolt the four root clevises to the arch tops and the four strut-foot clevises to the arch feet with AN4 bolts.": {
-  "t": "用 AN4 螺栓將四個根部 U 形叉固定在拱框頂部，四個撐杆腳 U 形叉固定在拱框腳部。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "用 AN4 螺栓將四個根部 U 形叉固定在拱框頂部，四個撐杆腳 U 形叉固定在拱框腳部。"
  },
  "Bolt the stabiliser halves to the tailcone side doublers, 4 x AN4 each. Bolt the fin spar to the tail post, 3 x AN4.": {
-  "t": "將兩半水平安定面用螺栓固定到尾錐側面加強板上，每半 4 x AN4。將垂直安定面梁用螺栓固定到尾柱上，3 x AN4。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "將兩半水平安定面用螺栓固定到尾錐側面加強板上，每半 4 x AN4。將垂直安定面梁用螺栓固定到尾柱上，3 x AN4。"
  },
  "Bolt the tailwheel spring to the tail post (2 x AN4). Fit the fork and the two steering springs to the rudder horn.": {
-  "t": "將尾輪彈簧用螺栓固定到尾柱上（2 x AN4）。將輪叉和兩根轉向彈簧裝到方向舵搖臂上。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "將尾輪彈簧用螺栓固定到尾柱上（2 x AN4）。將輪叉和兩根轉向彈簧裝到方向舵搖臂上。"
  },
  "Bolt the tang pairs either side of each spar web at the root (4 x AN3), and the strut-top clevises under the spars at the 2.4 m rib.": {
-  "t": "在根部每根翼梁腹板兩側用螺栓固定成對接耳（4 x AN3），在 2.4 m 翼肋處的翼梁下方固定撐杆頂部 U 形叉。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在根部每根翼梁腹板兩側用螺栓固定成對接耳（4 x AN3），在 2.4 m 翼肋處的翼梁下方固定撐杆頂部 U 形叉。"
  },
  "Bolts to the spar web with 4 x AN3 and reaches inboard past the spar end to the arch-top clevis pin.": {
-  "t": "用 4 x AN3 固定在翼梁腹板上，向內越過翼梁末端，伸到拱框頂部 U 形叉的銷子處。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "用 4 x AN3 固定在翼梁腹板上，向內越過翼梁末端，伸到拱框頂部 U 形叉的銷子處。"
  },
  "Both sides are the same blank, mirrored. The openings have 50 mm corner radii because square corners start cracks.": {
-  "t": "兩側是同一塊毛坯，映象使用。開口處轉角半徑 50 mm，因為直角會引發裂紋。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "兩側是同一塊毛坯，映象使用。開口處轉角半徑 50 mm，因為直角會引發裂紋。"
  },
  "Both tanks, up to MTOW": {
-  "t": "兩個油箱，直到 MTOW",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "兩個油箱，直到 MTOW"
  },
  "Bottom + both chamfers + side flanges from one sheet: converging creases, still developable (frustum).": {
-  "t": "底面 + 兩個倒角面 + 側翻邊出自一張板：匯聚摺痕，仍可展開（稜臺）。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "底面 + 兩個倒角面 + 側翻邊出自一張板：匯聚摺痕，仍可展開（稜臺）。"
  },
  "Bottom extends between the elevator halves.": {
-  "t": "底面延伸到兩半升降舵之間。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "底面延伸到兩半升降舵之間。"
  },
  "Bought / fabricated items going on": {
-  "t": "要安裝的外購 / 自制件",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "要安裝的外購 / 自制件"
  },
  "Bought assemblies": {
-  "t": "外購元件",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "外購元件"
  },
  "Box-pleat hood 45°, nose bowl converging creases": {
-  "t": "45° 箱式褶整流罩，機頭罩匯聚摺痕",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "45° 箱式褶整流罩，機頭罩匯聚摺痕"
  },
  "Brake drum": {
-  "t": "制動鼓",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "制動鼓"
  },
  "Build each section upside down on a straight edge: bulkheads Clecoed into the belly, then the sides, then the top.": {
-  "t": "每段都倒置在直尺上製作：隔框用 Cleco 固定在腹板中，然後是側板，最後是頂板。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "每段都倒置在直尺上製作：隔框用 Cleco 固定在腹板中，然後是側板，最後是頂板。"
  },
  "Build up towards Vne in 5 kt steps, watching for buzz or flutter at every step.": {
-  "t": "以 5 kt 為步長逐步接近 Vne，每一步都注意嗡鳴或顫振。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "以 5 kt 為步長逐步接近 Vne，每一步都注意嗡鳴或顫振。"
  },
  "CG range": {
-  "t": "重心範圍",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "重心範圍"
  },
  "CHT/EGT instrument": {
-  "t": "CHT/EGT 儀表",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "CHT/EGT 儀表"
  },
  "CLmax, drag, propeller efficiency and the neutral point are handbook estimates. Measure stall speed and CG limits in flight test. The 35 kt SSDR stall limit is met with flaps:": {
-  "t": "CLmax、阻力、螺旋槳效率和中性點都是手冊估算。請在試飛中測量失速速度和重心限制。放襟翼時滿足 35 kt 的 SSDR 失速限制：",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "CLmax、阻力、螺旋槳效率和中性點都是手冊估算。請在試飛中測量失速速度和重心限制。放襟翼時滿足 35 kt 的 SSDR 失速限制："
  },
  "Cabin roof (centre lower skin)": {
-  "t": "座艙頂（中央下蒙皮）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "座艙頂（中央下蒙皮）"
  },
  "Cabin side (x2, mirrored): door/window opening + front window": {
-  "t": "座艙側板（x2，映象）：門/窗開口 + 前窗",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "座艙側板（x2，映象）：門/窗開口 + 前窗"
  },
  "Cabin sides and seat": {
-  "t": "座艙側板和座椅",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "座艙側板和座椅"
  },
  "Carries flap/aileron hinges and rear strut fitting. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
-  "t": "承載襟翼/副翼鉸鏈和後撐杆接頭。疊層：2 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "承載襟翼/副翼鉸鏈和後撐杆接頭。疊層：2 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。"
  },
  "Case": {
-  "t": "工況",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "工況"
+ },
+ "Category": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "類別"
  },
  "Centre-section trailing-edge fairing (fixed, between the flaps)": {
-  "t": "中央翼後緣整流罩（固定，位於兩襟翼之間）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "中央翼後緣整流罩（固定，位於兩襟翼之間）"
  },
  "Centre-section upper skin": {
-  "t": "中央翼上蒙皮",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "中央翼上蒙皮"
  },
  "Check stops, free play, friction and cable tension, then load every circuit to the pilot limit loads.": {
-  "t": "檢查止動、間隙、摩擦和鋼索張力，然後將每個迴路載入到駕駛員限制載荷。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "檢查止動、間隙、摩擦和鋼索張力，然後將每個迴路載入到駕駛員限制載荷。"
  },
  "Check the cap angle every 500 mm with a square. Sight along the spar for twist.": {
-  "t": "每隔 500 mm 用角尺檢查緣條角度。沿翼梁目測是否扭曲。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "每隔 500 mm 用角尺檢查緣條角度。沿翼梁目測是否扭曲。"
  },
  "Check twist by sighting a level across bulkheads 1 and 5. Then join the two sections at bulkhead 3.": {
-  "t": "透過在隔框 1 和 5 上放水平儀目測檢查扭曲。然後在隔框 3 處連線兩段。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "透過在隔框 1 和 5 上放水平儀目測檢查扭曲。然後在隔框 3 處連線兩段。"
  },
  "Clean and prime. Steel fittings rust under paint if they aren't primed.": {
-  "t": "清潔並塗底漆。鋼製接頭如果不塗底漆，會在漆下生鏽。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "清潔並塗底漆。鋼製接頭如果不塗底漆，會在漆下生鏽。"
  },
  "Clecos": {
-  "t": "Cleco 定位銷",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "Cleco 定位銷"
  },
  "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each": {
-  "t": "U 形叉腹板連到拱框頂部和腳部，每個 U 形叉 2 個；撐杆頂部和輔助撐杆頂部 U 形叉穿過翼梁緣條，各 2 個",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "U 形叉腹板連到拱框頂部和腳部，每個 U 形叉 2 個；撐杆頂部和輔助撐杆頂部 U 形叉穿過翼梁緣條，各 2 個"
  },
  "Clevis webs to arch tops and arch feet, 2 per clevis; Strut-top and jury-top clevises through the spar caps, 2 each; Bellcrank brackets in the cabin to arch / spar, 2 each; Bellcrank brackets in the wings to arch / spar, 2 each": {
-  "t": "U 形叉腹板連到拱框頂部和腳部，每個 U 形叉 2 個；撐杆頂部和輔助撐杆頂部 U 形叉穿過翼梁緣條，各 2 個；座艙內搖臂支架連到拱框 / 翼梁，各 2 個；機翼內搖臂支架連到拱框 / 翼梁，各 2 個",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "U 形叉腹板連到拱框頂部和腳部，每個 U 形叉 2 個；撐杆頂部和輔助撐杆頂部 U 形叉穿過翼梁緣條，各 2 個；座艙內搖臂支架連到拱框 / 翼梁，各 2 個；機翼內搖臂支架連到拱框 / 翼梁，各 2 個"
  },
  "Clevis, 4130 0.063in (U, two folds)": {
-  "t": "U 形叉，4130 0.063in（U 形，兩道折彎）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "U 形叉，4130 0.063in（U 形，兩道折彎）"
  },
  "Clevis: two 90° bends at 3t radius": {
-  "t": "U 形叉：兩道 90° 折彎，半徑 3t",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "U 形叉：兩道 90° 折彎，半徑 3t"
  },
  "Click to explore": {
-  "t": "點選探索",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "點選探索"
  },
  "Clip on the strut fairings.": {
-  "t": "卡上撐杆整流罩。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "卡上撐杆整流罩。"
  },
  "Close the bay behind the centre-section rear spar with the W-CT trailing-edge fairing (same wedge fold as the flaps). Do it last, after the flap linkage is rigged and checked.": {
-  "t": "用 W-CT 後緣整流罩（與襟翼相同的楔形折彎）封閉中央翼後梁後方的空腔。最後再做，在襟翼連桿調好並檢查之後。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "用 W-CT 後緣整流罩（與襟翼相同的楔形折彎）封閉中央翼後梁後方的空腔。最後再做，在襟翼連桿調好並檢查之後。"
  },
  "Closes the control surface; carries hinge and mass-balance arm.": {
-  "t": "封閉舵面；承載鉸鏈和質量平衡臂。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "封閉舵面；承載鉸鏈和質量平衡臂。"
  },
  "Closes the control surface; carries hinge and mass-balance arm. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
-  "t": "封閉舵面；承載鉸鏈和質量平衡臂。疊層：2 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "封閉舵面；承載鉸鏈和質量平衡臂。疊層：2 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。"
  },
  "Compass (on the glare shield)": {
-  "t": "羅盤（在遮光罩上）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "羅盤（在遮光罩上）"
  },
  "Components": {
-  "t": "部件",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "部件"
  },
  "Consumables": {
-  "t": "耗材",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "耗材"
  },
  "Control stick": {
-  "t": "操縱桿",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "操縱桿"
  },
  "Control system": {
-  "t": "操縱系統",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "操縱系統"
  },
  "Control-circuit strength": {
-  "t": "操縱迴路強度",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "操縱迴路強度"
  },
  "Control-system free play": {
-  "t": "操縱系統間隙",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "操縱系統間隙"
  },
  "Controllable in all axes with trim available. Engine temperatures stable.": {
-  "t": "各軸均可控制且有配平餘量。發動機溫度穩定。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "各軸均可控制且有配平餘量。發動機溫度穩定。"
  },
  "Controls, instruments and systems": {
-  "t": "操縱、儀表和系統",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "操縱、儀表和系統"
  },
  "Controls: stick, torque tube, cables, pushrods": {
-  "t": "操縱：操縱桿、扭力管、鋼索、推拉桿",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "操縱：操縱桿、扭力管、鋼索、推拉桿"
  },
  "Converging creases 44°, bulkhead flanges 96–100°": {
-  "t": "匯聚摺痕 44°，隔框翻邊 96–100°",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "匯聚摺痕 44°，隔框翻邊 96–100°"
+ },
+ "Converted from UK prices": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "由英國價格換算"
  },
  "Copy it, change it, build it, sell it. No permission needed.": {
-  "t": "複製它、修改它、製造它、出售它。無需許可。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "複製它、修改它、製造它、出售它。無需許可。"
  },
  "Cordless drill, #40 (2.5 mm) and #30 (3.3 mm) bits": {
-  "t": "無繩電鑽，#40（2.5 mm）和 #30（3.3 mm）鑽頭",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "無繩電鑽，#40（2.5 mm）和 #30（3.3 mm）鑽頭"
  },
  "Cost": {
-  "t": "費用",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "費用"
  },
  "Cotter pins": {
-  "t": "開口銷",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "開口銷"
  },
  "Cotter-pin and safety-wire pliers": {
-  "t": "開口銷鉗和保險絲鉗",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "開口銷鉗和保險絲鉗"
  },
  "Coupons and processes": {
-  "t": "試樣和工藝",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "試樣和工藝"
  },
  "Covers the top half of the firewall. Camlocks along the firewall flange and the split line.": {
-  "t": "覆蓋防火牆上半部分。沿防火牆翻邊和分縫線安裝 Camlock 快鎖。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "覆蓋防火牆上半部分。沿防火牆翻邊和分縫線安裝 Camlock 快鎖。"
  },
  "Cowl to firewall flange and along the split line": {
-  "t": "整流罩連到防火牆翻邊及沿分縫線",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "整流罩連到防火牆翻邊及沿分縫線"
  },
  "Crippling stress at least {stress:ms_cc}, the design allowable. Layers must not separate before failure.": {
-  "t": "皺損應力至少達到 {stress:ms_cc}，即設計許用值。破壞前各層不得分離。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "皺損應力至少達到 {stress:ms_cc}，即設計許用值。破壞前各層不得分離。"
  },
  "Cruise 75 %": {
-  "t": "巡航 75 %",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "巡航 75 %"
  },
  "Crush 300 mm lengths of three-layer lipped channel, riveted at design pitch, five samples.": {
-  "t": "壓潰 300 mm 長的三層卷邊槽材，按設計間距鉚接，共五個試樣。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "壓潰 300 mm 長的三層卷邊槽材，按設計間距鉚接，共五個試樣。"
  },
  "Currency": {
-  "t": "貨幣",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "貨幣"
  },
  "Cut and deburr: the stand blanks are on the same nest sheets as everything else. File every edge smooth and deburr each pilot hole on both faces. Look for burrs with your fingertip, not your eye.": {
-  "t": "切割與去毛刺：支架的毛坯與其他零件排在同樣的套料板上。銼平每條邊，並在兩面給每個定位孔去毛刺。用指尖而不是眼睛去找毛刺。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "切割與去毛刺：支架的毛坯與其他零件排在同樣的套料板上。銼平每條邊，並在兩面給每個定位孔去毛刺。用指尖而不是眼睛去找毛刺。"
  },
  "Cut files (DXF and nests), crease patterns, the prop model, the bill of materials and the design report.": {
-  "t": "切割檔案（DXF 和套料）、摺痕圖、螺旋槳模型、物料清單和設計報告。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "切割檔案（DXF 和套料）、摺痕圖、螺旋槳模型、物料清單和設計報告。"
  },
  "Cut lengths": {
-  "t": "下料長度",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "下料長度"
  },
  "Cut list": {
-  "t": "下料清單",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "下料清單"
  },
  "Cut the main struts to 2543 mm and the rear struts to 2547 mm pin-to-pin, minus the end-fitting length. All four are 6061-T6 1.75 x 0.065 in tube.": {
-  "t": "主撐杆銷到銷長度切為 2543 mm，後撐杆切為 2547 mm，再減去端接頭長度。四根都是 6061-T6 1.75 x 0.065 in 管。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主撐杆銷到銷長度切為 2543 mm，後撐杆切為 2547 mm，再減去端接頭長度。四根都是 6061-T6 1.75 x 0.065 in 管。"
  },
  "Cut, deburr, mark": {
-  "t": "切割、去毛刺、劃線",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "切割、去毛刺、劃線"
  },
  "Cylinder": {
-  "t": "氣缸",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "氣缸"
  },
  "Deburr every edge and hole": {
-  "t": "每條邊和每個孔都去毛刺",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "每條邊和每個孔都去毛刺"
  },
  "Deburr every edge with a file or deburring tool. A burr is where a fatigue crack starts.": {
-  "t": "用銼刀或去毛刺刀給每條邊去毛刺。毛刺就是疲勞裂紋的起點。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "用銼刀或去毛刺刀給每條邊去毛刺。毛刺就是疲勞裂紋的起點。"
  },
  "Deburr every pilot hole on both faces with a 10 mm bit turned by hand.": {
-  "t": "用手轉動 10 mm 鑽頭，在兩面給每個定位孔去毛刺。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "用手轉動 10 mm 鑽頭，在兩面給每個定位孔去毛刺。"
  },
  "Deburring tool, 10 mm drill bit (hole deburr), fine file": {
-  "t": "去毛刺刀，10 mm 鑽頭（孔口去毛刺），細銼",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "去毛刺刀，10 mm 鑽頭（孔口去毛刺），細銼"
  },
  "Don't overtighten: nylon washers, and stop when the washer just grips.": {
-  "t": "不要擰得過緊：用尼龍墊圈，墊圈剛好壓住就停。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "不要擰得過緊：用尼龍墊圈，墊圈剛好壓住就停。"
  },
  "Door (left, hinged) / side window (right, fixed)": {
-  "t": "艙門（左側，鉸接）/ 側窗（右側，固定）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "艙門（左側，鉸接）/ 側窗（右側，固定）"
  },
  "Download files (.zip)": {
-  "t": "下載檔案（.zip）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "下載檔案（.zip）"
  },
  "Drawing": {
-  "t": "圖紙",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "圖紙"
  },
  "Drill and cleco: clamp the gussets in place, drill through the pilot holes to #30 (3.3 mm), and put a cleco in every fourth hole as you go. Then take everything apart, deburr the holes and the faying surfaces, and put it back together on clecos.": {
-  "t": "鑽孔並上 Cleco：把角撐板夾到位，穿過定位孔鑽到 #30（3.3 mm），邊鑽邊每隔三個孔上一個 Cleco。然後全部拆開，給孔和貼合面去毛刺，再用 Cleco 重新裝好。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "鑽孔並上 Cleco：把角撐板夾到位，穿過定位孔鑽到 #30（3.3 mm），邊鑽邊每隔三個孔上一個 Cleco。然後全部拆開，給孔和貼合面去毛刺，再用 Cleco 重新裝好。"
  },
  "Drill press, 1/4 in and 5/16 in reamers": {
-  "t": "臺鑽，1/4 in 和 5/16 in 鉸刀",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "臺鑽，1/4 in 和 5/16 in 鉸刀"
  },
  "Drill, deburr, prime, rivet the skeleton": {
-  "t": "鑽孔、去毛刺、塗底漆、鉚接骨架",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "鑽孔、去毛刺、塗底漆、鉚接骨架"
  },
  "Duration": {
-  "t": "時長",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "時長"
+ },
+ "Each": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "單價"
  },
  "Each cable end": {
-  "t": "每個鋼索端頭",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "每個鋼索端頭"
  },
  "Each spar is a laminate: three nested blanks for the main spar, two for the rear. Fold every layer separately, then nest them.": {
-  "t": "每根翼梁都是疊層：主樑三塊巢狀毛坯，後梁兩塊。每層分別折彎，然後巢狀在一起。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "每根翼梁都是疊層：主樑三塊巢狀毛坯，後梁兩塊。每層分別折彎，然後巢狀在一起。"
  },
  "Each wing pins on at two points. The struts set its angle.": {
-  "t": "每側機翼在兩點用銷連線。撐杆決定其角度。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "每側機翼在兩點用銷連線。撐杆決定其角度。"
  },
  "Ears take an AN5 pin (fore-aft axis); web bolts with 2 x AN4. Bend radius 3t for normalised 4130 (Wanttaja).": {
-  "t": "耳片裝一根 AN5 銷（前後方向軸線）；腹板用 2 x AN4 固定。正火 4130 的折彎半徑為 3t（Wanttaja）。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "耳片裝一根 AN5 銷（前後方向軸線）；腹板用 2 x AN4 固定。正火 4130 的折彎半徑為 3t（Wanttaja）。"
  },
  "Electrics: 12 V LiFePO4 battery in a vented box under the seat. Run it via the master switch and fuses to the radio, with the antenna coax to a whip on the tailcone top. The mag P-lead goes through a firewall grommet. The half-VW's magneto needs no battery to run.": {
-  "t": "電氣：12 V LiFePO4 電池裝在座椅下的通風盒內。經總開關和保險絲接到無線電，天線同軸電纜通到尾錐頂部的鞭狀天線。磁電機 P 線穿過防火牆護線圈。半 VW 的磁電機不需要電池就能運轉。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "電氣：12 V LiFePO4 電池裝在座椅下的通風盒內。經總開關和保險絲接到無線電，天線同軸電纜通到尾錐頂部的鞭狀天線。磁電機 P 線穿過防火牆護線圈。半 VW 的磁電機不需要電池就能運轉。"
  },
  "Elevator bellcrank (under seat)": {
-  "t": "升降舵搖臂（座椅下）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "升降舵搖臂（座椅下）"
  },
  "Elevator cable x2": {
-  "t": "升降舵鋼索 x2",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "升降舵鋼索 x2"
  },
  "Elevator cable x2: 1/8 in 7x19 galvanised": {
-  "t": "升降舵鋼索 x2：1/8 in 7x19 鍍鋅",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "升降舵鋼索 x2：1/8 in 7x19 鍍鋅"
  },
  "Elevator cables: run one straight line each from the bellcrank to the tail-post grommet, 60 mm apart, up cable above down cable. Fit a phenolic fairlead where each line passes a bulkhead.": {
-  "t": "升降舵鋼索：每根從搖臂直線走到尾柱護線圈，間距 60 mm，拉起鋼索在推下鋼索上方。每條線穿過隔框處裝酚醛導纜器。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "升降舵鋼索：每根從搖臂直線走到尾柱護線圈，間距 60 mm，拉起鋼索在推下鋼索上方。每條線穿過隔框處裝酚醛導纜器。"
  },
  "Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
-  "t": "升降舵搖臂，4130 0.063in（雙端，裝在升降舵扭力管上）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "升降舵搖臂，4130 0.063in（雙端，裝在升降舵扭力管上）"
  },
  "Elevator skin": {
-  "t": "升降舵蒙皮",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "升降舵蒙皮"
  },
  "Elevator spar": {
-  "t": "升降舵梁",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "升降舵梁"
  },
  "Elevators and rudder: fold them the same way as the ailerons in step 7 (pleats, then the trailing-edge fold, then the C-spar).": {
-  "t": "升降舵和方向舵：按第 7 步副翼的方法折彎（先折褶，再折後緣，最後裝 C 形梁）。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "升降舵和方向舵：按第 7 步副翼的方法折彎（先折褶，再折後緣，最後裝 C 形梁）。"
  },
  "Empty / MTOW": {
-  "t": "空重 / MTOW",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "空重 / MTOW"
  },
  "Empty mass and balance": {
-  "t": "空重與重心",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "空重與重心"
  },
  "Empty mass at or below {mass:empty} plus 3 %, and every loading case inside the CG range.": {
-  "t": "空重不超過 {mass:empty} 加 3 %，且所有裝載工況都在重心範圍內。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "空重不超過 {mass:empty} 加 3 %，且所有裝載工況都在重心範圍內。"
  },
  "Empty tanks": {
-  "t": "空油箱",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "空油箱"
  },
  "Empty tanks, 5 kg baggage (aftmost)": {
-  "t": "空油箱，5 kg 行李（最靠後）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "空油箱，5 kg 行李（最靠後）"
  },
  "Endurance": {
-  "t": "續航時間",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "續航時間"
  },
  "Engine and prop": {
-  "t": "發動機和螺旋槳",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "發動機和螺旋槳"
  },
  "Engine and propeller": {
-  "t": "發動機和螺旋槳",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "發動機和螺旋槳"
  },
  "Engine mount": {
-  "t": "發動機架",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "發動機架"
  },
  "Engine mount to firewall, 4": {
-  "t": "發動機架連到防火牆，4",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "發動機架連到防火牆，4"
  },
  "Engine mount tube (4130)": {
-  "t": "發動機架管（4130）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "發動機架管（4130）"
  },
  "Engine runs: full-power static run, mag check, then check cylinder head temperatures.": {
-  "t": "發動機試車：全功率靜態試車、磁電機檢查，然後檢查氣缸頭溫度。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "發動機試車：全功率靜態試車、磁電機檢查，然後檢查氣缸頭溫度。"
  },
  "Engine to mount, 4": {
-  "t": "發動機連到發動機架，4",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "發動機連到發動機架，4"
  },
  "Engine, cowl, prop": {
-  "t": "發動機、整流罩、螺旋槳",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "發動機、整流罩、螺旋槳"
+ },
+ "Enter what one sheet costs where you are. The airframe needs about {n} of them, and the sheet lines below follow your price; everything else stays a converted UK estimate. Leave it empty to use the estimate of {price}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "輸入你所在地一張板材的價格。機身大約需要 {n} 張，下方的板材項目會按你的價格計算；其餘各項仍為換算後的英國估價。留空則使用估價 {price}。"
  },
  "Epoxy primer + etch/alodine": {
-  "t": "環氧底漆 + 酸蝕/alodine",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "環氧底漆 + 酸蝕/alodine"
  },
  "Estimated": {
-  "t": "估算",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "估算"
  },
  "Estimated flutter speed at least 1.2 × the design dive speed of {speed:Vd}.": {
-  "t": "估算顫振速度至少為設計俯衝速度 {speed:Vd} 的 1.2 ×。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "估算顫振速度至少為設計俯衝速度 {speed:Vd} 的 1.2 ×。"
  },
  "Every crease goes on the blank before anything is folded, the same order the origami book uses.": {
-  "t": "在折任何東西之前，先把所有摺痕畫在毛坯上，順序和摺紙書一樣。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在折任何東西之前，先把所有摺痕畫在毛坯上，順序和摺紙書一樣。"
  },
  "Every flange within ±0.5 mm of the drawing.": {
-  "t": "每個翻邊與圖紙偏差在 ±0.5 mm 以內。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "每個翻邊與圖紙偏差在 ±0.5 mm 以內。"
+ },
+ "Every folded blank, every rivet by grip, every AN bolt by step, plus tube stock, bought assemblies, consumables and tools. Each line has an estimated price. The same list is in BOM.csv and HARDWARE_BY_STEP.csv in the download.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "每一塊折彎胚料、按夾緊厚度列出的每一顆鉚釘、按步驟列出的每一顆 AN 螺栓，以及管材、外購組件、耗材和工具。每一行都有估計價格。下載包中的 BOM.csv 和 HARDWARE_BY_STEP.csv 裡是同一份清單。"
  },
  "Every number on this site is a calculation. This is the plan for turning them into evidence: cheap coupon tests first, then components, then the whole wing, then the ground and finally the air. Each phase retires a specific risk before money is spent on the next. Results go back into the repository, and measured values replace the estimates in aircraft.yaml.": {
-  "t": "本站的每一個數字都是計算結果。這是把它們變成證據的計劃：先做便宜的試樣試驗，然後是部件，然後是整個機翼，然後是地面，最後是空中。每個階段在為下一個階段花錢之前先消除一個具體風險。結果回到倉庫，實測值取代 aircraft.yaml 中的估算值。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "本站的每一個數字都是計算結果。這是把它們變成證據的計劃：先做便宜的試樣試驗，然後是部件，然後是整個機翼，然後是地面，最後是空中。每個階段在為下一個階段花錢之前先消除一個具體風險。結果回到倉庫，實測值取代 aircraft.yaml 中的估算值。"
  },
  "Every result, photo and failure goes into the repository.": {
-  "t": "每個結果、照片和失敗都放進倉庫。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "每個結果、照片和失敗都放進倉庫。"
  },
  "Every steel fitting is also a flat blank folded at most twice.": {
-  "t": "每個鋼製接頭也都是最多折兩次的平板毛坯。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "每個鋼製接頭也都是最多折兩次的平板毛坯。"
  },
  "Everything that goes into one aircraft": {
-  "t": "一架飛機所需的全部物品",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "一架飛機所需的全部物品"
  },
  "Exact": {
-  "t": "精確",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "精確"
  },
  "Exchange rates: {date}, base GBP.": {
-  "t": "匯率：{date}，以 GBP 為基準。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "匯率：{date}，以 GBP 為基準。"
  },
  "Export BOM (.csv)": {
-  "t": "匯出物料清單（.csv）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "匯出物料清單（.csv）"
  },
  "Extinguisher and PLB": {
-  "t": "滅火器和 PLB",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "滅火器和 PLB"
  },
  "F-B1 Tailcone bulkhead x=1150": {
-  "t": "F-B1 尾錐隔框 x=1150",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-B1 尾錐隔框 x=1150"
  },
  "F-B2 Tailcone bulkhead x=1948": {
-  "t": "F-B2 尾錐隔框 x=1948",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-B2 尾錐隔框 x=1948"
  },
  "F-B3 Tailcone bulkhead x=2745": {
-  "t": "F-B3 尾錐隔框 x=2745",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-B3 尾錐隔框 x=2745"
  },
  "F-B4 Tailcone bulkhead x=3542": {
-  "t": "F-B4 尾錐隔框 x=3542",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-B4 尾錐隔框 x=3542"
  },
  "F-B5 Tailcone bulkhead x=4340 (tail post)": {
-  "t": "F-B5 尾錐隔框 x=4340（尾柱）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-B5 尾錐隔框 x=4340（尾柱）"
  },
  "F-CL Lower cowl (box-pleat pan to the cabin floor line)": {
-  "t": "F-CL 下整流罩（箱式褶盤，延伸到座艙地板線）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-CL 下整流罩（箱式褶盤，延伸到座艙地板線）"
  },
  "F-CU Upper cowl (hood, two 90 deg folds)": {
-  "t": "F-CU 上整流罩（罩蓋，兩道 90 deg 折彎）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-CU 上整流罩（罩蓋，兩道 90 deg 折彎）"
  },
  "F-DW Door (left, hinged) / side window (right, fixed)": {
-  "t": "F-DW 艙門（左側，鉸接）/ 側窗（右側，固定）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-DW 艙門（左側，鉸接）/ 側窗（右側，固定）"
  },
  "F-FA Front arch (main-spar frame)": {
-  "t": "F-FA 前拱框（主樑框）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-FA 前拱框（主樑框）"
  },
  "F-FL Floor tray with two hat pleats": {
-  "t": "F-FL 帶兩道帽形褶的地板盤",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-FL 帶兩道帽形褶的地板盤"
  },
  "F-FW Firewall": {
-  "t": "F-FW 防火牆",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-FW 防火牆"
  },
  "F-FWN Front side window (x2, mirrored)": {
-  "t": "F-FWN 前側窗（x2，映象）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-FWN 前側窗（x2，映象）"
  },
  "F-IP Instrument panel (glare-shield fold, side tabs)": {
-  "t": "F-IP 儀表板（遮光罩折邊，側耳片）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-IP 儀表板（遮光罩折邊，側耳片）"
  },
  "F-NF Nose ring (prop-shaft hole + two cooling inlets)": {
-  "t": "F-NF 機頭環（槳軸孔 + 兩個冷卻進氣口）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-NF 機頭環（槳軸孔 + 兩個冷卻進氣口）"
  },
  "F-NL Nose bowl, chin (3 converging facets)": {
-  "t": "F-NL 機頭罩，下顎（3 個匯聚面）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-NL 機頭罩，下顎（3 個匯聚面）"
  },
  "F-NU Nose bowl, upper (3 converging facets)": {
-  "t": "F-NU 機頭罩，上部（3 個匯聚面）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-NU 機頭罩，上部（3 個匯聚面）"
  },
  "F-RA Rear arch (rear-spar frame)": {
-  "t": "F-RA 後拱框（後梁框）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-RA 後拱框（後梁框）"
  },
  "F-SD Cabin side (x2, mirrored): door/window opening + front window": {
-  "t": "F-SD 座艙側板（x2，映象）：門/窗開口 + 前窗",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-SD 座艙側板（x2，映象）：門/窗開口 + 前窗"
  },
  "F-ST Seat (pan + back, one sheet)": {
-  "t": "F-ST 座椅（坐板 + 靠背，一張板）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-ST 座椅（坐板 + 靠背，一張板）"
  },
  "F-TB1 Tailcone belly, section 1": {
-  "t": "F-TB1 尾錐底板，第 1 段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-TB1 尾錐底板，第 1 段"
  },
  "F-TB2 Tailcone belly, section 2": {
-  "t": "F-TB2 尾錐底板，第 2 段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-TB2 尾錐底板，第 2 段"
  },
  "F-TS1 Tailcone side, section 1 (x2, mirrored)": {
-  "t": "F-TS1 尾錐側板，第 1 段（x2，映象）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-TS1 尾錐側板，第 1 段（x2，映象）"
  },
  "F-TS2 Tailcone side, section 2 (x2, mirrored)": {
-  "t": "F-TS2 尾錐側板，第 2 段（x2，映象）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-TS2 尾錐側板，第 2 段（x2，映象）"
  },
  "F-TT1 Tailcone top, section 1": {
-  "t": "F-TT1 尾錐頂板，第 1 段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-TT1 尾錐頂板，第 1 段"
  },
  "F-TT2 Tailcone top, section 2": {
-  "t": "F-TT2 尾錐頂板，第 2 段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-TT2 尾錐頂板，第 2 段"
  },
  "F-WS Windscreen (cold-bent flat polycarbonate)": {
-  "t": "F-WS 風擋（冷彎平板聚碳酸酯）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "F-WS 風擋（冷彎平板聚碳酸酯）"
  },
  "Faceted rib: every flange is a straight brake bend, no form block or fluting needed.": {
-  "t": "多面體翼肋：每個翻邊都是折彎機上的一道直折，無需成形模或壓筋。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "多面體翼肋：每個翻邊都是折彎機上的一道直折，無需成形模或壓筋。"
  },
  "Fairleads and pulleys": {
-  "t": "導纜器和滑輪",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "導纜器和滑輪"
  },
  "Fasteners": {
-  "t": "緊韌體",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "緊韌體"
  },
  "Fin nose rib": {
-  "t": "垂直安定面前緣肋",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "垂直安定面前緣肋"
  },
  "Fin skin (one wrap)": {
-  "t": "垂直安定面蒙皮（一次包覆）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "垂直安定面蒙皮（一次包覆）"
  },
  "Fin spar": {
-  "t": "垂直安定面梁",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "垂直安定面梁"
  },
  "Final-drill every Cleco'd hole to #30 (3.3 mm), a few at a time, moving each Cleco to the next hole as you go.": {
-  "t": "把每個上了 Cleco 的孔終鑽到 #30（3.3 mm），每次幾個，邊鑽邊把 Cleco 移到下一個孔。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "把每個上了 Cleco 的孔終鑽到 #30（3.3 mm），每次幾個，邊鑽邊把 Cleco 移到下一個孔。"
  },
  "Fine felt marker, steel rule, square, MEK to clean": {
-  "t": "細記號筆、鋼尺、角尺、清潔用 MEK",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "細記號筆、鋼尺、角尺、清潔用 MEK"
  },
  "Finish: glue carpet on top of each beam so the wing skin can't be scratched. Load each stand with 40 kg and check it doesn't rack or rock. Keep the offcuts: they are your test pieces for the spar bend in step 2.": {
-  "t": "收尾：在每根橫樑頂面粘地毯，以免劃傷機翼蒙皮。每個支架載入 40 kg，檢查不變形、不搖晃。保留邊角料：它們是第 2 步翼梁折彎的試件。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "收尾：在每根橫樑頂面粘地毯，以免劃傷機翼蒙皮。每個支架載入 40 kg，檢查不變形、不搖晃。保留邊角料：它們是第 2 步翼梁折彎的試件。"
  },
  "Fire extinguisher 1 kg (clip by the left seat rail)": {
-  "t": "1 kg 滅火器（卡在左側座椅導軌旁）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "1 kg 滅火器（卡在左側座椅導軌旁）"
  },
  "Firewall": {
-  "t": "防火牆",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "防火牆"
  },
  "Firewall flanges": {
-  "t": "防火牆翻邊",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "防火牆翻邊"
  },
  "First flights": {
-  "t": "首飛",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "首飛"
  },
  "First-pass strength: +4 / −2 g, ×1.5 ultimate": {
-  "t": "初步強度：+4 / −2 g，×1.5 極限",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "初步強度：+4 / −2 g，×1.5 極限"
  },
  "Fit each rib by its attach flange: Cleco through the pilot holes into the spar web. Nose ribs go on the front face, main ribs on the back.": {
-  "t": "按連線翻邊安裝每根翼肋：Cleco 穿過定位孔插入翼梁腹板。前緣肋裝在前面，主肋裝在後面。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "按連線翻邊安裝每根翼肋：Cleco 穿過定位孔插入翼梁腹板。前緣肋裝在前面，主肋裝在後面。"
  },
  "Fit the axles, wheels and drum brakes. Castellated nut and cotter on each axle. The 21 x 8.00-6 tundra tyres run at 10-12 psi: check pressure before every flight, they are soft by design.": {
-  "t": "安裝輪軸、機輪和鼓式剎車。每根輪軸上裝槽形螺母和開口銷。21 x 8.00-6 苔原輪胎氣壓 10-12 psi：每次飛行前檢查氣壓，它們設計上就是軟的。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "安裝輪軸、機輪和鼓式剎車。每根輪軸上裝槽形螺母和開口銷。21 x 8.00-6 苔原輪胎氣壓 10-12 psi：每次飛行前檢查氣壓，它們設計上就是軟的。"
  },
  "Fit the cabin roof and the centre-section upper skin, back-drilled through the root ribs. Use the riveting loop.": {
-  "t": "安裝座艙頂和中央翼上蒙皮，穿過根肋反鑽。使用鉚接流程。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "安裝座艙頂和中央翼上蒙皮，穿過根肋反鑽。使用鉚接流程。"
  },
  "Fit the camlock receptacles on the firewall flange and along the split line. Trim the cowl until it clears the cylinders by at least 10 mm.": {
-  "t": "在防火牆翻邊和分縫線上安裝 Camlock 底座。修剪整流罩，直到與氣缸至少相距 10 mm。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在防火牆翻邊和分縫線上安裝 Camlock 底座。修剪整流罩，直到與氣缸至少相距 10 mm。"
  },
  "Fit the jury struts (420 mm main, 425 mm rear) from the clamp ear to the jury-top clevis under the spar, AN3 at each end. They double the strut's buckling strength.": {
-  "t": "安裝輔助撐杆（主 420 mm，後 425 mm），從夾箍耳片到翼梁下的輔助撐杆頂部 U 形叉，兩端各一個 AN3。它們使撐杆的屈曲強度加倍。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "安裝輔助撐杆（主 420 mm，後 425 mm），從夾箍耳片到翼梁下的輔助撐杆頂部 U 形叉，兩端各一個 AN3。它們使撐杆的屈曲強度加倍。"
  },
  "Fit the sides outside the arches, firewall flange and floor flanges. Back-drill and Cleco.": {
-  "t": "把側板裝在拱框、防火牆翻邊和地板翻邊外側。反鑽並上 Cleco。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "把側板裝在拱框、防火牆翻邊和地板翻邊外側。反鑽並上 Cleco。"
  },
  "Fit the stick, the aileron torque tube under the seat and the elevator bellcrank. Connect the stick to the bellcrank with a short pushrod.": {
-  "t": "安裝操縱桿、座椅下的副翼扭力管和升降舵搖臂。用一根短推拉桿把操縱桿連到搖臂。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "安裝操縱桿、座椅下的副翼扭力管和升降舵搖臂。用一根短推拉桿把操縱桿連到搖臂。"
  },
  "Five facets, chamfers matching the cabin floor. A louvre slot at the rear is the cooling-air exit.": {
-  "t": "五個面，倒角與座艙地板一致。後部的百葉槽是冷卻空氣出口。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "五個面，倒角與座艙地板一致。後部的百葉槽是冷卻空氣出口。"
  },
  "Flanges 90°, all toward the root": {
-  "t": "翻邊 90°，全部朝向根部",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "翻邊 90°，全部朝向根部"
  },
  "Flanges all round fold aft; engine mount bolts through 4 doublers.": {
-  "t": "四周翻邊全部向後折；發動機架穿過 4 塊加強板用螺栓固定。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "四周翻邊全部向後折；發動機架穿過 4 塊加強板用螺栓固定。"
  },
  "Flanges follow the frustum taper (fold < 90 deg).": {
-  "t": "翻邊順著稜臺錐度（折彎 < 90 deg）。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "翻邊順著稜臺錐度（折彎 < 90 deg）。"
  },
  "Flanges follow the frustum taper (fold < 90 deg). Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
-  "t": "翻邊順著稜臺錐度（折彎 < 90 deg）。疊層：2 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "翻邊順著稜臺錐度（折彎 < 90 deg）。疊層：2 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。"
  },
  "Flanges follow the nose taper.": {
-  "t": "翻邊順著機頭錐度。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "翻邊順著機頭錐度。"
  },
  "Flap lever (overhead, Kitfox-style)": {
-  "t": "襟翼手柄（頂置，Kitfox 式）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "襟翼手柄（頂置，Kitfox 式）"
  },
  "Flap pushrod (wing) x2": {
-  "t": "襟翼推拉桿（機翼）x2",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "襟翼推拉桿（機翼）x2"
  },
  "Flap pushrod (wing) x2: 6061-T6 3/8 x 0.035 in": {
-  "t": "襟翼推拉桿（機翼）x2：6061-T6 3/8 x 0.035 in",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "襟翼推拉桿（機翼）x2：6061-T6 3/8 x 0.035 in"
  },
  "Flap stall at or below 35 kt CAS, the SSDR limit; predicted {speed:Vs0}. Gentle stall, no wing drop.": {
-  "t": "放襟翼失速速度不超過 35 kt CAS（SSDR 限制）；預測值 {speed:Vs0}。失速柔和，無掉翼。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "放襟翼失速速度不超過 35 kt CAS（SSDR 限制）；預測值 {speed:Vs0}。失速柔和，無掉翼。"
  },
  "Flaps and ailerons": {
-  "t": "襟翼和副翼",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "襟翼和副翼"
  },
  "Flat panel; the top flange folds aft as a glare shield, side tabs fold forward onto the cabin sides. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
-  "t": "平板；頂部翻邊向後折成遮光罩，側耳片向前折貼到座艙側板上。疊層：2 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "平板；頂部翻邊向後折成遮光罩，側耳片向前折貼到座艙側板上。疊層：2 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。"
  },
  "Flat polycarbonate over the front cut-out, 20 mm lap, screws in 4.5 mm oversize holes.": {
-  "t": "平板聚碳酸酯蓋住前部開口，搭接 20 mm，螺釘裝在 4.5 mm 的擴大孔中。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "平板聚碳酸酯蓋住前部開口，搭接 20 mm，螺釘裝在 4.5 mm 的擴大孔中。"
  },
  "Flight test": {
-  "t": "試飛",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "試飛"
  },
  "Floor tray with two hat pleats": {
-  "t": "帶兩道帽形褶的地板盤",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "帶兩道帽形褶的地板盤"
  },
  "Floor, firewall, arches": {
-  "t": "地板、防火牆、拱框",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "地板、防火牆、拱框"
  },
  "Flutter": {
-  "t": "顫振",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "顫振"
  },
  "Foam tape": {
-  "t": "泡棉膠帶",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "泡棉膠帶"
  },
  "Fold 20 strips of 0.51 mm 6061-T6 at a 0.8 mm nose radius, across and along the grain. Inspect every bend under a 10× loupe.": {
-  "t": "把 20 條 0.51 mm 6061-T6 板條以 0.8 mm 刀頭半徑折彎，橫向和順紋各一半。用 10× 放大鏡檢查每道折彎。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "把 20 條 0.51 mm 6061-T6 板條以 0.8 mm 刀頭半徑折彎，橫向和順紋各一半。用 10× 放大鏡檢查每道折彎。"
  },
  "Fold a 300 mm offcut of a rib and of a spar from the real DXFs and measure every flange.": {
-  "t": "按真實 DXF 折一段 300 mm 的翼肋和翼梁邊角料，測量每個翻邊。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "按真實 DXF 折一段 300 mm 的翼肋和翼梁邊角料，測量每個翻邊。"
  },
  "Fold a 300 mm offcut of the same strip first and measure it to confirm the bend deduction.": {
-  "t": "先折一段同樣板條的 300 mm 邊角料並測量，確認折彎扣除量。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "先折一段同樣板條的 300 mm 邊角料並測量，確認折彎扣除量。"
  },
  "Fold all 52 ribs before assembling any: one brake set-up does the whole batch.": {
-  "t": "在裝配任何翼肋之前先把 52 根全部摺好：折彎機設定一次就能完成整批。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在裝配任何翼肋之前先把 52 根全部摺好：折彎機設定一次就能完成整批。"
  },
  "Fold coupons": {
-  "t": "折彎試樣",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "折彎試樣"
  },
  "Fold each belly blank: bottom, both chamfers, then the side flanges.": {
-  "t": "折每塊底板毛坯：底面、兩個倒角面，然後是側翻邊。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "折每塊底板毛坯：底面、兩個倒角面，然後是側翻邊。"
  },
  "Fold every rib flange 90° on the brake. Because the airfoil is faceted, each flange is one straight bend.": {
-  "t": "在折彎機上把每個翼肋翻邊折成 90°。因為翼型是多面體的，每個翻邊都只是一道直折。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在折彎機上把每個翼肋翻邊折成 90°。因為翼型是多面體的，每個翻邊都只是一道直折。"
  },
  "Fold the 12 clevises in the vise over a 5 mm radius block. Normalised 4130 needs at least 3t (Wanttaja).": {
-  "t": "在臺鉗中把 12 個 U 形叉在半徑 5 mm 的墊塊上折彎。正火 4130 至少需要 3t（Wanttaja）。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在臺鉗中把 12 個 U 形叉在半徑 5 mm 的墊塊上折彎。正火 4130 至少需要 3t（Wanttaja）。"
  },
  "Fold the 90° top flange and the windscreen flange on each side panel. The top flange is the longeron.": {
-  "t": "在每塊側板上折 90° 頂部翻邊和風擋翻邊。頂部翻邊就是縱梁。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在每塊側板上折 90° 頂部翻邊和風擋翻邊。頂部翻邊就是縱梁。"
  },
  "Fold the bulkhead flanges. They are 96–100°, not 90°, because they follow the taper.": {
-  "t": "折隔框翻邊。它們是 96–100°，不是 90°，因為要順著錐度。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "折隔框翻邊。它們是 96–100°，不是 90°，因為要順著錐度。"
  },
  "Fold the firewall flanges, all aft. It is stainless, so drill it slowly with a sharp bit and cutting oil.": {
-  "t": "折防火牆翻邊，全部向後。它是不鏽鋼，所以要用鋒利鑽頭加切削油慢慢鑽。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "折防火牆翻邊，全部向後。它是不鏽鋼，所以要用鋒利鑽頭加切削油慢慢鑽。"
  },
  "Fold the floor tray's two hat pleats, then the chamfers and side flanges.": {
-  "t": "折地板盤的兩道帽形褶，然後折倒角和側翻邊。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "折地板盤的兩道帽形褶，然後折倒角和側翻邊。"
  },
  "Fold the instrument panel (glare shield and side tabs) and rivet it to the cabin sides at x = -400 mm. Fit the ASI, altimeter, tach, CHT/EGT, radio, master and mag switches and fuel valve, and put the compass on the glare shield.": {
-  "t": "摺好儀表板（遮光罩和側耳片），在 x = -400 mm 處鉚到座艙側板上。裝上 ASI、高度表、轉速錶、CHT/EGT、無線電、總開關和磁電機開關以及燃油閥，羅盤放在遮光罩上。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "摺好儀表板（遮光罩和側耳片），在 x = -400 mm 處鉚到座艙側板上。裝上 ASI、高度表、轉速錶、CHT/EGT、無線電、總開關和磁電機開關以及燃油閥，羅盤放在遮光罩上。"
  },
  "Fold the ribs, Cleco them on": {
-  "t": "折翼肋，用 Cleco 固定",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "折翼肋，用 Cleco 固定"
  },
  "Fold the seat: pan and back from one sheet. Rivet its front lip to the floor and lean its back on the rear arch.": {
-  "t": "折座椅：坐板和靠背用一張板。把前唇鉚到地板上，靠背靠在後拱框上。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "折座椅：坐板和靠背用一張板。把前唇鉚到地板上，靠背靠在後拱框上。"
  },
  "Fold the spars": {
-  "t": "折翼梁",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "折翼梁"
  },
  "Fold the stabiliser and fin spars and their nose ribs.": {
-  "t": "折水平安定面梁、垂直安定面梁及其前緣肋。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "折水平安定面梁、垂直安定面梁及其前緣肋。"
  },
  "Fold the trailing edge over a 0.6 mm radius bar in the brake, to about 165°. Squeeze gently in soft vise jaws until the TE is straight.": {
-  "t": "在折彎機中把後緣在半徑 0.6 mm 的芯棒上折到約 165°。在軟鉗口中輕輕夾壓，直到後緣筆直。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在折彎機中把後緣在半徑 0.6 mm 的芯棒上折到約 165°。在軟鉗口中輕輕夾壓，直到後緣筆直。"
  },
  "Fold the two V-bead pleats in valley-mountain-valley order. Stop each bead at the marks.": {
-  "t": "按谷-山-谷的順序折兩道 V 形筋褶。每道筋都停在標記處。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "按谷-山-谷的順序折兩道 V 形筋褶。每道筋都停在標記處。"
  },
  "Fold the two arches: outer and inner flanges, all aft.": {
-  "t": "折兩個拱框：外翻邊和內翻邊，全部向後。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "折兩個拱框：外翻邊和內翻邊，全部向後。"
  },
  "Fold the two caps first (90°), then the two lips. Overbend by about 2° so the 6061-T6 springs back to 90°.": {
-  "t": "先折兩個緣條（90°），再折兩道卷邊。多折約 2°，讓 6061-T6 回彈到 90°。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "先折兩個緣條（90°），再折兩道卷邊。多折約 2°，讓 6061-T6 回彈到 90°。"
  },
  "Fold the upper and lower cowls (four 45° creases each) and the nose-bowl halves. Rivet the nose bowls to the nose ring.": {
-  "t": "折上下整流罩（各四道 45° 摺痕）和兩半機頭罩。把機頭罩鉚到機頭環上。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "折上下整流罩（各四道 45° 摺痕）和兩半機頭罩。把機頭罩鉚到機頭環上。"
  },
  "Folded blanks": {
-  "t": "摺好的毛坯",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "摺好的毛坯"
  },
  "Folds": {
-  "t": "折彎",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "折彎"
  },
  "Four brake bends each": {
-  "t": "每件四道折彎",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "每件四道折彎"
  },
  "Four identical surfaces from one blank. The trailing edge is a single crease, so there's no separate strip to rivet on.": {
-  "t": "四個相同舵面出自同一塊毛坯。後緣是一道摺痕，無需另鉚後緣條。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "四個相同舵面出自同一塊毛坯。後緣是一道摺痕，無需另鉚後緣條。"
  },
  "Four stands, 20 blanks, about 200 rivets. The cheapest place to learn to fold, drill and rivet is a part that never leaves the ground.": {
-  "t": "四個支架，20 塊毛坯，約 200 個鉚釘。學習折彎、鑽孔和鉚接最便宜的地方，是一個永遠不離開地面的零件。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "四個支架，20 塊毛坯，約 200 個鉚釘。學習折彎、鑽孔和鉚接最便宜的地方，是一個永遠不離開地面的零件。"
  },
  "Free play under 1° at each surface, and full travel with no binding under load.": {
-  "t": "每個舵面間隙小於 1°，受載時全行程無卡滯。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "每個舵面間隙小於 1°，受載時全行程無卡滯。"
  },
  "Front arch (main-spar frame)": {
-  "t": "前拱框（主樑框）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "前拱框（主樑框）"
  },
  "Front side window (x2, mirrored)": {
-  "t": "前側窗（x2，映象）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "前側窗（x2，映象）"
  },
  "Front side windows: screw over the cut-outs with a 20 mm lap.": {
-  "t": "前側窗：在開口上搭接 20 mm 用螺釘固定。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "前側窗：在開口上搭接 20 mm 用螺釘固定。"
  },
  "Frustum facets aimed at one point, so every crease is straight.": {
-  "t": "稜臺各面指向同一點，因此每條摺痕都是直的。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "稜臺各面指向同一點，因此每條摺痕都是直的。"
  },
  "Fuel": {
-  "t": "燃油",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "燃油"
  },
  "Fuel allowed": {
-  "t": "允許燃油",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "允許燃油"
  },
  "Fuel and payload": {
-  "t": "燃油和載荷",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "燃油和載荷"
  },
  "Fuel feed": {
-  "t": "燃油供給",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "燃油供給"
  },
  "Fuel filler neck + cap (through the hood, ahead of the windscreen)": {
-  "t": "加油口頸 + 蓋（穿過罩蓋，在風擋前方）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "加油口頸 + 蓋（穿過罩蓋，在風擋前方）"
  },
  "Fuel selector valve: HEADER / AUX / OFF": {
-  "t": "燃油選擇閥：HEADER / AUX / OFF",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "燃油選擇閥：HEADER / AUX / OFF"
  },
  "Fuel system parts": {
-  "t": "燃油系統零件",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "燃油系統零件"
  },
  "Fuel tank 19 L (rotomoulded polyethylene): header tank behind the firewall, ahead of the panel, Cub-style": {
-  "t": "19 L 油箱（滾塑聚乙烯）：防火牆後、儀表板前的主油箱，Cub 式",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "19 L 油箱（滾塑聚乙烯）：防火牆後、儀表板前的主油箱，Cub 式"
  },
  "Fuel tank 19 L (rotomoulded) + lines, valve, gascolator": {
-  "t": "19 L 油箱（滾塑）+ 油管、閥門、沉澱杯",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "19 L 油箱（滾塑）+ 油管、閥門、沉澱杯"
  },
  "Fuel, aux tank: a second 20 L tank strap-mounts high behind the seat, its bottom above the header tank top so it also gravity-feeds. Its line runs forward along the left roof rail to the selector; filler through the left cabin side, vent overboard under the roof. Never in the wings. Fill it only as far as the 300 kg MTOW allows: with a 100 kg pilot that is none at all. Burn the aux tank first, which keeps the CG moving forward.": {
-  "t": "燃油，副油箱：第二個 20 L 油箱用綁帶固定在座椅後上方，其底部高於主油箱頂部，因此也靠重力供油。油管沿左側頂梁向前通到選擇閥；加油口穿過座艙左側，通氣管在頂棚下通向機外。絕不放在機翼裡。只能加到 300 kg MTOW 允許的量：體重 100 kg 的駕駛員一點也不能加。先用副油箱的油，使重心不斷前移。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "燃油，副油箱：第二個 20 L 油箱用綁帶固定在座椅後上方，其底部高於主油箱頂部，因此也靠重力供油。油管沿左側頂梁向前通到選擇閥；加油口穿過座艙左側，通氣管在頂棚下通向機外。絕不放在機翼裡。只能加到 300 kg MTOW 允許的量：體重 100 kg 的駕駛員一點也不能加。先用副油箱的油，使重心不斷前移。"
  },
  "Fuel, header tank: the 19 L rotomoulded tank sits behind the firewall, above the pilot's shins and under the windscreen, strapped to two angles riveted to the side panels (as on a J-3 Cub). It gravity-feeds: tank outlet, selector valve (HEADER / AUX / OFF), a fire-sleeved hose through a firewall grommet, the gascolator on the firewall, then the carburettor. The tank bottom is about 200 mm above the carburettor. The filler neck comes up through the hood just ahead of the windscreen, and the vent runs forward under the hood.": {
-  "t": "燃油，主油箱：19 L 滾塑油箱位於防火牆後、駕駛員小腿上方、風擋下方，用綁帶固定在鉚到側板上的兩根角材上（如 J-3 Cub）。重力供油：油箱出口、選擇閥（HEADER / AUX / OFF）、穿過防火牆護線圈的防火套軟管、防火牆上的沉澱杯，然後到化油器。油箱底部比化油器高約 200 mm。加油口頸從風擋正前方的罩蓋穿出，通氣管在罩蓋下向前走。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "燃油，主油箱：19 L 滾塑油箱位於防火牆後、駕駛員小腿上方、風擋下方，用綁帶固定在鉚到側板上的兩根角材上（如 J-3 Cub）。重力供油：油箱出口、選擇閥（HEADER / AUX / OFF）、穿過防火牆護線圈的防火套軟管、防火牆上的沉澱杯，然後到化油器。油箱底部比化油器高約 200 mm。加油口頸從風擋正前方的罩蓋穿出，通氣管在罩蓋下向前走。"
  },
  "Gascolator (fuel strainer) on the firewall": {
-  "t": "防火牆上的沉澱杯（燃油濾）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "防火牆上的沉澱杯（燃油濾）"
  },
  "Glide L/D": {
-  "t": "滑翔比 L/D",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "滑翔比 L/D"
  },
  "Ground": {
-  "t": "地面",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "地面"
  },
  "Ground vibration test": {
-  "t": "地面振動試驗",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "地面振動試驗"
  },
  "Half-VW engine": {
-  "t": "半 VW 發動機",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "半 VW 發動機"
  },
  "Half-VW engine, dressed (carb, mag, exhaust)": {
-  "t": "半 VW 發動機，帶附件（化油器、磁電機、排氣）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "半 VW 發動機，帶附件（化油器、磁電機、排氣）"
  },
  "Hang the elevators and rudder on piano hinges. Check ±25° rudder travel clears the elevator halves.": {
-  "t": "用琴鉸鏈掛上升降舵和方向舵。檢查方向舵 ±25° 行程不碰到兩半升降舵。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "用琴鉸鏈掛上升降舵和方向舵。檢查方向舵 ±25° 行程不碰到兩半升降舵。"
  },
  "Hang the half-VW on rubber isolators (4 x AN5).": {
-  "t": "把半 VW 發動機掛在橡膠減振器上（4 x AN5）。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "把半 VW 發動機掛在橡膠減振器上（4 x AN5）。"
  },
  "Hangar": {
-  "t": "機庫",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "機庫"
  },
  "Hardware": {
-  "t": "五金件",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "五金件"
  },
  "Hardware for this step": {
-  "t": "本步驟五金件",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "本步驟五金件"
  },
  "Harness anchors to floor and rear arch, 4": {
-  "t": "安全帶固定點連到地板和後拱框，4",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "安全帶固定點連到地板和後拱框，4"
  },
  "Hat pleats 56°, flanges 90°": {
-  "t": "帽形褶 56°，翻邊 90°",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "帽形褶 56°，翻邊 90°"
  },
  "Have a BMAA or LAA inspector look at it before the first flight. Do first flights in calm air, over a long field.": {
-  "t": "首飛前請 BMAA 或 LAA 檢查員檢查。首飛選在靜風天氣，在長跑道上空進行。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "首飛前請 BMAA 或 LAA 檢查員檢查。首飛選在靜風天氣，在長跑道上空進行。"
  },
  "Head": {
-  "t": "缸頭",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "缸頭"
  },
  "Header tank full": {
-  "t": "主油箱滿",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主油箱滿"
  },
  "Holds ultimate load for 3 s in both directions.": {
-  "t": "雙向各承受極限載荷 3 s。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "雙向各承受極限載荷 3 s。"
  },
  "Holds ultimate load for 3 s. Peak cap stress {stress:ms_sig} against an allowable of {stress:ms_cc}.": {
-  "t": "承受極限載荷 3 s。緣條峰值應力 {stress:ms_sig}，許用值 {stress:ms_cc}。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "承受極限載荷 3 s。緣條峰值應力 {stress:ms_sig}，許用值 {stress:ms_cc}。"
  },
  "Holds {force:strut_T} in tension and {force:strut_C} in compression with no failure.": {
-  "t": "承受 {force:strut_T} 拉伸和 {force:strut_C} 壓縮而不破壞。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "承受 {force:strut_T} 拉伸和 {force:strut_C} 壓縮而不破壞。"
  },
  "Honesty": {
-  "t": "坦誠",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "坦誠"
  },
  "Horn: rod end bolts through the outer hole (AN3).": {
-  "t": "搖臂：杆端軸承用螺栓穿過外側孔（AN3）。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "搖臂：杆端軸承用螺栓穿過外側孔（AN3）。"
  },
  "Horns, bellcranks and brackets": {
-  "t": "搖臂、搖臂組和支架",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "搖臂、搖臂組和支架"
  },
  "How it gets proven": {
-  "t": "如何證明",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "如何證明"
+ },
+ "Imperial": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "英制"
  },
  "Inspect each rivet: head seated flat, mandrel broken off flush, no gap under the head.": {
-  "t": "檢查每個鉚釘：釘頭貼平，芯杆齊平斷開，釘頭下無縫隙。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "檢查每個鉚釘：釘頭貼平，芯杆齊平斷開，釘頭下無縫隙。"
  },
  "Inspection": {
-  "t": "檢查",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "檢查"
  },
  "Inspector sign-off before the aircraft is flown by anyone else.": {
-  "t": "在任何其他人駕駛這架飛機之前，須經檢查員簽字。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在任何其他人駕駛這架飛機之前，須經檢查員簽字。"
  },
  "Instructions": {
-  "t": "說明",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "說明"
  },
  "Instrument panel (glare-shield fold, side tabs)": {
-  "t": "儀表板（遮光罩折邊，側耳片）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "儀表板（遮光罩折邊，側耳片）"
  },
  "Instruments (ASI, alt, tach, CHT, compass)": {
-  "t": "儀表（ASI、高度表、轉速錶、CHT、羅盤）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "儀表（ASI、高度表、轉速錶、CHT、羅盤）"
  },
  "Inverted wing on its fittings, sandbags laid out to the spanwise lift distribution, to +4 g limit and then −2 g. Measure tip deflection at each step.": {
-  "t": "機翼倒置裝在其接頭上，沙袋按展向升力分佈擺放，先加到 +4 g 限制，再到 −2 g。每一步測量翼尖撓度。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "機翼倒置裝在其接頭上，沙袋按展向升力分佈擺放，先加到 +4 g 限制，再到 −2 g。每一步測量翼尖撓度。"
+ },
+ "Item": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "項目"
  },
  "Jury strut 0.75 x 0.049 in": {
-  "t": "輔助撐杆 0.75 x 0.049 in",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "輔助撐杆 0.75 x 0.049 in"
  },
  "Jury strut x2 (main)": {
-  "t": "輔助撐杆 x2（主）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "輔助撐杆 x2（主）"
  },
  "Jury strut x2 (main): 6061-T6 0.75 x 0.049 in": {
-  "t": "輔助撐杆 x2（主）：6061-T6 0.75 x 0.049 in",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "輔助撐杆 x2（主）：6061-T6 0.75 x 0.049 in"
  },
  "Jury strut x2 (rear)": {
-  "t": "輔助撐杆 x2（後）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "輔助撐杆 x2（後）"
  },
  "Jury strut x2 (rear): 6061-T6 0.75 x 0.049 in": {
-  "t": "輔助撐杆 x2（後）：6061-T6 0.75 x 0.049 in",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "輔助撐杆 x2（後）：6061-T6 0.75 x 0.049 in"
  },
  "Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
-  "t": "輔助撐杆鞍形夾箍，4130 0.063in（帶耳片的卷制半殼）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "輔助撐杆鞍形夾箍，4130 0.063in（帶耳片的卷制半殼）"
  },
  "K-BC Bellcrank plate, 4130 0.063in (pairs, 55 mm arms)": {
-  "t": "K-BC 搖臂板，4130 0.063in（成對，55 mm 臂）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "K-BC 搖臂板，4130 0.063in（成對，55 mm 臂）"
  },
  "K-CV Clevis, 4130 0.063in (U, two folds)": {
-  "t": "K-CV U 形叉，4130 0.063in（U 形，兩道折彎）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "K-CV U 形叉，4130 0.063in（U 形，兩道折彎）"
  },
  "K-HD Elevator horn, 4130 0.063in (double-ended, on the elevator torque tube)": {
-  "t": "K-HD 升降舵搖臂，4130 0.063in（雙端，裝在升降舵扭力管上）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "K-HD 升降舵搖臂，4130 0.063in（雙端，裝在升降舵扭力管上）"
  },
  "K-HN Aileron / flap horn, 4130 0.063in (one fold onto the lower skin)": {
-  "t": "K-HN 副翼 / 襟翼搖臂，4130 0.063in（一道折彎貼在下蒙皮上）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "K-HN 副翼 / 襟翼搖臂，4130 0.063in（一道折彎貼在下蒙皮上）"
  },
  "K-HR Rudder horn, 4130 0.063in (flat, cable each side)": {
-  "t": "K-HR 方向舵搖臂，4130 0.063in（平板，兩側各一根鋼索）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "K-HR 方向舵搖臂，4130 0.063in（平板，兩側各一根鋼索）"
  },
  "K-JC Jury-strut saddle clamp, 4130 0.063in (rolled half-shell with ears)": {
-  "t": "K-JC 輔助撐杆鞍形夾箍，4130 0.063in（帶耳片的卷制半殼）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "K-JC 輔助撐杆鞍形夾箍，4130 0.063in（帶耳片的卷制半殼）"
  },
  "K-TG Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
-  "t": "K-TG 翼梁根部接耳，4130 0.063in（平板，成對夾在腹板兩側）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "K-TG 翼梁根部接耳，4130 0.063in（平板，成對夾在腹板兩側）"
  },
  "Laminate: each channel is two blanks. Fold both separately, nest the inner one inside the outer one, and check they sit tight with no gap. If the inner one fights, take 0.5 mm off its flange edges.": {
-  "t": "疊層：每根槽材由兩塊毛坯組成。分別折彎，把內層嵌進外層，檢查貼緊無縫隙。如果內層裝不進，就把它的翻邊邊緣修去 0.5 mm。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "疊層：每根槽材由兩塊毛坯組成。分別折彎，把內層嵌進外層，檢查貼緊無縫隙。如果內層裝不進，就把它的翻邊邊緣修去 0.5 mm。"
  },
  "Laminated channel crippling": {
-  "t": "疊層槽材皺損",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "疊層槽材皺損"
  },
  "Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
-  "t": "疊層：2 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "疊層：2 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。"
  },
  "Landing gear and tailwheel": {
-  "t": "起落架和尾輪",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "起落架和尾輪"
  },
  "Landing roll": {
-  "t": "著陸滑跑",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "著陸滑跑"
  },
  "Language": {
-  "t": "語言",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "語言"
  },
  "Laps 30 mm under the upper skin at 8% chord.": {
-  "t": "在 8% 弦長處搭接在上蒙皮下 30 mm。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在 8% 弦長處搭接在上蒙皮下 30 mm。"
  },
  "Laser / waterjet cutting service": {
-  "t": "鐳射 / 水刀切割服務",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "鐳射 / 水刀切割服務"
  },
  "Lay the spars on a flat table, webs vertical, 3.6 m apart for the two wings.": {
-  "t": "把翼梁放在平整的桌面上，腹板豎直，兩側機翼相距 3.6 m。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "把翼梁放在平整的桌面上，腹板豎直，兩側機翼相距 3.6 m。"
  },
  "Leans on the rear arch.": {
-  "t": "靠在後拱框上。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "靠在後拱框上。"
  },
  "Leave the protective film on. Drill the polycarbonate with plastic bits, holes 6 mm for M4 screws so it can expand.": {
-  "t": "保留保護膜。用塑膠鑽頭鑽聚碳酸酯，M4 螺釘開 6 mm 孔，讓它能夠膨脹。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "保留保護膜。用塑膠鑽頭鑽聚碳酸酯，M4 螺釘開 6 mm 孔，讓它能夠膨脹。"
  },
  "Left door front edge": {
-  "t": "左艙門前緣",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "左艙門前緣"
  },
  "Licence": {
-  "t": "許可協議",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "許可協議"
  },
  "Lift strut (main) 1.75 x 0.065 in": {
-  "t": "升力撐杆（主）1.75 x 0.065 in",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "升力撐杆（主）1.75 x 0.065 in"
  },
  "Lift strut (rear) 1.75 x 0.065 in": {
-  "t": "升力撐杆（後）1.75 x 0.065 in",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "升力撐杆（後）1.75 x 0.065 in"
  },
  "Lift strut, tension": {
-  "t": "升力撐杆，拉伸",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "升力撐杆，拉伸"
  },
  "Lift strut, −2 g buckling (with jury strut)": {
-  "t": "升力撐杆，−2 g 屈曲（帶輔助撐杆）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "升力撐杆，−2 g 屈曲（帶輔助撐杆）"
  },
  "Lift struts and jury struts": {
-  "t": "升力撐杆和輔助撐杆",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "升力撐杆和輔助撐杆"
+ },
+ "Line": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "小計"
  },
  "Lipped channels: four 90° brake bends each, two nested layers": {
-  "t": "卷邊槽材：每件四道 90° 折彎，兩層巢狀",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "卷邊槽材：每件四道 90° 折彎，兩層巢狀"
  },
  "Load each linkage part to 1.5 × the BCAR Section S pilot loads at the stick and pedals.": {
-  "t": "在操縱桿和腳蹬處把每個連桿零件載入到 BCAR Section S 駕駛員載荷的 1.5 ×。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在操縱桿和腳蹬處把每個連桿零件載入到 BCAR Section S 駕駛員載荷的 1.5 ×。"
+ },
+ "Local-price estimate": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "本地價格估算"
+ },
+ "Local-price estimate for {country}, in {currency}, before any local sales tax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "{country}的本地價格估算，以 {currency} 計，未含當地銷售稅。"
+ },
+ "Local-price estimate for {country}, in {currency}, including {tax} % VAT, GST or sales tax.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "{country}的本地價格估算，以 {currency} 計，含 {tax} % 加值稅、GST 或銷售稅。"
  },
  "Low-speed taxi, then fast taxi with the tail up, on the intended test field.": {
-  "t": "在預定試驗場先低速滑行，再抬尾高速滑行。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在預定試驗場先低速滑行，再抬尾高速滑行。"
  },
  "Lower cowl (box-pleat pan to the cabin floor line)": {
-  "t": "下整流罩（箱式褶盤，延伸到座艙地板線）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "下整流罩（箱式褶盤，延伸到座艙地板線）"
  },
  "Lower skin, bay 1": {
-  "t": "下蒙皮，第 1 艙段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "下蒙皮，第 1 艙段"
  },
  "Lower skin, bay 2": {
-  "t": "下蒙皮，第 2 艙段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "下蒙皮，第 2 艙段"
  },
  "Lower skin, bay 3": {
-  "t": "下蒙皮，第 3 艙段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "下蒙皮，第 3 艙段"
  },
  "Lower skins": {
-  "t": "下蒙皮",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "下蒙皮"
  },
  "M4 pan screw, nylon washer, M4 Nyloc nut, 6 mm oversize hole in polycarbonate": {
-  "t": "M4 盤頭螺釘、尼龍墊圈、M4 Nyloc 螺母，聚碳酸酯上開 6 mm 擴大孔",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "M4 盤頭螺釘、尼龍墊圈、M4 Nyloc 螺母，聚碳酸酯上開 6 mm 擴大孔"
  },
  "MEK / cleaner, Scotch-Brite, gloves": {
-  "t": "MEK / 清潔劑、Scotch-Brite、手套",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "MEK / 清潔劑、Scotch-Brite、手套"
  },
  "Main gear leg x2": {
-  "t": "主起落架腿 x2",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主起落架腿 x2"
  },
  "Main gear leg x2: 6061-T6 bar 75 x 16 mm": {
-  "t": "主起落架腿 x2：6061-T6 扁鋼 75 x 16 mm",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主起落架腿 x2：6061-T6 扁鋼 75 x 16 mm"
  },
  "Main gear legs through floor doubler, 2 per leg": {
-  "t": "主起落架腿穿過地板加強板，每條腿 2 個",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主起落架腿穿過地板加強板，每條腿 2 個"
  },
  "Main gear spring leg (6061-T6 bar)": {
-  "t": "主起落架彈簧腿（6061-T6 扁鋼）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主起落架彈簧腿（6061-T6 扁鋼）"
  },
  "Main gear: 2 spring legs + axles": {
-  "t": "主起落架：2 條彈簧腿 + 輪軸",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主起落架：2 條彈簧腿 + 輪軸"
  },
  "Main lift strut x2": {
-  "t": "主升力撐杆 x2",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主升力撐杆 x2"
  },
  "Main lift strut x2: 6061-T6 1.75 x 0.065 in": {
-  "t": "主升力撐杆 x2：6061-T6 1.75 x 0.065 in",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主升力撐杆 x2：6061-T6 1.75 x 0.065 in"
  },
  "Main rib": {
-  "t": "主翼肋",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主翼肋"
  },
  "Main rib, root/tip": {
-  "t": "主翼肋，根部/翼尖",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主翼肋，根部/翼尖"
  },
  "Main spar (lipped C, opens aft)": {
-  "t": "主樑（卷邊 C 形，開口向後）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主樑（卷邊 C 形，開口向後）"
  },
  "Main spar section": {
-  "t": "主樑段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主樑段"
  },
  "Main spar web shear, limit": {
-  "t": "主樑腹板剪下，限制",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主樑腹板剪下，限制"
  },
  "Main spar: lipped C, three layers of 0.020 in": {
-  "t": "主樑：卷邊 C 形，三層 0.020 in",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主樑：卷邊 C 形，三層 0.020 in"
  },
  "Main wheel: 21 x 8.00-6 tundra tyre at 10-12 psi": {
-  "t": "主輪：21 x 8.00-6 苔原輪胎，10-12 psi",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主輪：21 x 8.00-6 苔原輪胎，10-12 psi"
  },
  "Main wheels": {
-  "t": "主輪",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主輪"
  },
  "Margin": {
-  "t": "裕度",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "裕度"
  },
  "Mark fold lines on the marked face: red dashed = valley, blue dash-dot = mountain. Use a fine felt marker, never a scribe (Wanttaja: scribe lines start cracks).": {
-  "t": "在標記面上畫折線：紅色虛線 = 谷折，藍色點劃線 = 山折。用細記號筆，絕不用劃針（Wanttaja：劃痕會引發裂紋）。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在標記面上畫折線：紅色虛線 = 谷折，藍色點劃線 = 山折。用細記號筆，絕不用劃針（Wanttaja：劃痕會引發裂紋）。"
  },
  "Mark folds with felt pen, never a scribe": {
-  "t": "用記號筆標折線，絕不用劃針",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "用記號筆標折線，絕不用劃針"
  },
  "Mark the folds: red dashed is a valley, blue dash-dot is a mountain. Felt marker on the marked face only, never a scribe.": {
-  "t": "標出折線：紅色虛線是谷折，藍色點劃線是山折。只在標記面上用記號筆，絕不用劃針。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "標出折線：紅色虛線是谷折，藍色點劃線是山折。只在標記面上用記號筆，絕不用劃針。"
  },
  "Mass": {
-  "t": "質量",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "質量"
  },
  "Mass balance weights": {
-  "t": "質量平衡配重",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "質量平衡配重"
  },
  "Mass-balance each aileron with lead on an arm ahead of the hinge until it hangs level, before it goes on the aircraft.": {
-  "t": "在裝上飛機之前，在鉸鏈前方的臂上加鉛給每個副翼配平，直到它水平懸掛。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在裝上飛機之前，在鉸鏈前方的臂上加鉛給每個副翼配平，直到它水平懸掛。"
  },
  "Mass-balance horn at outboard end.": {
-  "t": "外端的質量平衡臂。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "外端的質量平衡臂。"
  },
  "Mean strength at or above the value used in design, scatter under 10 %.": {
-  "t": "平均強度不低於設計採用值，離散度小於 10 %。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "平均強度不低於設計採用值，離散度小於 10 %。"
  },
  "Measure gravity flow from each tank, with the aircraft at its steepest climb attitude plus margin.": {
-  "t": "在飛機處於最陡爬升姿態再加裕度時，測量每個油箱的重力供油量。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在飛機處於最陡爬升姿態再加裕度時，測量每個油箱的重力供油量。"
  },
  "Measure twist under a known torque at the tip rib.": {
-  "t": "在翼尖肋處施加已知扭矩，測量扭轉角。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在翼尖肋處施加已知扭矩，測量扭轉角。"
  },
  "Measured climb, cruise and glide recorded against the predictions on the numbers tab.": {
-  "t": "實測爬升、巡航和滑翔資料，與數字頁中的預測值對照記錄。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "實測爬升、巡航和滑翔資料，與數字頁中的預測值對照記錄。"
  },
  "Measured values replace estimates in aircraft.yaml, and the build manual is revised.": {
-  "t": "實測值取代 aircraft.yaml 中的估算值，並修訂製造手冊。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "實測值取代 aircraft.yaml 中的估算值，並修訂製造手冊。"
  },
  "Member": {
-  "t": "構件",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "構件"
  },
  "Method": {
-  "t": "方法",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "方法"
+ },
+ "Metric": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "公制"
  },
  "Mid CG, calm air, long field, circuit height only, an experienced test pilot.": {
-  "t": "中等重心，靜風，長跑道，只在起落航線高度，由有經驗的試飛員駕駛。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "中等重心，靜風，長跑道，只在起落航線高度，由有經驗的試飛員駕駛。"
  },
  "Month 10": {
-  "t": "第 10 個月",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "第 10 個月"
  },
  "Month 4": {
-  "t": "第 4 個月",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "第 4 個月"
  },
  "Month 5": {
-  "t": "第 5 個月",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "第 5 個月"
  },
  "Months 2–3": {
-  "t": "第 2–3 個月",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "第 2–3 個月"
  },
  "Months 6–9": {
-  "t": "第 6–9 個月",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "第 6–9 個月"
  },
  "Move the CG from forward to aft in steps, checking stick-free stability at each.": {
-  "t": "把重心分步從前移到後，每一步檢查松杆穩定性。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "把重心分步從前移到後，每一步檢查松杆穩定性。"
  },
  "Nicopress sleeve + thimble (1/8 in cable)": {
-  "t": "Nicopress 壓套 + 心環（1/8 in 鋼索）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "Nicopress 壓套 + 心環（1/8 in 鋼索）"
  },
  "Nicopress tool + cable cutter": {
-  "t": "Nicopress 工具 + 鋼索剪",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "Nicopress 工具 + 鋼索剪"
  },
  "No cracks, and springback within 2° of prediction.": {
-  "t": "無裂紋，回彈與預測相差在 2° 以內。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "無裂紋，回彈與預測相差在 2° 以內。"
  },
  "No flutter or buzz up to {speed:Vne}.": {
-  "t": "直到 {speed:Vne} 都無顫振或嗡鳴。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "直到 {speed:Vne} 都無顫振或嗡鳴。"
  },
  "No permanent set after unloading. Deflection within 15 % of prediction.": {
-  "t": "解除安裝後無永久變形。撓度與預測相差在 15 % 以內。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "解除安裝後無永久變形。撓度與預測相差在 15 % 以內。"
  },
  "No permanent set at limit, no failure at ultimate.": {
-  "t": "限制載荷下無永久變形，極限載荷下不破壞。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "限制載荷下無永久變形，極限載荷下不破壞。"
  },
  "No physical part has been cut. Fold one rib and one spar offcut first to check the bend deduction.": {
-  "t": "尚未切割任何實物零件。先折一段翼肋和一段翼梁邊角料，檢查折彎扣除量。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尚未切割任何實物零件。先折一段翼肋和一段翼梁邊角料，檢查折彎扣除量。"
  },
  "No yield at limit load, no failure at ultimate.": {
-  "t": "限制載荷下不屈服，極限載荷下不破壞。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "限制載荷下不屈服，極限載荷下不破壞。"
  },
  "Nose bowl, chin (3 converging facets)": {
-  "t": "機頭罩，下顎（3 個匯聚面）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "機頭罩，下顎（3 個匯聚面）"
  },
  "Nose bowl, upper (3 converging facets)": {
-  "t": "機頭罩，上部（3 個匯聚面）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "機頭罩，上部（3 個匯聚面）"
  },
  "Nose rib": {
-  "t": "前緣肋",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "前緣肋"
  },
  "Nose rib, root/tip": {
-  "t": "前緣肋，根部/翼尖",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "前緣肋，根部/翼尖"
  },
  "Nose ring (prop-shaft hole + two cooling inlets)": {
-  "t": "機頭環（槳軸孔 + 兩個冷卻進氣口）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "機頭環（槳軸孔 + 兩個冷卻進氣口）"
  },
  "Nose rolled over 75 mm tube": {
-  "t": "前緣繞 75 mm 管卷圓",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "前緣繞 75 mm 管卷圓"
  },
  "Nose zone is rolled over a 75 mm tube; aft creases are soft brake hits (2-6 deg).": {
-  "t": "前緣區域繞 75 mm 管卷圓；後部摺痕是折彎機的輕壓（2-6 deg）。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "前緣區域繞 75 mm 管卷圓；後部摺痕是折彎機的輕壓（2-6 deg）。"
  },
  "Not analysed yet": {
-  "t": "尚未分析",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尚未分析"
  },
  "Not proven": {
-  "t": "未經證明",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "未經證明"
  },
  "Notes": {
-  "t": "備註",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "備註"
  },
  "One 90 degree flange stiffens the free edge. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
-  "t": "一道 90 度翻邊加強自由邊。疊層：2 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "一道 90 度翻邊加強自由邊。疊層：2 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。"
  },
  "One hour of progressive ground running, with cylinder head and exhaust temperatures logged.": {
-  "t": "一小時漸進式地面試車，記錄缸頭溫度和排氣溫度。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "一小時漸進式地面試車，記錄缸頭溫度和排氣溫度。"
  },
  "One-wrap skins, sharp trailing edges": {
-  "t": "一次包覆蒙皮，尖銳後緣",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "一次包覆蒙皮，尖銳後緣"
  },
  "Open-source aircraft": {
-  "t": "開源飛機",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "開源飛機"
  },
  "Order as 12 ft strip. Lips turn the free flange edges into supported edges (k 0.43 -> ~4). Laminated: 3 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
-  "t": "訂購 12 ft 長的條料。卷邊把翻邊的自由邊變成支承邊（k 0.43 -> ~4）。疊層：3 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "訂購 12 ft 長的條料。卷邊把翻邊的自由邊變成支承邊（k 0.43 -> ~4）。疊層：3 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。"
  },
  "Paint": {
-  "t": "塗裝",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "塗裝"
  },
  "Paint, then weigh on three scales in the level attitude. Work out the empty CG and check every loading case falls inside the design range in DESIGN_REPORT.md (about 28–33 % MAC).": {
-  "t": "塗裝後，在水平姿態下用三臺秤稱重。算出空機重心，並檢查所有裝載工況都在 DESIGN_REPORT.md 中的設計範圍內（約 28–33 % MAC）。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "塗裝後，在水平姿態下用三臺秤稱重。算出空機重心，並檢查所有裝載工況都在 DESIGN_REPORT.md 中的設計範圍內（約 28–33 % MAC）。"
  },
  "Panel: glare-shield fold 90°, side tabs 90°": {
-  "t": "儀表板：遮光罩折邊 90°，側耳片 90°",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "儀表板：遮光罩折邊 90°，側耳片 90°"
  },
  "Parts": {
-  "t": "零件",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "零件"
  },
  "Pass when": {
-  "t": "合格條件",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "合格條件"
  },
  "Performance": {
-  "t": "效能",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "效能"
  },
  "Phases": {
-  "t": "階段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "階段"
  },
  "Piano hinge": {
-  "t": "琴鉸鏈",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "琴鉸鏈"
  },
  "Piano hinge MS20001 + door latch": {
-  "t": "MS20001 琴鉸鏈 + 門鎖",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "MS20001 琴鉸鏈 + 門鎖"
  },
  "Pilot": {
-  "t": "駕駛員",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "駕駛員"
  },
  "Pilot (95th pct, for scale)": {
-  "t": "駕駛員（第 95 百分位，用作比例）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "駕駛員（第 95 百分位，用作比例）"
  },
  "Pilot, fuel and baggage share one budget: maximum take-off mass minus empty mass. Both tanks are in the cabin, never in the wings: an 18 L header tank behind the firewall and a 20 L aux tank high behind the seat, both gravity-fed through one selector. A light pilot can fill both. A heavy pilot gets the header tank or less. Burn the aux tank first.": {
-  "t": "駕駛員、燃油和行李共用同一份預算：最大起飛質量減去空重。兩個油箱都在座艙內，絕不在機翼裡：防火牆後一個 18 L 主油箱，座椅後上方一個 20 L 副油箱，都經同一個選擇閥重力供油。體重輕的駕駛員可以兩個都加滿。體重大的駕駛員只能加主油箱或更少。先用副油箱。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "駕駛員、燃油和行李共用同一份預算：最大起飛質量減去空重。兩個油箱都在座艙內，絕不在機翼裡：防火牆後一個 18 L 主油箱，座椅後上方一個 20 L 副油箱，都經同一個選擇閥重力供油。體重輕的駕駛員可以兩個都加滿。體重大的駕駛員只能加主油箱或更少。先用副油箱。"
  },
  "Pitot tube (left wing, ahead of the LE)": {
-  "t": "皮托管（左翼，前緣前方）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "皮托管（左翼，前緣前方）"
  },
  "Pitot-static: pitot tube under the left wing at the 1.2 m rib. Run its line inside the wing ahead of the main spar to the root and down the A-pillar to the ASI. A static port on the left cabin side feeds the altimeter and ASI. Secure everything with Adel clamps every 300 mm.": {
-  "t": "皮託靜壓：皮托管位於左翼下 1.2 m 翼肋處。管路在機翼內主樑前方走到根部，再沿 A 柱向下到 ASI。座艙左側的靜壓孔為高度表和 ASI 供壓。每隔 300 mm 用 Adel 卡箍固定。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "皮託靜壓：皮托管位於左翼下 1.2 m 翼肋處。管路在機翼內主樑前方走到根部，再沿 A 柱向下到 ASI。座艙左側的靜壓孔為高度表和 ASI 供壓。每隔 300 mm 用 Adel 卡箍固定。"
  },
  "Planar: no forming, drill with plastic-cutting bits, slotted holes for expansion.": {
-  "t": "平面件：無需成形，用塑膠鑽頭鑽孔，開長圓孔以便膨脹。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "平面件：無需成形，用塑膠鑽頭鑽孔，開長圓孔以便膨脹。"
  },
  "Plastic-cutting drill bits / step drill": {
-  "t": "塑膠鑽頭 / 階梯鑽",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "塑膠鑽頭 / 階梯鑽"
  },
  "Positive stability at the aft limit; predicted minimum static margin {pct:SM_min}.": {
-  "t": "後限處為正穩定性；預測最小靜穩定裕度 {pct:SM_min}。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "後限處為正穩定性；預測最小靜穩定裕度 {pct:SM_min}。"
  },
  "Press or bolt a 4130 end fork into each tube end. Drill the AN5 pin hole after the final length check on the aircraft.": {
-  "t": "在每個管端壓入或用螺栓裝上 4130 端叉。在飛機上最終核對長度後再鑽 AN5 銷孔。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在每個管端壓入或用螺栓裝上 4130 端叉。在飛機上最終核對長度後再鑽 AN5 銷孔。"
  },
  "Prime the faying surfaces: Scotch-Brite, wash, etch or alodine, then epoxy primer. Wear gloves (Wanttaja: finger oils stop primer sticking).": {
-  "t": "給貼合面塗底漆：Scotch-Brite 打磨、清洗、酸蝕或 alodine，然後塗環氧底漆。戴手套（Wanttaja：手指油脂會讓底漆附著不牢）。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "給貼合面塗底漆：Scotch-Brite 打磨、清洗、酸蝕或 alodine，然後塗環氧底漆。戴手套（Wanttaja：手指油脂會讓底漆附著不牢）。"
  },
  "Primer part: two nested layers folded on the brake and riveted as one. Glue carpet on the web. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
-  "t": "入門件：兩層巢狀，在折彎機上摺好後鉚成一體。在腹板上粘地毯。疊層：2 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "入門件：兩層巢狀，在折彎機上摺好後鉚成一體。在腹板上粘地毯。疊層：2 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。"
  },
  "Primer: build the wing stands": {
-  "t": "入門：製作機翼支架",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "入門：製作機翼支架"
  },
  "Proof-load the wing upside down with sandbags to +4 g limit load, spread spanwise. It must show no permanent set.": {
-  "t": "把機翼倒置，用沙袋按展向分佈載入到 +4 g 限制載荷。不得出現永久變形。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "把機翼倒置，用沙袋按展向分佈載入到 +4 g 限制載荷。不得出現永久變形。"
  },
  "Prop drive hub (flange)": {
-  "t": "螺旋槳驅動轂（法蘭）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "螺旋槳驅動轂（法蘭）"
  },
  "Propeller 54 in wood + hub": {
-  "t": "54 in 木質螺旋槳 + 槳轂",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "54 in 木質螺旋槳 + 槳轂"
  },
  "Propeller 54 x 24 in, laminated wood (download the model)": {
-  "t": "54 x 24 in 螺旋槳，層壓木（下載模型）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "54 x 24 in 螺旋槳，層壓木（下載模型）"
  },
  "Propeller hub, 6": {
-  "t": "螺旋槳轂，6",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "螺旋槳轂，6"
  },
  "Publish": {
-  "t": "釋出",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "釋出"
  },
  "Pull a complete strut with its clevises and tangs to ultimate tension, then buckle a second at −2 g with the jury strut fitted.": {
-  "t": "把一根完整撐杆連同 U 形叉和接耳拉到極限拉力，然後在裝上輔助撐杆的情況下以 −2 g 壓屈第二根。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "把一根完整撐杆連同 U 形叉和接耳拉到極限拉力，然後在裝上輔助撐杆的情況下以 −2 g 壓屈第二根。"
  },
  "Push the AN5 root pins through. Fit castellated nuts and cotter pins.": {
-  "t": "插入 AN5 根部銷。裝上槽形螺母和開口銷。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "插入 AN5 根部銷。裝上槽形螺母和開口銷。"
  },
  "Put in the aft soft creases first.": {
-  "t": "先做後部的輕摺痕。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "先做後部的輕摺痕。"
  },
  "Put in the soft creases with a light brake hit, or by hand over a straight-edge.": {
-  "t": "用折彎機輕壓，或在直尺上用手做出輕摺痕。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "用折彎機輕壓，或在直尺上用手做出輕摺痕。"
+ },
+ "Qty": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "數量"
  },
  "Qualification": {
-  "t": "鑑定",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "鑑定"
  },
  "Quarter-turn camlock (Dzus) + receptacle": {
-  "t": "四分之一圈快鎖 Camlock（Dzus）+ 底座",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "四分之一圈快鎖 Camlock（Dzus）+ 底座"
  },
  "RADIO instrument": {
-  "t": "RADIO 儀表",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "RADIO 儀表"
  },
  "Range": {
-  "t": "航程",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "航程"
  },
  "Ream the pin holes to 5/16 in and the bolt holes to 1/4 in and 3/16 in, through both ears at once so they line up.": {
-  "t": "把銷孔鉸到 5/16 in，螺栓孔鉸到 1/4 in 和 3/16 in，兩個耳片一起鉸，保證對齊。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "把銷孔鉸到 5/16 in，螺栓孔鉸到 1/4 in 和 3/16 in，兩個耳片一起鉸，保證對齊。"
  },
  "Rear arch (rear-spar frame)": {
-  "t": "後拱框（後梁框）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "後拱框（後梁框）"
  },
  "Rear lift strut x2": {
-  "t": "後升力撐杆 x2",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "後升力撐杆 x2"
  },
  "Rear lift strut x2: 6061-T6 1.75 x 0.065 in": {
-  "t": "後升力撐杆 x2：6061-T6 1.75 x 0.065 in",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "後升力撐杆 x2：6061-T6 1.75 x 0.065 in"
  },
  "Rear spar (lipped C, opens forward)": {
-  "t": "後梁（卷邊 C 形，開口向前）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "後梁（卷邊 C 形，開口向前）"
  },
  "Rear spar section": {
-  "t": "後梁段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "後梁段"
  },
  "Rear spar: lipped C, two layers of 0.020 in": {
-  "t": "後梁：卷邊 C 形，兩層 0.020 in",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "後梁：卷邊 C 形，兩層 0.020 in"
  },
  "Reassemble on Clecos, then pull the rivets from the middle of each joint outward.": {
-  "t": "用 Cleco 重新裝好，然後從每個接縫中間向外拉鉚。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "用 Cleco 重新裝好，然後從每個接縫中間向外拉鉚。"
  },
  "Ribs, skin buckling, fittings, landing gear, tail loads, the engine mount and flutter. Mass-balance every control surface.": {
-  "t": "翼肋、蒙皮屈曲、接頭、起落架、尾翼載荷、發動機架和顫振。給每個舵面做質量平衡。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "翼肋、蒙皮屈曲、接頭、起落架、尾翼載荷、發動機架和顫振。給每個舵面做質量平衡。"
  },
  "Right side: fixed window over the door opening. Left side: the same blank on a piano hinge at its front edge, with a latch at the back.": {
-  "t": "右側：門洞上裝固定窗。左側：同一塊毛坯，前緣裝琴鉸鏈，後部裝門鎖。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "右側：門洞上裝固定窗。左側：同一塊毛坯，前緣裝琴鉸鏈，後部裝門鎖。"
  },
  "Rivet joints": {
-  "t": "鉚接接頭",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "鉚接接頭"
  },
  "Rivet strength in thin sheet": {
-  "t": "薄板中的鉚釘強度",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "薄板中的鉚釘強度"
  },
  "Rivet the piano hinge to the spar top, then hang the surface on the rear spar.": {
-  "t": "把琴鉸鏈鉚到梁頂，然後把舵面掛到後梁上。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "把琴鉸鏈鉚到梁頂，然後把舵面掛到後梁上。"
  },
  "Rivet: pull 1/8 in blind rivets, working from the middle of each row outwards and swapping clecos for rivets one at a time. A good rivet sits flat, with no gap under the head. Drill out any bad one with a #30 bit and try again: practise this on purpose at least once.": {
-  "t": "鉚接：拉鉚 1/8 in 抽芯鉚釘，從每排中間向外，一次把一個 Cleco 換成鉚釘。好的鉚釘貼平，釘頭下無縫隙。不合格的用 #30 鑽頭鑽掉重來：至少專門練習一次。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "鉚接：拉鉚 1/8 in 抽芯鉚釘，從每排中間向外，一次把一個 Cleco 換成鉚釘。好的鉚釘貼平，釘頭下無縫隙。不合格的用 #30 鑽頭鑽掉重來：至少專門練習一次。"
  },
  "Riveting loop, rivets from the main spar outward.": {
-  "t": "鉚接流程，鉚釘從主樑向外。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "鉚接流程，鉚釘從主樑向外。"
  },
  "Riveting loop, then join the tailcone to the cabin at bulkhead 1.": {
-  "t": "鉚接流程，然後在隔框 1 處把尾錐連到座艙上。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "鉚接流程，然後在隔框 1 處把尾錐連到座艙上。"
  },
  "Riveting loop.": {
-  "t": "鉚接流程。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "鉚接流程。"
  },
  "Riveting loop. The firewall takes stainless or Monel rivets: aluminium melts in a fire.": {
-  "t": "鉚接流程。防火牆用不鏽鋼或 Monel 鉚釘：鋁在火中會熔化。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "鉚接流程。防火牆用不鏽鋼或 Monel 鉚釘：鋁在火中會熔化。"
  },
  "Riveting loop: final-drill #30, take apart, deburr, prime, Cleco, rivet.": {
-  "t": "鉚接流程：終鑽 #30、拆開、去毛刺、塗底漆、上 Cleco、鉚接。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "鉚接流程：終鑽 #30、拆開、去毛刺、塗底漆、上 Cleco、鉚接。"
  },
  "Rivets": {
-  "t": "鉚釘",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "鉚釘"
  },
  "Rivets to the rear-spar flanges. Closes the bay behind the centre-section rear spar.": {
-  "t": "鉚到後梁翻邊上。封閉中央翼後梁後方的空腔。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "鉚到後梁翻邊上。封閉中央翼後梁後方的空腔。"
  },
  "Rod ends": {
-  "t": "杆端軸承",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "杆端軸承"
  },
  "Roll each skin's leading edge, then wrap it round its ribs and spar. Back-drill and use the riveting loop.": {
-  "t": "把每塊蒙皮的前緣卷圓，然後包到其翼肋和翼樑上。反鑽並使用鉚接流程。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "把每塊蒙皮的前緣卷圓，然後包到其翼肋和翼樑上。反鑽並使用鉚接流程。"
  },
  "Roll the eight saddle-clamp halves round a 45 mm bar, then bolt a pair round each strut at mid-length (2 x AN3 through the ears).": {
-  "t": "把八個半夾箍繞 45 mm 圓棒卷好，然後在每根撐杆中點處用螺栓固定一對（2 x AN3 穿過耳片）。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "把八個半夾箍繞 45 mm 圓棒卷好，然後在每根撐杆中點處用螺栓固定一對（2 x AN3 穿過耳片）。"
  },
  "Roll the green zone: lay the skin over a 75 mm tube and pull it round with a strap, a little at a time. Don't crease it.": {
-  "t": "卷綠色區域：把蒙皮放在 75 mm 管上，用綁帶一點一點拉著繞過去。不要壓出摺痕。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "卷綠色區域：把蒙皮放在 75 mm 管上，用綁帶一點一點拉著繞過去。不要壓出摺痕。"
  },
  "Root and tip ribs have their flanges facing into the panel.": {
-  "t": "根肋和梢肋的翻邊朝向翼盒內側。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "根肋和梢肋的翻邊朝向翼盒內側。"
  },
  "Rudder and elevator cables, 1 per cable, in the cabin where you can inspect them": {
-  "t": "方向舵和升降舵鋼索，每根 1 個，裝在座艙內便於檢查的位置",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "方向舵和升降舵鋼索，每根 1 個，裝在座艙內便於檢查的位置"
  },
  "Rudder cable x2": {
-  "t": "方向舵鋼索 x2",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "方向舵鋼索 x2"
  },
  "Rudder cable x2: 1/8 in 7x19 galvanised": {
-  "t": "方向舵鋼索 x2：1/8 in 7x19 鍍鋅",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "方向舵鋼索 x2：1/8 in 7x19 鍍鋅"
  },
  "Rudder cables: pedal horn, then a pulley at the pedal, along the floor at y = ±200 mm through fairleads on both arch feet, a pulley at bulkhead 1, then one straight line each to the tail post. Because the tailcone is a frustum, a straight run between interior points never touches the skin, so no cable needs a mid-cone pulley.": {
-  "t": "方向舵鋼索：腳蹬搖臂，然後是腳蹬處的滑輪，沿地板在 y = ±200 mm 處穿過兩個拱框腳上的導纜器，經過隔框 1 處的滑輪，然後各自直線通到尾柱。由於尾錐是稜臺，內部兩點之間的直線永遠不會碰到蒙皮，所以任何鋼索都不需要錐段中部的滑輪。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "方向舵鋼索：腳蹬搖臂，然後是腳蹬處的滑輪，沿地板在 y = ±200 mm 處穿過兩個拱框腳上的導纜器，經過隔框 1 處的滑輪，然後各自直線通到尾柱。由於尾錐是稜臺，內部兩點之間的直線永遠不會碰到蒙皮，所以任何鋼索都不需要錐段中部的滑輪。"
  },
  "Rudder horn, 4130 0.063in (flat, cable each side)": {
-  "t": "方向舵搖臂，4130 0.063in（平板，兩側各一根鋼索）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "方向舵搖臂，4130 0.063in（平板，兩側各一根鋼索）"
  },
  "Rudder pedals": {
-  "t": "方向舵腳蹬",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "方向舵腳蹬"
  },
  "Rudder skin": {
-  "t": "方向舵蒙皮",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "方向舵蒙皮"
  },
  "Rudder spar": {
-  "t": "方向舵梁",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "方向舵梁"
  },
  "S-BM Stand beam (lipped C, saddle on top)": {
-  "t": "S-BM 支架橫樑（卷邊 C 形，頂部帶託座）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "S-BM 支架橫樑（卷邊 C 形，頂部帶託座）"
  },
  "S-FT Stand foot (lipped C, opens up)": {
-  "t": "S-FT 支架底腳（卷邊 C 形，開口向上）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "S-FT 支架底腳（卷邊 C 形，開口向上）"
  },
  "S-GF Stand foot gusset (flat)": {
-  "t": "S-GF 支架底腳角撐板（平板）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "S-GF 支架底腳角撐板（平板）"
  },
  "S-GT Stand top gusset (flanged hypotenuse)": {
-  "t": "S-GT 支架頂部角撐板（帶翻邊的斜邊）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "S-GT 支架頂部角撐板（帶翻邊的斜邊）"
  },
  "S-LG Stand leg (lipped C)": {
-  "t": "S-LG 支架腿（卷邊 C 形）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "S-LG 支架腿（卷邊 C 形）"
  },
  "SSDR means no airworthiness approval is required, so all the testing is yours to do.": {
-  "t": "SSDR 意味著不需要適航批准，所以所有試驗都要你自己來做。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "SSDR 意味著不需要適航批准，所以所有試驗都要你自己來做。"
  },
  "Saddle clamps: rolled half-shells": {
-  "t": "鞍形夾箍：卷制半殼",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "鞍形夾箍：卷制半殼"
  },
  "Saddle-clamp ears (one also carries the jury-strut fork), 2 per clamp; Jury strut top, through the jury clevis": {
-  "t": "鞍形夾箍耳片（其中一個還承載輔助撐杆叉），每個夾箍 2 個；輔助撐杆頂部，穿過輔助 U 形叉",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "鞍形夾箍耳片（其中一個還承載輔助撐杆叉），每個夾箍 2 個；輔助撐杆頂部，穿過輔助 U 形叉"
  },
  "Safety wire": {
-  "t": "保險絲",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "保險絲"
  },
  "Same blank both sides. 20 mm lap all round. Left one hangs on a piano hinge at its front edge.": {
-  "t": "兩側用同一塊毛坯。四周搭接 20 mm。左側的前緣掛在琴鉸鏈上。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "兩側用同一塊毛坯。四周搭接 20 mm。左側的前緣掛在琴鉸鏈上。"
  },
  "Same blank for both flaps and both ailerons: modular-origami units.": {
-  "t": "兩個襟翼和兩個副翼用同一塊毛坯：模組化摺紙單元。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "兩個襟翼和兩個副翼用同一塊毛坯：模組化摺紙單元。"
  },
  "Sandbags and tape measure (proof load)": {
-  "t": "沙袋和捲尺（驗證載入）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "沙袋和捲尺（驗證載入）"
  },
  "Sawtooth climbs, level speeds and glides.": {
-  "t": "鋸齒形爬升、平飛速度和滑翔。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "鋸齒形爬升、平飛速度和滑翔。"
  },
  "Scotch-Brite, etch/alodine, epoxy primer, spray kit, gloves": {
-  "t": "Scotch-Brite、酸蝕/alodine、環氧底漆、噴塗套件、手套",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "Scotch-Brite、酸蝕/alodine、環氧底漆、噴塗套件、手套"
  },
  "Seat (pan + back, one sheet)": {
-  "t": "座椅（坐板 + 靠背，一張板）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "座椅（坐板 + 靠背，一張板）"
  },
  "Seat cushion + 4-pt harness": {
-  "t": "座墊 + 4 點式安全帶",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "座墊 + 4 點式安全帶"
  },
  "Select a row to see where that case sits.": {
-  "t": "選擇一行，檢視該工況的位置。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "選擇一行，檢視該工況的位置。"
  },
  "Send the nest DXFs to a laser or waterjet service, or cut on a CNC router. Bolt holes come out 0.5 mm undersize; ream them later.": {
-  "t": "把套料 DXF 發給鐳射或水刀加工服務，或用 CNC 雕刻機切割。螺栓孔會小 0.5 mm；之後再鉸孔。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "把套料 DXF 發給鐳射或水刀加工服務，或用 CNC 雕刻機切割。螺栓孔會小 0.5 mm；之後再鉸孔。"
  },
  "Set dihedral to 1.5° and wash-out to 0° with a digital level on the root and tip ribs. Then pin the struts on: AN5, castellated nut, cotter pin.": {
-  "t": "用數字水平儀在根肋和梢肋上把上反角設為 1.5°、扭轉設為 0°。然後裝上撐杆：AN5、槽形螺母、開口銷。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "用數字水平儀在根肋和梢肋上把上反角設為 1.5°、扭轉設為 0°。然後裝上撐杆：AN5、槽形螺母、開口銷。"
  },
  "Set the brake nose radius to 0.8 mm, about 1.6 times the 0.51 mm sheet (Table 5-2, 'normal' radius). Never tighter.": {
-  "t": "把折彎刀頭半徑設為 0.8 mm，約為 0.51 mm 板厚的 1.6 倍（Table 5-2，'normal' 半徑）。絕不能更小。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "把折彎刀頭半徑設為 0.8 mm，約為 0.51 mm 板厚的 1.6 倍（Table 5-2，'normal' 半徑）。絕不能更小。"
  },
  "Set the travels: aileron +20/-15°, elevator +25/-20°, rudder ±25°, flaps 0/20°. Fit the stops.": {
-  "t": "設定行程：副翼 +20/-15°，升降舵 +25/-20°，方向舵 ±25°，襟翼 0/20°。裝上止動塊。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "設定行程：副翼 +20/-15°，升降舵 +25/-20°，方向舵 ±25°，襟翼 0/20°。裝上止動塊。"
+ },
+ "Sheet price": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "板材價格"
  },
  "Single-lap shear and pull-through on one and two layers of 0.51 mm sheet with 3.2 mm blind rivets, 10 of each.": {
-  "t": "在一層和兩層 0.51 mm 板上用 3.2 mm 抽芯鉚釘做單搭接剪下和拉脫試驗，各 10 個。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在一層和兩層 0.51 mm 板上用 3.2 mm 抽芯鉚釘做單搭接剪下和拉脫試驗，各 10 個。"
  },
  "Skin joints lap on a rib: the outboard skin goes under the inboard one.": {
-  "t": "蒙皮接縫搭在翼肋上：外側蒙皮壓在內側蒙皮下面。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "蒙皮接縫搭在翼肋上：外側蒙皮壓在內側蒙皮下面。"
  },
  "Slide the C-spar in and Cleco it through the flanges. Riveting loop.": {
-  "t": "把 C 形梁滑進去，穿過翻邊上 Cleco。鉚接流程。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "把 C 形梁滑進去，穿過翻邊上 Cleco。鉚接流程。"
  },
  "Soft creases 2–6°": {
-  "t": "輕摺痕 2–6°",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "輕摺痕 2–6°"
  },
  "Source": {
-  "t": "來源",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "來源"
  },
  "Span / area": {
-  "t": "翼展 / 面積",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "翼展 / 面積"
  },
  "Spanners, sockets, inch-pound torque wrench": {
-  "t": "扳手、套筒、英寸-磅扭力扳手",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "扳手、套筒、英寸-磅扭力扳手"
  },
  "Spar strength": {
-  "t": "翼梁強度",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "翼梁強度"
  },
  "Spar-root pins through tang pair + arch clevis": {
-  "t": "翼梁根部銷穿過接耳對 + 拱框 U 形叉",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "翼梁根部銷穿過接耳對 + 拱框 U 形叉"
  },
  "Spar-root tang, 4130 0.063in (flat, pairs either side of web)": {
-  "t": "翼梁根部接耳，4130 0.063in（平板，成對夾在腹板兩側）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "翼梁根部接耳，4130 0.063in（平板，成對夾在腹板兩側）"
+ },
+ "Spec": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "規格"
  },
  "Speed envelope": {
-  "t": "速度包線",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "速度包線"
  },
  "Spinner": {
-  "t": "槳轂整流罩",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "槳轂整流罩"
  },
  "Stabiliser nose rib": {
-  "t": "水平安定面前緣肋",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "水平安定面前緣肋"
  },
  "Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
-  "t": "水平安定面根肋連到尾錐側面加強板，每側 4 個；垂直安定面梁連到尾柱，3 個",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "水平安定面根肋連到尾錐側面加強板，每側 4 個；垂直安定面梁連到尾柱，3 個"
  },
  "Stabiliser skin (one wrap)": {
-  "t": "水平安定面蒙皮（一次包覆）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "水平安定面蒙皮（一次包覆）"
  },
  "Stabiliser spar": {
-  "t": "水平安定面梁",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "水平安定面梁"
  },
  "Stability across the CG range": {
-  "t": "整個重心範圍內的穩定性",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "整個重心範圍內的穩定性"
  },
  "Stall speed and handling": {
-  "t": "失速速度和操縱品質",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "失速速度和操縱品質"
  },
  "Stall speeds": {
-  "t": "失速速度",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "失速速度"
  },
  "Stall, flaps 20°": {
-  "t": "失速，襟翼 20°",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "失速，襟翼 20°"
  },
  "Stand beam (lipped C, saddle on top)": {
-  "t": "支架橫樑（卷邊 C 形，頂部帶託座）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "支架橫樑（卷邊 C 形，頂部帶託座）"
  },
  "Stand foot (lipped C, opens up)": {
-  "t": "支架底腳（卷邊 C 形，開口向上）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "支架底腳（卷邊 C 形，開口向上）"
  },
  "Stand foot gusset (flat)": {
-  "t": "支架底腳角撐板（平板）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "支架底腳角撐板（平板）"
  },
  "Stand leg (lipped C)": {
-  "t": "支架腿（卷邊 C 形）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "支架腿（卷邊 C 形）"
  },
  "Stand the arches and firewall on the floor tray, square and plumb. Their stations are 420 mm and 1008 mm aft of the wing LE, and the firewall is at -650 mm.": {
-  "t": "把兩個拱框和防火牆立在地板盤上，保證方正和垂直。它們的站位在機翼前緣後 420 mm 和 1008 mm，防火牆在 -650 mm。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "把兩個拱框和防火牆立在地板盤上，保證方正和垂直。它們的站位在機翼前緣後 420 mm 和 1008 mm，防火牆在 -650 mm。"
  },
  "Stand top gusset (flanged hypotenuse)": {
-  "t": "支架頂部角撐板（帶翻邊的斜邊）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "支架頂部角撐板（帶翻邊的斜邊）"
  },
  "Static load to the Section S forward, side and vertical limit loads, then ultimate.": {
-  "t": "靜力載入到 Section S 的前向、側向和垂向限制載荷，然後到極限載荷。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "靜力載入到 Section S 的前向、側向和垂向限制載荷，然後到極限載荷。"
  },
  "Static margin": {
-  "t": "靜穩定裕度",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "靜穩定裕度"
  },
  "Static port": {
-  "t": "靜壓孔",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "靜壓孔"
  },
  "Status": {
-  "t": "狀態",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "狀態"
  },
  "Step": {
-  "t": "步驟",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "步驟"
  },
  "Stick pivot and torque-tube bearings": {
-  "t": "操縱桿樞軸和扭力管軸承",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "操縱桿樞軸和扭力管軸承"
  },
  "Straight tracking, effective brakes and rudder, no shimmy.": {
-  "t": "滑行直，剎車和方向舵有效，無擺振。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "滑行直，剎車和方向舵有效，無擺振。"
  },
  "String line, digital level, plumb bob": {
-  "t": "拉線、數字水平儀、鉛垂",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "拉線、數字水平儀、鉛垂"
  },
  "String-line the spars and check the ribs are square to them. Measure diagonals across each bay; they should match within 1 mm.": {
-  "t": "沿翼梁拉線，檢查翼肋與之垂直。測量每個艙段的對角線；相差應在 1 mm 以內。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "沿翼梁拉線，檢查翼肋與之垂直。測量每個艙段的對角線；相差應在 1 mm 以內。"
  },
  "Structure": {
-  "t": "結構",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "結構"
  },
  "Strut and fitting strength": {
-  "t": "撐杆和接頭強度",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "撐杆和接頭強度"
  },
  "Strut and fittings": {
-  "t": "撐杆和接頭",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "撐杆和接頭"
  },
  "Strut end fork (4130)": {
-  "t": "撐杆端叉（4130）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "撐杆端叉（4130）"
  },
  "Strut end forks": {
-  "t": "撐杆端叉",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "撐杆端叉"
  },
  "Strut ends, both ends of 4 struts": {
-  "t": "撐杆端部，4 根撐杆的兩端",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "撐杆端部，4 根撐杆的兩端"
  },
  "Strut fairings": {
-  "t": "撐杆整流罩",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "撐杆整流罩"
  },
  "Support each tip on a trestle at 1.5° dihedral until the struts are on.": {
-  "t": "在裝上撐杆之前，用支架把每個翼尖支撐在 1.5° 上反角處。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在裝上撐杆之前，用支架把每個翼尖支撐在 1.5° 上反角處。"
  },
  "Systems fit-out": {
-  "t": "系統安裝",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "系統安裝"
  },
  "T-EK Elevator skin": {
-  "t": "T-EK 升降舵蒙皮",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "T-EK 升降舵蒙皮"
  },
  "T-ES Elevator spar": {
-  "t": "T-ES 升降舵梁",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "T-ES 升降舵梁"
  },
  "T-FK Fin skin (one wrap)": {
-  "t": "T-FK 垂直安定面蒙皮（一次包覆）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "T-FK 垂直安定面蒙皮（一次包覆）"
  },
  "T-FR Fin nose rib": {
-  "t": "T-FR 垂直安定面前緣肋",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "T-FR 垂直安定面前緣肋"
  },
  "T-FS Fin spar": {
-  "t": "T-FS 垂直安定面梁",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "T-FS 垂直安定面梁"
  },
  "T-HK Stabiliser skin (one wrap)": {
-  "t": "T-HK 水平安定面蒙皮（一次包覆）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "T-HK 水平安定面蒙皮（一次包覆）"
  },
  "T-HR Stabiliser nose rib": {
-  "t": "T-HR 水平安定面前緣肋",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "T-HR 水平安定面前緣肋"
  },
  "T-HS Stabiliser spar": {
-  "t": "T-HS 水平安定面梁",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "T-HS 水平安定面梁"
  },
  "T-RK Rudder skin": {
-  "t": "T-RK 方向舵蒙皮",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "T-RK 方向舵蒙皮"
  },
  "T-RS Rudder spar": {
-  "t": "T-RS 方向舵梁",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "T-RS 方向舵梁"
  },
  "TACH instrument": {
-  "t": "TACH 儀表",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "TACH 儀表"
  },
  "Tail surfaces": {
-  "t": "尾翼",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾翼"
  },
  "Tailcone belly, section 1": {
-  "t": "尾錐底板，第 1 段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾錐底板，第 1 段"
  },
  "Tailcone belly, section 2": {
-  "t": "尾錐底板，第 2 段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾錐底板，第 2 段"
  },
  "Tailcone bulkhead x=1150": {
-  "t": "尾錐隔框 x=1150",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾錐隔框 x=1150"
  },
  "Tailcone bulkhead x=1948": {
-  "t": "尾錐隔框 x=1948",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾錐隔框 x=1948"
  },
  "Tailcone bulkhead x=2745": {
-  "t": "尾錐隔框 x=2745",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾錐隔框 x=2745"
  },
  "Tailcone bulkhead x=3542": {
-  "t": "尾錐隔框 x=3542",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾錐隔框 x=3542"
  },
  "Tailcone bulkhead x=4340 (tail post)": {
-  "t": "尾錐隔框 x=4340（尾柱）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾錐隔框 x=4340（尾柱）"
  },
  "Tailcone frustum": {
-  "t": "尾錐稜臺",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾錐稜臺"
  },
  "Tailcone side, section 1 (x2, mirrored)": {
-  "t": "尾錐側板，第 1 段（x2，映象）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾錐側板，第 1 段（x2，映象）"
  },
  "Tailcone side, section 2 (x2, mirrored)": {
-  "t": "尾錐側板，第 2 段（x2，映象）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾錐側板，第 2 段（x2，映象）"
  },
  "Tailcone top, section 1": {
-  "t": "尾錐頂板，第 1 段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾錐頂板，第 1 段"
  },
  "Tailcone top, section 2": {
-  "t": "尾錐頂板，第 2 段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾錐頂板，第 2 段"
  },
  "Tailwheel 8 in pneumatic": {
-  "t": "8 in 充氣尾輪",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "8 in 充氣尾輪"
  },
  "Tailwheel assembly, 8 in pneumatic": {
-  "t": "尾輪元件，8 in 充氣",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾輪元件，8 in 充氣"
  },
  "Tailwheel fork": {
-  "t": "尾輪叉",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾輪叉"
  },
  "Tailwheel spring": {
-  "t": "尾輪彈簧",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾輪彈簧"
  },
  "Tailwheel spring (spring steel leaf)": {
-  "t": "尾輪彈簧（彈簧鋼板簧）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾輪彈簧（彈簧鋼板簧）"
  },
  "Tailwheel spring to tail post, 2": {
-  "t": "尾輪彈簧連到尾柱，2",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾輪彈簧連到尾柱，2"
  },
  "Tailwheel spring to tail post, 2; Stabiliser root ribs to tailcone side doublers, 4 per side; Fin spar to tail post, 3": {
-  "t": "尾輪彈簧連到尾柱，2；水平安定面根肋連到尾錐側面加強板，每側 4 個；垂直安定面梁連到尾柱，3 個",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾輪彈簧連到尾柱，2；水平安定面根肋連到尾錐側面加強板，每側 4 個；垂直安定面梁連到尾柱，3 個"
  },
  "Tailwheel spring: spring-steel leaf 45 x 8 mm": {
-  "t": "尾輪彈簧：彈簧鋼板簧 45 x 8 mm",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾輪彈簧：彈簧鋼板簧 45 x 8 mm"
  },
  "Tailwheel steering spring": {
-  "t": "尾輪轉向彈簧",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾輪轉向彈簧"
  },
  "Tailwheel: a leaf spring, a steerable fork and two springs to the rudder.": {
-  "t": "尾輪：一片板簧、一個可轉向輪叉和兩根連到方向舵的彈簧。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "尾輪：一片板簧、一個可轉向輪叉和兩根連到方向舵的彈簧。"
  },
  "Take the skeleton apart. Deburr every hole on both faces.": {
-  "t": "拆開骨架。兩面給每個孔去毛刺。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "拆開骨架。兩面給每個孔去毛刺。"
  },
  "Take-off roll": {
-  "t": "起飛滑跑",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "起飛滑跑"
  },
  "Tank strap angle (L)": {
-  "t": "油箱綁帶角材（左）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "油箱綁帶角材（左）"
  },
  "Tank strap angle (R)": {
-  "t": "油箱綁帶角材（右）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "油箱綁帶角材（右）"
  },
  "Tap or shaker test for wing bending and torsion, aileron, elevator and rudder modes. Confirm the mass balance of every control surface.": {
-  "t": "用敲擊或激振器測試機翼彎曲和扭轉模態，以及副翼、升降舵和方向舵模態。確認每個舵面的質量平衡。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "用敲擊或激振器測試機翼彎曲和扭轉模態，以及副翼、升降舵和方向舵模態。確認每個舵面的質量平衡。"
  },
  "Taxi tests": {
-  "t": "滑行試驗",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "滑行試驗"
  },
  "Taxi tests, then fast taxi with the tail up.": {
-  "t": "滑行試驗，然後抬尾高速滑行。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "滑行試驗，然後抬尾高速滑行。"
  },
  "Temperatures inside the engine maker's limits, static rpm 2,900–3,100, no abnormal vibration.": {
-  "t": "溫度在發動機廠家限值內，靜態轉速 2,900–3,100 rpm，無異常振動。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "溫度在發動機廠家限值內，靜態轉速 2,900–3,100 rpm，無異常振動。"
  },
  "Tension each cable with its turnbuckle in the cabin, where you can see it, then safety-wire it. Nicopress every end over a thimble.": {
-  "t": "在座艙內能看到的地方用花籃螺絲張緊每根鋼索，然後打保險絲。每個端頭都用 Nicopress 壓在心環上。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在座艙內能看到的地方用花籃螺絲張緊每根鋼索，然後打保險絲。每個端頭都用 Nicopress 壓在心環上。"
  },
  "Test": {
-  "t": "試驗",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "試驗"
  },
  "Test budget": {
-  "t": "試驗預算",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "試驗預算"
  },
  "Test programme": {
-  "t": "試驗大綱",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "試驗大綱"
  },
  "Test reports": {
-  "t": "試驗報告",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "試驗報告"
  },
  "Tests": {
-  "t": "試驗",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "試驗"
  },
  "The aircraft is code: one file, aircraft.yaml, generates every part, file and figure on this page.": {
-  "t": "飛機就是程式碼：一個檔案 aircraft.yaml 生成本頁上的每一個零件、檔案和數字。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "飛機就是程式碼：一個檔案 aircraft.yaml 生成本頁上的每一個零件、檔案和數字。"
  },
  "The arches sit at the spar stations, so the wing and strut loads go straight into two folded frames.": {
-  "t": "拱框位於翼梁站位，因此機翼和撐杆載荷直接傳入兩個折彎框架。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "拱框位於翼梁站位，因此機翼和撐杆載荷直接傳入兩個折彎框架。"
  },
  "The cowl and nose bowl are flat blanks too: a box-pleated hood and a frustum, with straight creases throughout.": {
-  "t": "整流罩和機頭罩也是平板毛坯：一個箱式褶罩和一個稜臺，全部是直摺痕。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "整流罩和機頭罩也是平板毛坯：一個箱式褶罩和一個稜臺，全部是直摺痕。"
  },
  "The dot is the loading case selected in the table. The shaded band is the full CG range across all cases. The orange line is the neutral point: the CG must stay ahead of it, and the dashed gap between them is the static margin, the aircraft's pitch stability.": {
-  "t": "圓點是表中選中的裝載工況。陰影帶是所有工況的完整重心範圍。橙色線是中性點：重心必須保持在它前面，兩者之間的虛線間隔就是靜穩定裕度，即飛機的俯仰穩定性。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "圓點是表中選中的裝載工況。陰影帶是所有工況的完整重心範圍。橙色線是中性點：重心必須保持在它前面，兩者之間的虛線間隔就是靜穩定裕度，即飛機的俯仰穩定性。"
  },
  "The fold geometry. Every panel in the 3D model is produced by refolding the DXF flat pattern, and the rib-to-spar pilot holes are coordinated between parts.": {
-  "t": "折彎幾何。3D 模型中的每塊面板都是把 DXF 展開圖重新折起來得到的，翼肋與翼梁的定位孔在零件之間相互協調。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "折彎幾何。3D 模型中的每塊面板都是把 DXF 展開圖重新折起來得到的，翼肋與翼梁的定位孔在零件之間相互協調。"
  },
  "The laminate acting as one section": {
-  "t": "疊層作為一個整體截面工作",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "疊層作為一個整體截面工作"
  },
  "The lips are what let thin laminated sheet act as a spar. Without them a free cap edge buckles at about 26 MPa. With them the cap reaches yield before it buckles.": {
-  "t": "正是卷邊讓薄的疊層板能當翼梁用。沒有卷邊，緣條自由邊在約 26 MPa 時就會屈曲。有了卷邊，緣條在屈曲之前先達到屈服。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "正是卷邊讓薄的疊層板能當翼梁用。沒有卷邊，緣條自由邊在約 26 MPa 時就會屈曲。有了卷邊，緣條在屈曲之前先達到屈服。"
  },
  "The local-price estimate takes UK VAT off the UK price, converts it at the day's exchange rate, takes about 20 % off US-made hardware, sheet and the engine kit when buying in the US, then adds the country's typical standard VAT, GST or sales tax. It leaves out import duty and shipping. Treat these as rough guides, not quotes.": {
-  "t": "本地價格估算先從英國價格中扣除英國增值稅，按當天匯率換算，在美國購買時對美國製造的五金件、板材和發動機套件減去約 20 %，然後加上該國常見的標準增值稅、GST 或銷售稅。不含進口關稅和運費。請把這些數字當作粗略參考，而不是報價。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "本地價格估算先從英國價格中扣除英國增值稅，按當天匯率換算，在美國購買時對美國製造的五金件、板材和發動機套件減去約 20 %，然後加上該國常見的標準增值稅、GST 或銷售稅。不含進口關稅和運費。請把這些數字當作粗略參考，而不是報價。"
  },
  "The numbers": {
-  "t": "數字",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "數字"
  },
  "The pilot sits under the wing between the two arches. Header fuel is ahead of the CG and aux fuel is behind it. The aftmost case is a light pilot with empty tanks and baggage, which gives the minimum static margin:": {
-  "t": "駕駛員坐在機翼下的兩個拱框之間。主油箱燃油在重心前方，副油箱燃油在重心後方。最靠後的工況是體重輕的駕駛員、空油箱加行李，它給出最小靜穩定裕度：",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "駕駛員坐在機翼下的兩個拱框之間。主油箱燃油在重心前方，副油箱燃油在重心後方。最靠後的工況是體重輕的駕駛員、空油箱加行李，它給出最小靜穩定裕度："
  },
  "The rolled nose and the main spar together form a closed D-cell, which carries the wing's twisting loads.": {
-  "t": "卷圓的前緣和主樑一起構成封閉的 D 形盒，承受機翼的扭轉載荷。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "卷圓的前緣和主樑一起構成封閉的 D 形盒，承受機翼的扭轉載荷。"
  },
  "The skins carry no holes of their own. Drilling them from the structure means the holes can't be misaligned.": {
-  "t": "蒙皮上沒有自己預開的孔。從結構上反鑽意味著孔不可能錯位。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "蒙皮上沒有自己預開的孔。從結構上反鑽意味著孔不可能錯位。"
  },
  "The stabiliser and fin use one wrapped skin each.": {
-  "t": "水平安定面和垂直安定面各用一塊包覆蒙皮。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "水平安定面和垂直安定面各用一塊包覆蒙皮。"
  },
  "This is the sequence for every riveted joint from here on: Cleco, final-drill, take apart, deburr, prime, reassemble, rivet. Later steps call it the riveting loop.": {
-  "t": "從現在起，每個鉚接接頭都按這個順序：上 Cleco、終鑽、拆開、去毛刺、塗底漆、重新裝配、鉚接。後面的步驟稱之為鉚接流程。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "從現在起，每個鉚接接頭都按這個順序：上 Cleco、終鑽、拆開、去毛刺、塗底漆、重新裝配、鉚接。後面的步驟稱之為鉚接流程。"
  },
  "Three platform scales": {
-  "t": "三臺平臺秤",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "三臺平臺秤"
  },
  "Three platform scales in the level attitude.": {
-  "t": "三臺平臺秤，水平姿態。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "三臺平臺秤，水平姿態。"
  },
  "Through tang pair + spar web at each spar root, 4 per pair": {
-  "t": "每個翼梁根部穿過接耳對 + 翼梁腹板，每對 4 個",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "每個翼梁根部穿過接耳對 + 翼梁腹板，每對 4 個"
  },
  "Tools": {
-  "t": "工具",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "工具"
  },
  "Top flange = longeron": {
-  "t": "頂部翻邊 = 縱梁",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "頂部翻邊 = 縱梁"
  },
  "Top flange is the longeron: the fold is the stiffener. Openings have 50 mm corner radii (no square corners).": {
-  "t": "頂部翻邊就是縱梁：折彎本身就是加強筋。開口轉角半徑 50 mm（無直角）。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "頂部翻邊就是縱梁：折彎本身就是加強筋。開口轉角半徑 50 mm（無直角）。"
  },
  "Torsional stiffness recorded; it feeds the flutter estimate in phase D.": {
-  "t": "記錄扭轉剛度；用於 D 階段的顫振估算。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "記錄扭轉剛度；用於 D 階段的顫振估算。"
+ },
+ "Total": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "合計"
  },
  "Tube cutter, hacksaw, drill press": {
-  "t": "切管器、鋼鋸、臺鑽",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "切管器、鋼鋸、臺鑽"
  },
  "Tube, bar and cable": {
-  "t": "管材、棒材和鋼索",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "管材、棒材和鋼索"
  },
  "Turn it back over. On its three wheels it should sit about 9–11° nose-up.": {
-  "t": "再把它翻過來。三個輪子著地時應機頭上仰約 9–11°。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "再把它翻過來。三個輪子著地時應機頭上仰約 9–11°。"
  },
  "Turn the fuselage upside down on padded trestles.": {
-  "t": "把機身倒置在有襯墊的支架上。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "把機身倒置在有襯墊的支架上。"
  },
  "Turn the skeleton upside down. Lay bay 1's skin on it, located at the root rib, with the edge 3 mm short of the rear-spar flange edge.": {
-  "t": "把骨架倒過來。把第 1 艙段的蒙皮放在上面，以根肋定位，邊緣比後梁翻邊邊緣短 3 mm。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "把骨架倒過來。把第 1 艙段的蒙皮放在上面，以根肋定位，邊緣比後梁翻邊邊緣短 3 mm。"
  },
  "Turn the wing upright. Wrap the skin from the trailing-edge shroud, over the nose, and under to lap the lower skin at 8 % chord.": {
-  "t": "把機翼翻正。把蒙皮從後緣包邊開始，越過前緣，再包到下面，在 8 % 弦長處搭接下蒙皮。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "把機翼翻正。把蒙皮從後緣包邊開始，越過前緣，再包到下面，在 8 % 弦長處搭接下蒙皮。"
  },
  "Turnbuckle AN130 class + safety wire": {
-  "t": "AN130 級花籃螺絲 + 保險絲",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "AN130 級花籃螺絲 + 保險絲"
  },
  "Two halves round the 1.75 in strut tube; the ear bolts also carry the jury-strut end.": {
-  "t": "兩半包住 1.75 in 撐杆管；耳片螺栓同時固定輔助撐杆端部。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "兩半包住 1.75 in 撐杆管；耳片螺栓同時固定輔助撐杆端部。"
  },
  "Two hat pleats (step-folds) are the floor stiffeners; no separate stringers. Laminated: 2 nested layers of 0.020 in, folded separately and riveted as one; trim 0.5 mm per inner layer off flange edges.": {
-  "t": "兩道帽形褶（階梯折）就是地板加強筋；沒有單獨的桁條。疊層：2 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "兩道帽形褶（階梯折）就是地板加強筋；沒有單獨的桁條。疊層：2 層 0.020 in 巢狀，分別折彎後鉚成一體；每層內層的翻邊邊緣修去 0.5 mm。"
  },
  "Two plates sandwich each rod end; AN4 pivot, AN3 at each arm.": {
-  "t": "兩塊板夾住每個杆端軸承；AN4 樞軸，每個臂上一個 AN3。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "兩塊板夾住每個杆端軸承；AN4 樞軸，每個臂上一個 AN3。"
+ },
+ "UK retail prices (inc. 20 % VAT) converted to {currency}.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "英國零售價（含 20 % 加值稅），換算為 {currency}。"
+ },
+ "UK retail prices, including 20 % VAT.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "英國零售價，含 20 % 加值稅。"
  },
  "Ultimate": {
-  "t": "極限",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "極限"
  },
  "Under negative g the struts go into compression. The jury struts halve their unsupported length, which multiplies their buckling load by four.": {
-  "t": "負過載時撐杆受壓。輔助撐杆把無支撐長度減半，使屈曲載荷變為四倍。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "負過載時撐杆受壓。輔助撐杆把無支撐長度減半，使屈曲載荷變為四倍。"
  },
  "Undercarriage": {
-  "t": "起落架",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "起落架"
  },
  "Units": {
-  "t": "單位",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "單位"
  },
  "Unknowns for the next builder": {
-  "t": "留給下一位製造者的未知數",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "留給下一位製造者的未知數"
  },
  "Upper cowl (hood, two 90 deg folds)": {
-  "t": "上整流罩（罩蓋，兩道 90 deg 折彎）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "上整流罩（罩蓋，兩道 90 deg 折彎）"
  },
  "Upper skin, bay 1": {
-  "t": "上蒙皮，第 1 艙段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "上蒙皮，第 1 艙段"
  },
  "Upper skin, bay 2": {
-  "t": "上蒙皮，第 2 艙段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "上蒙皮，第 2 艙段"
  },
  "Upper skin, bay 3": {
-  "t": "上蒙皮，第 3 艙段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "上蒙皮，第 3 艙段"
  },
  "Upper skins: roll the nose": {
-  "t": "上蒙皮：卷前緣",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "上蒙皮：卷前緣"
  },
  "V-bead pleats + one 165° trailing-edge fold": {
-  "t": "V 形筋褶 + 一道 165° 後緣折彎",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "V 形筋褶 + 一道 165° 後緣折彎"
  },
  "VHF antenna whip": {
-  "t": "VHF 鞭狀天線",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "VHF 鞭狀天線"
  },
  "W-CL Cabin roof (centre lower skin)": {
-  "t": "W-CL 座艙頂（中央下蒙皮）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "W-CL 座艙頂（中央下蒙皮）"
  },
  "W-CS Aileron / flap skin (identical x4)": {
-  "t": "W-CS 副翼 / 襟翼蒙皮（相同 x4）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "W-CS 副翼 / 襟翼蒙皮（相同 x4）"
  },
  "W-CSS Aileron / flap spar (identical x4)": {
-  "t": "W-CSS 副翼 / 襟翼梁（相同 x4）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "W-CSS 副翼 / 襟翼梁（相同 x4）"
  },
  "W-CT Centre-section trailing-edge fairing (fixed, between the flaps)": {
-  "t": "W-CT 中央翼後緣整流罩（固定，位於兩襟翼之間）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "W-CT 中央翼後緣整流罩（固定，位於兩襟翼之間）"
  },
  "W-CU Centre-section upper skin": {
-  "t": "W-CU 中央翼上蒙皮",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "W-CU 中央翼上蒙皮"
  },
  "W-MR Main rib": {
-  "t": "W-MR 主翼肋",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "W-MR 主翼肋"
  },
  "W-MRe Main rib, root/tip": {
-  "t": "W-MRe 主翼肋，根部/翼尖",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "W-MRe 主翼肋，根部/翼尖"
  },
  "W-MS Main spar (lipped C, opens aft)": {
-  "t": "W-MS 主樑（卷邊 C 形，開口向後）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "W-MS 主樑（卷邊 C 形，開口向後）"
  },
  "W-NR Nose rib": {
-  "t": "W-NR 前緣肋",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "W-NR 前緣肋"
  },
  "W-NRe Nose rib, root/tip": {
-  "t": "W-NRe 前緣肋，根部/翼尖",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "W-NRe 前緣肋，根部/翼尖"
  },
  "W-RS Rear spar (lipped C, opens forward)": {
-  "t": "W-RS 後梁（卷邊 C 形，開口向前）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "W-RS 後梁（卷邊 C 形，開口向前）"
  },
  "W-SL1 Lower skin, bay 1": {
-  "t": "W-SL1 下蒙皮，第 1 艙段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "W-SL1 下蒙皮，第 1 艙段"
  },
  "W-SL2 Lower skin, bay 2": {
-  "t": "W-SL2 下蒙皮，第 2 艙段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "W-SL2 下蒙皮，第 2 艙段"
  },
  "W-SL3 Lower skin, bay 3": {
-  "t": "W-SL3 下蒙皮，第 3 艙段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "W-SL3 下蒙皮，第 3 艙段"
  },
  "W-SU1 Upper skin, bay 1": {
-  "t": "W-SU1 上蒙皮，第 1 艙段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "W-SU1 上蒙皮，第 1 艙段"
  },
  "W-SU2 Upper skin, bay 2": {
-  "t": "W-SU2 上蒙皮，第 2 艙段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "W-SU2 上蒙皮，第 2 艙段"
  },
  "W-SU3 Upper skin, bay 3": {
-  "t": "W-SU3 上蒙皮，第 3 艙段",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "W-SU3 上蒙皮，第 3 艙段"
  },
  "Weeks 1–4": {
-  "t": "第 1–4 周",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "第 1–4 周"
  },
  "Weigh and balance": {
-  "t": "稱重與平衡",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "稱重與平衡"
  },
  "Weigh, test, fly-off": {
-  "t": "稱重、試驗、驗證飛行",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "稱重、試驗、驗證飛行"
  },
  "Weight, not tank size, sets the range": {
-  "t": "決定航程的是重量，而不是油箱大小",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "決定航程的是重量，而不是油箱大小"
  },
  "What is known, and what is not": {
-  "t": "已知的，和未知的",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "已知的，和未知的"
  },
  "What it costs": {
-  "t": "費用多少",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "費用多少"
  },
  "Wheel hub": {
-  "t": "輪轂",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "輪轂"
  },
  "Wheels, 21 x 8.00-6 tundra tyres, drum brakes x2": {
-  "t": "機輪，21 x 8.00-6 苔原輪胎，鼓式剎車 x2",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "機輪，21 x 8.00-6 苔原輪胎，鼓式剎車 x2"
  },
  "Where it goes": {
-  "t": "裝在哪裡",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "裝在哪裡"
  },
  "Where the balance point sits": {
-  "t": "平衡點在哪裡",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "平衡點在哪裡"
  },
  "Whole aircraft": {
-  "t": "整機",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "整機"
  },
  "Whole-wing strength and stiffness": {
-  "t": "整個機翼的強度和剛度",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "整個機翼的強度和剛度"
  },
  "Why start here: the four stands use every skill the aircraft needs, on parts that don't fly. Get it wrong here, not on a spar. You need the stands anyway: the wings are built and parked on them until step 15.": {
-  "t": "為什麼從這裡開始：四個支架用到了飛機所需的全部技能，而且零件不上天。要犯錯就在這裡犯，別在翼樑上犯。反正你也需要這些支架：機翼在第 15 步之前都在它們上面製作和存放。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "為什麼從這裡開始：四個支架用到了飛機所需的全部技能，而且零件不上天。要犯錯就在這裡犯，別在翼樑上犯。反正你也需要這些支架：機翼在第 15 步之前都在它們上面製作和存放。"
  },
  "Will it fly well?": {
-  "t": "它會飛得好嗎？",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "它會飛得好嗎？"
  },
  "Windscreen (cold-bent flat polycarbonate)": {
-  "t": "風擋（冷彎平板聚碳酸酯）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "風擋（冷彎平板聚碳酸酯）"
  },
  "Windscreen, door and side windows": {
-  "t": "風擋、艙門和側窗",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "風擋、艙門和側窗"
  },
  "Windscreen, side windows, door": {
-  "t": "風擋、側窗、艙門",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "風擋、側窗、艙門"
  },
  "Windscreen: flat sheet, bedded on foam tape on the firewall and windscreen flanges.": {
-  "t": "風擋：平板，墊著泡棉膠帶裝在防火牆翻邊和風擋翻邊上。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "風擋：平板，墊著泡棉膠帶裝在防火牆翻邊和風擋翻邊上。"
  },
  "Wing and airframe": {
-  "t": "機翼和機體",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "機翼和機體"
  },
  "Wing lift uses a Schrenk distribution, with each wing pinned at the cabin arch and a V-strut at the 2.4 m rib. Gust loads are below the manoeuvre case. Laminated spars are checked as one section, which assumes rivet pitch close enough to stop the layers buckling separately.": {
-  "t": "機翼升力採用 Schrenk 分佈，每側機翼在座艙拱框處鉸接，並在 2.4 m 翼肋處用 V 形撐杆支撐。突風載荷低於機動工況。疊層翼梁按一個整體截面校核，這要求鉚釘間距足夠小，使各層不會單獨屈曲。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "機翼升力採用 Schrenk 分佈，每側機翼在座艙拱框處鉸接，並在 2.4 m 翼肋處用 V 形撐杆支撐。突風載荷低於機動工況。疊層翼梁按一個整體截面校核，這要求鉚釘間距足夠小，使各層不會單獨屈曲。"
  },
  "Wing loading": {
-  "t": "翼載荷",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "翼載荷"
  },
  "Wing proof load": {
-  "t": "機翼驗證載入",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "機翼驗證載入"
  },
  "Wing stands (step 0)": {
-  "t": "機翼支架（第 0 步）",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "機翼支架（第 0 步）"
  },
  "Wing torsion": {
-  "t": "機翼扭轉",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "機翼扭轉"
  },
  "Wings on": {
-  "t": "裝上機翼",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "裝上機翼"
  },
  "With X-ray on, every run is colour-coded: orange rudder, cyan elevator, purple aileron, green flap, red fuel, white pitot, grey static, yellow 12 V, pink coax.": {
-  "t": "開啟 X 光後，每條線路都有顏色：橙色方向舵，青色升降舵，紫色副翼，綠色襟翼，紅色燃油，白色皮託，灰色靜壓，黃色 12 V，粉色同軸電纜。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "開啟 X 光後，每條線路都有顏色：橙色方向舵，青色升降舵，紫色副翼，綠色襟翼，紅色燃油，白色皮託，灰色靜壓，黃色 12 V，粉色同軸電纜。"
  },
  "With a helper at the tip, lift each wing until its root tangs slide into the arch-top clevises.": {
-  "t": "由一名助手扶住翼尖，抬起每側機翼，直到根部接耳滑入拱框頂部的 U 形叉。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "由一名助手扶住翼尖，抬起每側機翼，直到根部接耳滑入拱框頂部的 U 形叉。"
  },
  "Write the part number on every blank. Keep the blanks in step order.": {
-  "t": "在每塊毛坯上寫零件號。按步驟順序存放毛坯。",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "在每塊毛坯上寫零件號。按步驟順序存放毛坯。"
  },
  "X-ray": {
-  "t": "X 光",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "X 光"
+ },
+ "Yes, as a slow, gentle, lightly loaded single-seater: a strut-braced high wing, a half-VW engine and a tailwheel on big soft tyres. It is heavier than a typical ultralight because every aluminium part is cut from one gauge, with thicker parts made as nested folds of the same sheet. That puts it in UK SSDR (300 kg) rather than US Part 103. Every figure here comes from the same script that generates the cut files.": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "能，作為一架慢速、溫和、低負載的單座機：撐桿式上單翼、half-VW 發動機，以及裝大號軟輪胎的尾輪。它比典型的超輕型飛機重，因為每個鋁件都用同一種厚度切割，較厚的部件由同一板材嵌套摺疊而成。因此它屬於英國 SSDR (300 kg)，而不是美國 Part 103。這裡的每個數字都來自產生切割檔案的同一個指令碼。"
  },
  "arch-foot bellcrank up the rear-arch leg to the arch-top bellcrank": {
-  "t": "拱框腳搖臂沿後拱框立柱向上到拱框頂部搖臂",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "拱框腳搖臂沿後拱框立柱向上到拱框頂部搖臂"
  },
  "arch-top bellcrank to outboard bellcrank, through rib lightening holes": {
-  "t": "拱框頂部搖臂到外側搖臂，穿過翼肋減輕孔",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "拱框頂部搖臂到外側搖臂，穿過翼肋減輕孔"
  },
  "aux": {
-  "t": "副",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "副"
  },
  "blanks": {
-  "t": "毛坯",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "毛坯"
  },
  "blanks in all": {
-  "t": "毛坯總數",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "毛坯總數"
  },
  "bolts": {
-  "t": "螺栓",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "螺栓"
  },
  "bought or welded": {
-  "t": "外購或焊接",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "外購或焊接"
  },
  "buckling": {
-  "t": "屈曲",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "屈曲"
  },
  "centre torque-tube arm to flap bellcrank": {
-  "t": "中央扭力管搖臂到襟翼搖臂",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "中央扭力管搖臂到襟翼搖臂"
  },
  "check, then commit": {
-  "t": "檢查，然後確認",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "檢查，然後確認"
  },
  "clean": {
-  "t": "清潔",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "清潔"
  },
  "close up": {
-  "t": "合攏",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "合攏"
  },
  "crease pattern": {
-  "t": "摺痕圖",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "摺痕圖"
  },
  "crippling": {
-  "t": "皺損",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "皺損"
  },
  "each with a pass criterion": {
-  "t": "每項都有合格判據",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "每項都有合格判據"
  },
  "fabricated or bought for half-VW": {
-  "t": "為半 VW 自制或外購",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "為半 VW 自制或外購"
  },
  "faying surfaces and interior": {
-  "t": "貼合面和內部",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "貼合面和內部"
  },
  "finished": {
-  "t": "完成",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "完成"
  },
  "flat blanks, one sheet gauge": {
-  "t": "平板毛坯，一種板厚",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "平板毛坯，一種板厚"
  },
  "fold the same way": {
-  "t": "同樣方式折彎",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "同樣方式折彎"
  },
  "fold to the marks": {
-  "t": "折到標記處",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "折到標記處"
  },
  "fuel": {
-  "t": "燃油",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "燃油"
  },
  "give it roundness": {
-  "t": "使其成圓弧",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "使其成圓弧"
  },
  "gravity feed": {
-  "t": "重力供油",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "重力供油"
  },
  "gust": {
-  "t": "突風",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "突風"
  },
  "hard": {
-  "t": "硬",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "硬"
  },
  "header": {
-  "t": "主",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主"
  },
  "header full": {
-  "t": "主油箱滿",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主油箱滿"
  },
  "header tank + aux tank, both in the cabin": {
-  "t": "主油箱 + 副油箱，都在座艙內",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "主油箱 + 副油箱，都在座艙內"
  },
  "includes 15 % spares": {
-  "t": "含 15 % 備件",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "含 15 % 備件"
  },
  "insert: the lock": {
-  "t": "插入：鎖釦",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "插入：鎖釦"
  },
  "laminated wood, CC0 model": {
-  "t": "層壓木，CC0 模型",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "層壓木，CC0 模型"
  },
  "light braking": {
-  "t": "輕剎車",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "輕剎車"
  },
  "make soft creases": {
-  "t": "做輕摺痕",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "做輕摺痕"
  },
  "materials and hire, rough": {
-  "t": "材料和租用，粗略",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "材料和租用，粗略"
  },
  "max take-off mass": {
-  "t": "最大起飛質量",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "最大起飛質量"
  },
  "mountain": {
-  "t": "山折",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "山折"
  },
  "mountain and valley folds": {
-  "t": "山折和谷折",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "山折和谷折"
  },
  "neutral point": {
-  "t": "中性點",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "中性點"
  },
  "no reserve": {
-  "t": "無備份油量",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "無備份油量"
  },
  "no sheet blanks": {
-  "t": "無鈑金毛坯",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "無鈑金毛坯"
  },
  "none: over MTOW": {
-  "t": "無：超過 MTOW",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "無：超過 MTOW"
+ },
+ "one 8 x 4 ft sheet of 6061-T6 0.020 in": {
+  "by": "claude-opus-5-5 (in session)",
+  "reviewed": false,
+  "t": "一張 8 x 4 ft、0.020 in 厚的 6061-T6 板材"
  },
  "open out": {
-  "t": "展開",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "展開"
  },
  "or a club CNC router": {
-  "t": "或俱樂部的 CNC 雕刻機",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "或俱樂部的 CNC 雕刻機"
  },
  "part-time, alongside the build": {
-  "t": "業餘時間，與製造同時進行",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "業餘時間，與製造同時進行"
  },
  "pilot": {
-  "t": "駕駛員",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "駕駛員"
  },
  "pilot hole": {
-  "t": "定位孔",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "定位孔"
  },
  "pin-to-pin; AN5 each end": {
-  "t": "銷到銷；兩端各一個 AN5",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "銷到銷；兩端各一個 AN5"
  },
  "pleat": {
-  "t": "褶",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "褶"
  },
  "practice piece": {
-  "t": "練習件",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "練習件"
  },
  "public domain": {
-  "t": "公有領域",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "公有領域"
  },
  "radio optional in SSDR": {
-  "t": "SSDR 中無線電可選",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "SSDR 中無線電可選"
  },
  "reference points": {
-  "t": "參考點",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "參考點"
  },
  "right angle": {
-  "t": "直角",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "直角"
  },
  "rivets": {
-  "t": "鉚釘",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "鉚釘"
  },
  "rolled zone": {
-  "t": "卷圓區",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "卷圓區"
  },
  "rough build cost": {
-  "t": "大致製造成本",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "大致製造成本"
  },
  "same angle": {
-  "t": "相同角度",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "相同角度"
  },
  "same angle: converging creases": {
-  "t": "相同角度：匯聚摺痕",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "相同角度：匯聚摺痕"
  },
  "same length": {
-  "t": "相同長度",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "相同長度"
  },
  "short grass": {
-  "t": "短草地",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "短草地"
  },
  "static margin": {
-  "t": "靜穩定裕度",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "靜穩定裕度"
  },
  "still air, 75 % power": {
-  "t": "靜風，75 % 功率",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "靜風，75 % 功率"
  },
  "subtotal": {
-  "t": "小計",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "小計"
  },
  "tool, reused": {
-  "t": "工具，可重複使用",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "工具，可重複使用"
  },
  "torque-tube arm to arch-foot bellcrank": {
-  "t": "扭力管搖臂到拱框腳搖臂",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "扭力管搖臂到拱框腳搖臂"
  },
  "tundra tyres at 10–12 psi, 8 in tailwheel": {
-  "t": "苔原輪胎 10–12 psi，8 in 尾輪",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "苔原輪胎 10–12 psi，8 in 尾輪"
  },
  "turn it over": {
-  "t": "翻過來",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "翻過來"
  },
  "unique": {
-  "t": "獨有",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "獨有"
  },
  "unique blanks": {
-  "t": "獨有毛坯",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "獨有毛坯"
  },
  "useful load": {
-  "t": "有效載荷",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "有效載荷"
  },
  "valley": {
-  "t": "谷折",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "谷折"
  },
  "via floor pulley + 3 fairleads; Nicopress + thimble each end": {
-  "t": "經地板滑輪 + 3 個導纜器；兩端 Nicopress + 心環",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "經地板滑輪 + 3 個導纜器；兩端 Nicopress + 心環"
  },
  "via pulley at bulkhead 1 + 3 fairleads; turnbuckle": {
-  "t": "經隔框 1 處滑輪 + 3 個導纜器；花籃螺絲",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "經隔框 1 處滑輪 + 3 個導纜器；花籃螺絲"
  },
  "wingspan": {
-  "t": "翼展",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "翼展"
  },
  "{w} x {h} mm flat, {f} folds, {p} pilot holes": {
-  "t": "{w} x {h} mm 展開，{f} 道折彎，{p} 個定位孔",
   "by": "claude-opus-5-5 (in session)",
-  "reviewed": false
+  "reviewed": false,
+  "t": "{w} x {h} mm 展開，{f} 道折彎，{p} 個定位孔"
  }
 }
